@@ -38,6 +38,18 @@ def _save_listings(app_id, full, today):
                 f.unlink()
 
 
+def _save_country_pages(app_id, pages, today):
+    """Сторінка в кожній країні її основною мовою: data/snapshots/<app>/country/<країна>.json"""
+    from tracker.collect import normalize
+    d = storage.DATA / "snapshots" / app_id / "country"
+    d.mkdir(parents=True, exist_ok=True)
+    for cc, p in pages.items():
+        snap = normalize(p["data"])
+        snap.update({"_scanned": today, "_lang": p["lang"]})
+        (d / f"{cc}.json").write_text(json.dumps(snap, ensure_ascii=False, indent=2, sort_keys=True),
+                                      encoding="utf-8")
+
+
 def _market_path(app_id):
     return storage.DATA / "market" / f"{app_id}.json"
 
@@ -119,9 +131,11 @@ def main(fetch=market.fetch_page, rates=None, today=None, delay=None):
 
     results, price_rows, prices_by_app, first_scan, errors = [], [], {}, [], []
     for app in cfg["apps"]:
-        scan = market.scan_app(app["id"], countries, languages, rates, delay=delay, fetch=fetch)
+        scan = market.scan_app(app["id"], countries, languages, rates, delay=delay, fetch=fetch,
+                               country_pages=mcfg.get("country_pages", True))
         scan["date"] = today
         _save_listings(app["id"], scan.pop("full", {}), today)
+        _save_country_pages(app["id"], scan.pop("country_pages", {}), today)
         p = _market_path(app["id"])
         old = json.loads(p.read_text(encoding="utf-8")) if p.exists() else None
         changes = market.diff_market(old, scan)
