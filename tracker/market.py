@@ -119,14 +119,21 @@ def to_usd(amount, currency, rates):
 def _listing_key(data):
     if not data:
         return None
-    text = f"{data.get('title')}|{data.get('summary')}"
+    text = f"{data.get('title')}|{data.get('summary')}|{data.get('description')}"
     return hashlib.md5(text.encode("utf-8")).hexdigest()
 
 
-def _listing(data):
+def _screens(data):
+    return sorted(u.split("=")[0] for u in (data or {}).get("screenshots") or [])
+
+
+def _listing(data, base_screens=None):
     if not data:
         return None
-    return {"title": data.get("title"), "summary": data.get("summary"), "key": _listing_key(data)}
+    return {"title": data.get("title"), "summary": data.get("summary"), "key": _listing_key(data),
+            # Google автоматично перекладає текст, але не скріншоти. Власні скріншоти мови =
+            # справжня ручна локалізація.
+            "own_screens": base_screens is not None and _screens(data) != base_screens}
 
 
 def scan_app(app_id, countries, languages, rates, delay=(1, 2), fetch=fetch_page):
@@ -151,9 +158,10 @@ def scan_app(app_id, countries, languages, rates, delay=(1, 2), fetch=fetch_page
     # від автоперекладу Google: автопереклад змінюється разом з англійським текстом,
     # ручна локалізація — сама по собі.
     _, base = fetch(app_id, "en", "us")
-    base_key = _listing_key(base)
+    base_key, base_screens = _listing_key(base), _screens(base)
     result["base"] = _listing(base)
     result["listings"] = {}
+    result["full"] = {"en": base} if base else {}  # повні сторінки, зберігаються окремо в snapshots
     for hl in languages:
         status, data = fetch(app_id, hl, "us")
         time.sleep(random.uniform(*delay)) if delay else None
@@ -163,7 +171,8 @@ def scan_app(app_id, countries, languages, rates, delay=(1, 2), fetch=fetch_page
         key = _listing_key(data)
         if key and key != base_key:
             result["languages"].append(hl)
-            result["listings"][hl] = _listing(data)
+            result["listings"][hl] = _listing(data, base_screens)
+            result["full"][hl] = data
     return result
 
 
@@ -186,6 +195,12 @@ def diff_market(old, new, price_threshold=0.03):
         out.append({"type": "lang_added", "langs": sorted(nl - ol)})
     if ol - nl:
         out.append({"type": "lang_removed", "langs": sorted(ol - nl)})
+
+    olist0, nlist0 = old.get("listings") or {}, new.get("listings") or {}
+    screens_new = sorted(hl for hl, l in nlist0.items() if l and l.get("own_screens")
+                         and hl in olist0 and olist0[hl] and olist0[hl].get("own_screens") is False)
+    if screens_new:
+        out.append({"type": "own_screens_added", "langs": screens_new})
 
     # Ручні правки локалізацій: текст мови змінився, а англійський — ні.
     base_same = (old.get("base") or {}).get("key") == (new.get("base") or {}).get("key")
