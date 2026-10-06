@@ -7,6 +7,9 @@ on:
 
 permissions:
   contents: write          # щоб бот міг закомітити нові дані
+concurrency:
+  group: tracker-data
+  cancel-in-progress: false
 
 jobs:
   track:
