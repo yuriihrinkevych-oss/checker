@@ -1,0 +1,405 @@
+<!doctype html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Вітрина конкурентів</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#EEF1F3; --surface:#FFFFFF; --ink:#18212B; --muted:#5D6876; --line:#D5DBE1;
+  --accent:#0B6E69; --accent-soft:#DDEDEB; --change:#B26A00; --change-soft:#F6E9D4;
+  --radius-page:22px; --radius-img:10px;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#141A21; --surface:#1C242D; --ink:#E6EBF0; --muted:#97A3B0; --line:#2D3742;
+    --accent:#4FC2BA; --accent-soft:#16312F; --change:#E3A445; --change-soft:#3A2C14;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#141A21; --surface:#1C242D; --ink:#E6EBF0; --muted:#97A3B0; --line:#2D3742;
+  --accent:#4FC2BA; --accent-soft:#16312F; --change:#E3A445; --change-soft:#3A2C14;
+}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--paper);color:var(--ink);
+  font:15px/1.5 "Golos Text",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+button,select{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:6px}
+
+/* ---------- верхня панель ---------- */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--paper);
+  border-bottom:1px solid var(--line)}
+.top-inner{max-width:1240px;margin:0 auto;padding:14px 24px 0}
+.brand{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;margin-bottom:10px}
+.brand h1{font-size:19px;font-weight:700;margin:0;letter-spacing:-.01em}
+.brand p{margin:0;color:var(--muted);font-size:13px}
+.tabs{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none}
+.tabs::-webkit-scrollbar{display:none}
+.tab{border:0;background:none;padding:9px 12px 11px;cursor:pointer;display:flex;align-items:center;gap:8px;
+  color:var(--muted);border-bottom:2px solid transparent;white-space:nowrap;font-weight:500}
+.tab img{width:22px;height:22px;border-radius:6px}
+.tab[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.tab .own{font-size:11px;color:var(--accent);font-weight:600}
+.tab-sep{width:1px;background:var(--line);margin:8px 6px 10px;flex:none}
+
+main{max-width:1240px;margin:0 auto;padding:24px}
+
+/* ---------- сторінка апки ---------- */
+.app-view{display:grid;grid-template-columns:minmax(0,440px) minmax(0,1fr);gap:32px;align-items:start}
+@media (max-width:900px){.app-view{grid-template-columns:1fr}}
+.picker{display:flex;flex-direction:column;gap:6px;margin-bottom:14px;max-width:440px}
+.picker label{font-size:13px;color:var(--muted)}
+select{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:9px 12px;max-width:100%}
+
+.store{background:var(--surface);border-radius:var(--radius-page);padding:22px 20px 24px;
+  border:1px solid var(--line)}
+.store-head{display:flex;gap:16px;align-items:flex-start}
+.store-head img{width:72px;height:72px;border-radius:18px;flex:none;background:var(--paper)}
+.store-title{font-size:22px;line-height:1.25;font-weight:600;margin:0 0 4px}
+.store-dev{color:var(--accent);font-weight:500;font-size:14px}
+.store-flags{color:var(--muted);font-size:12px;margin-top:2px}
+.stats{display:flex;margin:18px 0 6px;padding:0;list-style:none}
+.stats li{flex:1;text-align:center;padding:0 6px;border-left:1px solid var(--line)}
+.stats li:first-child{border-left:0}
+.stats b{display:block;font-size:15px;font-weight:600}
+.stats span{font-size:12px;color:var(--muted)}
+.shots{display:flex;gap:8px;overflow-x:auto;margin:16px -20px 4px;padding:0 20px 8px;scroll-snap-type:x proximity}
+.shots button{flex:none;border:0;padding:0;background:none;cursor:zoom-in;scroll-snap-align:start}
+.shots img{height:240px;border-radius:var(--radius-img);display:block;background:var(--paper)}
+.store h3{font-size:17px;font-weight:600;margin:18px 0 6px}
+.summary{margin:0 0 8px}
+.desc{white-space:pre-line;color:var(--ink);font-size:14px;max-height:9.5em;overflow:hidden;position:relative}
+.desc.open{max-height:none}
+.desc:not(.open)::after{content:"";position:absolute;left:0;right:0;bottom:0;height:3em;
+  background:linear-gradient(transparent,var(--surface))}
+.linkish{border:0;background:none;color:var(--accent);padding:6px 0;cursor:pointer;font-weight:500}
+.facts{display:grid;grid-template-columns:auto 1fr;gap:6px 16px;margin:14px 0 0;font-size:14px}
+.facts dt{color:var(--muted)}
+.facts dd{margin:0}
+.empty{color:var(--muted);padding:28px 20px;border:1px dashed var(--line);border-radius:var(--radius-page)}
+
+/* ---------- права колонка ---------- */
+.side section{padding:0 0 22px;margin:0 0 22px;border-bottom:1px solid var(--line)}
+.side section:last-child{border-bottom:0}
+.side h2{font-size:16px;font-weight:600;margin:0 0 10px}
+.note{color:var(--muted);font-size:13px;margin:6px 0 0}
+.big{font-size:26px;font-weight:600;letter-spacing:-.01em}
+.row{display:flex;gap:28px;flex-wrap:wrap}
+.row div span{display:block;color:var(--muted);font-size:13px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{border:1px solid var(--line);border-radius:999px;padding:3px 10px;font-size:13px;background:var(--surface);cursor:pointer}
+.chip.strong{border-color:var(--accent);color:var(--accent);background:var(--accent-soft)}
+.log{list-style:none;margin:0;padding:0}
+.log li{display:grid;grid-template-columns:86px 1fr;gap:10px;padding:8px 0;border-top:1px solid var(--line);font-size:14px}
+.log li:first-child{border-top:0}
+.log time{color:var(--muted);font-size:13px}
+.log .where{color:var(--muted);font-size:13px}
+.mark{background:var(--change-soft);color:var(--change);border-radius:4px;padding:0 5px;font-size:12px;font-weight:600;margin-right:6px}
+svg.chart{width:100%;height:150px;display:block}
+svg.chart text{fill:var(--muted);font-size:11px;font-family:inherit}
+
+/* ---------- порівняння ---------- */
+.compare{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(280px,1fr);gap:16px;overflow-x:auto;padding-bottom:12px}
+.compare .store{padding:18px 16px}
+.compare .shots{margin:12px -16px 0;padding:0 16px 6px}
+.compare .shots img{height:170px}
+.compare .store-title{font-size:18px}
+.compare .store.own-col{border:2px solid var(--accent)}
+.compare .stats b{font-size:14px;white-space:nowrap}
+.compare .stats span{white-space:nowrap}
+
+/* ---------- ціни ---------- */
+.table-wrap{overflow-x:auto;background:var(--surface);border:1px solid var(--line);border-radius:14px}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{padding:8px 12px;text-align:left;border-bottom:1px solid var(--line);white-space:nowrap}
+th{font-weight:600;position:sticky;top:0;background:var(--surface);cursor:pointer}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+td.own,th.own{background:var(--accent-soft)}
+td.low{color:var(--accent);font-weight:600}
+tr:last-child td{border-bottom:0}
+.toolbar{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:14px}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.seg button{border:0;background:var(--surface);padding:7px 12px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent);color:#fff}
+
+/* ---------- лайтбокс ---------- */
+dialog{border:0;padding:0;background:transparent;max-width:96vw;max-height:94vh}
+dialog::backdrop{background:rgba(10,14,18,.82)}
+dialog img{max-width:96vw;max-height:90vh;border-radius:12px;display:block}
+dialog form{text-align:center;margin-top:8px}
+dialog button{border:0;background:var(--surface);border-radius:8px;padding:6px 14px;cursor:pointer}
+
+@media (prefers-reduced-motion: no-preference){
+  .store{animation:in .18s ease-out}
+  @keyframes in{from{opacity:.4}to{opacity:1}}
+}
+</style>
+</head>
+<body>
+<header class="top"><div class="top-inner">
+  <div class="brand"><h1>Вітрина конкурентів</h1><p id="stamp"></p></div>
+  <nav class="tabs" id="tabs" role="tablist" aria-label="Розділи"></nav>
+</div></header>
+<main id="main"></main>
+<dialog id="lightbox"><img alt=""><form method="dialog"><button>Закрити</button></form></dialog>
+
+<script>
+const DATA = /*__DATA__*/null;
+const $ = (s, el=document) => el.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const appById = Object.fromEntries(DATA.apps.map(a => [a.id, a]));
+const img = (url, size) => url ? `${url}=${size}` : "";
+const fmtNum = n => {
+  if (n == null) return "—";
+  const a = Math.abs(n);
+  for (const [v, u] of [[1e9,"млрд"],[1e6,"млн"],[1e3,"тис."]])
+    if (a >= v) return (n / v).toFixed(1).replace(".0","").replace(".",",") + " " + u;
+  return Math.round(n).toLocaleString("uk-UA");
+};
+const fmtMoney = (n, cur) => n == null ? "—" :
+  (cur ? n.toLocaleString("uk-UA",{style:"currency",currency:cur,maximumFractionDigits:2}) : n.toLocaleString("uk-UA"));
+const usd = n => n == null ? "—" : "$" + (n >= 100 ? Math.round(n) : n.toFixed(2));
+
+const state = { tab: DATA.apps[0]?.id, page: DATA.locales[0], priceMode: "usd", priceSort: "country", logApp: "all" };
+
+function readHash(){
+  const p = new URLSearchParams(location.hash.slice(1));
+  if (p.get("tab")) state.tab = p.get("tab");
+  if (p.get("page")) state.page = p.get("page");
+}
+function writeHash(){
+  history.replaceState(null, "", "#" + new URLSearchParams({tab: state.tab, page: state.page}));
+}
+
+/* ---------- вкладки ---------- */
+function renderTabs(){
+  const t = $("#tabs");
+  const appTabs = DATA.apps.map(a => {
+    const icon = Object.values(DATA.pages[a.id] || {})[0]?.icon;
+    return `<button class="tab" role="tab" data-tab="${esc(a.id)}" aria-selected="${state.tab===a.id}">
+      ${icon ? `<img src="${esc(img(icon,"s64"))}" alt="">` : ""}${esc(a.name)}
+      ${a.id===DATA.ownId ? `<span class="own">наш</span>` : ""}</button>`;
+  }).join("");
+  const extra = [["compare","Порівняння"],["prices","Ціни по країнах"],["log","Хроніка змін"]]
+    .map(([id,l]) => `<button class="tab" role="tab" data-tab="${id}" aria-selected="${state.tab===id}">${l}</button>`).join("");
+  t.innerHTML = appTabs + `<span class="tab-sep" aria-hidden="true"></span>` + extra;
+  t.onclick = e => { const b = e.target.closest("[data-tab]"); if (b){ state.tab = b.dataset.tab; render(); } };
+}
+
+/* ---------- вибір сторінки ---------- */
+function pageOptions(appIds){
+  const has = k => appIds.some(id => DATA.pages[id]?.[k]);
+  const locs = DATA.locales.filter(has);
+  const langs = Object.keys(DATA.labels).filter(k => k.startsWith("lang:") && has(k));
+  const own = new Set(appIds.flatMap(id => (DATA.ownScreens[id]||[]).map(l => "lang:"+l)));
+  let html = `<optgroup label="Ринки, оновлюється щодня">` +
+    locs.map(k => `<option value="${k}" ${k===state.page?"selected":""}>${esc(DATA.labels[k])}</option>`).join("") + `</optgroup>`;
+  if (langs.length) html += `<optgroup label="Мовні версії, оновлюється щотижня">` +
+    langs.map(k => `<option value="${k}" ${k===state.page?"selected":""}>${esc(DATA.labels[k])}${own.has(k)?"  (власні скріншоти)":""}</option>`).join("") + `</optgroup>`;
+  return {html, any: locs.length + langs.length > 0, hasLangs: langs.length > 0};
+}
+function picker(appIds){
+  const o = pageOptions(appIds);
+  return `<div class="picker"><label for="page">Сторінка для ринку або мови</label>
+    <select id="page">${o.html}</select>
+    ${o.hasLangs ? "" : `<p class="note">Мовні версії з'являться після найближчого тижневого скану.</p>`}</div>`;
+}
+function bindPicker(){
+  const s = $("#page"); if (s) s.onchange = () => { state.page = s.value; render(); };
+}
+
+/* ---------- сторінка в стилі Google Play ---------- */
+function storePage(p, compact=false, own=false){
+  if (!p) return `<div class="empty">Для цієї сторінки ще немає знімка. Оберіть інший ринок або мову.</div>`;
+  const flags = [p.containsAds ? "Містить рекламу" : null, p.inAppProductPrice ? "Покупки в застосунку" : null].filter(Boolean).join(", ");
+  const m = p.metrics || {};
+  const shots = (p.screenshots || []).map(u =>
+    `<button type="button" data-zoom="${esc(img(u,"h1600"))}" aria-label="Відкрити скріншот"><img loading="lazy" src="${esc(img(u, compact?"h340":"h480"))}" alt=""></button>`).join("");
+  return `<article class="store${own?" own-col":""}">
+    <div class="store-head">
+      <img src="${esc(img(p.icon,"s144"))}" alt="">
+      <div><h2 class="store-title">${esc(p.title)}</h2>
+        <div class="store-dev">${esc(p.developer)}</div>
+        ${flags ? `<div class="store-flags">${flags}</div>` : ""}</div>
+    </div>
+    <ul class="stats">
+      <li><b>${m.score ? m.score.toFixed(1).replace(".",",") + " ★" : "—"}</b><span>${fmtNum(m.ratings)} оцінок</span></li>
+      <li><b>${esc((p.installs||"—").replace(/[.,]000[.,]000[.,]000\+/,"B+").replace(/[.,]000[.,]000\+/,"M+").replace(/[.,]000\+/,"K+"))}</b><span>завантажень</span></li>
+      ${compact ? "" : `<li><b>${esc(p.contentRating || "—")}</b><span>вік</span></li>`}
+    </ul>
+    ${shots ? `<div class="shots">${shots}</div>` : ""}
+    <h3>Про застосунок</h3>
+    <p class="summary">${esc(p.summary)}</p>
+    ${compact ? "" : `<div class="desc" id="desc">${esc(p.description)}</div>
+      <button class="linkish" type="button" id="more">Показати повністю</button>`}
+    <dl class="facts">
+      ${p.inAppProductPrice ? `<dt>Покупки</dt><dd>${esc(p.inAppProductPrice)}</dd>` : ""}
+      ${p.genre ? `<dt>Категорія</dt><dd>${esc(p.genre)}</dd>` : ""}
+      ${!compact && p.version ? `<dt>Версія</dt><dd>${esc(p.version)}</dd>` : ""}
+      ${p.lastUpdatedOn ? `<dt>Оновлено</dt><dd>${esc(p.lastUpdatedOn)}</dd>` : ""}
+      ${!compact && p._scanned ? `<dt>Знімок</dt><dd>${esc(p._scanned)}</dd>` : ""}
+    </dl>
+  </article>`;
+}
+
+/* ---------- графік росту ---------- */
+function chart(series, idx, label){
+  const pts = series.filter(r => r[idx] != null);
+  if (pts.length < 2) return `<p class="note">${label}: графік з'явиться, коли буде хоча б два дні даних.</p>`;
+  const W=600,H=150,P=28, xs=pts.map((_,i)=>i), ys=pts.map(r=>r[idx]);
+  const min=Math.min(...ys), max=Math.max(...ys), span=(max-min)||1;
+  const x=i=>P+(i/(pts.length-1))*(W-P*2), y=v=>H-P-((v-min)/span)*(H-P*2);
+  const d=pts.map((r,i)=>`${i?"L":"M"}${x(i).toFixed(1)},${y(r[idx]).toFixed(1)}`).join("");
+  return `<svg class="chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="${esc(label)}">
+    <path d="${d}" fill="none" stroke="var(--accent)" stroke-width="2" vector-effect="non-scaling-stroke"/>
+    <text x="${P}" y="14">${esc(label)}: ${fmtNum(min)} → ${fmtNum(max)}</text>
+    <text x="${P}" y="${H-6}">${esc(pts[0][0])}</text>
+    <text x="${W-P}" y="${H-6}" text-anchor="end">${esc(pts.at(-1)[0])}</text></svg>`;
+}
+function delta(series, days){
+  if (!series || series.length < 2) return null;
+  const last = series.at(-1), cut = new Date(last[0]); cut.setDate(cut.getDate()-days);
+  const past = series.filter(r => new Date(r[0]) <= cut);
+  return past.length ? last[1] - past.at(-1)[1] : null;
+}
+
+/* ---------- вигляд апки ---------- */
+function appView(id){
+  const pages = DATA.pages[id] || {};
+  if (!pages[state.page]) state.page = DATA.locales.find(k => pages[k]) || Object.keys(pages)[0] || state.page;
+  const p = pages[state.page];
+  const series = DATA.metrics[id] || [];
+  const last = series.at(-1);
+  const d7 = delta(series, 7), d30 = delta(series, 30);
+  const prices = Object.entries(DATA.prices[id] || {});
+  const usdMins = prices.map(([,e]) => e.min_usd).filter(v => v != null).sort((a,b)=>a-b);
+  const median = usdMins.length ? usdMins[Math.floor(usdMins.length/2)] : null;
+  const cheapest = prices.filter(([,e]) => e.min_usd != null).sort((a,b)=>a[1].min_usd-b[1].min_usd)[0];
+  const own = new Set(DATA.ownScreens[id] || []);
+  const langs = Object.keys(pages).filter(k => k.startsWith("lang:")).map(k => k.slice(5));
+  const log = DATA.changes.filter(c => c.app === id).slice(0, 12);
+  const fs = DATA.firstSeen[id]?.countries || {};
+  const newMarkets = Object.entries(fs).filter(([,v]) => v !== "baseline").map(([cc]) => DATA.countryNames[cc] || cc);
+
+  return `<div class="app-view">
+    <div>${picker([id])}${storePage(p)}</div>
+    <aside class="side">
+      <section><h2>Масштаб і ріст</h2>
+        <div class="row">
+          <div><b class="big">${fmtNum(last?.[1])}</b><span>інсталлів, оцінка</span></div>
+          <div><b class="big">${d7==null?"—":(d7>=0?"+":"")+fmtNum(d7)}</b><span>за 7 днів</span></div>
+          <div><b class="big">${d30==null?"—":(d30>=0?"+":"")+fmtNum(d30)}</b><span>за 30 днів</span></div>
+        </div>
+        ${chart(series, 1, "Інсталли")}${chart(series, 2, "Оцінки")}
+      </section>
+      <section><h2>Монетизація</h2>
+        ${prices.length ? `<div class="row">
+          <div><b class="big">${usd(median)}</b><span>медіана найдешевшої покупки</span></div>
+          <div><b class="big">${cheapest ? usd(cheapest[1].min_usd) : "—"}</b><span>найдешевше: ${esc(cheapest ? DATA.countryNames[cheapest[0]] : "")}</span></div>
+        </div>
+        <p class="note">Реклама: ${prices.some(([,e])=>e.containsAds) ? "є" : "немає"}. Усі країни у вкладці «Ціни по країнах».</p>`
+        : `<p class="note">Ціни з'являться після тижневого скану.</p>`}
+      </section>
+      <section><h2>Ринки й локалізації</h2>
+        <p class="note" style="margin:0 0 8px">Доступна в ${Object.values(DATA.prices[id]||{}).filter(e=>e.available).length} країнах зі скану.
+          ${newMarkets.length ? `Нові ринки: ${esc(newMarkets.join(", "))}.` : ""}</p>
+        ${own.size ? `<p class="note" style="margin:0 0 8px">Власні скріншоти, тобто справжня локалізація:</p>
+          <div class="chips">${[...own].map(l => `<button class="chip strong" data-page="lang:${esc(l)}">${esc(DATA.labels["lang:"+l]||l)}</button>`).join("")}</div>`
+          : `<p class="note">Мов із власними скріншотами ${langs.length ? "немає: решта мов, найімовірніше, автопереклад" : "поки не видно, потрібен тижневий скан"}.</p>`}
+      </section>
+      <section><h2>Останні зміни</h2>${logList(log, false)}</section>
+    </aside></div>`;
+}
+function logList(items, withApp){
+  if (!items.length) return `<p class="note">Змін ще не зафіксовано. Вони з'являться з наступних запусків.</p>`;
+  return `<ul class="log">${items.map(c => `<li><time>${esc(c.date)}</time><div>
+    ${withApp ? `<b>${esc(appById[c.app]?.name || c.app)}</b>: ` : ""}${c.kind==="market"?`<span class="mark">ринок</span>`:""}${esc(c.text)}
+    ${c.where ? `<span class="where"> (${esc(c.where)})</span>` : ""}</div></li>`).join("")}</ul>`;
+}
+
+/* ---------- порівняння ---------- */
+function compareView(){
+  const ids = DATA.apps.map(a => a.id);
+  const cols = ids.map(id => {
+    const p = DATA.pages[id]?.[state.page];
+    return p ? storePage(p, true, id===DATA.ownId)
+      : `<div class="empty">${esc(appById[id].name)}: немає знімка для цієї сторінки.</div>`;
+  }).join("");
+  return `${picker(ids)}<div class="compare">${cols}</div>`;
+}
+
+/* ---------- ціни ---------- */
+function pricesView(){
+  const ids = DATA.apps.map(a => a.id);
+  const ccs = [...new Set(ids.flatMap(id => Object.keys(DATA.prices[id]||{})))];
+  if (!ccs.length) return `<div class="empty">Ціни з'являться після першого тижневого скану.</div>`;
+  const ref = DATA.prices[DATA.ownId] || {};
+  const sorted = ccs.sort((a,b) => state.priceSort === "own"
+    ? (ref[a]?.min_usd ?? 1e9) - (ref[b]?.min_usd ?? 1e9)
+    : (DATA.countryNames[a]||a).replace(/^\S+\s/,"").localeCompare((DATA.countryNames[b]||b).replace(/^\S+\s/,""), "uk"));
+  const cell = (e) => {
+    if (!e || !e.available) return `<td class="num">—</td>`;
+    if (state.priceMode === "usd") return `<td class="num" title="${esc(e.iap||"")}">${usd(e.min_usd)} – ${usd(e.max_usd)}</td>`;
+    return `<td class="num" title="${esc(e.iap||"")}">${fmtMoney(e.min_local,e.currency)} – ${fmtMoney(e.max_local,e.currency)}</td>`;
+  };
+  const rows = sorted.map(cc => {
+    const mins = ids.map(id => DATA.prices[id]?.[cc]?.min_usd).filter(v => v != null);
+    const low = Math.min(...mins);
+    return `<tr><td>${esc(DATA.countryNames[cc]||cc)}</td>${ids.map(id => {
+      const e = DATA.prices[id]?.[cc];
+      return cell(e).replace('<td class="num"', `<td class="num${id===DATA.ownId?" own":""}${e?.min_usd===low && mins.length>1?" low":""}"`);
+    }).join("")}</tr>`;
+  }).join("");
+  return `<div class="toolbar">
+      <div class="seg" role="group" aria-label="Валюта">
+        <button data-mode="usd" aria-pressed="${state.priceMode==="usd"}">У доларах</button>
+        <button data-mode="local" aria-pressed="${state.priceMode==="local"}">У локальній валюті</button></div>
+      <div class="seg" role="group" aria-label="Сортування">
+        <button data-sort="country" aria-pressed="${state.priceSort==="country"}">За країною</button>
+        <button data-sort="own" aria-pressed="${state.priceSort==="own"}">За нашою ціною</button></div>
+      <span class="note" style="margin:0">Діапазон від найдешевшої до найдорожчої покупки. Виділено найнижчу вхідну ціну в країні; наведіть на клітинку, щоб побачити оригінал.</span>
+    </div>
+    <div class="table-wrap"><table><thead><tr><th>Країна</th>${ids.map(id =>
+      `<th class="num${id===DATA.ownId?" own":""}">${esc(appById[id].name)}</th>`).join("")}</tr></thead>
+      <tbody>${rows}</tbody></table></div>`;
+}
+
+/* ---------- хроніка ---------- */
+function logView(){
+  const items = DATA.changes.filter(c => state.logApp === "all" || c.app === state.logApp);
+  return `<div class="toolbar"><label class="note" for="logapp" style="margin:0">Застосунок</label>
+    <select id="logapp"><option value="all">Усі</option>${DATA.apps.map(a =>
+      `<option value="${esc(a.id)}" ${state.logApp===a.id?"selected":""}>${esc(a.name)}</option>`).join("")}</select></div>
+    ${logList(items, true)}`;
+}
+
+/* ---------- рендер ---------- */
+function render(){
+  writeHash(); renderTabs();
+  const m = $("#main");
+  if (state.tab === "compare") m.innerHTML = compareView();
+  else if (state.tab === "prices") m.innerHTML = pricesView();
+  else if (state.tab === "log") m.innerHTML = logView();
+  else m.innerHTML = appView(state.tab);
+  bindPicker();
+  const more = $("#more"), desc = $("#desc");
+  if (more && desc) more.onclick = () => { const o = desc.classList.toggle("open"); more.textContent = o ? "Згорнути" : "Показати повністю"; };
+  m.querySelectorAll("[data-zoom]").forEach(b => b.onclick = () => { const d = $("#lightbox"); $("img", d).src = b.dataset.zoom; d.showModal(); });
+  m.querySelectorAll("[data-page]").forEach(b => b.onclick = () => { state.page = b.dataset.page; render(); window.scrollTo({top:0}); });
+  m.querySelectorAll("[data-mode]").forEach(b => b.onclick = () => { state.priceMode = b.dataset.mode; render(); });
+  m.querySelectorAll("[data-sort]").forEach(b => b.onclick = () => { state.priceSort = b.dataset.sort; render(); });
+  const la = $("#logapp"); if (la) la.onchange = () => { state.logApp = la.value; render(); };
+}
+
+$("#stamp").textContent = `Google Play, дані на ${DATA.generated}`;
+$("#lightbox").addEventListener("click", e => { if (e.target.id === "lightbox") e.target.close(); });
+readHash(); render();
+</script>
+</body>
+</html>
