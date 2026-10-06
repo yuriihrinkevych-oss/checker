@@ -15,8 +15,27 @@ from tracker.ranking import build_ranking, ranking_markdown
 from tracker.report import save_report, send_slack
 
 CONFIG = Path(__file__).resolve().parent / "config.yaml"
-WEIGHT = {"country_added": 5, "country_removed": 4, "price": 4, "ads": 4,
+WEIGHT = {"own_screens_added": 5, "country_added": 5, "country_removed": 4, "price": 4, "ads": 4,
           "listing_edited": 4, "lang_added": 3, "lang_removed": 2, "base_changed": 2}
+
+
+def _save_listings(app_id, full, today):
+    """Повний знімок кожної мовної версії сторінки: data/snapshots/<app>/lang/<мова>.json.
+    Застарілі мови (яких більше немає) видаляються, історія лишається в git."""
+    from tracker.collect import normalize
+    d = storage.DATA / "snapshots" / app_id / "lang"
+    d.mkdir(parents=True, exist_ok=True)
+    keep = set()
+    for hl, data in full.items():
+        snap = normalize(data)
+        snap["_scanned"] = today
+        name = f"{hl}.json"
+        keep.add(name)
+        (d / name).write_text(json.dumps(snap, ensure_ascii=False, indent=2, sort_keys=True), encoding="utf-8")
+    if full:
+        for f in d.glob("*.json"):
+            if f.name not in keep:
+                f.unlink()
 
 
 def _market_path(app_id):
@@ -71,6 +90,9 @@ def _change_lines(ch):
         title = f": «{fmt.clip(sample[0], 50)}» → «{fmt.clip(sample[1], 50)}»" if sample else ""
         return [f"Вручну оновили сторінку — {fmt.languages(ch['langs'])}{title}. "
                 "Англійська версія не змінювалась, тож це ручна робота над ринком, а не автопереклад"]
+    if t == "own_screens_added":
+        return [f"Зробили власні скріншоти для: {fmt.languages(ch['langs'])}. "
+                "Google такого не перекладає автоматично, тож це пряма інвестиція в ринок"]
     if t == "base_changed":
         return [f"Змінили англійську сторінку: «{fmt.clip(ch['old'], 60)}» → «{fmt.clip(ch['new'], 60)}»"]
     if t == "price":
@@ -99,6 +121,7 @@ def main(fetch=market.fetch_page, rates=None, today=None, delay=None):
     for app in cfg["apps"]:
         scan = market.scan_app(app["id"], countries, languages, rates, delay=delay, fetch=fetch)
         scan["date"] = today
+        _save_listings(app["id"], scan.pop("full", {}), today)
         p = _market_path(app["id"])
         old = json.loads(p.read_text(encoding="utf-8")) if p.exists() else None
         changes = market.diff_market(old, scan)
@@ -146,19 +169,20 @@ def main(fetch=market.fetch_page, rates=None, today=None, delay=None):
             md += ["", f"### {name}"] + [f"- {line}" for line in lines]
 
     md += ["", "## Присутність", "",
-           "| Апка | Країн | Нові країни, 90 днів | Мовних версій* | Ручні правки мов, 90 днів | Реклама |",
-           "|---|---|---|---|---|---|"]
+           "| Апка | Країн | Нові країни, 90 днів | Мови з власними скріншотами | Мовних версій* | Ручні правки мов, 90 днів | Реклама |",
+           "|---|---|---|---|---|---|---|"]
     for app, scan, _ in results:
         fs = scan["first_seen"]
         new_c = _recent(fs["countries"], today)
         ads = {e.get("containsAds") for e in scan["countries"].values()} - {None}
         ads_txt = "так" if ads == {True} else "ні" if ads == {False} else "частково"
         edited = _manual_edits(app["id"], today)
+        own = sum(1 for l in scan.get("listings", {}).values() if l and l.get("own_screens"))
         md.append(f"| {app['name']} | {sum(e.get('available', False) for e in scan['countries'].values())} | "
-                  f"{' '.join(fmt.flag(c) for c in new_c) or '—'} | {len(scan['languages'])} | "
+                  f"{' '.join(fmt.flag(c) for c in new_c) or '—'} | {own or '—'} | {len(scan['languages'])} | "
                   f"{len(edited) or '—'} | {ads_txt} |")
-    md += ["", "*Включно з автоперекладом Google, тому саме число мало що каже. "
-               "Сигнал — нові мови та ручні правки, коли текст мови змінюється без зміни англійського."]
+    md += ["", "Найнадійніший показник локалізації: мови з власними скріншотами (Google їх не перекладає). "
+               "*Мовних версій включно з автоперекладом тексту, тому це число мало що каже."]
 
     rows = storage.read_metrics()
     history_days = len({r["date"] for r in rows})
