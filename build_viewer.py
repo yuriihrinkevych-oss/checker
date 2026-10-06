@@ -11,7 +11,7 @@ from pathlib import Path
 import yaml
 
 from tracker import fmt, storage
-from tracker.market import LANGUAGES
+from tracker.market import COUNTRY_LANG, CURRENCY, LANGUAGES
 from tracker.report import _describe
 
 ROOT = Path(__file__).resolve().parent
@@ -39,9 +39,12 @@ def build():
     own_id = calib.get("app_id") or cfg["apps"][0]["id"]
 
     labels, pages, own_screens, prices, first_seen, metrics = {}, {}, {}, {}, {}, {}
+    daily_lang = {}
     for loc in locales:
-        key = f"loc:{loc['country']}-{loc['lang']}"
-        labels[key] = f"{fmt.country(loc['country'])}, {fmt.language(loc['lang'])}"
+        daily_lang.setdefault(loc["country"], loc["lang"])
+    all_cc = list(dict.fromkeys(list(daily_lang) + list(CURRENCY)))
+    for cc in all_cc:
+        labels[f"cc:{cc}"] = f"{fmt.country(cc)}, {fmt.language(daily_lang.get(cc) or COUNTRY_LANG.get(cc, 'en'))}"
     for hl in ["en"] + LANGUAGES:
         labels[f"lang:{hl}"] = fmt.language(hl)
 
@@ -50,10 +53,15 @@ def build():
         aid = app["id"]
         pages[aid] = {}
         base = storage.DATA / "snapshots" / aid
-        for loc in locales:
-            snap = _read_json(base / f"{loc['country']}-{loc['lang']}.json")
+        # Щотижневі сторінки країн, поверх них щоденні (свіжіші) для основних ринків
+        for f in sorted((base / "country").glob("*.json")) if (base / "country").exists() else []:
+            snap = _read_json(f)
             if snap:
-                pages[aid][f"loc:{loc['country']}-{loc['lang']}"] = snap
+                pages[aid][f"cc:{f.stem}"] = snap
+        for cc, lang in daily_lang.items():
+            snap = _read_json(base / f"{cc}-{lang}.json")
+            if snap:
+                pages[aid][f"cc:{cc}"] = snap
         for f in sorted((base / "lang").glob("*.json")) if (base / "lang").exists() else []:
             snap = _read_json(f)
             if snap:
@@ -83,7 +91,9 @@ def build():
         "generated": date.today().isoformat(),
         "ownId": own_id,
         "apps": [{"id": a["id"], "name": a["name"]} for a in cfg["apps"]],
-        "locales": [f"loc:{l['country']}-{l['lang']}" for l in locales],
+        "countries": sorted((f"cc:{cc}" for cc in all_cc),
+                            key=lambda k: labels[k].split(" ", 1)[-1]),
+        "daily": [f"cc:{cc}" for cc in daily_lang],
         "labels": labels,
         "pages": pages,
         "ownScreens": own_screens,
