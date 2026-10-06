@@ -137,6 +137,9 @@ def _listing_key(data):
     return hashlib.md5(text.encode("utf-8")).hexdigest()
 
 
+KEY_VERSION = 2  # ключ = назва + short + повний опис
+
+
 def _screens(data):
     return sorted(u.split("=")[0] for u in (data or {}).get("screenshots") or [])
 
@@ -144,7 +147,7 @@ def _screens(data):
 def _listing(data, base_screens=None):
     if not data:
         return None
-    return {"title": data.get("title"), "summary": data.get("summary"), "key": _listing_key(data),
+    return {"title": data.get("title"), "summary": data.get("summary"), "key": _listing_key(data), "v": KEY_VERSION,
             # Google автоматично перекладає текст, але не скріншоти. Власні скріншоти мови =
             # справжня ручна локалізація.
             "own_screens": base_screens is not None and _screens(data) != base_screens}
@@ -228,6 +231,10 @@ def diff_market(old, new, price_threshold=0.03):
     if screens_new:
         out.append({"type": "own_screens_added", "langs": screens_new})
 
+    # Ключі різних версій формату не порівнюємо (інакше одноразова хибна "зміна" всього)
+    if (old.get("base") or {}).get("v") != (new.get("base") or {}).get("v"):
+        return out + _price_and_ads(oc, nc, both, price_threshold)
+
     # Ручні правки локалізацій: текст мови змінився, а англійський — ні.
     base_same = (old.get("base") or {}).get("key") == (new.get("base") or {}).get("key")
     olist, nlist = old.get("listings") or {}, new.get("listings") or {}
@@ -240,6 +247,11 @@ def diff_market(old, new, price_threshold=0.03):
         out.append({"type": "base_changed", "old": old["base"]["title"], "new": new["base"]["title"],
                     "followed": len(edited)})
 
+    return out + _price_and_ads(oc, nc, both, price_threshold)
+
+
+def _price_and_ads(oc, nc, both, price_threshold):
+    out = []
     prices = []
     for cc in sorted(both):
         a, b = oc[cc], nc[cc]
@@ -261,8 +273,9 @@ def diff_market(old, new, price_threshold=0.03):
 
 def merge_first_seen(old, new, today):
     """Коли апка вперше з'явилась у країні / мові. 'baseline' = була вже на першому скані."""
-    prev = (old or {}).get("first_seen", {"countries": {}, "languages": {}})
-    stamp = today if old else "baseline"
+    prev = (old or {}).get("first_seen")
+    stamp = today if prev else "baseline"
+    prev = prev or {"countries": {}, "languages": {}}
     fs = {"countries": {}, "languages": {}}
     for cc, e in new["countries"].items():
         if e.get("available"):

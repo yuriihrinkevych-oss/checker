@@ -106,7 +106,9 @@ def _change_lines(ch):
         return [f"Зробили власні скріншоти для: {fmt.languages(ch['langs'])}. "
                 "Google такого не перекладає автоматично, тож це пряма інвестиція в ринок"]
     if t == "base_changed":
-        return [f"Змінили англійську сторінку: «{fmt.clip(ch['old'], 60)}» → «{fmt.clip(ch['new'], 60)}»"]
+        if ch["old"] == ch["new"]:
+            return ["Оновили опис англійської сторінки (назва без змін)"]
+        return [f"Змінили назву англійської сторінки: «{fmt.clip(ch['old'], 60)}» → «{fmt.clip(ch['new'], 60)}»"]
     if t == "price":
         return _price_text(ch["changes"])
     if t == "ads":
@@ -236,16 +238,20 @@ def _manual_edits(app_id, today, days=90):
 
 
 def _append_prices(rows):
+    """Історія цін. Повторний скан того ж дня замінює рядки цього дня, а не дублює їх."""
     p = storage.DATA / "prices.csv"
     cols = ["date", "app_id", "country", "available", "currency",
             "min_local", "max_local", "min_usd", "max_usd"]
-    new = not p.exists()
+    keys = {(r["date"], r["app_id"], r["country"]) for r in rows}
+    existing = []
+    if p.exists():
+        with p.open(encoding="utf-8") as f:
+            existing = [r for r in csv.DictReader(f) if (r["date"], r["app_id"], r["country"]) not in keys]
     p.parent.mkdir(parents=True, exist_ok=True)
-    with p.open("a", encoding="utf-8", newline="") as f:
+    with p.open("w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, fieldnames=cols)
-        if new:
-            w.writeheader()
-        w.writerows(rows)
+        w.writeheader()
+        w.writerows(existing + rows)
 
 
 if __name__ == "__main__":

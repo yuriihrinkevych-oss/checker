@@ -131,6 +131,35 @@ def test_language_snapshots_saved_and_viewer_builds(monkeypatch, tmp_path):
     scan_markets.main(fetch=make_fetch({"langs": ["pt-BR"]}), rates=RATES, today="2026-10-05", delay=0)
     lang_dir = storage.DATA / "snapshots" / "com.life360.android.safetymapd" / "lang"
     assert {f.name for f in lang_dir.glob("*.json")} == {"en.json", "pt-BR.json"}
+    cc_dir = storage.DATA / "snapshots" / "com.life360.android.safetymapd" / "country"
+    br = json.loads((cc_dir / "br.json").read_text(encoding="utf-8"))
+    assert br["_lang"] == "pt-BR" and {f.stem for f in cc_dir.glob("*.json")} == {"us", "br"}
     monkeypatch.setattr(build_viewer, "OUT", tmp_path / "viewer.html")
     html = build_viewer.build().read_text(encoding="utf-8")
-    assert "/*__DATA__*/" not in html and "lang:pt-BR" in html
+    assert "/*__DATA__*/" not in html and "lang:pt-BR" in html and "cc:br" in html
+
+
+def test_first_seen_without_history_is_baseline():
+    old = {"countries": {"us": {"available": True}}, "languages": []}  # старий файл без first_seen
+    new = {"countries": {"us": {"available": True}, "br": {"available": True}}, "languages": ["de"]}
+    fs = market.merge_first_seen(old, new, "2026-10-12")
+    assert set(fs["countries"].values()) == {"baseline"}
+    fs2 = market.merge_first_seen({**new, "first_seen": fs},
+                                  {**new, "countries": {**new["countries"], "pl": {"available": True}}}, "2026-10-19")
+    assert fs2["countries"]["pl"] == "2026-10-19" and fs2["countries"]["br"] == "baseline"
+
+
+def test_key_format_change_is_not_a_page_change():
+    old = {"countries": {}, "languages": [], "base": {"key": "a", "title": "T"}}
+    new = {"countries": {}, "languages": [], "base": {"key": "b", "title": "T", "v": market.KEY_VERSION}}
+    assert market.diff_market(old, new) == []
+
+
+def test_rescan_same_day_replaces_price_rows():
+    row = {"date": "2026-10-12", "app_id": "x", "country": "us", "available": True, "currency": "USD",
+           "min_local": 1, "max_local": 2, "min_usd": 1, "max_usd": 2}
+    scan_markets._append_prices([row])
+    scan_markets._append_prices([{**row, "min_local": 3}])
+    import csv
+    rows = list(csv.DictReader((storage.DATA / "prices.csv").open(encoding="utf-8")))
+    assert len(rows) == 1 and rows[0]["min_local"] == "3"

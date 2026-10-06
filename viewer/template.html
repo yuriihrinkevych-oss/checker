@@ -166,7 +166,7 @@ const fmtMoney = (n, cur) => n == null ? "—" :
   (cur ? n.toLocaleString("uk-UA",{style:"currency",currency:cur,maximumFractionDigits:2}) : n.toLocaleString("uk-UA"));
 const usd = n => n == null ? "—" : "$" + (n >= 100 ? Math.round(n) : n.toFixed(2));
 
-const state = { tab: DATA.apps[0]?.id, page: DATA.locales[0], priceMode: "usd", priceSort: "country", logApp: "all" };
+const state = { tab: DATA.apps[0]?.id, page: DATA.daily[0], priceMode: "usd", priceSort: "country", logApp: "all" };
 
 function readHash(){
   const p = new URLSearchParams(location.hash.slice(1));
@@ -195,20 +195,23 @@ function renderTabs(){
 /* ---------- вибір сторінки ---------- */
 function pageOptions(appIds){
   const has = k => appIds.some(id => DATA.pages[id]?.[k]);
-  const locs = DATA.locales.filter(has);
+  const ccs = DATA.countries.filter(has);
   const langs = Object.keys(DATA.labels).filter(k => k.startsWith("lang:") && has(k));
   const own = new Set(appIds.flatMap(id => (DATA.ownScreens[id]||[]).map(l => "lang:"+l)));
-  let html = `<optgroup label="Ринки, оновлюється щодня">` +
-    locs.map(k => `<option value="${k}" ${k===state.page?"selected":""}>${esc(DATA.labels[k])}</option>`).join("") + `</optgroup>`;
-  if (langs.length) html += `<optgroup label="Мовні версії, оновлюється щотижня">` +
-    langs.map(k => `<option value="${k}" ${k===state.page?"selected":""}>${esc(DATA.labels[k])}${own.has(k)?"  (власні скріншоти)":""}</option>`).join("") + `</optgroup>`;
-  return {html, any: locs.length + langs.length > 0, hasLangs: langs.length > 0};
+  const opt = (k, extra="") => `<option value="${k}" ${k===state.page?"selected":""}>${esc(DATA.labels[k])}${extra}</option>`;
+  let html = `<optgroup label="Країни">` + ccs.map(k => opt(k)).join("") + `</optgroup>`;
+  if (langs.length) html += `<optgroup label="Мовні версії сторінки">` +
+    langs.map(k => opt(k, own.has(k) ? "  (власні скріншоти)" : "")).join("") + `</optgroup>`;
+  return {html, countries: ccs.length, hasLangs: langs.length > 0};
 }
 function picker(appIds){
   const o = pageOptions(appIds);
-  return `<div class="picker"><label for="page">Сторінка для ринку або мови</label>
-    <select id="page">${o.html}</select>
-    ${o.hasLangs ? "" : `<p class="note">Мовні версії з'являться після найближчого тижневого скану.</p>`}</div>`;
+  const daily = DATA.daily.length;
+  const note = o.countries > daily
+    ? `${o.countries} країн: ${daily} основних ринків оновлюються щодня, решта щотижня. Дата знімка внизу сторінки.`
+    : `Поки що лише ${daily} основних ринків. Решта країн з'являться після тижневого скану.`;
+  return `<div class="picker"><label for="page">Країна або мовна версія</label>
+    <select id="page">${o.html}</select><p class="note">${note}</p></div>`;
 }
 function bindPicker(){
   const s = $("#page"); if (s) s.onchange = () => { state.page = s.value; render(); };
@@ -243,7 +246,7 @@ function storePage(p, compact=false, own=false){
       ${p.genre ? `<dt>Категорія</dt><dd>${esc(p.genre)}</dd>` : ""}
       ${!compact && p.version ? `<dt>Версія</dt><dd>${esc(p.version)}</dd>` : ""}
       ${p.lastUpdatedOn ? `<dt>Оновлено</dt><dd>${esc(p.lastUpdatedOn)}</dd>` : ""}
-      ${!compact && p._scanned ? `<dt>Знімок</dt><dd>${esc(p._scanned)}</dd>` : ""}
+      ${p._scanned ? `<dt>Знімок</dt><dd>${esc(p._scanned)}</dd>` : ""}
     </dl>
   </article>`;
 }
@@ -272,7 +275,7 @@ function delta(series, days){
 /* ---------- вигляд апки ---------- */
 function appView(id){
   const pages = DATA.pages[id] || {};
-  if (!pages[state.page]) state.page = DATA.locales.find(k => pages[k]) || Object.keys(pages)[0] || state.page;
+  if (!pages[state.page]) state.page = DATA.daily.find(k => pages[k]) || Object.keys(pages)[0] || state.page;
   const p = pages[state.page];
   const series = DATA.metrics[id] || [];
   const last = series.at(-1);
@@ -400,6 +403,7 @@ function render(){
 $("#stamp").textContent = `Google Play, дані на ${DATA.generated}`;
 $("#lightbox").addEventListener("click", e => { if (e.target.id === "lightbox") e.target.close(); });
 readHash(); render();
+window.addEventListener("hashchange", () => { readHash(); render(); });
 </script>
 </body>
 </html>

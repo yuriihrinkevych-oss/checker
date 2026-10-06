@@ -69,7 +69,7 @@ def main(fetch_fn=fetch, today=None, sleep=True):
 
             metric_rows.append({"date": today, "app_id": app["id"], "country": country,
                                 "lang": lang, **{k: m.get(k) for k in storage.METRIC_COLUMNS[4:]}})
-            storage.save_snapshot(app["id"], country, lang, new)
+            storage.save_snapshot(app["id"], country, lang, {**new, "_scanned": today})
 
     storage.upsert_metrics(metric_rows)
     storage.log_changes(events)
