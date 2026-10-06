@@ -35,8 +35,9 @@ def test_diff_detects_aso_changes():
     new = normalize(new_raw)
     fields = {c["field"]: c for c in diff_snapshots(old, new)}
     assert "title" in fields
-    assert "нових: 2" in fields["screenshots"]["detail"]
-    assert "+Line 2 changed" in fields["description"]["detail"]
+    assert "нових 2" in fields["screenshots"]["detail"]
+    assert fields["description"]["added"] == ["Line 2 changed"]
+    assert fields["description"]["removed"] == ["Line 2"]
     assert "ratings" not in fields  # метрики не є "змінами"
 
 
