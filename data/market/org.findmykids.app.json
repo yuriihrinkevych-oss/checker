@@ -719,7 +719,6 @@
       "da": "baseline",
       "de": "baseline",
       "el": "baseline",
-      "en-AU": "baseline",
       "en-GB": "baseline",
       "en-IN": "baseline",
       "es": "baseline",
@@ -800,7 +799,6 @@
     "de",
     "el",
     "en-GB",
-    "en-AU",
     "en-IN",
     "es",
     "es-419",
@@ -948,13 +946,6 @@
       "own_screens": true,
       "summary": "Ιχνηλάτης οικογένειας - Ρολόι-GPS & εντοπισμός κινητού. Ήχος περιβάλλοντος",
       "title": "Find my kids: GPS ιχνηλάτης",
-      "v": 2
-    },
-    "en-AU": {
-      "key": "4ce04195c035f0992abab1c916e1a7f7",
-      "own_screens": false,
-      "summary": "Parental control app lock & GPS family locarion tracker. Track & app blocker",
-      "title": "Find my kids: GPS tracking app",
       "v": 2
     },
     "en-GB": {

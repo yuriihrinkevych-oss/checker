@@ -720,7 +720,6 @@
       "de": "baseline",
       "el": "baseline",
       "en-AU": "baseline",
-      "en-GB": "baseline",
       "en-IN": "baseline",
       "es": "baseline",
       "es-419": "baseline",
@@ -799,7 +798,6 @@
     "da",
     "de",
     "el",
-    "en-GB",
     "en-AU",
     "en-IN",
     "es",
@@ -951,13 +949,6 @@
       "v": 2
     },
     "en-AU": {
-      "key": "74f76de4a3fe1d0b10fe75f37983decd",
-      "own_screens": false,
-      "summary": "GPS Tracking App 24x7 - Share phone location to find kids and for family safety!",
-      "title": "iSharing: GPS Location Tracker",
-      "v": 2
-    },
-    "en-GB": {
       "key": "74f76de4a3fe1d0b10fe75f37983decd",
       "own_screens": false,
       "summary": "GPS Tracking App 24x7 - Share phone location to find kids and for family safety!",

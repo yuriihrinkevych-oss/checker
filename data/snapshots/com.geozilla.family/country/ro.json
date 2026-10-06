@@ -1,0 +1,42 @@
+{
+  "_lang": "ro",
+  "_scanned": "2026-10-06",
+  "containsAds": false,
+  "contentRating": "PEGI 3",
+  "description": "Geozilla este o aplicație de siguranță și de partajare a locației familiei care ajută familiile și grupurile de încredere să rămână aproape, informate și sprijinite - indiferent de distanță. Cu funcții inteligente precum urmărirea locației în timp real, alerte de urgență și rapoarte de conducere, Geozilla oferă liniște familiilor care apreciază atât siguranța, cât și transparența.\r\n\r\n✅ Cum funcționează:\r\n1. Instalează aplicația și acordă permisiunea ca propria locație să fie partajată cu cercul tău.\r\n2. Creați sau alăturați-vă unui cerc de familie privat - vor fi incluși numai cei pe care îi invitați și care îi acceptă.\r\n3. Invitați membrii familiei sau de încredere folosind numărul de telefon, linkul sau codul QR.\r\n4. Fiecare membru invitat trebuie să accepte în mod explicit invitația și să acorde toate permisiunile necesare înainte ca partajarea locației să devină activă.\r\n5. Toți membrii sunt informați în mod clar despre scopul aplicației, cine i-a invitat și cum vor fi utilizate datele despre locație.\r\n6. Geozilla poate funcționa numai dacă fiecare utilizator este de acord în mod activ să-și partajeze locația. Dacă orice persoană nu este de acord, partajarea locației nu va fi activată.\r\n\r\n🌍 Caracteristici de bază pentru siguranța familiei:\r\nPartajarea locației în direct: vezi locațiile GPS în timp real ale familiei tale sau ale membrilor cercului de încredere.\r\nIstoricul locațiilor: vizualizați cronologia mișcărilor familiei dvs. în timpul zilei.\r\nAlerte de sosire și plecare: configurați locații înconjurate geografic (cum ar fi acasă, școală, serviciu) pentru a primi alerte când cineva sosește sau pleacă.\r\nMonitorizarea bateriei: fiți notificat când bateria telefonului cuiva este descărcată.\r\nSafe Driving Insights: contribuie la îmbunătățirea siguranței cu rapoarte de comportament pentru obiceiurile de conducere.\r\nAR Finder.\r\nDetectare accidente și alerte SOS.\r\n\r\nCompatibil cu sistemul de operare Wear: cunoașteți unde este familia dvs. sau partajați propria locație direct de pe ceasul inteligent.\r\n\r\n🔒 Confidențialitate, transparență și consimțământul utilizatorului:\r\nGeozilla acceptă doar utilizarea reciprocă, informată și transparentă a partajării locației între părțile care consimțesc - cum ar fi membrii familiei și contactele apropiate. Aplicația noastră este construită pe principiile confidențialității, siguranței și încrederii.\r\nFiecare caracteristică a Geozilla depinde de participarea și aprobarea clară a utilizatorilor:\r\nNimeni nu poate fi adăugat în cercul tău fără acceptarea sa explicită.\r\nNu sunt partajate date despre locație fără consimțământul activ al utilizatorului.\r\nUtilizatorii invitați sunt informați despre cine i-a invitat, despre scopul aplicației și despre permisiunile specifice necesare.\r\nÎncurajăm utilizatorii să folosească Geozilla numai pentru siguranța familiei și cazuri de utilizare pentru îngrijire. Folosirea greșită a aplicației pentru urmărirea neaprobată sau fără consimțământ informat este strict împotriva politicilor noastre și a legilor locale de confidențialitate.\r\n\r\n📱 Permisiunile aplicației explicate:\r\nPentru a oferi caracteristici cheie de siguranță, Geozilla poate solicita următoarele permisiuni (cu aprobarea utilizatorului la fiecare pas):\r\nServicii de localizare (Întotdeauna/Acces în fundal): necesare pentru a activa urmărirea GPS continuă, alertele de geofencing și detectarea accidentelor - chiar și atunci când aplicația nu este utilizată în mod activ.\r\nNotificări: Folosit pentru a furniza alerte importante, cum ar fi sosire/plecare, SOS, baterie descărcată și activitate în aplicație.\r\nContacte: Opțional - simplifică invitarea persoanelor de contact de încredere, permițându-vă să alegeți numere de telefon din agenda dvs. de adrese.\r\nCameră și fotografii: Folosit pentru setarea imaginilor de profil sau pentru scanarea invitațiilor QR.\r\nMișcare și fitness (recunoaștere activități): îmbunătățește rapoartele de conducere și detectarea accidentelor prin monitorizarea tiparelor de mișcare.\r\nPermisiunile sunt solicitate în mod transparent și explicate în context. Utilizatorii rămân în control în orice moment și pot ajusta accesul în setările dispozitivului.\r\n\r\nGeozilla se angajează să respecte confidențialitatea, transparența și utilizarea responsabilă. Nu acceptăm nicio utilizare a aplicației fără știrea și acordul tuturor participanților.\r\nGeozilla este conceput și comercializat exclusiv pentru cazuri de utilizare a siguranței familiei, cum ar fi părinții care urmăresc copiii sau îngrijitorii care asistă persoanele aflate în întreținere. Nu acceptă urmărirea ascunsă, instalările ascunse sau activarea de la distanță.\r\nDacă aveți nevoie de asistență sau aveți feedback despre Geozilla, contactați-ne la: support@geozilla.com\r\nPolitica de confidențialitate: https://geozilla.com/privacy-policy\r\nCondiții de utilizare: https://geozilla.com/terms-of-use",
+  "developer": "GZ TECH",
+  "genre": "Stil de viață",
+  "headerImage": "https://play-lh.googleusercontent.com/bKkTJcBVFL2kVQeTBx4LC1Va9s8bUcCv1KHL_UkQynPVOD-N0iGB_i915fBgcIw9wKMybhK4CuL2AsHIwcBUP8A",
+  "histogram": [
+    113984,
+    22163,
+    22163,
+    60158,
+    539841
+  ],
+  "icon": "https://play-lh.googleusercontent.com/i72e4U2jPc5WBB6JXrWoFfBXJbLJSgrMnDna3qPjDN9dQaONNbetQLS2JkUua-vqB4IW_WQ7y5IEMoHQLL_bSQ",
+  "inAppProductPrice": "8,99 RON – 479,99 RON dacă se facturează prin Play",
+  "installs": "10.000.000+",
+  "lastUpdatedOn": "2 oct. 2026",
+  "metrics": {
+    "minInstalls": 10000000,
+    "ratings": 760686,
+    "realInstalls": 29664756,
+    "reviews": 88,
+    "score": 4.17
+  },
+  "price": 0,
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/dAwv9CfOD5uigKQMix-dR4EoOpyIFPXdi0sKxZjCverbrJI8HVCC_Q6wcS1TISXJFvD90yVrJl2ZzG-DgHSR",
+    "https://play-lh.googleusercontent.com/pDYVSPPF_o8U-1uP8pyE076joyRhi9Sn0da5zvyD9mRw__527_gAbovUdyx_1CqTagbK0Uf1A6YPC1knj8hA",
+    "https://play-lh.googleusercontent.com/wbiUSezwwfY61oI_JpWr2QQhZOOudGqnBWadyAiw2gSfebi9uDRSp8_tku7Q7yaSL1F1ERLO2ZObHfhMVP8O",
+    "https://play-lh.googleusercontent.com/pOOnvK6z5Z1hpN_pII0X0SaGeAF6pOTPbQzSkOuAg743VudPSocn1b6_sxf1xEY21d2r_DnsQ7A3sDHRLNgw",
+    "https://play-lh.googleusercontent.com/5HzvD6sOZscZirs3Q79u2HW_nDIcp2CGQLhRtl74vSYH7kUmPdCfE7IeUu7d2NAN4M-1qbq_QToi3kRUV8Bj",
+    "https://play-lh.googleusercontent.com/9JeXljJvAYsAzer_nEx3SdPUMUiPM7-1AkYAknlJISA0Xbl0iSdd_5MkwNVQTiqz1ArmdNIsZ_5ZSusHHW-3-A",
+    "https://play-lh.googleusercontent.com/8uX6sOU0DEZKsQp1MX_3n__yf3OQXjhl2iIYuBdi0tbYnq6bcfQXxsA9YrIaKDDuRlvs2QDwY65_xlwYPvUHtg"
+  ],
+  "summary": "Localizați membrii familiei dvs. cu ajutorul dispozitivului de urmărire a locației telefonului GPS oriunde și oricând",
+  "title": "Geozilla - Family GPS Locator",
+  "version": "Varies with device",
+  "video": "https://play.google.com/video/lava/web/player/yt:movie:zDBzTvQVNNo?autoplay=1&embed=play"
+}

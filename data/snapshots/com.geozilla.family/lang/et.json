@@ -7,11 +7,11 @@
   "genre": "Elustiil",
   "headerImage": "https://play-lh.googleusercontent.com/bKkTJcBVFL2kVQeTBx4LC1Va9s8bUcCv1KHL_UkQynPVOD-N0iGB_i915fBgcIw9wKMybhK4CuL2AsHIwcBUP8A",
   "histogram": [
-    91319,
-    20523,
-    44045,
-    92241,
-    512447
+    91248,
+    20500,
+    43998,
+    92170,
+    512692
   ],
   "icon": "https://play-lh.googleusercontent.com/i72e4U2jPc5WBB6JXrWoFfBXJbLJSgrMnDna3qPjDN9dQaONNbetQLS2JkUua-vqB4IW_WQ7y5IEMoHQLL_bSQ",
   "inAppProductPrice": "2,99 $ kuni 89,99 $ üksuse kohta",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "2. okt 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 760600,
+    "ratings": 760656,
     "realInstalls": 29664756,
-    "reviews": 3207,
-    "score": 4.2016373
+    "reviews": 3208,
+    "score": 4.202363
   },
   "price": 0,
   "screenshots": [

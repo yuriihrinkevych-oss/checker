@@ -7,11 +7,11 @@
   "genre": "Elämäntapa",
   "headerImage": "https://play-lh.googleusercontent.com/Emg1mvU1qhuqfzWC3TPyyb-ZoyJX16o6Eu3KhGieudoYmlYpV3TpQKcWMlLDg4e4N9KO1LRgMP87jO7DSbX5tw",
   "histogram": [
-    28564,
-    16365,
-    55181,
-    308415,
-    2030100
+    28530,
+    16345,
+    55283,
+    308583,
+    2029890
   ],
   "icon": "https://play-lh.googleusercontent.com/nQsrQf5cd6IeIhFTvVFjez12UiB1QTYYyX1UiVA448XkK--5jQYBhDuiMHtBOWrVnoldLTlnUN1x3AbCt4vflg",
   "inAppProductPrice": "1,49 $ – 249,99 $ per kohde",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "2.10.2026",
   "metrics": {
     "minInstalls": 100000000,
-    "ratings": 2438636,
+    "ratings": 2438641,
     "realInstalls": 223710409,
-    "reviews": 312427,
-    "score": 4.76128
+    "reviews": 312431,
+    "score": 4.761208
   },
   "price": 0,
   "screenshots": [

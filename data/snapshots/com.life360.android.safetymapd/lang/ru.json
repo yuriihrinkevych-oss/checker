@@ -7,11 +7,11 @@
   "genre": "Стиль жизни",
   "headerImage": "https://play-lh.googleusercontent.com/H5pp6QTQgtk5GE1UApipnIQS8Wy0WnTnRSFTSQyqjZimW5NdXMxcFAK6SP--wL2O06KmvCG3H7SQ5OPjR-uS",
   "histogram": [
-    28547,
-    16354,
-    55248,
-    308557,
-    2029925
+    28530,
+    16345,
+    55283,
+    308583,
+    2029890
   ],
   "icon": "https://play-lh.googleusercontent.com/nQsrQf5cd6IeIhFTvVFjez12UiB1QTYYyX1UiVA448XkK--5jQYBhDuiMHtBOWrVnoldLTlnUN1x3AbCt4vflg",
   "inAppProductPrice": "От 1,49 $ до 249,99 $ за товар",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "2 окт. 2026 г.",
   "metrics": {
     "minInstalls": 100000000,
-    "ratings": 2438638,
+    "ratings": 2438641,
     "realInstalls": 223710409,
-    "reviews": 312426,
-    "score": 4.761211
+    "reviews": 312431,
+    "score": 4.761208
   },
   "price": 0,
   "screenshots": [

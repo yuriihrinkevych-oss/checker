@@ -1,0 +1,42 @@
+{
+  "_lang": "sl",
+  "_scanned": "2026-10-06",
+  "containsAds": false,
+  "contentRating": "PEGI 3",
+  "description": "Geozilla je družinska aplikacija za skupno rabo lokacije in varnost, ki družinam in zaupanja vrednim skupinam pomaga ostati blizu, obveščeni in podprti – ne glede na razdaljo. S pametnimi funkcijami, kot so sledenje lokaciji v realnem času, nujna opozorila in poročila o vožnji, Geozilla prinaša brezskrbnost družinam, ki cenijo varnost in preglednost.\r\n\r\n✅ Kako deluje:\r\n1. Namestite aplikacijo in dovolite, da svojo lokacijo delite s svojim krogom.\r\n2. Ustvarite ali se pridružite zasebnemu družinskemu krogu – vključeni bodo samo tisti, ki jih povabite in sprejmete.\r\n3. Povabite družino ali zaupanja vredne člane s telefonsko številko, povezavo ali kodo QR.\r\n4. Vsak povabljeni član mora izrecno sprejeti povabilo in podeliti vsa potrebna dovoljenja, preden postane skupna raba lokacije aktivna.\r\n5. Vsi člani so jasno obveščeni o namenu aplikacije, o tem, kdo jih je povabil in o tem, kako bodo uporabljeni podatki o lokaciji.\r\n6. Geozilla lahko deluje samo, če se vsak uporabnik aktivno strinja z deljenjem svoje lokacije. Če katera koli oseba ne soglaša, deljenje lokacije ne bo omogočeno.\r\n\r\n🌍 Glavne funkcije za družinsko varnost:\r\nSkupna raba lokacije v živo: Oglejte si GPS lokacije vaše družine ali članov zaupanja vrednega kroga v realnem času.\r\nZgodovina lokacij: Oglejte si časovnico gibanja vaše družine čez dan.\r\nOpozorila o prihodu in odhodu: nastavite geografsko omejene lokacije (kot so dom, šola, služba), da prejmete opozorila, ko nekdo prispe ali odide.\r\nNadzor baterije: Bodite obveščeni, ko je baterija nekoga skoraj prazna.\r\nVpogledi v varno vožnjo: Pomagajte izboljšati varnost s poročili o vedenju za vozne navade.\r\nIskalnik AR.\r\nZaznavanje zrušitev in SOS opozorila.\r\n\r\nZdružljivost z Wear OS: veste, kje je vaša družina, ali delite svojo lokacijo neposredno s pametne ure.\r\n\r\n🔒 Zasebnost, preglednost in soglasje uporabnika:\r\nGeozilla podpira le medsebojno, ozaveščeno in pregledno uporabo skupne rabe lokacije med soglašajočimi strankami – kot so družinski člani in tesni stiki. Naša aplikacija je zgrajena na načelih zasebnosti, varnosti in zaupanja.\r\nVsaka funkcija Geozille je odvisna od jasne udeležbe in odobritve uporabnikov:\r\nNihče ne more biti dodan v vaš krog brez njegovega izrecnega soglasja.\r\nPodatki o lokaciji se ne delijo brez aktivne privolitve uporabnika.\r\nPovabljeni uporabniki so obveščeni o tem, kdo jih je povabil, namenu aplikacije in zahtevanih posebnih dovoljenjih.\r\nUporabnike spodbujamo, da Geozillo uporabljajo samo za družinsko varnost in primere uporabe za nego. Zloraba aplikacije za neodobreno sledenje ali brez informiranega soglasja je strogo v nasprotju z našimi pravilniki in lokalnimi zakoni o zasebnosti.\r\n\r\n📱 Razlaga dovoljenj za aplikacije:\r\nZa zagotavljanje ključnih varnostnih funkcij lahko Geozilla zahteva naslednja dovoljenja (z odobritvijo uporabnika pri vsakem koraku):\r\nLokacijske storitve (vedno/dostop v ozadju): potrebne za omogočanje neprekinjenega sledenja GPS, opozoril o geografskih omejevalnikih in zaznavanje zrušitev – tudi ko se aplikacija ne uporablja aktivno.\r\nObvestila: Uporablja se za posredovanje pomembnih opozoril, kot so prihod/odhod, SOS, prazna baterija in aktivnost v aplikaciji.\r\nStiki: Izbirno – poenostavi povabilo zaupanja vrednih stikov, saj vam omogoča izbiro telefonskih številk iz imenika.\r\nKamera in fotografije: Uporablja se za nastavitev slik profila ali skeniranje povabil QR.\r\nGibanje in fitnes (prepoznavanje dejavnosti): izboljša poročila o vožnji in zaznavanje trkov s spremljanjem vzorcev gibanja.\r\nDovoljenja so zahtevana pregledno in razložena v kontekstu. Uporabniki imajo ves čas nadzor in lahko prilagodijo dostop v nastavitvah naprave.\r\n\r\nGeozilla se zavzema za zasebnost, preglednost in odgovorno uporabo. Ne podpiramo nobene uporabe aplikacije brez vednosti in soglasja vseh udeležencev.\r\nGeozilla je zasnovana in tržena izključno za primere družinske varnosti, kot so starši, ki sledijo otrokom, ali skrbniki, ki pomagajo vzdrževanim osebam. Ne podpira prikritega sledenja, prikritih namestitev ali oddaljenega aktiviranja.\r\nČe potrebujete pomoč ali imate povratne informacije o Geozilli, nas kontaktirajte na: support@geozilla.com\r\nPolitika zasebnosti: https://geozilla.com/privacy-policy\r\nPogoji uporabe: https://geozilla.com/terms-of-use",
+  "developer": "GZ TECH",
+  "genre": "Življenjski slog",
+  "headerImage": "https://play-lh.googleusercontent.com/bKkTJcBVFL2kVQeTBx4LC1Va9s8bUcCv1KHL_UkQynPVOD-N0iGB_i915fBgcIw9wKMybhK4CuL2AsHIwcBUP8A",
+  "histogram": [
+    76719,
+    25812,
+    49055,
+    86942,
+    522154
+  ],
+  "icon": "https://play-lh.googleusercontent.com/i72e4U2jPc5WBB6JXrWoFfBXJbLJSgrMnDna3qPjDN9dQaONNbetQLS2JkUua-vqB4IW_WQ7y5IEMoHQLL_bSQ",
+  "inAppProductPrice": "1,99 € – 94,99 €, če se obračuna prek Googla Play",
+  "installs": "10.000.000+",
+  "lastUpdatedOn": "2. okt. 2026",
+  "metrics": {
+    "minInstalls": 10000000,
+    "ratings": 760686,
+    "realInstalls": 29664756,
+    "reviews": 68985,
+    "score": 4.251505
+  },
+  "price": 0,
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/dAwv9CfOD5uigKQMix-dR4EoOpyIFPXdi0sKxZjCverbrJI8HVCC_Q6wcS1TISXJFvD90yVrJl2ZzG-DgHSR",
+    "https://play-lh.googleusercontent.com/pDYVSPPF_o8U-1uP8pyE076joyRhi9Sn0da5zvyD9mRw__527_gAbovUdyx_1CqTagbK0Uf1A6YPC1knj8hA",
+    "https://play-lh.googleusercontent.com/wbiUSezwwfY61oI_JpWr2QQhZOOudGqnBWadyAiw2gSfebi9uDRSp8_tku7Q7yaSL1F1ERLO2ZObHfhMVP8O",
+    "https://play-lh.googleusercontent.com/pOOnvK6z5Z1hpN_pII0X0SaGeAF6pOTPbQzSkOuAg743VudPSocn1b6_sxf1xEY21d2r_DnsQ7A3sDHRLNgw",
+    "https://play-lh.googleusercontent.com/5HzvD6sOZscZirs3Q79u2HW_nDIcp2CGQLhRtl74vSYH7kUmPdCfE7IeUu7d2NAN4M-1qbq_QToi3kRUV8Bj",
+    "https://play-lh.googleusercontent.com/9JeXljJvAYsAzer_nEx3SdPUMUiPM7-1AkYAknlJISA0Xbl0iSdd_5MkwNVQTiqz1ArmdNIsZ_5ZSusHHW-3-A",
+    "https://play-lh.googleusercontent.com/8uX6sOU0DEZKsQp1MX_3n__yf3OQXjhl2iIYuBdi0tbYnq6bcfQXxsA9YrIaKDDuRlvs2QDwY65_xlwYPvUHtg"
+  ],
+  "summary": "Poiščite svoje družinske člane s pomočjo GPS sledilnika lokacije telefona povsod in kadarkoli",
+  "title": "Geozilla - Family GPS Locator",
+  "version": "Varies with device",
+  "video": "https://play.google.com/video/lava/web/player/yt:movie:zDBzTvQVNNo?autoplay=1&embed=play"
+}

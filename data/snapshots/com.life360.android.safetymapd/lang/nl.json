@@ -7,11 +7,11 @@
   "genre": "Lifestyle",
   "headerImage": "https://play-lh.googleusercontent.com/GT2fmdIlW8_0cSaK0UhBbWL5OJV51Gm0sjvUeLhgrdJW9zccJUEccWYqhJxAY5S4jUGo6IVORvv6upFbi3TK",
   "histogram": [
-    28563,
-    16364,
-    55178,
-    308397,
-    2029981
+    28532,
+    16346,
+    55286,
+    308602,
+    2030013
   ],
   "icon": "https://play-lh.googleusercontent.com/nQsrQf5cd6IeIhFTvVFjez12UiB1QTYYyX1UiVA448XkK--5jQYBhDuiMHtBOWrVnoldLTlnUN1x3AbCt4vflg",
   "inAppProductPrice": "US$ 1,49 - US$ 249,99 per item",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "2 okt 2026",
   "metrics": {
     "minInstalls": 100000000,
-    "ratings": 2438493,
+    "ratings": 2438789,
     "realInstalls": 223710409,
-    "reviews": 312427,
-    "score": 4.76128
+    "reviews": 312431,
+    "score": 4.761208
   },
   "price": 0,
   "screenshots": [

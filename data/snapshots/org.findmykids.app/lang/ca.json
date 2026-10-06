@@ -7,11 +7,11 @@
   "genre": "Criança",
   "headerImage": "https://play-lh.googleusercontent.com/OjN2pWUF1lePH_n4iGoxPigxS3aAfVc0WYByiy_Ie0pk_gLKWqywjOTC8gHNUz4MGD0WtDguh_RqDh9WKmdsYw",
   "histogram": [
-    77934,
+    77935,
     30217,
-    85332,
-    180767,
-    1683951
+    85334,
+    180770,
+    1683984
   ],
   "icon": "https://play-lh.googleusercontent.com/1xxhEalJmQZPdCdHbJ2cfABAmZn5vVB5kWPro0JjVmBAUHWLWfE0eKjQH3nO9IkQJCV7q3-Yu5-jWpLt_wdY",
   "inAppProductPrice": "0,39 USD - 999,99 USD per cada element",
@@ -19,7 +19,7 @@
   "lastUpdatedOn": "2 d’oct. 2026",
   "metrics": {
     "minInstalls": 50000000,
-    "ratings": 2058292,
+    "ratings": 2058332,
     "realInstalls": 82880689,
     "reviews": 12985,
     "score": 4.633693

@@ -1,0 +1,42 @@
+{
+  "_lang": "nl",
+  "_scanned": "2026-10-06",
+  "containsAds": false,
+  "contentRating": "PEGI 3",
+  "description": "Geozilla is een app voor het delen van locatiegegevens en veiligheid voor gezinnen. Deze app helpt gezinnen en vertrouwde groepen om dicht bij elkaar te blijven, op de hoogte te blijven en ondersteuning te bieden, ongeacht de afstand. Met slimme functies zoals realtime locatiebepaling, noodmeldingen en rijrapporten biedt Geozilla gemoedsrust aan gezinnen die waarde hechten aan zowel veiligheid als transparantie.\r\n\r\n✅ Hoe het werkt:\r\n1. Installeer de app en geef toestemming om je eigen locatie te delen met je kring.\r\n2. Maak een privé-gezinskring aan of word lid van een kring. Alleen degenen die je uitnodigt en accepteert, worden opgenomen.\r\n3. Nodig familieleden of vertrouwde leden uit via een telefoonnummer, link of QR-code.\r\n4. Elk uitgenodigd lid moet de uitnodiging expliciet accepteren en alle benodigde toestemmingen verlenen voordat het delen van de locatie actief wordt.\r\n5. Alle leden worden duidelijk geïnformeerd over het doel van de app, wie hen heeft uitgenodigd en hoe locatiegegevens worden gebruikt.\r\n6. Geozilla werkt alleen als elke gebruiker actief instemt met het delen van zijn of haar locatie. Als iemand geen toestemming geeft, wordt het delen van de locatie niet ingeschakeld.\r\n\r\n🌍 Belangrijkste functies voor gezinsveiligheid:\r\nLive locatie delen: Bekijk realtime gps-locaties van je gezin of vertrouwde kringleden.\r\nLocatiegeschiedenis: Bekijk de tijdlijn van je gezinsbewegingen gedurende de dag.\r\nAankomst- en vertrekmeldingen: Stel geofenced locaties in (zoals thuis, school, werk) om meldingen te ontvangen wanneer iemand aankomt of vertrekt.\r\nBatterijbewaking: Ontvang een melding wanneer de batterij van iemands telefoon bijna leeg is.\r\nInzichten in veilig rijden: Verbeter de veiligheid met gedragsrapporten over rijgewoonten.\r\nAR-zoeker.\r\nOngeluksdetectie en SOS-meldingen.\r\n\r\nWorden compatibel met Wear OS: Weet waar je gezin is of deel je eigen locatie rechtstreeks vanaf je smartwatch.\r\n\r\n🔒 Privacy, transparantie en toestemming van gebruikers:\r\nGeozilla ondersteunt alleen wederzijds, geïnformeerd en transparant gebruik van locatiedeling tussen toestemminggevende partijen, zoals familieleden en naaste contacten. Onze app is gebaseerd op de principes van privacy, veiligheid en vertrouwen. Elke functie van Geozilla is afhankelijk van duidelijke deelname en goedkeuring van de gebruiker:\r\nNiemand kan aan je kring worden toegevoegd zonder hun expliciete toestemming.\r\nEr worden geen locatiegegevens gedeeld zonder de actieve toestemming van de gebruiker.\r\nUitgenodigde gebruikers worden geïnformeerd over wie hen heeft uitgenodigd, het doel van de app en de specifieke vereiste machtigingen.\r\nWe raden gebruikers aan Geozilla alleen te gebruiken voor gezinsveiligheid en zorgverlening. Misbruik van de app voor niet-goedgekeurde tracking of zonder geïnformeerde toestemming is strikt in strijd met ons beleid en de lokale privacywetgeving.\r\n\r\n📱 Uitleg over app-machtigingen:\r\nOm belangrijke veiligheidsfuncties te leveren, kan Geozilla de volgende machtigingen vragen (met goedkeuring van de gebruiker bij elke stap):\r\nLocatievoorzieningen (Altijd / Achtergrondtoegang): Vereist om continue gps-tracking, geofencing-waarschuwingen en crashdetectie mogelijk te maken, zelfs wanneer de app niet actief wordt gebruikt.\r\nMeldingen: Wordt gebruikt om belangrijke waarschuwingen te sturen, zoals aankomst/vertrek, SOS, lege batterij en app-activiteit.\r\nContacten: Optioneel - vereenvoudigt het uitnodigen van vertrouwde contactpersonen door u de mogelijkheid te bieden telefoonnummers uit uw adresboek te kiezen.\r\nCamera & Foto's: Wordt gebruikt voor het instellen van profielafbeeldingen of het scannen van QR-uitnodigingen.\r\nBeweging & Fitness (Activiteitenherkenning): Verbetert rijrapporten en botsingsdetectie door bewegingspatronen te monitoren.\r\nToestemmingen worden transparant aangevraagd en in context uitgelegd. Gebruikers behouden te allen tijde de controle en kunnen de toegang aanpassen in de apparaatinstellingen.\r\n\r\nGeozilla hecht veel waarde aan privacy, transparantie en verantwoord gebruik. We ondersteunen geen gebruik van de app zonder medeweten en toestemming van alle deelnemers.\r\nGeozilla is uitsluitend ontworpen en op de markt gebracht voor gebruik in de veiligheid van het gezin, zoals het volgen van kinderen door ouders of het ondersteunen van verzorgers die afhankelijke personen bijstaan. Verborgen tracking, stealth-installaties of activering op afstand worden niet ondersteund.\r\nAls u hulp nodig heeft of feedback heeft over Geozilla, kunt u contact met ons opnemen via: support@geozilla.com\r\nPrivacybeleid: https://geozilla.com/privacy-policy\r\nGebruiksvoorwaarden: https://geozilla.com/terms-of-use",
+  "developer": "GZ TECH",
+  "genre": "Lifestyle",
+  "headerImage": "https://play-lh.googleusercontent.com/bKkTJcBVFL2kVQeTBx4LC1Va9s8bUcCv1KHL_UkQynPVOD-N0iGB_i915fBgcIw9wKMybhK4CuL2AsHIwcBUP8A",
+  "histogram": [
+    129102,
+    7430,
+    105883,
+    91022,
+    425389
+  ],
+  "icon": "https://play-lh.googleusercontent.com/i72e4U2jPc5WBB6JXrWoFfBXJbLJSgrMnDna3qPjDN9dQaONNbetQLS2JkUua-vqB4IW_WQ7y5IEMoHQLL_bSQ",
+  "inAppProductPrice": "€ 3,39 - € 74,99 bij facturering via Play",
+  "installs": "10.000.000+",
+  "lastUpdatedOn": "2 okt 2026",
+  "metrics": {
+    "minInstalls": 10000000,
+    "ratings": 760686,
+    "realInstalls": 29664756,
+    "reviews": 101,
+    "score": 3.89
+  },
+  "price": 0,
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/dAwv9CfOD5uigKQMix-dR4EoOpyIFPXdi0sKxZjCverbrJI8HVCC_Q6wcS1TISXJFvD90yVrJl2ZzG-DgHSR",
+    "https://play-lh.googleusercontent.com/pDYVSPPF_o8U-1uP8pyE076joyRhi9Sn0da5zvyD9mRw__527_gAbovUdyx_1CqTagbK0Uf1A6YPC1knj8hA",
+    "https://play-lh.googleusercontent.com/wbiUSezwwfY61oI_JpWr2QQhZOOudGqnBWadyAiw2gSfebi9uDRSp8_tku7Q7yaSL1F1ERLO2ZObHfhMVP8O",
+    "https://play-lh.googleusercontent.com/pOOnvK6z5Z1hpN_pII0X0SaGeAF6pOTPbQzSkOuAg743VudPSocn1b6_sxf1xEY21d2r_DnsQ7A3sDHRLNgw",
+    "https://play-lh.googleusercontent.com/5HzvD6sOZscZirs3Q79u2HW_nDIcp2CGQLhRtl74vSYH7kUmPdCfE7IeUu7d2NAN4M-1qbq_QToi3kRUV8Bj",
+    "https://play-lh.googleusercontent.com/9JeXljJvAYsAzer_nEx3SdPUMUiPM7-1AkYAknlJISA0Xbl0iSdd_5MkwNVQTiqz1ArmdNIsZ_5ZSusHHW-3-A",
+    "https://play-lh.googleusercontent.com/8uX6sOU0DEZKsQp1MX_3n__yf3OQXjhl2iIYuBdi0tbYnq6bcfQXxsA9YrIaKDDuRlvs2QDwY65_xlwYPvUHtg"
+  ],
+  "summary": "Lokaliseer uw gezinsleden overal en altijd via de GPS-telefoonlocatietracker",
+  "title": "Geozilla - Family GPS Locator",
+  "version": "Varies with device",
+  "video": "https://play.google.com/video/lava/web/player/yt:movie:zDBzTvQVNNo?autoplay=1&embed=play"
+}

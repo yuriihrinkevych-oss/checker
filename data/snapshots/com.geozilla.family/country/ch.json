@@ -1,0 +1,43 @@
+{
+  "_lang": "de",
+  "_scanned": "2026-10-06",
+  "containsAds": false,
+  "contentRating": "PEGI 3",
+  "description": "Geozilla ist eine App zur Standortfreigabe und Sicherheit für Familien. Sie hilft Familien und vertrauenswürdigen Gruppen, nah, informiert und unterstützt zu bleiben – unabhängig von der Entfernung. Mit intelligenten Funktionen wie Echtzeit-Standortverfolgung, Notfallwarnungen und Fahrberichten bietet Geozilla Familien, die Wert auf Sicherheit und Transparenz legen, ein beruhigendes Gefühl.\r\n\r\n✅ So funktioniert es:\r\n1. Installieren Sie die App und geben Sie die Erlaubnis, Ihren Standort mit Ihrem Kreis zu teilen.\r\n2. Erstellen Sie einen privaten Familienkreis oder treten Sie einem bei – nur eingeladene und akzeptierte Personen werden aufgenommen.\r\n3. Laden Sie Familienmitglieder oder vertrauenswürdige Mitglieder per Telefonnummer, Link oder QR-Code ein.\r\n4. Jedes eingeladene Mitglied muss die Einladung ausdrücklich annehmen und alle erforderlichen Berechtigungen erteilen, bevor die Standortfreigabe aktiviert wird.\r\n5. Alle Mitglieder werden klar über den Zweck der App, den Eingeladenen und die Verwendung der Standortdaten informiert.\r\n6. Geozilla funktioniert nur, wenn jeder Nutzer der Standortfreigabe aktiv zustimmt. Andernfalls wird die Standortfreigabe deaktiviert.\r\n\r\n🌍 Kernfunktionen für die Sicherheit der Familie:\r\nLive-Standortfreigabe: Sehen Sie die GPS-Standorte Ihrer Familie oder vertrauenswürdiger Kreismitglieder in Echtzeit.\r\nStandortverlauf: Zeigen Sie eine Zeitleiste an, wo Ihre Familie den ganzen Tag über war.\r\nAnkunfts- und Abfahrtsbenachrichtigungen: Richten Sie geofencede Standorte (z. B. Zuhause, Schule, Arbeit) ein, um Benachrichtigungen zu erhalten, wenn jemand ankommt oder geht.\r\nAkkuüberwachung: Lassen Sie sich benachrichtigen, wenn der Akku eines Smartphones fast leer ist.\r\nFahrsicherheitsinformationen: Verbessern Sie die Sicherheit mit Verhaltensberichten zum Fahrverhalten.\r\nAR-Finder.\r\nUnfallerkennung und SOS-Benachrichtigungen: Erhalten Sie Notfallbenachrichtigungen.\r\n\r\nKompatibel mit Wear OS: Wissen Sie, wo Ihre Familie ist, oder teilen Sie Ihren eigenen Standort direkt von Ihrer Smartwatch aus.\r\n\r\n🔒 Datenschutz, Transparenz und Nutzereinwilligung:\r\nGeozilla unterstützt ausschließlich die gegenseitige, informierte und transparente Nutzung der Standortfreigabe zwischen einwilligenden Parteien – wie Familienmitgliedern und engen Kontakten. Unsere App basiert auf den Prinzipien von Datenschutz, Sicherheit und Vertrauen.\r\n\r\n📱 Erläuterung der App-Berechtigungen:\r\nUm wichtige Sicherheitsfunktionen bereitzustellen, kann GeoZilla die folgenden Berechtigungen anfordern (mit Zustimmung des Nutzers in jedem Schritt):\r\nStandortdienste (Immer / Hintergrundzugriff): Erforderlich für kontinuierliches GPS-Tracking, Geofencing-Warnungen und Absturzerkennung.\r\nBenachrichtigungen: Werden verwendet, um wichtige Benachrichtigungen wie Ankunft/Abfahrt, SOS, niedrigen Akkustand und App-Aktivität zu übermitteln.\r\nKontakte: Optional – vereinfacht das Einladen vertrauenswürdiger Kontakte durch die Auswahl von Telefonnummern aus Ihrem Adressbuch. Kamera & Fotos: Zum Festlegen von Profilbildern oder zum Scannen von QR-Einladungen.\r\nBewegung & Fitness: Verbessert Fahrberichte und Unfallerkennung durch Überwachung von Bewegungsmustern.\r\nBerechtigungen werden transparent abgefragt und im Kontext erklärt. Nutzer behalten jederzeit die Kontrolle und können den Zugriff in den Geräteeinstellungen anpassen.\r\n\r\nGeoZilla legt großen Wert auf Datenschutz, Transparenz und verantwortungsvolle Nutzung. Wir unterstützen keine Nutzung der App ohne das Wissen und die Zustimmung aller Teilnehmer.\r\nGeoZilla wurde ausschließlich für die Sicherheit von Familien entwickelt und vermarktet, z. B. für die Überwachung von Kindern durch Eltern oder die Betreuung von Angehörigen durch Betreuer. Verdeckte Ortung, Stealth-Installationen oder Fernaktivierung sind nicht möglich.\r\nBei Fragen oder Feedback zu GeoZilla kontaktieren Sie uns bitte unter: support@geozilla.com\r\nDatenschutzrichtlinie: https://geozilla.com/privacy-policy\r\nNutzungsbedingungen: https://geozilla.com/terms-of-use",
+  "developer": "GZ TECH",
+  "genre": "Lifestyle",
+  "headerImage": "https://play-lh.googleusercontent.com/BxfuncAkaRV8fZIBTg4hIICx4jAH59glGyfam-9K12ejw3M-x18Bf6ggWdt92dlHFGb4P5w1SZ9WHD_3dT9iRQ",
+  "histogram": [
+    98603,
+    22754,
+    45509,
+    128943,
+    463761
+  ],
+  "icon": "https://play-lh.googleusercontent.com/i72e4U2jPc5WBB6JXrWoFfBXJbLJSgrMnDna3qPjDN9dQaONNbetQLS2JkUua-vqB4IW_WQ7y5IEMoHQLL_bSQ",
+  "inAppProductPrice": "CHF 2.70 bis CHF 85.99 pro Artikel",
+  "installs": "10.000.000+",
+  "lastUpdatedOn": "02.10.2026",
+  "metrics": {
+    "minInstalls": 10000000,
+    "ratings": 760656,
+    "realInstalls": 29664756,
+    "reviews": 65,
+    "score": 4.1
+  },
+  "price": 0,
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Ip4_Y_XhoUlaFVGt5bIgqAI443EhbcWPRD1aFQ1Ra33Yf_aKKEzI-LU17MIXWsxPx6EzpHZbKyGnBBMB0Ef0",
+    "https://play-lh.googleusercontent.com/MxEw28MBs-oKXGjt5TNZNKBtHxPKoxpN9evoFIiv-ZVuWemOhNd5UqYbh08MkkJXoxmRug6FHNFxOgqYj4ix9g",
+    "https://play-lh.googleusercontent.com/gmBur4pQFzNZojJH43hstuUfTQd2q7UmauDTjSsHFzY7Km0ZqqCLwDe8mb2zJ8D-ZSUmuXfxuYEtYo_qI63sXg",
+    "https://play-lh.googleusercontent.com/7ndRn_t6LETew7iTf7GUGwRjnby_EoQs31wtVo3-Fph1BJyjcdPTLu30M6X3cPiYhqEaLK7-djAxW8_Ufbqe",
+    "https://play-lh.googleusercontent.com/VsLL0mf1GScHDD7ZGVE6rsDFVBVQfid8xqNtJHg4qBKzUz622Vt6-q72_Jsi95xFPPWv9P8JWHXXBA8bdG50Gg",
+    "https://play-lh.googleusercontent.com/5HzvD6sOZscZirs3Q79u2HW_nDIcp2CGQLhRtl74vSYH7kUmPdCfE7IeUu7d2NAN4M-1qbq_QToi3kRUV8Bj",
+    "https://play-lh.googleusercontent.com/9JeXljJvAYsAzer_nEx3SdPUMUiPM7-1AkYAknlJISA0Xbl0iSdd_5MkwNVQTiqz1ArmdNIsZ_5ZSusHHW-3-A",
+    "https://play-lh.googleusercontent.com/8uX6sOU0DEZKsQp1MX_3n__yf3OQXjhl2iIYuBdi0tbYnq6bcfQXxsA9YrIaKDDuRlvs2QDwY65_xlwYPvUHtg"
+  ],
+  "summary": "GPS-Tracker zeigt die Standorte Ihrer Familie in Echtzeit auf einer Karte",
+  "title": "Handy GPS Ortung Geozilla",
+  "version": "Varies with device",
+  "video": "https://play.google.com/video/lava/web/player/yt:movie:zDBzTvQVNNo?autoplay=1&embed=play"
+}

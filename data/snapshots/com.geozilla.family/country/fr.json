@@ -1,0 +1,43 @@
+{
+  "_lang": "fr",
+  "_scanned": "2026-10-06",
+  "containsAds": false,
+  "contentRating": "PEGI 3",
+  "description": "Geozilla est une application de partage de localisation et de sécurité familiale qui permet aux familles et aux groupes de confiance de rester proches, informés et soutenus, quelle que soit la distance. Grâce à des fonctionnalités intelligentes comme la localisation en temps réel, les alertes d'urgence et les rapports de conduite, Geozilla offre la tranquillité d'esprit aux familles qui accordent de l'importance à la sécurité et à la transparence.\r\n\r\n✅ Fonctionnement :\r\n1. Installez l'application et autorisez le partage de votre localisation avec votre cercle.\r\n2. Créez ou rejoignez un cercle familial privé; seules les personnes que vous invitez et qui acceptent y participeront.\r\n3. Invitez des membres de votre famille à l'aide d'un numéro de téléphone, d'un lien ou d'un code QR.\r\n4. Chaque membre invité doit accepter explicitement l'invitation et accorder toutes les autorisations nécessaires pour que le partage de localisation soit activé.\r\n5. Tous les membres sont clairement informés de l'objectif de l'application, de l'identité de l'invité et de l'utilisation des données de localisation.\r\n6. GeoZilla ne fonctionne que si chaque utilisateur accepte activement de partager sa localisation. \r\n\r\n🌍 Fonctionnalités clés pour la sécurité de votre famille :\r\nPartage de localisation en direct : Consultez la position GPS en temps réel de votre famille ou des membres de votre cercle de confiance.\r\nHistorique de localisation : Consultez la chronologie des déplacements de votre famille dans la journée.\r\nAlertes d'arrivée et de départ : Configurez des emplacements géolocalisés (comme le domicile, l'école, le travail) pour recevoir des alertes à l'arrivée ou au départ.\r\nSurveillance de la batterie.\r\nCompatible avec Wear OS: sachez où se trouve votre famille ou partagez votre propre position directement depuis votre montre connectée.\r\n\r\n🔒 Confidentialité, transparence et consentement de l'utilisateur :\r\nGeozilla accepte uniquement une utilisation mutuelle, éclairée et transparente du partage de localisation entre les parties consentantes, telles que les membres de la famille et les contacts proches. Notre application est basée sur les principes de confidentialité, de sécurité et de confiance.\r\n\r\n📱 Explication des autorisations de l'application :\r\nPour assurer les fonctionnalités de sécurité essentielles, Geozilla peut demander les autorisations suivantes:\r\nServices de localisation: requis pour activer le suivi GPS continu, les alertes de géorepérage et la détection d'accident.\r\nNotifications: utilisées pour envoyer des alertes importantes telles qu'une arrivée/un départ, un appel d'urgence.\r\nContacts (facultatif): simplifie l'invitation de contacts de confiance en vous permettant de choisir des numéros de téléphone dans votre carnet d'adresses.\r\nAppareil photo et photos : Utilisé pour définir des images de profil ou scanner des invitations par QR code.\r\nMouvement et forme physique: Améliore les rapports de conduite et la détection des accidents en surveillant les mouvements.\r\nLes autorisations sont demandées de manière transparente et expliquées en contexte. Les utilisateurs gardent le contrôle à tout moment et peuvent ajuster l'accès dans les paramètres de l'appareil.\r\n\r\nGeoZilla s'engage à respecter la confidentialité, la transparence et une utilisation responsable. Nous ne soutenons aucune utilisation de l'application sans la connaissance et le consentement de tous les participants.\r\nGeoZilla est conçu et commercialisé uniquement pour des cas d'utilisation liés à la sécurité familiale, tels que le suivi des enfants par leurs parents ou l'aide apportée aux personnes dépendantes par leurs aidants. Il ne prend pas en charge le suivi secret, les installations furtives ou l'activation à distance.\r\nSi vous avez besoin d'aide ou si vous avez des commentaires à propos de GeoZilla, contactez-nous à l'adresse suivante : support@geozilla.com\r\nPolitique de confidentialité : https://geozilla.com/privacy-policy\r\nConditions d'utilisation : https://geozilla.com/terms-of-use",
+  "developer": "GZ TECH",
+  "genre": "Style de vie",
+  "headerImage": "https://play-lh.googleusercontent.com/BmYliq5SfERq3hdPxM8zx5uA-masphJhWID77KudDUMoG_UnnCslsKLhvidXOcV95nZYgZGwYunFH3UmnkMzrY0",
+  "histogram": [
+    148433,
+    25423,
+    84488,
+    102208,
+    399331
+  ],
+  "icon": "https://play-lh.googleusercontent.com/i72e4U2jPc5WBB6JXrWoFfBXJbLJSgrMnDna3qPjDN9dQaONNbetQLS2JkUua-vqB4IW_WQ7y5IEMoHQLL_bSQ",
+  "inAppProductPrice": "3,29 € - 74,99 € si facturé via Play",
+  "installs": "10 000 000+",
+  "lastUpdatedOn": "2 oct. 2026",
+  "metrics": {
+    "minInstalls": 10000000,
+    "ratings": 760656,
+    "realInstalls": 29664756,
+    "reviews": 361,
+    "score": 3.7609427
+  },
+  "price": 0,
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/U9VE0AbbAgkLw9ohMPFGFURVE_2ft56E1Z2g0pIIancZ7fZyTwAzPQtUmB0QOsjUPAWckBEQfw7ZD_Ag_wv7Aw",
+    "https://play-lh.googleusercontent.com/dLNYM-5kHRfk5FS2tzj2rce1GSMReVDoesuczwKgARf6pi0YscLRvTydzN1ITPof0wIAzoC1lQWpsUTBN9fh8Q",
+    "https://play-lh.googleusercontent.com/BzgGPZ-0axeC2bwIcemenXyHDi1-0YwFRI9Qfi8G3laQZXhYUwkNySAUS57Pm8_W4_mo50O6il-i2ZNwCw5B7v0",
+    "https://play-lh.googleusercontent.com/g5p0N_5xMSSv68PLfy3WsgTijjKohJ51LOjqYwuxHTCgANspb5eAbmLKqXE8b7Dvg_CpQbug6XhU-M9JxwSa0Q",
+    "https://play-lh.googleusercontent.com/s_XwwpGmYZOoWO68Yz8_nPbMffOH2lPbvA-kegT-SjlKiirFG7GANUdlbgJgv2W3kWRT9wujh1PkIH9uXhZNJQ",
+    "https://play-lh.googleusercontent.com/5HzvD6sOZscZirs3Q79u2HW_nDIcp2CGQLhRtl74vSYH7kUmPdCfE7IeUu7d2NAN4M-1qbq_QToi3kRUV8Bj",
+    "https://play-lh.googleusercontent.com/9JeXljJvAYsAzer_nEx3SdPUMUiPM7-1AkYAknlJISA0Xbl0iSdd_5MkwNVQTiqz1ArmdNIsZ_5ZSusHHW-3-A",
+    "https://play-lh.googleusercontent.com/8uX6sOU0DEZKsQp1MX_3n__yf3OQXjhl2iIYuBdi0tbYnq6bcfQXxsA9YrIaKDDuRlvs2QDwY65_xlwYPvUHtg"
+  ],
+  "summary": "Trouvez et suivez votre famille grâce à la géolocalisation sur téléphone",
+  "title": "Geozilla - Localiser Famille",
+  "version": "Varies with device",
+  "video": "https://play.google.com/video/lava/web/player/yt:movie:zDBzTvQVNNo?autoplay=1&embed=play"
+}

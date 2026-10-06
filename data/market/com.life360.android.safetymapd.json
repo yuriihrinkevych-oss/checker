@@ -719,6 +719,7 @@
       "da": "baseline",
       "de": "baseline",
       "el": "baseline",
+      "en-AU": "2026-10-06",
       "es": "baseline",
       "es-419": "baseline",
       "et": "baseline",
@@ -796,6 +797,7 @@
     "da",
     "de",
     "el",
+    "en-AU",
     "es",
     "es-419",
     "et",
@@ -944,6 +946,13 @@
       "title": "Life360: Family Safety & GPS",
       "v": 2
     },
+    "en-AU": {
+      "key": "5cca29a1c4a58e8a78f490327666db95",
+      "own_screens": true,
+      "summary": "Family locator & phone tracker: real-time GPS location sharing + SOS",
+      "title": "Life360: Family Safety & GPS",
+      "v": 2
+    },
     "es": {
       "key": "9faf91d75aad0e744585adf892e76f9f",
       "own_screens": true,
@@ -952,10 +961,10 @@
       "v": 2
     },
     "es-419": {
-      "key": "e8821cb4b8c8342dabef0db2a40c940e",
+      "key": "9faf91d75aad0e744585adf892e76f9f",
       "own_screens": true,
-      "summary": "Rastrea la ubicación de tu familia en tiempo real, estés donde estés.",
-      "title": "Life360: Rastreador Familiar",
+      "summary": "¡Con el Localizador Familiar sabrá si su familia está segura, aunque esté lejos!",
+      "title": "Life360: Compartir ubicación",
       "v": 2
     },
     "et": {
