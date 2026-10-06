@@ -1,0 +1,37 @@
+# Які апки трекати. id = package name з URL Google Play:
+# https://play.google.com/store/apps/details?id=<ОСЬ ЦЕ>
+# Package names нижче перевір, відкривши їх у браузері.
+apps:
+  - id: com.geozilla.family
+    name: GeoZilla (ми, контрольна точка)
+    group: locators
+  - id: com.life360.android.safetymapd
+    name: Life360
+    group: locators
+  - id: org.findmykids.app
+    name: Find My Kids
+    group: locators
+  - id: com.isharing.isharing
+    name: iSharing
+    group: locators
+
+# Ринки. Перший у списку = основний, з нього рахуються алерти по росту.
+# Інші потрібні, щоб бачити локалізацію та регіональні зміни.
+locales:
+  - {country: us, lang: en}
+  - {country: gb, lang: en}
+  - {country: de, lang: de}
+  - {country: br, lang: pt}
+  - {country: fr, lang: fr}
+  - {country: pl, lang: pl}
+
+alerts:
+  # Алерт, якщо приріст рейтингів за добу у стільки разів вищий за медіану попередніх днів
+  velocity_multiplier: 2.0
+  # ...і при цьому щонайменше стільки нових рейтингів за добу (відсікає шум у малих апок)
+  velocity_min_delta: 20
+  # Скільки попередніх днів брати для порівняння
+  lookback_days: 7
+
+# Пауза між запитами до Google Play, секунди (щоб не впертись у ліміти)
+request_delay: [2, 4]
