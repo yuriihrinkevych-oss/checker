@@ -116,3 +116,21 @@ def test_manual_listing_edit_vs_machine_translation():
     lockstep["listings"]["fr"] = {"key": "fr2", "title": "B fr"}
     types = [c["type"] for c in market.diff_market(manual, lockstep)]
     assert "listing_edited" not in types and "base_changed" in types
+
+
+def test_language_snapshots_saved_and_viewer_builds(monkeypatch, tmp_path):
+    import yaml
+    import build_viewer
+    real_load = yaml.safe_load
+    def fake_load(text):
+        cfg = real_load(text)
+        cfg["market_scan"]["countries"] = ["us", "br"]
+        cfg["market_scan"]["languages"] = ["de", "pt-BR"]
+        return cfg
+    monkeypatch.setattr(scan_markets.yaml, "safe_load", fake_load)
+    scan_markets.main(fetch=make_fetch({"langs": ["pt-BR"]}), rates=RATES, today="2026-10-05", delay=0)
+    lang_dir = storage.DATA / "snapshots" / "com.life360.android.safetymapd" / "lang"
+    assert {f.name for f in lang_dir.glob("*.json")} == {"en.json", "pt-BR.json"}
+    monkeypatch.setattr(build_viewer, "OUT", tmp_path / "viewer.html")
+    html = build_viewer.build().read_text(encoding="utf-8")
+    assert "/*__DATA__*/" not in html and "lang:pt-BR" in html
