@@ -6,11 +6,11 @@
   "genre": "Kommunikation",
   "headerImage": "https://play-lh.googleusercontent.com/aOyJlomq1KevZyaeufRspaJ5QT6KB8uDejAZMtcAZV5tAhNWqxS5bqAZL7mH7PhY35MxaPkXyIiiGvagoUoR9g",
   "histogram": [
-    25697,
-    5365,
-    16097,
-    29870,
-    170936
+    25693,
+    5961,
+    16095,
+    29866,
+    170376
   ],
   "icon": "https://play-lh.googleusercontent.com/g_FlgIrM9oMubvKbMvgcFubkkLKBXA6kw6-x3pH-rTXzivtFjdy7Y4bTxDxVp32hXsGXGgE_kJUXJql2VJfG",
   "inAppProductPrice": "2,76 €–139,99 € bei Abrechnung über Google Play",
@@ -18,10 +18,10 @@
   "lastUpdatedOn": "01.10.2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 248087,
+    "ratings": 248113,
     "realInstalls": 32880091,
     "reviews": 642,
-    "score": 4.2698793
+    "score": 4.2626505
   },
   "price": 0,
   "screenshots": [

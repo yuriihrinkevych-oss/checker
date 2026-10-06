@@ -6,11 +6,11 @@
   "genre": "Eltern",
   "headerImage": "https://play-lh.googleusercontent.com/j4ULfbEHZk5u-WHihagFWFyZyIhDC-eGz5qXgOUXZXnOCxgofUZZvhGPsIg2pw2246MQM3FocEQQ0AmfJHdW0Fs",
   "histogram": [
-    286244,
-    64978,
-    69984,
+    286142,
+    64977,
+    69983,
     116039,
-    1520527
+    1520922
   ],
   "icon": "https://play-lh.googleusercontent.com/1xxhEalJmQZPdCdHbJ2cfABAmZn5vVB5kWPro0JjVmBAUHWLWfE0eKjQH3nO9IkQJCV7q3-Yu5-jWpLt_wdY",
   "inAppProductPrice": "0,29 €–719,99 € bei Abrechnung über Google Play",
@@ -18,10 +18,10 @@
   "lastUpdatedOn": "02.10.2026",
   "metrics": {
     "minInstalls": 50000000,
-    "ratings": 2058174,
+    "ratings": 2058267,
     "realInstalls": 82880689,
     "reviews": 4994,
-    "score": 4.2242217
+    "score": 4.224599
   },
   "price": 0,
   "screenshots": [

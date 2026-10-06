@@ -6,11 +6,11 @@
   "genre": "Lifestyle",
   "headerImage": "https://play-lh.googleusercontent.com/4vgAffm33oP-5v2Vrl8sRYVujoz_fa8QaDXYm8W06MeyMkG_yXs1x_0-34_o1qof_S1fg9CRrnO66ZGIKrtt7w",
   "histogram": [
-    45816,
-    37308,
-    95974,
-    385139,
-    1873680
+    45723,
+    37216,
+    95788,
+    384218,
+    1875369
   ],
   "icon": "https://play-lh.googleusercontent.com/nQsrQf5cd6IeIhFTvVFjez12UiB1QTYYyX1UiVA448XkK--5jQYBhDuiMHtBOWrVnoldLTlnUN1x3AbCt4vflg",
   "inAppProductPrice": "1,59 €–264,99 € bei Abrechnung über Google Play",
@@ -18,10 +18,10 @@
   "lastUpdatedOn": "02.10.2026",
   "metrics": {
     "minInstalls": 100000000,
-    "ratings": 2438186,
+    "ratings": 2438494,
     "realInstalls": 223710409,
     "reviews": 10786,
-    "score": 4.642013
+    "score": 4.6429505
   },
   "price": 0,
   "screenshots": [

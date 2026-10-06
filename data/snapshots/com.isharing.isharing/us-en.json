@@ -6,11 +6,11 @@
   "genre": "Communication",
   "headerImage": "https://play-lh.googleusercontent.com/aOyJlomq1KevZyaeufRspaJ5QT6KB8uDejAZMtcAZV5tAhNWqxS5bqAZL7mH7PhY35MxaPkXyIiiGvagoUoR9g",
   "histogram": [
-    15245,
-    4999,
-    10019,
-    19010,
-    198749
+    15247,
+    5000,
+    10020,
+    19012,
+    198768
   ],
   "icon": "https://play-lh.googleusercontent.com/g_FlgIrM9oMubvKbMvgcFubkkLKBXA6kw6-x3pH-rTXzivtFjdy7Y4bTxDxVp32hXsGXGgE_kJUXJql2VJfG",
   "inAppProductPrice": "$2.99 - $129.99 per item",
@@ -18,7 +18,7 @@
   "lastUpdatedOn": "Oct 1, 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 248087,
+    "ratings": 248111,
     "realInstalls": 32880091,
     "reviews": 2232,
     "score": 4.5358047
