@@ -1,6 +1,7 @@
 {
   "base": {
-    "key": "617f24593852280b0a66f959cfa2e2e4",
+    "key": "ddf7c052e4f57297f26d876c8d9a8dea",
+    "own_screens": false,
     "summary": "GPS location tracker & parental control app. Track & find my family location",
     "title": "Findmykids: Parental Control"
   },
@@ -865,387 +866,464 @@
   ],
   "listings": {
     "af": {
-      "key": "1b3c38b922b0501530634382564ecca6",
+      "key": "114d35336cb3a373693578aac4e43918",
+      "own_screens": false,
       "summary": "GPS-liggingopsporing en ouerlike beheer-app. Spoor op en vind my gesin se ligging.",
       "title": "Findmykids: Parental Control"
     },
     "am": {
-      "key": "de24f04b926a65773d8d96dd85448062",
+      "key": "05ec68ab8c018f97cd50ca4f4895ead4",
+      "own_screens": false,
       "summary": "የጂፒኤስ አካባቢ መከታተያ እና የወላጅ ቁጥጥር መተግበሪያ። የቤተሰቤን አካባቢ ይከታተሉ እና ያግኙ",
       "title": "Findmykids: Parental Control"
     },
     "ar": {
-      "key": "00c2b3c38e50f9eb957397d3c3a01da3",
+      "key": "f1a818c792a96dad05f7a754266efc7d",
+      "own_screens": true,
       "summary": "Find my kids - تطبيق للاتصال بطفلك وتعقب حركته باستخدام هاتفه وساعة تتبعه \"GPS\"",
       "title": "Find my kids تتبع موقع أطفالك"
     },
     "az": {
-      "key": "61071ff7034eee2435acd3760545a547",
+      "key": "590a66cb9374255b38ad8351c21f8e1f",
+      "own_screens": true,
       "summary": "Ailə izləyicisi - Uşaq GPS saatı & telefon lokator. Ətrafdakı səslər",
       "title": "Find my kids:Uşağın İzləyicisi"
     },
     "be": {
-      "key": "ffd45ce78f45b8cc764e07a1b11142dc",
+      "key": "ad1ae6e92c9a0af191a49535e6392d91",
+      "own_screens": true,
       "summary": "Выбар рэдактара! Месцазнаходжання дзiцяцi, гук вакол тэлефона i gps гадзiннiка",
       "title": "Find my kids: семейный локатор"
     },
     "bg": {
-      "key": "3022ee22e5a24985755c45a13e7aecbe",
+      "key": "9cb74a2b92e49117d05443240bfdbf9f",
+      "own_screens": true,
       "summary": "GPS тракер за детска безопасност. Местоположение на детето и звуците около него",
       "title": "Find my kids: GPS координати"
     },
     "bn": {
-      "key": "d7a3a72ebe762f227f14f675e4b7fab7",
+      "key": "4b356358f3d3dd33e1b8373392da10dd",
+      "own_screens": false,
       "summary": "Family tracker: locate a cell phone, track device and connect with family",
       "title": "Find my kids: GPS tracker"
     },
     "ca": {
-      "key": "350f71c8e7951b014a00a56b020bf574",
+      "key": "a8397e94bcca6075432c7c8f6eb7f522",
+      "own_screens": true,
       "summary": "Rastrejador de nens per rellotge GPS o telèfon. Control parental. So al voltant",
       "title": "Findmykids: Rastrejador mòbil"
     },
     "cs": {
-      "key": "161e2104a01b700b72a69c43e95ff109",
+      "key": "367b17465006747a725674192ac7183e",
+      "own_screens": true,
       "summary": "Rodinný lokátor－sledování telefonu a urceni polohy. Lokátor telefonu－gps poloha.",
       "title": "Find my kids: Sledování Polohy"
     },
     "da": {
-      "key": "9dbdede631ec077aa9ba34abafe1d1ff",
+      "key": "776f683d1357c038601eef987bb06d26",
+      "own_screens": true,
       "summary": "Familie-tracker: GPS til børneur og telefonsporing. Lokalisering. Lyt med.",
       "title": "Findmykids: Skole GPS sporing"
     },
     "de": {
-      "key": "88bcdaccad4dbf03fb6e0bef1080f85b",
+      "key": "1e9f35cc798f0e6823fd2153400a05c7",
+      "own_screens": true,
       "summary": "App zum Orten meiner Kinder. GPS ortungs und app blocker parental control app",
       "title": "Find my kids: GPS tracking app"
     },
     "el": {
-      "key": "018aa60f58f251f8f3c5da3575b3fcb6",
+      "key": "06bf96ce2389f32a67432e5459ef7761",
+      "own_screens": true,
       "summary": "Ιχνηλάτης οικογένειας - Ρολόι-GPS & εντοπισμός κινητού. Ήχος περιβάλλοντος",
       "title": "Find my kids: GPS ιχνηλάτης"
     },
     "en-AU": {
-      "key": "bed6841576c2c2d161c31c1b96482c7d",
+      "key": "4ce04195c035f0992abab1c916e1a7f7",
+      "own_screens": false,
       "summary": "Parental control app lock & GPS family locarion tracker. Track & app blocker",
       "title": "Find my kids: GPS tracking app"
     },
     "en-GB": {
-      "key": "f92d33dc6b7eb3dd3c1f2b61e8fc7c8c",
+      "key": "abb3e8a746b93555e8e0507f231c355e",
+      "own_screens": false,
       "summary": "Kids GPS tracking app. My child location tracker, app lock parental control",
       "title": "Find My Kids: Parental Control"
     },
     "en-IN": {
-      "key": "59c2c63e65f638c96579ccc4d3863eec",
+      "key": "9ca32f11749ba4d8b37517340c84a86d",
+      "own_screens": false,
       "summary": "GPS location mobile tracker: Share location with family, see kid's live location",
       "title": "Find my kids: Share Location"
     },
     "es": {
-      "key": "c6cbfc7094c5cd438bcae4d931dc0f3e",
+      "key": "6554ec8e9c0fd5a5adeecc12b5c81974",
+      "own_screens": true,
       "summary": "GPS localizador familiar y rastreo app. Control parental y app lock",
       "title": "Find my kids: GPS Tracker"
     },
     "es-419": {
-      "key": "c6cbfc7094c5cd438bcae4d931dc0f3e",
+      "key": "566f466c5ab9ab1cc81df25d2badbdfc",
+      "own_screens": true,
       "summary": "GPS localizador familiar y rastreo app. Control parental y app lock",
       "title": "Find my kids: GPS Tracker"
     },
     "et": {
-      "key": "51e3664627d4c307f0698194858c966f",
+      "key": "caee28ef2ac3cbcc964004f4e5d3da47",
+      "own_screens": true,
       "summary": "Pere jälgija -Lapse GPS-kell & telefoni lokaator. Online asukoht. Ümbruse heli",
       "title": "Find my kids: GPS Jälgija"
     },
     "eu": {
-      "key": "827a022bb81e450c2444b86a3c643a04",
+      "key": "26825b2ed3817b9fb3e1ca01db4ef0b7",
+      "own_screens": false,
       "summary": "GPS kokapenaren jarraitzailea eta gurasoen kontrolerako aplikazioa. Jarraitu eta aurkitu nire familiaren kokapena",
       "title": "Findmykids: Parental Control"
     },
     "fa": {
-      "key": "429fc204aac803e02cbc4978dc390f17",
+      "key": "c027369836f50371c89faaf731106429",
+      "own_screens": false,
       "summary": "Family tracker - ساعت مکان یاب کودکان و ردیاب تلفن.",
       "title": "Find my kids: ساعت مکان کودک"
     },
     "fi": {
-      "key": "82711945741e31eb33a59c62839cc00f",
+      "key": "6a0591e4a7bc665af1f219985b47be01",
+      "own_screens": true,
       "summary": "Perheen seuranta・Lapsen GPS-kellon・puhelimen paikannin. Sijainti. Äänitallenteet",
       "title": "Findmykids: GPS koululaisille"
     },
     "fil": {
-      "key": "ac6e9320003176cb04d5e6fc0b7ce072",
+      "key": "de1b47b66fc9b64cdeed40914f6e84f8",
+      "own_screens": false,
       "summary": "Family locator and parental control app: find phone with GPS location tracker",
       "title": "Find my kids: Location Tracker"
     },
     "fr": {
-      "key": "927355f611af998477afbf178f18b79c",
+      "key": "1fd96f91aee712648935ca6ceab57efd",
+      "own_screens": true,
       "summary": "Un traceur GPS pour localiser votre enfant. Controle parental et app lock",
       "title": "FindMyKids : GPS tracker app"
     },
     "fr-CA": {
-      "key": "846e8c74f7a9dbe74ba6057e01b41ff7",
+      "key": "925f2f61af1c0f708648f2c9f9613148",
+      "own_screens": true,
       "summary": "Tracker familial - Localisateur de montres GPS et de téléphones pour enfants.",
       "title": "Find my kids: Tracker GPS"
     },
     "gl": {
-      "key": "3b4125d24974315048117e98d9a196b1",
+      "key": "4cbf89337c8ecd332bd3f1417b055aba",
+      "own_screens": false,
       "summary": "Rastreador de localización GPS e aplicación de control parental. Rastrexa e atopa a localización da miña familia",
       "title": "Findmykids: Parental Control"
     },
     "gu": {
-      "key": "0a4252a8d730babffd0e6bada2fa52e8",
+      "key": "bd824d3cdbc9c5509be6fcde5eacc3ed",
+      "own_screens": false,
       "summary": "બાળકોની માટે GPS-ઘડિયાળ અને ફોન લોકેટર. ઑનલાઇન લોકેશન. ચારે તરફનો અવાજ.",
       "title": "Findmykids: ફેમિલી લોકેટર"
     },
     "hi": {
-      "key": "9bdd4684cbcc3196741ff9b12d06f9ab",
+      "key": "9319a01e6f76d261646caef4e366d0e0",
+      "own_screens": true,
       "summary": "किड्स जीपीएस-वॉच और फोन लोकेटर। ऑनलाइन लोकेशन। साउंड अराउंड",
       "title": "Findmykids: फेमिली लोकेटर"
     },
     "hr": {
-      "key": "93af82df9d61bfa1ae50cb4bd5a2d67c",
+      "key": "ffad63cec6c33fb5e3970ee205f04ea6",
+      "own_screens": true,
       "summary": "Obiteljski lokator — Dječji GPS sat & Lokator za Mobitel. Zvuk okolo",
       "title": "Find my kids: Dječji GPS sat"
     },
     "hu": {
-      "key": "699bf29a3f19a0ea9527d05951eedaa5",
+      "key": "805b8e8de458535ef3351feca0ab0386",
+      "own_screens": true,
       "summary": "Gyermekfelügyelet: Nyomkövető alkalmazás és lokátor. Követés az egész családnak.",
       "title": "Find my kids: GPS nyomkövető"
     },
     "hy": {
-      "key": "2be32467d5b725ab7a7734346f293240",
+      "key": "e269654381b09afedf1f1ad45c81f909",
+      "own_screens": true,
       "summary": "Երեխաների հեռախոսի հետևիչ և ընտանեկան GPS տեղորոշում",
       "title": "Find my kids: GPS հետևիչ"
     },
     "id": {
-      "key": "ff1db8a8186ab787e7015c9840e6fbd3",
+      "key": "485dea467326aefb3f5bd4a8b818cefc",
+      "own_screens": true,
       "summary": "Aplikasi lacak nomor HP dan lokasi anak. Cari lokasi no HP anak secara akurat.",
       "title": "Find my kids: Pelacak No HP"
     },
     "is": {
-      "key": "40021a428e4e1b8ee1ea7aef69c8164f",
+      "key": "7a53d71a047a38de56d29d30035a6358",
+      "own_screens": false,
       "summary": "GPS staðsetningarmæling og foreldraeftirlitsforrit. Fylgstu með og finndu staðsetningu fjölskyldu minnar.",
       "title": "Findmykids: Parental Control"
     },
     "it": {
-      "key": "a6669d0586e86eeb3433ffa16b4ab5f2",
+      "key": "68f7e6d8fce8638b05b8a57581c4a340",
+      "own_screens": true,
       "summary": "Trova il mio telefono e dispositivo, localizzatore famiglia, posizione cellulare",
       "title": "Find my kids: gps tracker"
     },
     "iw": {
-      "key": "69534e9e91ce1fa3722f921f3b89e3a0",
+      "key": "6d857464e873a87db4c1e20256f0d01f",
+      "own_screens": true,
       "summary": "Find my kids - בקרת הורים לילדים & מאתר מיקום נייד.מצא מכשיר - איתור טלפון.",
       "title": "Find my kids: מאתר מיקום נייד"
     },
     "ja": {
-      "key": "33a524a5d028a78c259e19f79670d845",
+      "key": "61cd9ab5e99d01d08f2257e09ba9a4d2",
+      "own_screens": true,
       "summary": "携帯を探す 位置情報アプリで子供の居場所を見守り 位置ナビと端末を探すアプリ",
       "title": "Find my kids: 居場所と追跡アプリ"
     },
     "ka": {
-      "key": "e90ee60fdbe3fa045ea7e48c2b2a6537",
+      "key": "ffebfdc570b27c9d8ad837fb2ef79976",
+      "own_screens": true,
       "summary": "რედაქტორის არჩევანი! ბავშვის GPS ტრეკერი. მოძებნა რუკაზე ონლაინ. ხმა ირგვლივ.",
       "title": "Find my kids: GPS-სთ ტრეკერი"
     },
     "kk": {
-      "key": "97b216d059bdbf2fe19154f3383707ce",
+      "key": "8537f2ba00898fad64c0b0805f36e74a",
+      "own_screens": true,
       "summary": "GPS семейный локатор: дети под контролем! Геолокатор и родительский контроль",
       "title": "Find my kids: Род контроль"
     },
     "km": {
-      "key": "102988cda601d4256d230cc0db7807f7",
+      "key": "248e95e7ae4367a60c5e521c1ffdd120",
+      "own_screens": false,
       "summary": "កម្មវិធីតាមដានទីតាំង GPS និងកម្មវិធីគ្រប់គ្រងដោយឪពុកម្តាយ។ តាមដាន និងស្វែងរកទីតាំងគ្រួសាររបស់ខ្ញុំ",
       "title": "Findmykids: Parental Control"
     },
     "kn": {
-      "key": "7441bc22a7a595635e0007fdf49aa514",
+      "key": "7392f21ed2e562c9d291a0c84b5d67ff",
+      "own_screens": false,
       "summary": "ಮಕ್ಕಳ ಜಿಪಿಎಸ್ ಗಡಿಯಾರ ಮತ್ತು ಫೋನ್ ಲೊಕೇಟರ್. ಆನ್‌ಲೈನ್ ಸ್ಥಳ. ಸುತ್ತಮುತ್ತಲಿನ ಧ್ವನಿ ಕೇಳಿ",
       "title": "Findmykids: ಫ್ಯಾಮಿಲಿ ಲೊಕೇಟರ್"
     },
     "ko": {
-      "key": "6478b8b47696d09c87b2ed2c7f2271d3",
+      "key": "f87045d6b545312571206f2a0607272d",
+      "own_screens": true,
       "summary": "자녀 스마트폰 관리와 자녀 보호 기능으로 가족 위치 추적기와 위치공유",
       "title": "Find my kids: 가족 위치 추적"
     },
     "ky": {
-      "key": "81dbdcf7e62dd28902bfa4444a19d8d0",
+      "key": "2844563f489b90d80b3169a4bf15a63c",
+      "own_screens": false,
       "summary": "GPS жайгашкан жерди көзөмөлдөөчү жана ата-энелик көзөмөл колдонмосу. Үй-бүлөмдүн жайгашкан жерин көзөмөлдөп, табыңыз",
       "title": "Findmykids: Parental Control"
     },
     "lo": {
-      "key": "0a662fac916998e174ece52bdb3592f4",
+      "key": "f6a7ef8811a863640277859e4263bc03",
+      "own_screens": false,
       "summary": "ແອັບຕິດຕາມສະຖານທີ່ GPS ແລະ ການຄວບຄຸມຂອງຜູ້ປົກຄອງ. ຕິດຕາມ ແລະ ຊອກຫາສະຖານທີ່ຂອງຄອບຄົວຂອງຂ້ອຍ",
       "title": "Findmykids: Parental Control"
     },
     "lt": {
-      "key": "99600ac6bac9bedcb1a0c99354a7c06e",
+      "key": "4451b4c084df4e91f3a307e9446774d6",
+      "own_screens": true,
       "summary": "Šeimos seklys: vaikų GPS laikrodis ir telefono buvimo vietos nustatymas",
       "title": "Find my kids: telefono seklys"
     },
     "lv": {
-      "key": "1ddd6af1177aa504b0431bcf5636e16c",
+      "key": "51343680da564287735296115ed0e099",
+      "own_screens": true,
       "summary": "Ģimenes izsekošanas ierīce - Bērna meklēšana. Online lokācija. Apkārtnes skaņa",
       "title": "Find my kids: bērna meklētājs"
     },
     "mk": {
-      "key": "592b1f062e9f83918660912d5b88d0a4",
+      "key": "a97a16b0d65680e7612e809e5ac2ddab",
+      "own_screens": false,
       "summary": "GPS апликација за следење на локација и родителска контрола. Следете ја и пронајдете ја локацијата на моето семејство",
       "title": "Findmykids: Parental Control"
     },
     "ml": {
-      "key": "cb05234a6eb7857f8fef6cffc7879213",
+      "key": "89bc4686b77d1b8a9612122e851e2186",
+      "own_screens": false,
       "summary": "കുട്ടികൾക്കുള്ള ജിപിഎസ്-വാച്ച് & ഫോൺ ലൊക്കേറ്റർ.",
       "title": "Findmykids: ഫാമിലി ലൊക്കേറ്റർ"
     },
     "mn": {
-      "key": "fefb4d8a9febad70632cadd761b91e53",
+      "key": "85d3f97fb6606ad0042b8b79cd58d155",
+      "own_screens": false,
       "summary": "GPS байршил хянагч болон эцэг эхийн хяналтын апп. Гэр бүлийнхээ байршлыг хянах, олох",
       "title": "Findmykids: Parental Control"
     },
     "mr": {
-      "key": "e5f6ddbac01f6044e2f201bdf9023be7",
+      "key": "1beda054174a998711f7fdd9a6c0a21d",
+      "own_screens": false,
       "summary": "मुलांसाठी GPS घड्याळ आणि फोन शोधक. ऑनलाइन स्थान. आजूबाजूचा आवाज.",
       "title": "Findmykids: कुटुंब स्थान शोधक"
     },
     "ms": {
-      "key": "208fcddf66fbfc2f10978a0381c189c2",
+      "key": "3b4fe744e5f3015e7682210ec263135c",
+      "own_screens": false,
       "summary": "Pilihan editor! Jejak GPS. Lokasi anak di peta online. Dengar persekitarannya",
       "title": "Find my kids: Jejak jam-GPS"
     },
     "my": {
-      "key": "42f0b85500b90bcf05076ef4e4fa7640",
+      "key": "da371ff118dd36be0774ccf111eac875",
+      "own_screens": false,
       "summary": "GPS တည်နေရာခြေရာခံခြင်းနှင့် မိဘထိန်းချုပ်မှုအက်ပ်။ ကျွန်ုပ်၏မိသားစုတည်နေရာကို ခြေရာခံပြီးရှာဖွေပါ",
       "title": "Findmykids: Parental Control"
     },
     "ne": {
-      "key": "66e23d6331456efb0469206bc65f4ac6",
+      "key": "a010d5f0146d73d91f79444cc6126f20",
+      "own_screens": false,
       "summary": "GPS स्थान ट्रयाकर र अभिभावकीय नियन्त्रण एप। मेरो परिवारको स्थान ट्र्याक गर्नुहोस् र फेला पार्नुहोस्",
       "title": "Findmykids: Parental Control"
     },
     "nl": {
-      "key": "7968cec1d23502aecde68f06e7b14607",
+      "key": "f49ac686e0d2178a1c8362bdaed037d8",
+      "own_screens": true,
       "summary": "Familietracker - Kind GPS-tracker & Telefoon-Tracker. Omgevingsgeluid",
       "title": "Find my kids: Kind GPS Tracker"
     },
     "no": {
-      "key": "769a8cfbe08f0c85003d2718c77d5be6",
+      "key": "31fcc04df83fac6b0498e33cb73f6bec",
+      "own_screens": true,
       "summary": "Familie-sporing - GPS-klokke og telefonsporing av barn. Lyd rundt",
       "title": "Findmykids: GPS for skolebarn"
     },
     "pa": {
-      "key": "c53fc46ac0425a0d2993be4d163759f9",
+      "key": "375007909402f62e443127110f2082a6",
+      "own_screens": false,
       "summary": "GPS ਸਥਾਨ ਟਰੈਕਰ ਅਤੇ ਮਾਪਿਆਂ ਦੇ ਨਿਯੰਤਰਣ ਐਪ। ਮੇਰੇ ਪਰਿਵਾਰਕ ਸਥਾਨ ਨੂੰ ਟਰੈਕ ਕਰੋ ਅਤੇ ਲੱਭੋ",
       "title": "Findmykids: Parental Control"
     },
     "pl": {
-      "key": "5f228f3804bcaad51fec5f998ca28785",
+      "key": "c09c9d96848690004bb3d7ff5a0a7532",
+      "own_screens": true,
       "summary": "Geolokalizacja: Lokalizator GPS, śledzenie telefonu, znajdź moje urządzenie",
       "title": "Find my kids: Znajdź telefon"
     },
     "pt-BR": {
-      "key": "e6c589cc8940afc49de708205ad613f8",
+      "key": "877fb7e066a9d3fc0f1e04c0eb92fa04",
+      "own_screens": true,
       "summary": "Rastreador de celular para find my kids familia  e controle parental",
       "title": "Find my kids: GPS tracker"
     },
     "pt-PT": {
-      "key": "d5c74970de737f3729fe8c8b850b05cf",
+      "key": "456cc7bdbe8bd8ad5e0ff872d45f5012",
+      "own_screens": true,
       "summary": "Localizador de telemoveis para find my kids familia  e controlo parental",
       "title": "Find my kids: GPS tracker"
     },
     "ro": {
-      "key": "436350bdf62393608c34997d5226ee79",
+      "key": "f8896a845164e7fe06a4a47c91fdd8f6",
+      "own_screens": true,
       "summary": "Localizare telefon, locatia unde se afla o persoana, locatie telefon prin gps",
       "title": "Find My Kids: locatie telefon"
     },
     "ru": {
-      "key": "dc5a673d3731a7873feb916e0f4b1d78",
+      "key": "624b047d9e135e101ab37796c57c1cac",
+      "own_screens": true,
       "summary": "Cемейный локатор, отслеживание местоположения и родительский контроль",
       "title": "Findmykids: семейный локатор"
     },
     "si": {
-      "key": "9a86390ee4cd6c278650d1becec33fdf",
+      "key": "a02aef3cc1e5b6ff924751fcdd9bf499",
+      "own_screens": false,
       "summary": "ජීපීඑස් ස්ථාන ට්රැකර් සහ දෙමාපිය පාලන යෙදුම. මගේ පවුලේ ස්ථානය නිරීක්ෂණය කර සොයා ගන්න.",
       "title": "Findmykids: Parental Control"
     },
     "sk": {
-      "key": "d6192298610eee69a0d82d94bf0a9c94",
+      "key": "b3c224dee34933b0852749b05c1982c6",
+      "own_screens": true,
       "summary": "Rodinný tracker - pre detské GPS hodinky a telefóny. Online poloha. Zvuk okolo",
       "title": "Find my kids: Tracker GPS"
     },
     "sl": {
-      "key": "41c686552e4ff160bbd6b8b01580e64b",
+      "key": "82420c02c37e236567fe5824dbf310b4",
+      "own_screens": true,
       "summary": "Družinska sledilna naprava - Otroška GPS-ura in lokator telefona. Okoliški zvok",
       "title": "Find my kids: GPS sledilnik"
     },
     "sq": {
-      "key": "bffeb8daa1ad792943038aca477c175b",
+      "key": "0d286dd7acfb8630d7f90c4aa33b9d8b",
+      "own_screens": true,
       "summary": "Gjurmues familjar - Ora fëmijës GPS & vendndodhja në telefon dhe zëri përreth",
       "title": "Find my kids: Fëmijë Gjurmues"
     },
     "sr": {
-      "key": "b05c276f1b59c444ba8425b842071465",
+      "key": "ffa7eb30113fa041def607db0a36603c",
+      "own_screens": true,
       "summary": "Породични локатор - Дечији GPS сат и телефонски локатор. Звук околине",
       "title": "Find my kids Дечји GPS локатор"
     },
     "sv": {
-      "key": "f5901c6b8ffdf60b2f71fdaa3540a0a6",
+      "key": "0019ec9400f20f6be20596c9c722912a",
+      "own_screens": true,
       "summary": "Familjespårare - Barn GPS-klocka & telefonspårare. Online-läge. Ljud runt",
       "title": "Findmykids: GPS för skolbarn"
     },
     "sw": {
-      "key": "b641d2a018af2f5cdeb1771777b44295",
+      "key": "c3c58ef4a89ae4d621f74e2c8a9784f9",
+      "own_screens": false,
       "summary": "Chaguo la Mhariri! Fuatilizi ya GPS. Pata wana kwenye ramani. Sauti ya karibu",
       "title": "Find my kids: Fuatilizi GPS"
     },
     "ta": {
-      "key": "9d5d89c4e88f7ca3d51459e4d259934f",
+      "key": "61fca1d644bf017b3094fc5ed77ef857",
+      "own_screens": false,
       "summary": "குழந்தைகளுக்கான GPS வாடச் மற்றும் லொகேடர். லொகேஷன் ஆன்லைனில். சவுண்ட் வசதியுடன்.",
       "title": "Findmykids: ஃபேமிலி லொகேடர்"
     },
     "te": {
-      "key": "d999ff74fd53f9330123bc84327b92ac",
+      "key": "c035e14299c2091e77faf2c0641187e7",
+      "own_screens": false,
       "summary": "కిడ్స్ జిపిఎస్-వాచ్ & ఫోన్ లొకేటర్. ఆన్‌లైన్ లొకేషన్. సౌండ్ అరౌండ్",
       "title": "Findmykids: ఫ్యామిలీ లొకేటర్"
     },
     "th": {
-      "key": "0570522d56f05752bfc7d55df23dd1fe",
+      "key": "cca04165a9d054daebb1294fb220ac57",
+      "own_screens": true,
       "summary": "แอปติดตามครอบครัว－ระบุตำแหน่งนาฬิกา GPS โทรศัพท์เด็ก ตำแหน่งออนไลน์ เสียงรอบตัว",
       "title": "Find my kids: แอปติดตาม"
     },
     "tr": {
-      "key": "26bbe3da0d3cb5b36a1879c0029f7aa8",
+      "key": "c0be8c6c54c05e69de67594dbb135e1e",
+      "own_screens": true,
       "summary": "Aile bulucu telefon takip programı: aile takip gps konum ve izleme programı",
       "title": "Findmykids aile takip programi"
     },
     "uk": {
-      "key": "17b40a8f041abe7a79634104dae63552",
+      "key": "f5712723270ad6ec9f9db944105bb088",
+      "own_screens": true,
       "summary": "Вибір редакції. Дитячий GPS-локатор. Онлайн локація. Звук навколо.",
       "title": "Findmykids Дитина під наглядом"
     },
     "ur": {
-      "key": "b2db1c36449a252fbe1aba7bdbad6ae4",
+      "key": "2ed47e839151db8fad83d24896524cb3",
+      "own_screens": false,
       "summary": "GPS لوکیشن ٹریکر اور پیرنٹل کنٹرول ایپ۔ میرے خاندانی مقام کو ٹریک کریں اور تلاش کریں۔",
       "title": "Findmykids: Parental Control"
     },
     "vi": {
-      "key": "a8f3863176c3310bd23c5b2497dae1d4",
+      "key": "6dc5115549bd15fcf88c0ae17444acf6",
+      "own_screens": true,
       "summary": "Định vị GPS. Xác định vị trí. Thiết bị định vị điện thoại.",
       "title": "Find my kids: Theo dõi trẻ em"
     },
     "zh-CN": {
-      "key": "8e0b0eaf2b218bb4a03098a31515d5cd",
+      "key": "b864d7b64576810cf114bb4cece10c72",
+      "own_screens": false,
       "summary": "儿童 GPS 手表手机跟踪器，用于家庭跟踪，在线查看孩子位置，聆听孩子周围声音",
       "title": "Find my kids: 儿童 GPS 手表手机跟踪器"
     },
     "zh-HK": {
-      "key": "8e0b0eaf2b218bb4a03098a31515d5cd",
-      "summary": "儿童 GPS 手表手机跟踪器，用于家庭跟踪，在线查看孩子位置，聆听孩子周围声音",
-      "title": "Find my kids: 儿童 GPS 手表手机跟踪器"
+      "key": "70d02f97abe9328df7ec2960894f73bf",
+      "own_screens": false,
+      "summary": "兒童位置追蹤-定位追蹤兒童的手錶或手機。實時取得孩子的位置並聆聽周圍聲音。",
+      "title": "Find my kids：手錶與手機的家庭定位器"
     },
     "zh-TW": {
-      "key": "06be5fbfa018e38f263794cd32ff20b9",
+      "key": "70d02f97abe9328df7ec2960894f73bf",
+      "own_screens": false,
       "summary": "兒童位置追蹤-定位追蹤兒童的手錶或手機。實時取得孩子的位置並聆聽周圍聲音。",
       "title": "Find my kids：手錶與手機的家庭定位器"
     },
     "zu": {
-      "key": "c22e6dc4142382a8b23f8baaf1a21644",
+      "key": "9f4cdf8f1a8b8d8a11dbfb94643aa908",
+      "own_screens": false,
       "summary": "Uhlelo lokusebenza lokulandelela indawo ye-GPS kanye nokulawula kwabazali. Landelela futhi uthole indawo yomndeni wami",
       "title": "Findmykids: Parental Control"
     }

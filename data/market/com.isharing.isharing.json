@@ -1,6 +1,7 @@
 {
   "base": {
-    "key": "1cf18230d4a8b3869abcd68f39a1b649",
+    "key": "c5469fa30408af193363b4af19681b4a",
+    "own_screens": false,
     "summary": "GPS Phone Tracker: Share live location to find kids & use as a family locator!",
     "title": "iSharing: GPS Location Tracker"
   },
@@ -865,387 +866,464 @@
   ],
   "listings": {
     "af": {
-      "key": "5292c6ce329a48ae508bfb5c34dc4d13",
+      "key": "df32d2957ea746a02d0bc6626746f2b0",
+      "own_screens": false,
       "summary": "GPS Phone Tracker: Deel lewendige ligging om kinders te vind en gebruik as 'n gesinsopspoorder!",
       "title": "iSharing: GPS Location Tracker"
     },
     "am": {
-      "key": "5cbaab9c8fffa9cd5293fd26aef6be42",
+      "key": "981a5d92844efa71e47eee97f72d0633",
+      "own_screens": false,
       "summary": "የጂፒኤስ ስልክ መከታተያ፡ ልጆችን ለማግኘት እና እንደ ቤተሰብ አመልካች ለመጠቀም የቀጥታ አካባቢን ያጋሩ!",
       "title": "iSharing: GPS Location Tracker"
     },
     "ar": {
-      "key": "80c7ba7e149dc9ccdc09df9cdb3a89c5",
+      "key": "e739681fe72f0df21468e61f722208fe",
+      "own_screens": true,
       "summary": "تطبيق GPS تحديد الموقع وتتبع الجوال، يساعد الأسرة الأطفال في العثور على جهازك",
       "title": "آيشيرينغ:  برنامج تحديد الموقع"
     },
     "az": {
-      "key": "b09a4978a2dde81968a605f78906da00",
+      "key": "12814ecec76d277deb1c516214ab081e",
+      "own_screens": false,
       "summary": "GPS Telefon İzləyicisi: Uşaqları tapmaq və ailə axtarışçısı kimi istifadə etmək üçün canlı məkanı paylaşın!",
       "title": "iSharing: GPS Location Tracker"
     },
     "be": {
-      "key": "ca9f3ad95e47b8023ae0b4213c5cd392",
+      "key": "22ac45c11e009cc5b0f510a0f876ebeb",
+      "own_screens": false,
       "summary": "GPS-тэлефонны трэкер: дзяліцеся жывым месцазнаходжаннем, каб знаходзіць дзяцей і выкарыстоўваць яго як сямейны лакатар!",
       "title": "iSharing: GPS Location Tracker"
     },
     "bg": {
-      "key": "c96eb95c4dcd9a5df871ec21f03c3557",
+      "key": "3532dec3bb3ac3d296f108920b3b9e7c",
+      "own_screens": false,
       "summary": "GPS телефон за проследяване: Споделете местоположение на живо, за да намерите деца и да го използвате като семеен локатор!",
       "title": "iSharing: GPS Location Tracker"
     },
     "bn": {
-      "key": "9913044c71e6ab52727e97610f8cf53b",
+      "key": "f2e8e386fc880327229e101da366e4ad",
+      "own_screens": false,
       "summary": "জিপিএস ফোন ট্র্যাকার: বাচ্চাদের খুঁজে পেতে এবং ফ্যামিলি লোকেটার হিসেবে ব্যবহার করতে লাইভ লোকেশন শেয়ার করুন!",
       "title": "iSharing: GPS Location Tracker"
     },
     "ca": {
-      "key": "a9863223adfc3043ca76ba5afbc3f35c",
+      "key": "0cc25e04bf0f1c77ad7aa473c849239a",
+      "own_screens": false,
       "summary": "Localitzador de telèfons GPS: compartiu la ubicació en directe per trobar nens i utilitzeu-lo com a localitzador familiar!",
       "title": "iSharing: GPS Location Tracker"
     },
     "cs": {
-      "key": "565e2f7f585bb5bb681ff876695cd9da",
+      "key": "b7e30e0d01632224dcb823f6f84296fc",
+      "own_screens": false,
       "summary": "GPS Phone Tracker: Sdílejte živou polohu, abyste našli děti a používali je jako rodinný lokátor!",
       "title": "iSharing: GPS Location Tracker"
     },
     "da": {
-      "key": "947a9374e34e457b0cc11fc2d1c5b19b",
+      "key": "86c673c6489136867a5d7109896924f8",
+      "own_screens": false,
       "summary": "GPS Phone Tracker: Del live-placering for at finde børn og brug som familielokalisering!",
       "title": "iSharing: GPS Location Tracker"
     },
     "de": {
-      "key": "872736ef5bdf97310d5ab7f79f801058",
+      "key": "5e36bda437193f81f98ae255ea0a6629",
+      "own_screens": true,
       "summary": "Wo ist mein Gerät? GPS-Tracker & Handy orten. Standort teilen zum Gerät finden!",
       "title": "iSharing: GPS Standort Tracker"
     },
     "el": {
-      "key": "a026931bfa5b403fc7cb1e537598f72d",
+      "key": "dbd7a3bc2a9fe4416495846b7a4fe415",
+      "own_screens": false,
       "summary": "GPS Phone Tracker: Μοιραστείτε ζωντανή τοποθεσία για να βρείτε παιδιά και χρησιμοποιήστε το ως οικογενειακό εντοπιστή!",
       "title": "iSharing: GPS Location Tracker"
     },
     "en-AU": {
-      "key": "5d179f04f2a6fd4778514ecb2d305fb4",
+      "key": "74f76de4a3fe1d0b10fe75f37983decd",
+      "own_screens": false,
       "summary": "GPS Tracking App 24x7 - Share phone location to find kids and for family safety!",
       "title": "iSharing: GPS Location Tracker"
     },
     "en-GB": {
-      "key": "5d179f04f2a6fd4778514ecb2d305fb4",
+      "key": "74f76de4a3fe1d0b10fe75f37983decd",
+      "own_screens": false,
       "summary": "GPS Tracking App 24x7 - Share phone location to find kids and for family safety!",
       "title": "iSharing: GPS Location Tracker"
     },
     "en-IN": {
-      "key": "5d179f04f2a6fd4778514ecb2d305fb4",
+      "key": "74f76de4a3fe1d0b10fe75f37983decd",
+      "own_screens": false,
       "summary": "GPS Tracking App 24x7 - Share phone location to find kids and for family safety!",
       "title": "iSharing: GPS Location Tracker"
     },
     "es": {
-      "key": "bcce33eba206e1d9fdade0e7ff5c698d",
+      "key": "b274b29d26816cdf3701ce334c5e28e1",
+      "own_screens": true,
       "summary": "iSharing: Compartir ubicación para localizador móvil por número, familiar",
       "title": "Rastreo de Ubicación Móvil GPS"
     },
     "es-419": {
-      "key": "a0da5d108d43829c2951e8ff6ec8bc23",
+      "key": "eb9a3a51aa7d3856c3087954bc6ac034",
+      "own_screens": true,
       "summary": "Rastreo de ubicación familiar en tiempo real con Rastrear celular por el numero",
       "title": "iSharing: GPS Localizador"
     },
     "et": {
-      "key": "51d97b043ea06716f8af33ccd671f7d6",
+      "key": "f093dec7af806a06a3c4b27fa7df99e5",
+      "own_screens": false,
       "summary": "GPS-telefoni jälgija: jagage reaalajas asukohta, et leida lapsi ja kasutada pereotsijana!",
       "title": "iSharing: GPS Location Tracker"
     },
     "eu": {
-      "key": "91ff11c7d2623718c18b0d8bfedb0324",
+      "key": "f93ff89f0974401530132470d1705bf0",
+      "own_screens": false,
       "summary": "GPS Telefonoaren Tracker: partekatu zuzeneko kokapena haurrak aurkitzeko eta erabili familia bilatzaile gisa!",
       "title": "iSharing: GPS Location Tracker"
     },
     "fa": {
-      "key": "853e4d0c3e8367e5ae5c934f6f383688",
+      "key": "31c3fa0094e6a0858fc9cfd0151dbbe5",
+      "own_screens": false,
       "summary": "ردیاب تلفن جی‌پی‌اس: مکان زنده را به اشتراک بگذارید تا بچه‌ها را پیدا کنید و از آن به عنوان مکان یاب خانواده استفاده کنید!",
       "title": "iSharing: GPS Location Tracker"
     },
     "fi": {
-      "key": "09652fededc8c72fd57086e41dd648d7",
+      "key": "5af736e85d5bdce49646d1abba842fe9",
+      "own_screens": false,
       "summary": "GPS-puhelinseuranta: Jaa live-sijainti löytääksesi lapset ja käyttääksesi perheen paikantimena!",
       "title": "iSharing: GPS Location Tracker"
     },
     "fil": {
-      "key": "a65aad18c8bb2bcc77b3d0e2b2e5a6d8",
+      "key": "1711b34e8628fc5cef14e465753cd71c",
+      "own_screens": false,
       "summary": "GPS Phone Tracker: Ibahagi ang live na lokasyon upang mahanap ang mga bata at gamitin bilang tagahanap ng pamilya!",
       "title": "iSharing: GPS Location Tracker"
     },
     "fr": {
-      "key": "f65f3cf4da58e92e2357b3c252566a2e",
+      "key": "f6de032ded36f97f55760a607c793ec0",
+      "own_screens": true,
       "summary": "GPS Tracker: localiser famille. Traceur GPS, géolocalisation, parental",
       "title": "iSharing: Localiser GPS"
     },
     "fr-CA": {
-      "key": "f65f3cf4da58e92e2357b3c252566a2e",
+      "key": "f6de032ded36f97f55760a607c793ec0",
+      "own_screens": true,
       "summary": "GPS Tracker: localiser famille. Traceur GPS, géolocalisation, parental",
       "title": "iSharing: Localiser GPS"
     },
     "gl": {
-      "key": "c32216861a6b75a496b8dbcd3686cb74",
+      "key": "a49934c4febdb9ea017203bb70a6a843",
+      "own_screens": false,
       "summary": "Rastreador de teléfono GPS: comparte a localización en directo para atopar nenos e úsao como localizador familiar.",
       "title": "iSharing: GPS Location Tracker"
     },
     "gu": {
-      "key": "da61849ec42dfbb55174dbc2a7c81ca9",
+      "key": "872a82b951202e6277311799cbb9f93b",
+      "own_screens": false,
       "summary": "GPS ફોન ટ્રેકર: બાળકોને શોધવા અને ફેમિલી લોકેટર તરીકે ઉપયોગ કરવા માટે લાઇવ લોકેશન શેર કરો!",
       "title": "iSharing: GPS Location Tracker"
     },
     "hi": {
-      "key": "aad20bf35e2597028d2fddccd1a8ea21",
+      "key": "2beb3bb6486cc050d714f8a27fe0e314",
+      "own_screens": false,
       "summary": "जीपीएस फोन ट्रैकर: बच्चों को ढूंढने और परिवार लोकेटर के रूप में उपयोग करने के लिए लाइव स्थान साझा करें!",
       "title": "iSharing: GPS Location Tracker"
     },
     "hr": {
-      "key": "7e6d0ec93682e01adfa3bfa06c96e215",
+      "key": "e04aa211d9735b012eb0c7bc6986c5af",
+      "own_screens": false,
       "summary": "GPS praćenje telefona: Podijelite lokaciju uživo kako biste pronašli djecu i koristili kao obiteljski lokator!",
       "title": "iSharing: GPS Location Tracker"
     },
     "hu": {
-      "key": "a28e2b32ecf1596b07df368b44c69fab",
+      "key": "e5e0377fb09c3b97650471ad53f001fe",
+      "own_screens": false,
       "summary": "GPS-telefonkövető: Ossza meg élő helyét, hogy megtalálja a gyerekeket, és használja családkeresőként!",
       "title": "iSharing: GPS Location Tracker"
     },
     "hy": {
-      "key": "b080b9baa421a29006a7107e708b3dea",
+      "key": "607aa83796509e99904d9c85dfaf6b9a",
+      "own_screens": false,
       "summary": "GPS Phone Tracker. Կիսեք կենդանի գտնվելու վայրը՝ երեխաներին գտնելու և որպես ընտանիքի որոնիչ օգտագործելու համար:",
       "title": "iSharing: GPS Location Tracker"
     },
     "id": {
-      "key": "95d3ccb69037043e5f98d12e0e4e3119",
+      "key": "579942e307176a5352001f9b43d9c723",
+      "own_screens": true,
       "summary": "Pelacak lokasi GPS untuk lacak HP & device demi keamanan keluarga! hlr lookup",
       "title": "iSharing : lacak lokasi GPS"
     },
     "is": {
-      "key": "e09042799c8a2e63d1217d7535439486",
+      "key": "87dfaf858c4d5cce16f33dc93ca1aa47",
+      "own_screens": false,
       "summary": "GPS sími rekja spor einhvers: Deildu lifandi staðsetningu til að finna börn og notaðu sem fjölskyldustaðsetningartæki!",
       "title": "iSharing: GPS Location Tracker"
     },
     "it": {
-      "key": "453c0498e9466d04f09f37e58089b50d",
+      "key": "815942ab7bfa8cfb58cc6f12e16738e5",
+      "own_screens": true,
       "summary": "iSharing - geolocalizzazione per Famiglia e trova il mio telefono e dispositivo.",
       "title": "Localizzatore cellulare dov'è"
     },
     "iw": {
-      "key": "334f5599bb496a97cc188bd8df1387a7",
+      "key": "6bc7a8d4caa5233229e81228ea65bce2",
+      "own_screens": false,
       "summary": "מעקב אחר טלפון GPS: שתף מיקום חי כדי למצוא ילדים ולהשתמש כמאתר משפחה!",
       "title": "iSharing: GPS Location Tracker"
     },
     "ja": {
-      "key": "276449e1d5ee893ab6d106f578e76e26",
+      "key": "d330a35603d0aa3f40662644cd545803",
+      "own_screens": true,
       "summary": "家族の居場所や位置情報を地図で確認。現在地チェックと携帯探しで安心",
       "title": "iシェアリング - 位置情報共有 GPS 見守りアプリ"
     },
     "ka": {
-      "key": "e5f7de85dea724ed7bb6cb32e71a9781",
+      "key": "d1120f8aa425d011329fe87fd97889ef",
+      "own_screens": false,
       "summary": "GPS Phone Tracker: გააზიარეთ პირდაპირი მდებარეობა ბავშვების მოსაძებნად და გამოიყენეთ როგორც ოჯახის ლოკატორი!",
       "title": "iSharing: GPS Location Tracker"
     },
     "kk": {
-      "key": "b0ebf592ffeb18bec3d78457d52b9055",
+      "key": "29357acd852f96750af0eeac6c82f4ad",
+      "own_screens": false,
       "summary": "GPS телефонды бақылау құралы: балаларды табу және отбасылық локатор ретінде пайдалану үшін тікелей орналасқан жерді бөлісіңіз!",
       "title": "iSharing: GPS Location Tracker"
     },
     "km": {
-      "key": "5303e986359753cf40c57bed791ea9a3",
+      "key": "a2ca4e5eb934bee0188bae70e6d8f5d1",
+      "own_screens": false,
       "summary": "កម្មវិធីតាមដានទូរស័ព្ទ GPS៖ ចែករំលែកទីតាំងផ្ទាល់ដើម្បីស្វែងរកកុមារ និងប្រើជាទីតាំងគ្រួសារ!",
       "title": "iSharing: GPS Location Tracker"
     },
     "kn": {
-      "key": "30a09c684b3714bcc12572284188da76",
+      "key": "413e071ae541b80852f5ae7a0fc464ab",
+      "own_screens": false,
       "summary": "GPS ಫೋನ್ ಟ್ರ್ಯಾಕರ್: ಮಕ್ಕಳನ್ನು ಹುಡುಕಲು ಲೈವ್ ಸ್ಥಳವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ ಮತ್ತು ಕುಟುಂಬ ಲೊಕೇಟರ್ ಆಗಿ ಬಳಸಿ!",
       "title": "iSharing: GPS Location Tracker"
     },
     "ko": {
-      "key": "35792292c34242dc04bf8fdf8007ef6f",
+      "key": "8eb2c5ec41c62e810dc509013472b6f5",
+      "own_screens": true,
       "summary": "아이쉐어링은 무료 가족 위치공유앱으로 실시간 위치추적, 자녀 위치찾기, 휴대폰 분실 찾기, 구조요청 등 필수 기능을 제공합니다.",
       "title": "아이쉐어링: GPS 위치공유, 자녀위치추적 어플"
     },
     "ky": {
-      "key": "da2324cf9966bff16df0dcaeb211a863",
+      "key": "598c6d33821d8395baf8605c12416f06",
+      "own_screens": false,
       "summary": "GPS Phone Tracker: Балдарды табуу жана үй-бүлөлүк локатор катары колдонуу үчүн түз жайгашкан жерди бөлүшүңүз!",
       "title": "iSharing: GPS Location Tracker"
     },
     "lo": {
-      "key": "e3a5ad950be8cb3ea4bc6384980f50f1",
+      "key": "74f48260aa687f84ccd7e94dd0f4b5dd",
+      "own_screens": false,
       "summary": "GPS ບົບຕິດຕາມລຸດໂທລະສັບ: ແບ່ງປັນສະຖານທີ່ສົດເພື່ອຊອກຫາເດັກນ້ອຍ & ໃຊ້ເປັນສະຖານທີ່ຄອບຄົວ!",
       "title": "iSharing: GPS Location Tracker"
     },
     "lt": {
-      "key": "c430833e3ed8d8b42e3de91546ff29d9",
+      "key": "006ed1b2a9afe7a4c5c7e02caa156529",
+      "own_screens": false,
       "summary": "GPS telefono stebėjimo priemonė: bendrinkite tiesioginę vietą, kad surastumėte vaikus ir naudokite kaip šeimos ieškiklį!",
       "title": "iSharing: GPS Location Tracker"
     },
     "lv": {
-      "key": "9ea87a33cb951602a6df61b71d6e3fd7",
+      "key": "dabbf32861269dd31166c10cd485256c",
+      "own_screens": false,
       "summary": "GPS tālruņa izsekotājs: kopīgojiet tiešo atrašanās vietu, lai atrastu bērnus un izmantotu kā ģimenes meklētāju!",
       "title": "iSharing: GPS Location Tracker"
     },
     "mk": {
-      "key": "7f0cdaa05a560e72e2592ffec65aed2f",
+      "key": "74d07edee6be1fdaae5fad557643301b",
+      "own_screens": false,
       "summary": "Следење на телефон со GPS: Споделете локација во живо за да најдете деца и користете го како семеен локатор!",
       "title": "iSharing: GPS Location Tracker"
     },
     "ml": {
-      "key": "106fbf89cdabffaa34083fc03d030150",
+      "key": "75ca6f91453a5350550c9c23f6b5caae",
+      "own_screens": false,
       "summary": "ജിപിഎസ് ഫോൺ ട്രാക്കർ: കുട്ടികളെ കണ്ടെത്തുന്നതിനും ഫാമിലി ലൊക്കേറ്ററായി ഉപയോഗിക്കുന്നതിനും തത്സമയ ലൊക്കേഷൻ പങ്കിടുക!",
       "title": "iSharing: GPS Location Tracker"
     },
     "mn": {
-      "key": "04f03a637e85717c03eae467518808fb",
+      "key": "b6d726d8a61cb056c214ee704c480b8c",
+      "own_screens": false,
       "summary": "GPS утасны Tracker: Шууд байршлаа хуваалцаж хүүхдүүдээ хайж, гэр бүлийн байршлыг тогтоогчоор ашиглаарай!",
       "title": "iSharing: GPS Location Tracker"
     },
     "mr": {
-      "key": "66168ff9ef18c84b7aa9e75ee7e25c0e",
+      "key": "3a3ec74ed60c0e4dc983c7f22d126061",
+      "own_screens": false,
       "summary": "GPS फोन ट्रॅकर: मुलांना शोधण्यासाठी आणि फॅमिली लोकेटर म्हणून वापरण्यासाठी थेट स्थान शेअर करा!",
       "title": "iSharing: GPS Location Tracker"
     },
     "ms": {
-      "key": "351894e83554a1fa5c245b8704212e80",
+      "key": "2cc9793afb32cab5179546daccc3699d",
+      "own_screens": true,
       "summary": "GPS tracker untuk keluarga, peranti. Track Live location & tracking number.",
       "title": "iSharing: GPS Location Tracker"
     },
     "my": {
-      "key": "115760fe376755f2389580673b894795",
+      "key": "287ddf4a67691b0451780d629ea6cc68",
+      "own_screens": false,
       "summary": "GPS Phone Tracker- ကလေးများကို ရှာဖွေရန်နှင့် မိသားစုတည်နေရာအဖြစ် အသုံးပြုရန် တိုက်ရိုက်တည်နေရာကို မျှဝေပါ။",
       "title": "iSharing: GPS Location Tracker"
     },
     "ne": {
-      "key": "d0ebf8faec7b302d986256eaea731b5b",
+      "key": "5d2ace9702a752211cdb7ccf5ce0f446",
+      "own_screens": false,
       "summary": "GPS फोन ट्र्याकर: बच्चाहरू फेला पार्न र पारिवारिक लोकेटरको रूपमा प्रयोग गर्न लाइभ स्थान साझेदारी गर्नुहोस्!",
       "title": "iSharing: GPS Location Tracker"
     },
     "nl": {
-      "key": "521b9158561740943d03c9fc634482f5",
+      "key": "a60a2bd06db9a4a5c1453e09fd54b366",
+      "own_screens": false,
       "summary": "vind mijn apparaat: GPS tracker voor familie en apparaten voor veiligheid.",
       "title": "iSharing: Locatie Delen Live"
     },
     "no": {
-      "key": "38a5e8d1d131c0c2f96785cfe9b76f15",
+      "key": "f8e464059216ffdd60a92725dc6e1474",
+      "own_screens": false,
       "summary": "GPS-telefonsporing: Del levende plassering for å finne barn og bruk som familielokaliser!",
       "title": "iSharing: GPS Location Tracker"
     },
     "pa": {
-      "key": "a5856247c6d74c5024f0186e3257ce74",
+      "key": "e3563fb3597f697ac953d689fc0b8c6c",
+      "own_screens": false,
       "summary": "GPS ਫ਼ੋਨ ਟਰੈਕਰ: ਬੱਚਿਆਂ ਨੂੰ ਲੱਭਣ ਅਤੇ ਪਰਿਵਾਰਕ ਲੋਕੇਟਰ ਵਜੋਂ ਵਰਤਣ ਲਈ ਲਾਈਵ ਟਿਕਾਣਾ ਸਾਂਝਾ ਕਰੋ!",
       "title": "iSharing: GPS Location Tracker"
     },
     "pl": {
-      "key": "fd7cb0e3da382a77aeecd5c18c914b0f",
+      "key": "f40b9b0cc2a2fe5e09aef8cfb000af5f",
+      "own_screens": true,
       "summary": "Lokalizator rodziny GPS. Aplikacja do śledzenia telefonu. Lokalizacja GPS",
       "title": "iSharing: Śledzenie telefonu"
     },
     "pt-BR": {
-      "key": "1b7cd14f36ca7429c8b74b61da5a679d",
+      "key": "09f8c967799318675daa6fb146d70033",
+      "own_screens": true,
       "summary": "GPS Rastreador de celular, e aplicativo de rastreamento localização.",
       "title": "iSharing Rastreador de Celular"
     },
     "pt-PT": {
-      "key": "5a20b304f23305b9ea25aea4d8eb5076",
+      "key": "790a87cdddff7380aef3e668a94b19cb",
+      "own_screens": true,
       "summary": "Rastreador GPS de telemóvel e aplicação de rastreamento por localização",
       "title": "iSharing Rastreador Telemóvel"
     },
     "ro": {
-      "key": "4e9479fc765e2ad759f89e07dc825f02",
+      "key": "62f61a21281029291a807f1413a1798f",
+      "own_screens": false,
       "summary": "GPS Phone Tracker: Partajați locația live pentru a găsi copii și utilizați-l ca locator de familie!",
       "title": "iSharing: GPS Location Tracker"
     },
     "ru": {
-      "key": "b24e52dadf0c801e2b09c9b61d20b74c",
+      "key": "7002cb2be6a95e46942e95cf2b977a2b",
+      "own_screens": true,
       "summary": "геолокация по номеру телефона и GPS трекер семейный локатор.",
       "title": "Местоположение по номеру"
     },
     "si": {
-      "key": "3087a7d395d50c4ccca070be6bd8cd63",
+      "key": "32fd9e40fed62265a7c8d9f2a2aa53fb",
+      "own_screens": false,
       "summary": "ජීපීඑස් දුරකථන ට්රැකර්: ළමයින් සොයා ගැනීමට සජීවී ස්ථානය බෙදාගන්න සහ පවුලේ ස්ථානගත කරන්නෙකු ලෙස භාවිතා කරන්න!",
       "title": "iSharing: GPS Location Tracker"
     },
     "sk": {
-      "key": "930bf4ecc465a06b5770a76bb43044b9",
+      "key": "eaf680a7c5f5c94940cd20e08764199f",
+      "own_screens": false,
       "summary": "GPS Phone Tracker: Zdieľajte aktuálnu polohu, aby ste našli deti a používali ich ako rodinný vyhľadávač!",
       "title": "iSharing: GPS Location Tracker"
     },
     "sl": {
-      "key": "50dffc169a575340daea8f95e8b9ef24",
+      "key": "a7e51af834018a872fc2b6670272d728",
+      "own_screens": false,
       "summary": "Sledilnik telefona GPS: delite lokacijo v živo, da poiščete otroke in ga uporabite kot družinski lokator!",
       "title": "iSharing: GPS Location Tracker"
     },
     "sq": {
-      "key": "b38aed5ddd71f2602232d6866fc4e900",
+      "key": "08ea338159da552583be06b0264dd624",
+      "own_screens": false,
       "summary": "Gjurmuesi i telefonit GPS: Ndani vendndodhjen drejtpërdrejt për të gjetur fëmijë dhe përdorni si gjetës të familjes!",
       "title": "iSharing: GPS Location Tracker"
     },
     "sr": {
-      "key": "fa95c4832b9ce809e12aedd4edb7fbcb",
+      "key": "5205aa1be9e8cfad1bee0762891f0e4b",
+      "own_screens": false,
       "summary": "ГПС телефон за праћење: Делите локацију уживо да бисте пронашли децу и користите их као породични локатор!",
       "title": "iSharing: GPS Location Tracker"
     },
     "sv": {
-      "key": "2ed7bdad447bb81a4bf7c23af7626a51",
+      "key": "9e0db94c5005edcb97b019c02b8d474d",
+      "own_screens": false,
       "summary": "GPS Family Tracker: Hitta min telefoner, familj och enheter för säkerhet.",
       "title": "Telefon GPS Tracker: iSharing"
     },
     "sw": {
-      "key": "f8934e80626f67f73bae0f995fa6c0aa",
+      "key": "99cc2d16264623ccc4acf2caadf302fb",
+      "own_screens": false,
       "summary": "GPS Simu Tracker: Shiriki eneo moja kwa moja ili kupata watoto & kutumia kama locator familia!",
       "title": "iSharing: GPS Location Tracker"
     },
     "ta": {
-      "key": "e2dab515681dbf9b44944d36937d4868",
+      "key": "b1f5785ca5f90bf70e20574a7b645392",
+      "own_screens": false,
       "summary": "ஜிபிஎஸ் ஃபோன் டிராக்கர்: குழந்தைகளைக் கண்டறிய நேரடி இருப்பிடத்தைப் பகிரவும் & குடும்ப இருப்பிடமாகப் பயன்படுத்தவும்!",
       "title": "iSharing: GPS Location Tracker"
     },
     "te": {
-      "key": "7f692f20a7a61fa368219b3115024c31",
+      "key": "21f8500bd8eb8ee94155e9f67a814558",
+      "own_screens": false,
       "summary": "GPS ఫోన్ ట్రాకర్: పిల్లలను కనుగొనడానికి లైవ్ లొకేషన్‌ను షేర్ చేయండి & ఫ్యామిలీ లొకేటర్‌గా ఉపయోగించండి!",
       "title": "iSharing: GPS Location Tracker"
     },
     "th": {
-      "key": "0230139fb66a19b4aa83726d2510cd64",
+      "key": "406fce65d1f77a097940d8dc61314be4",
+      "own_screens": true,
       "summary": "GPS ตัวติดตามตำแหน่งโทรศัพท์ จีพีเอส สำหรับครอบครัว",
       "title": "ไอแชร์ริ่ง : ติดตามโทรศัพท์"
     },
     "tr": {
-      "key": "ad08963059786c914e663c3bccca81a0",
+      "key": "c2d2abafead392e2fdcb0f317f91e215",
+      "own_screens": true,
       "summary": "Aile canlı Konum tracker: cihazımı bul ile konumu bulma programı",
       "title": "iSharing - GPS Konum takip"
     },
     "uk": {
-      "key": "3c5c7616debcd9b8f1333bbcbdab6f3b",
+      "key": "29af496f08aca7a1c128a005001cea17",
+      "own_screens": false,
       "summary": "GPS-телефонний трекер: діліться поточним місцем розташування, щоб знаходити дітей і використовувати як сімейний локатор!",
       "title": "iSharing: GPS Location Tracker"
     },
     "ur": {
-      "key": "5080fe5707079486bc0124717ee7e6c0",
+      "key": "5ee478a8e720e5060b1b08204a0a2799",
+      "own_screens": false,
       "summary": "GPS فون ٹریکر: بچوں کو تلاش کرنے اور بطور فیملی لوکیٹر استعمال کرنے کے لیے لائیو لوکیشن شیئر کریں!",
       "title": "iSharing: GPS Location Tracker"
     },
     "vi": {
-      "key": "a8a0c481515efb9b58212b84ecf418a2",
+      "key": "be1a0a4380114d577e233a1056649de5",
+      "own_screens": true,
       "summary": "Định vị GPS, theo dõi số điện thoại chính xác để bảo vệ gia đình của bạn.",
       "title": "iSharing: app theo dõi vị trí"
     },
     "zh-CN": {
-      "key": "d28fbe6b882b0d69c2d5c4a4656587d9",
+      "key": "a3ec2994054e07397bfede0929a88cd0",
+      "own_screens": true,
       "summary": "使用手机定位查找、查找手机位置和手机号码定位，通过手机快速定位家人 家庭和设备以确保安全 位置 共享",
       "title": "愛分享 - GPS 定位追踪"
     },
     "zh-HK": {
-      "key": "827d836f5652ac3f41109573941b8167",
+      "key": "042b78bd6988dbb252fa5dd44b6f76b8",
+      "own_screens": true,
       "summary": "使用手机定位查找、查找手机位置和手机号码定位，通过手机快速定位家人 家庭和设备以确保安全",
       "title": "愛分享 - GPS定位 手机追踪器, 定位追踪"
     },
     "zh-TW": {
-      "key": "827d836f5652ac3f41109573941b8167",
+      "key": "042b78bd6988dbb252fa5dd44b6f76b8",
+      "own_screens": true,
       "summary": "使用手机定位查找、查找手机位置和手机号码定位，通过手机快速定位家人 家庭和设备以确保安全",
       "title": "愛分享 - GPS定位 手机追踪器, 定位追踪"
     },
     "zu": {
-      "key": "1db2ece8fd2ea382e29979d1db71c596",
+      "key": "9b6b2cecb70bedab2164c3fe80450b12",
+      "own_screens": false,
       "summary": "I-GPS Ucingo Tracker: Yabelana ngendawo ebukhoma ukuze uthole izingane futhi usebenzise njengendawo yomndeni!",
       "title": "iSharing: GPS Location Tracker"
     }

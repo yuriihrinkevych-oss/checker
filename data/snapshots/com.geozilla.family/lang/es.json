@@ -1,0 +1,42 @@
+{
+  "_scanned": "2026-10-06",
+  "containsAds": false,
+  "contentRating": "Para todos",
+  "description": "Geozilla es una app de seguridad y para compartir ubicación familiar que ayuda a familias y grupos de confianza a mantenerse unidos, informados y apoyados, sin importar la distancia. Con funciones inteligentes como rastreo de ubicación en tiempo real, alertas de emergencia e informes de conducción, Geozilla brinda tranquilidad a las familias que valoran tanto la seguridad como la transparencia.\r\n\r\n✅ Cómo funciona:\r\n1. Instala la app y autoriza a compartir tu ubicación con tu círculo.\r\n2. Crea o únete a un círculo familiar privado: solo se incluirán aquellos a quienes invites y que acepten.\r\n3. Invita a familiares o miembros de confianza usando tu número de teléfono, un enlace o un código QR.\r\n4. Cada miembro invitado debe aceptar explícitamente la invitación y otorgar todos los permisos necesarios antes de que se active la función de compartir ubicación.\r\n5. Todos los miembros reciben una notificación clara sobre el propósito de la app, quién los invitó y cómo se utilizarán los datos de ubicación.\r\n6. Geozilla solo funciona si cada usuario acepta activamente compartir su ubicación. Si alguna persona no da su consentimiento, no se habilitará la función de compartir ubicación.\r\n\r\n🌍 Funciones principales para la seguridad familiar:\r\nUbicación compartida en vivo: Consulta la ubicación GPS en tiempo real de tu familia o miembros de tu círculo de confianza.\r\nHistorial de ubicaciones: vea la línea de tiempo de movimiento de su familia durante el día.\r\nAlertas de llegada y salida: Configura ubicaciones geolocalizadas (como casa, escuela, trabajo) para recibir alertas cuando alguien llegue o salga.\r\nMonitoreo de batería.\r\nInformación sobre conducción segura: Ayuda a mejorar la seguridad con informes de comportamiento sobre hábitos de conducción.\r\nBuscador de RA.\r\nDetección de accidentes y alertas SOS.\r\nCompatible con Wear OS: conoce dónde está tu familia o comparte tu propia ubicación directamente desde tu reloj inteligente.\r\n\r\nCompatible con Wear OS: conoce dónde está tu familia o comparte tu propia ubicación directamente desde tu reloj inteligente.\r\n\r\n🔒 Privacidad, transparencia y consentimiento del usuario:\r\nGeozilla solo permite el uso mutuo, informado y transparente del uso compartido de la ubicación entre partes que consienten, como familiares y contactos cercanos. Nuestra aplicación se basa en los principios de privacidad, seguridad y confianza.\r\n\r\n📱 Permisos de la aplicación:\r\nPara ofrecer funciones de seguridad clave, GeoZilla puede solicitar los siguientes permisos (con la aprobación del usuario en cada paso):\r\nServicios de ubicación (Siempre / Acceso en segundo plano): Necesarios para habilitar el rastreo GPS continuo, las alertas de geofencing y la detección de accidentes, incluso cuando la aplicación no se utiliza activamente.\r\nNotificaciones: Se utilizan para enviar alertas importantes como llegada/salida, SOS, batería baja y actividad de la aplicación. \r\nContactos: Opcional: facilita la invitación a contactos de confianza al permitirle elegir números de teléfono de su libreta de direcciones.\r\nCámara y Fotos: Se utiliza para configurar imágenes de perfil o escanear invitaciones QR.\r\nMovimiento y Actividad Física: Mejora los informes de conducción y la detección de accidentes mediante el monitoreo de patrones de movimiento.\r\nLos permisos se solicitan de forma transparente y se explican en contexto.\r\n\r\nGeoZilla se compromete con la privacidad, la transparencia y el uso responsable. No se permite el uso de la aplicación sin el conocimiento y consentimiento de todos los participantes.\r\nGeoZilla está diseñada y comercializada exclusivamente para casos de seguridad familiar, como padres que rastrean a sus hijos o cuidadores que asisten a personas dependientes. No admite rastreo encubierto, instalaciones ocultas ni activación remota.\r\nSi necesita ayuda o tiene comentarios sobre GeoZilla, contáctenos en: support@geozilla.com\r\nPolítica de privacidad: https://geozilla.com/privacy-policy\r\nTérminos de uso: https://geozilla.com/terms-of-use",
+  "developer": "GZ TECH",
+  "genre": "Estilo de vida",
+  "headerImage": "https://play-lh.googleusercontent.com/E0hhZNmZOJ9VR6AYgheaIrbywnmwTQSqFYh-TQxtX9FlHWeAkdaZamQ3ZLHOKtSikDnO7M53af4gCHK-ZY1bzg",
+  "histogram": [
+    91319,
+    20523,
+    44045,
+    92241,
+    512447
+  ],
+  "icon": "https://play-lh.googleusercontent.com/i72e4U2jPc5WBB6JXrWoFfBXJbLJSgrMnDna3qPjDN9dQaONNbetQLS2JkUua-vqB4IW_WQ7y5IEMoHQLL_bSQ",
+  "inAppProductPrice": "$2.99 - $89.99 por elemento",
+  "installs": "10.000.000+",
+  "lastUpdatedOn": "2 oct 2026",
+  "metrics": {
+    "minInstalls": 10000000,
+    "ratings": 760600,
+    "realInstalls": 29664756,
+    "reviews": 3207,
+    "score": 4.2016373
+  },
+  "price": 0,
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/faFX6Oq2YvM1kxL0JwlS-_JderleANKeVOvndPFxUvARWYYiLHXhsgMbML5ZacxyzLAc-LqALZL62yCsUrMDXA",
+    "https://play-lh.googleusercontent.com/cYvbaJjj9_IIu7pmWCiy0CAerJD26Sf2N5EGR7R60OhFJk8PtUbZKyzQ5SyrR3Wy4SH0VwL9uDmiSGr_V4ANyg",
+    "https://play-lh.googleusercontent.com/Db0mI-6jOiXTc0D9C9-fTTbSaeRddrCJCcDadFF-zo5nXJXRyzDxkFNwiVfbvVvrQh-ZGF4rChLGPSdChqGRlW8",
+    "https://play-lh.googleusercontent.com/yEu_puLZ1IMQ9sRLclQRVHk8UAmoRdN4zDdFzOPkhVI2JIh2RAu_k35upsKfg_4ns2XlTWeK87Zr8B27CwwAHg",
+    "https://play-lh.googleusercontent.com/_SxBewNlrlQdtVbrojoMVxbiSIN3HjRVT7KK5b8K60a5MgJCb0gYwGQqrQobCzTXGzTbWeuW6jm3BXEXig6uJA",
+    "https://play-lh.googleusercontent.com/5HzvD6sOZscZirs3Q79u2HW_nDIcp2CGQLhRtl74vSYH7kUmPdCfE7IeUu7d2NAN4M-1qbq_QToi3kRUV8Bj",
+    "https://play-lh.googleusercontent.com/9JeXljJvAYsAzer_nEx3SdPUMUiPM7-1AkYAknlJISA0Xbl0iSdd_5MkwNVQTiqz1ArmdNIsZ_5ZSusHHW-3-A",
+    "https://play-lh.googleusercontent.com/8uX6sOU0DEZKsQp1MX_3n__yf3OQXjhl2iIYuBdi0tbYnq6bcfQXxsA9YrIaKDDuRlvs2QDwY65_xlwYPvUHtg"
+  ],
+  "summary": "Localizador de celulares GPS familiar con ubicación en tiempo real",
+  "title": "Geozilla GPS Localizador",
+  "version": "Varies with device",
+  "video": "https://play.google.com/video/lava/web/player/yt:movie:zDBzTvQVNNo?autoplay=1&embed=play"
+}

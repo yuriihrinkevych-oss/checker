@@ -1,6 +1,7 @@
 {
   "base": {
-    "key": "bc669f1b0b09f22a0b12d6635acee148",
+    "key": "f51345d9d2c39861d6c15c5d9d881919",
+    "own_screens": false,
     "summary": "All-in-one family safety: location sharing, crash alerts, driver reports & more",
     "title": "Life360: Family Safety & GPS"
   },
@@ -717,9 +718,6 @@
       "da": "2026-10-06",
       "de": "2026-10-06",
       "el": "2026-10-06",
-      "en-AU": "2026-10-06",
-      "en-GB": "2026-10-06",
-      "en-IN": "2026-10-06",
       "es": "2026-10-06",
       "es-419": "2026-10-06",
       "et": "2026-10-06",
@@ -797,9 +795,6 @@
     "da",
     "de",
     "el",
-    "en-GB",
-    "en-AU",
-    "en-IN",
     "es",
     "es-419",
     "et",
@@ -865,387 +860,446 @@
   ],
   "listings": {
     "af": {
-      "key": "4beb9f1a8992cf699bd77f643bbf112b",
+      "key": "8efa7a906b5c65c937ca899597b7754b",
+      "own_screens": false,
       "summary": "Alles-in-een gesinsveiligheid: liggingdeling, ongelukwaarskuwings, bestuurderverslae en meer",
       "title": "Life360: Family Safety & GPS"
     },
     "am": {
-      "key": "7581323ddd9b5b4de67e437ce499bd82",
+      "key": "d59e8f8199aa6df727a4e7e3a3722f69",
+      "own_screens": false,
       "summary": "ሁሉም-በአንድ ቤተሰብ ደህንነት፡ የአካባቢ መጋራት፣ የብልሽት ማንቂያዎች፣ የአሽከርካሪ ሪፖርቶች እና ሌሎችም።",
       "title": "Life360: Family Safety & GPS"
     },
     "ar": {
-      "key": "13700917e76846d67944f3168e5ca5f8",
+      "key": "b513c74d6964c2d96631473599f9ae1c",
+      "own_screens": false,
       "summary": "أمان عائلي شامل: مشاركة الموقع وتنبيهات الأعطال وتقارير السائق والمزيد",
       "title": "Life360: Family Safety & GPS"
     },
     "az": {
-      "key": "7d07f93be15f0f3ecf558c0d19b8f6b1",
+      "key": "c2d430480b9599a501e74b7237927c12",
+      "own_screens": false,
       "summary": "Hamısı bir yerdə ailə təhlükəsizliyi: məkan paylaşımı, qəza xəbərdarlıqları, sürücü hesabatları və s",
       "title": "Life360: Family Safety & GPS"
     },
     "be": {
-      "key": "1f75279fe7584ff3dc7a543a1b939672",
+      "key": "cf14b661f0953733f46f5c70c21e7cc1",
+      "own_screens": false,
       "summary": "Універсальная сямейная бяспека: абагульванне месцазнаходжання, абвесткі аб аварыях, справаздачы кіроўцаў і многае іншае",
       "title": "Life360: Family Safety & GPS"
     },
     "bg": {
-      "key": "ad269585e4d764840dc8ea942dff2430",
+      "key": "870da60e4623dfcdfc50b40156700dfb",
+      "own_screens": false,
       "summary": "Цялостна семейна безопасност: споделяне на местоположение, предупреждения за катастрофи, доклади за шофьори и други",
       "title": "Life360: Family Safety & GPS"
     },
     "bn": {
-      "key": "2805b7aaaa4728dab33940c7aa3f7b95",
+      "key": "37f6172d13550a04fe895cd0e772bc03",
+      "own_screens": false,
       "summary": "পরিবারের সকলের নিরাপত্তা: অবস্থান ভাগ করে নেওয়া, ক্র্যাশ সতর্কতা, ড্রাইভার রিপোর্ট এবং আরও অনেক কিছু",
       "title": "Life360: Family Safety & GPS"
     },
     "ca": {
-      "key": "47c89ee9a6250f25fe1880ed6953efef",
+      "key": "a950e7ee9f1f4a41267fb1728bbba6a8",
+      "own_screens": false,
       "summary": "Seguretat familiar tot en un: compartició d'ubicació, alertes d'accident, informes de conductors i molt més",
       "title": "Life360: Family Safety & GPS"
     },
     "cs": {
-      "key": "59ffaefd2fcbd8d2a08ffb7aa3f20aa7",
+      "key": "372947b1d828633197d20b5d81a9b713",
+      "own_screens": false,
       "summary": "Bezpečnost rodiny vše v jednom: sdílení polohy, upozornění na nehodu, hlášení řidičů a další",
       "title": "Life360: Family Safety & GPS"
     },
     "da": {
-      "key": "ed9868a1580de43e9950b60346dfb62a",
+      "key": "9310bc065735f40fec700d1bf07309dd",
+      "own_screens": true,
       "summary": "Del lokation med familie og venner; sørg for sikkerhed, selv på lang afstand",
       "title": "Lokationsdeling med Life360"
     },
     "de": {
-      "key": "07a7b8845238556d0d1e73aec1d22306",
+      "key": "b18234787156a9a262f862d3bbe4d485",
+      "own_screens": true,
       "summary": "Wo ist meine Familie? Standort in Echtzeit teilen – sicher per GPS.",
       "title": "Life360: Standort teilen & GPS"
     },
     "el": {
-      "key": "8f4719602b3efca89234c3c4ff2270cc",
+      "key": "1758438e1376945788729ff2b17ceee4",
+      "own_screens": false,
       "summary": "Όλα σε ένα οικογενειακή ασφάλεια: κοινή χρήση τοποθεσίας, ειδοποιήσεις σύγκρουσης, αναφορές οδηγών και άλλα",
       "title": "Life360: Family Safety & GPS"
     },
-    "en-AU": {
-      "key": "21931485fe1e0d73ffbb18f4607a58f2",
-      "summary": "Family locator & phone tracker: real-time GPS location sharing + SOS",
-      "title": "Life360: Family Safety & GPS"
-    },
-    "en-GB": {
-      "key": "21931485fe1e0d73ffbb18f4607a58f2",
-      "summary": "Family locator & phone tracker: real-time GPS location sharing + SOS",
-      "title": "Life360: Family Safety & GPS"
-    },
-    "en-IN": {
-      "key": "21931485fe1e0d73ffbb18f4607a58f2",
-      "summary": "Family locator & phone tracker: real-time GPS location sharing + SOS",
-      "title": "Life360: Family Safety & GPS"
-    },
     "es": {
-      "key": "42eaf8007b90ea2d78a2f058f2eda798",
+      "key": "9faf91d75aad0e744585adf892e76f9f",
+      "own_screens": true,
       "summary": "¡Con el Localizador Familiar sabrá si su familia está segura, aunque esté lejos!",
       "title": "Life360: Compartir ubicación"
     },
     "es-419": {
-      "key": "fbfd7caac35e658a576022b61be4ac37",
+      "key": "e8821cb4b8c8342dabef0db2a40c940e",
+      "own_screens": true,
       "summary": "Rastrea la ubicación de tu familia en tiempo real, estés donde estés.",
       "title": "Life360: Rastreador Familiar"
     },
     "et": {
-      "key": "b3431e16af2db73986b537c444679232",
+      "key": "da92857d778b00feecd3b1ce7ee82af6",
+      "own_screens": false,
       "summary": "Kõik-ühes pere turvalisus: asukoha jagamine, avariihoiatused, juhiteated ja palju muud",
       "title": "Life360: Family Safety & GPS"
     },
     "eu": {
-      "key": "b6474429124cd94e847f886ec4a7506e",
+      "key": "5edffbe47029fa63a41a430d41826350",
+      "own_screens": false,
       "summary": "Familiaren segurtasun osoa: kokapena partekatzea, hutsegiteen alertak, gidarien txostenak eta abar",
       "title": "Life360: Family Safety & GPS"
     },
     "fa": {
-      "key": "2a25b87d724b1fad8102d0ccf504eb09",
+      "key": "8e97e5f492a0365a2bf6db80aa528319",
+      "own_screens": false,
       "summary": "ایمنی خانواده همه کاره: اشتراک‌گذاری موقعیت مکانی، هشدارهای تصادف، گزارش‌های راننده و موارد دیگر",
       "title": "Life360: Family Safety & GPS"
     },
     "fi": {
-      "key": "6ec5880dbe2610d376d95183b1de9291",
+      "key": "ddff634061ddb46841d4a41416f47573",
+      "own_screens": true,
       "summary": "Jaa sijaintisi ja kerro läheisillesi, että olet turvassa, vaikka olisit kaukana",
       "title": "Life360 ja sijainnin jakaminen"
     },
     "fil": {
-      "key": "d28ed91390927a65360f2d0aee019779",
+      "key": "c22e3590b1f29f0917dde2645c871666",
+      "own_screens": false,
       "summary": "All-in-one na kaligtasan ng pamilya: pagbabahagi ng lokasyon, mga alerto sa pag-crash, ulat ng driver at higit pa",
       "title": "Life360: Family Safety & GPS"
     },
     "fr": {
-      "key": "cb0653679580dded196eafda5d769721",
+      "key": "f5d656b1ebce54bea6b45d5a2ab56eb4",
+      "own_screens": true,
       "summary": "Géolocalisez votre famille et vos enfants en temps réel, où que vous soyez.",
       "title": "Life360 Localiser Famille Amis"
     },
     "fr-CA": {
-      "key": "cb0653679580dded196eafda5d769721",
+      "key": "f5d656b1ebce54bea6b45d5a2ab56eb4",
+      "own_screens": true,
       "summary": "Géolocalisez votre famille et vos enfants en temps réel, où que vous soyez.",
       "title": "Life360 Localiser Famille Amis"
     },
     "gl": {
-      "key": "0bd0812c09fca7793425fc250098bcc0",
+      "key": "dc873d404ebb37fefc77ed6b54510d43",
+      "own_screens": false,
       "summary": "Seguridade familiar todo en un: localización compartida, alertas de accidentes, informes de condutores e moito máis",
       "title": "Life360: Family Safety & GPS"
     },
     "gu": {
-      "key": "ff7e3e3db10143f92100a1c5f94c6170",
+      "key": "e126939a47f19375116e1298a9de5777",
+      "own_screens": false,
       "summary": "કુટુંબની તમામ સુરક્ષા: સ્થાન શેરિંગ, ક્રેશ ચેતવણીઓ, ડ્રાઇવર રિપોર્ટ્સ અને વધુ",
       "title": "Life360: Family Safety & GPS"
     },
     "hi": {
-      "key": "ebc21b715ec40c8e209db962b146d615",
+      "key": "e3ee9c87cf7609ba76efcce081e2eca2",
+      "own_screens": false,
       "summary": "ऑल-इन-वन पारिवारिक सुरक्षा: स्थान साझाकरण, क्रैश अलर्ट, ड्राइवर रिपोर्ट और बहुत कुछ",
       "title": "Life360: Family Safety & GPS"
     },
     "hr": {
-      "key": "462f3f3d953e0b7ade7ebacd4750d04c",
+      "key": "6fb554c16bf0d5f7638a590d03ac3611",
+      "own_screens": false,
       "summary": "Obiteljska sigurnost sve u jednom: dijeljenje lokacije, upozorenja o nesrećama, izvješća vozača i više",
       "title": "Life360: Family Safety & GPS"
     },
     "hu": {
-      "key": "e29c60ae315a5877114847d9b6eb231a",
+      "key": "6bb291592989f91d42e6d56d04cc9a57",
+      "own_screens": false,
       "summary": "Minden az egyben családbiztonság: helymegosztás, baleseti riasztások, járművezetői jelentések és egyebek",
       "title": "Life360: Family Safety & GPS"
     },
     "hy": {
-      "key": "ff1fdd3bab752623700f90a82648866d",
+      "key": "64976a1d8ccfde66ca20e49569525009",
+      "own_screens": false,
       "summary": "Ամբողջը մեկում ընտանեկան անվտանգություն. տեղադրության փոխանցում, վթարի մասին ծանուցումներ, վարորդների հաշվետվություններ և այլն",
       "title": "Life360: Family Safety & GPS"
     },
     "id": {
-      "key": "dd1fbe071322271da50b35c34de4a741",
+      "key": "52153671b2636d3fbb85af0d3a693cb6",
+      "own_screens": true,
       "summary": "Pelacak Keluarga meyakinkan Anda bahwa keluarga Anda aman, meskipun mereka jauh!",
       "title": "Life360: Berbagi Lokasi"
     },
     "is": {
-      "key": "a6a3614b6f26de3425cb8a0070bd8ed6",
+      "key": "82da0106fd990db5e7c734f97f202efb",
+      "own_screens": false,
       "summary": "Allt í einu fjölskylduöryggi: staðsetningardeilingu, árekstraviðvaranir, ökumannsskýrslur og fleira",
       "title": "Life360: Family Safety & GPS"
     },
     "it": {
-      "key": "b9bf4912b7fd3057b3d022e791e634f5",
+      "key": "67044634e9518b7b18f9c9f1ce3791a7",
+      "own_screens": true,
       "summary": "Life360: condividi la posizione con famiglia e amici in tempo reale",
       "title": "Localizzatore GPS Famiglia"
     },
     "iw": {
-      "key": "334f3952f2163ec5c8be6d230cb93569",
+      "key": "3888b6d74fdacffe02010e51eed43e0f",
+      "own_screens": false,
       "summary": "בטיחות משפחתית הכל באחד: שיתוף מיקום, התראות תאונות, דוחות נהגים ועוד",
       "title": "Life360: Family Safety & GPS"
     },
     "ja": {
-      "key": "fb86f28568f9aeaf7b0e99472e78a3a8",
+      "key": "86cb59d149afee6070c3631c7bc9ee69",
+      "own_screens": true,
       "summary": "全世界で5000万家族が利用する、位置情報共有アプリ",
       "title": "Life360－位置情報の共有"
     },
     "ka": {
-      "key": "07fae39e0e2a1730b7887dfaa8b115b2",
+      "key": "9bba28057d5a79ed3cf15e20c243df29",
+      "own_screens": false,
       "summary": "საოჯახო უსაფრთხოება ერთში: მდებარეობის გაზიარება, ავარიის გაფრთხილებები, მძღოლების ანგარიშები და სხვა",
       "title": "Life360: Family Safety & GPS"
     },
     "kk": {
-      "key": "b2f4e2e919dda916c93739a9e4808688",
+      "key": "f48c436d07d924d9a6b681a7972716f9",
+      "own_screens": false,
       "summary": "Барлығы бір жерде отбасылық қауіпсіздік: орынды бөлісу, апат туралы ескертулер, жүргізуші есептері және т.б",
       "title": "Life360: Family Safety & GPS"
     },
     "km": {
-      "key": "654c4eceb25b54b3176356301be11cb2",
+      "key": "962407aeaf29d98f137b0c2d0526e251",
+      "own_screens": false,
       "summary": "សុវត្ថិភាពគ្រួសារទាំងអស់ក្នុងតែមួយ៖ ការចែករំលែកទីតាំង ការជូនដំណឹងអំពីការគាំង របាយការណ៍អ្នកបើកបរ និងច្រើនទៀត",
       "title": "Life360: Family Safety & GPS"
     },
     "kn": {
-      "key": "471bfd9c1c20e805954e5163c51bd3b8",
+      "key": "871a3a891af80311d08523388a5297cf",
+      "own_screens": false,
       "summary": "ಆಲ್ ಇನ್ ಒನ್ ಕುಟುಂಬದ ಸುರಕ್ಷತೆ: ಸ್ಥಳ ಹಂಚಿಕೆ, ಕ್ರ್ಯಾಶ್ ಎಚ್ಚರಿಕೆಗಳು, ಚಾಲಕ ವರದಿಗಳು ಮತ್ತು ಇನ್ನಷ್ಟು",
       "title": "Life360: Family Safety & GPS"
     },
     "ko": {
-      "key": "af0b69326964f89c27f433c36b1b1512",
+      "key": "d43a382da78cf566148a9385cee52212",
+      "own_screens": true,
       "summary": "가족 위치추적기는 서로 멀리 떨어져 있을 때도 당신 가족의 안전을 확인할 수 있습니다!",
       "title": "Life360 - 위치 공유"
     },
     "ky": {
-      "key": "893aa602c5429eaa17805bccdded9249",
+      "key": "13a96caa564750b6cb5c35c8ef1a7fa2",
+      "own_screens": false,
       "summary": "Баардыгы бир үй-бүлө коопсуздугу: жайгашкан жерди бөлүшүү, кырсык тууралуу эскертүүлөр, айдоочунун отчеттору жана башкалар",
       "title": "Life360: Family Safety & GPS"
     },
     "lo": {
-      "key": "98f703a00c15533c69f1af200afc0af5",
+      "key": "e4138b6456af525edbbb5907b04199bb",
+      "own_screens": false,
       "summary": "ຄວາມປອດໄພຂອງຄອບຄົວທັງໝົດໃນໜຶ່ງດຽວ: ການແບ່ງປັນສະຖານທີ່, ການແຈ້ງເຕືອນອຸປະຕິເຫດ, ລາຍງານຄົນຂັບ ແລະ ອື່ນໆ",
       "title": "Life360: Family Safety & GPS"
     },
     "lt": {
-      "key": "8faa0127fa212fc4dd89c3975876767c",
+      "key": "185690708155a1c3f4163a409e8be724",
+      "own_screens": false,
       "summary": "Viskas viename šeimos saugumas: vietos bendrinimas, įspėjimai apie avarijas, vairuotojų pranešimai ir kt",
       "title": "Life360: Family Safety & GPS"
     },
     "lv": {
-      "key": "60e79ac8dfcac74c32fcfd7925a364f1",
+      "key": "65ea1ea1a968c1345955b9eaabfe7c6a",
+      "own_screens": false,
       "summary": "Visaptveroša ģimenes drošība: atrašanās vietas kopīgošana, avāriju brīdinājumi, autovadītāju ziņojumi un daudz kas cits",
       "title": "Life360: Family Safety & GPS"
     },
     "mk": {
-      "key": "325b454c1fe5ae5b9934f2aab1dbe468",
+      "key": "eaa430436a71c2643f9151226be6aff1",
+      "own_screens": false,
       "summary": "Семејна безбедност „Сè-во-едно“: споделување локација, предупредувања за падови, извештаи за возачот и друго",
       "title": "Life360: Family Safety & GPS"
     },
     "ml": {
-      "key": "0b01351d5947404c3681708301456024",
+      "key": "21582780d14a7e1f40de2c87bfa8196b",
+      "own_screens": false,
       "summary": "ഓൾ-ഇൻ-വൺ കുടുംബ സുരക്ഷ: ലൊക്കേഷൻ പങ്കിടൽ, ക്രാഷ് അലേർട്ടുകൾ, ഡ്രൈവർ റിപ്പോർട്ടുകൾ എന്നിവയും മറ്റും",
       "title": "Life360: Family Safety & GPS"
     },
     "mn": {
-      "key": "4f838e67172b5b596a08842e5c2bc634",
+      "key": "09001631ab8fde304dedb1f6d5f49735",
+      "own_screens": false,
       "summary": "Бүх гэр бүлийн аюулгүй байдал: байршил хуваалцах, ослын дохио, жолоочийн тайлан гэх мэт",
       "title": "Life360: Family Safety & GPS"
     },
     "mr": {
-      "key": "bc51b3aef18f59f1fa8f5408e2fb8a22",
+      "key": "593cd9cecf884b5c8e9ee809ea8a5275",
+      "own_screens": false,
       "summary": "सर्व-इन-वन कौटुंबिक सुरक्षा: स्थान सामायिकरण, क्रॅश अलर्ट, ड्रायव्हर अहवाल आणि बरेच काही",
       "title": "Life360: Family Safety & GPS"
     },
     "ms": {
-      "key": "dd1fbe071322271da50b35c34de4a741",
+      "key": "52153671b2636d3fbb85af0d3a693cb6",
+      "own_screens": true,
       "summary": "Pelacak Keluarga meyakinkan Anda bahwa keluarga Anda aman, meskipun mereka jauh!",
       "title": "Life360: Berbagi Lokasi"
     },
     "my": {
-      "key": "54179372b651d6ef59d623c7280fbec8",
+      "key": "1c3d7d269589ad9b3e82ce5316fc3631",
+      "own_screens": false,
       "summary": "မိသားစုလုံခြုံရေး- တည်နေရာမျှဝေမှု၊ ယာဉ်တိုက်မှုသတိပေးချက်များ၊ ယာဉ်မောင်းသတင်းပေးပို့ချက်များနှင့် အခြားအရာများ",
       "title": "Life360: Family Safety & GPS"
     },
     "ne": {
-      "key": "7574da593af56cc97d8a739537faf550",
+      "key": "dc107a69278349e86619984bd06e9727",
+      "own_screens": false,
       "summary": "सबै-मा-एक परिवार सुरक्षा: स्थान साझेदारी, दुर्घटना अलर्ट, चालक रिपोर्ट र थप",
       "title": "Life360: Family Safety & GPS"
     },
     "nl": {
-      "key": "faa784f8c377c84c2415579c86990846",
+      "key": "33fae39eed373483b6cdeb67ae8fc73b",
+      "own_screens": true,
       "summary": "Live locatie delen met familie & vrienden – veilige GPS-tracker voor iedereen",
       "title": "Life360: Locatie Tracker"
     },
     "no": {
-      "key": "eb6b74824fe2eb7897c47a768ecb3d15",
+      "key": "8601baad915c05f5b45bec477101222d",
+      "own_screens": true,
       "summary": "Del posisjonen din med familie og venner. Beskytt hverandre, selv på avstand.",
       "title": "Posisjonsdeling med Life360"
     },
     "pa": {
-      "key": "ff73fe1c52cba733549f88041cf1e8ff",
+      "key": "2c2d9e01768e8b4da120c00172b31eea",
+      "own_screens": false,
       "summary": "ਆਲ-ਇਨ-ਵਨ ਪਰਿਵਾਰਕ ਸੁਰੱਖਿਆ: ਟਿਕਾਣਾ ਸਾਂਝਾਕਰਨ, ਕਰੈਸ਼ ਅਲਰਟ, ਡਰਾਈਵਰ ਰਿਪੋਰਟਾਂ ਅਤੇ ਹੋਰ ਬਹੁਤ ਕੁਝ",
       "title": "Life360: Family Safety & GPS"
     },
     "pl": {
-      "key": "9a772c44990c2d37c44b8155501458ae",
+      "key": "835196247a58f6d4684bab4d3a1c8906",
+      "own_screens": false,
       "summary": "Kompleksowe bezpieczeństwo całej rodziny: udostępnianie lokalizacji, powiadomienia o wypadkach, raporty dla kierowców i nie tylko",
       "title": "Life360: Family Safety & GPS"
     },
     "pt-BR": {
-      "key": "ebfe93ea40e9354e5281422e0cb2d007",
+      "key": "4a0ee597a883c3cfc18f1aa9738d64e0",
+      "own_screens": true,
       "summary": "Onde está sua família? Localize em tempo real e tenha mais segurança.",
       "title": "Life360: Localize Sua Família"
     },
     "pt-PT": {
-      "key": "32f0e884ab94087eddbd67f64d082de3",
+      "key": "b0953a64482a490ee02d87b23b7d9d50",
+      "own_screens": true,
       "summary": "O Localizador informa se sua família está segura, mesmo quando estão longe!",
       "title": "Life360: Localizador Familiar"
     },
     "ro": {
-      "key": "f853f836ba3d5be191b175bfdca4d1b0",
+      "key": "d29a36fd19242147d81f1031457639f7",
+      "own_screens": false,
       "summary": "Siguranța familiei all-in-one: partajarea locației, alerte de accident, rapoarte șofer și multe altele",
       "title": "Life360: Family Safety & GPS"
     },
     "ru": {
-      "key": "2bafbdc9a3bda68cf67099387553a9f1",
+      "key": "7af9e3ba535a178f08881d79d7b92251",
+      "own_screens": true,
       "summary": "Когда ваша семья не рядом, семейный трекер отследит, что они в безопасности!",
       "title": "Life360: обмен местоположением"
     },
     "si": {
-      "key": "a4c6e9542d2e4d1a9988fc74f9e0f1be",
+      "key": "4ef244c5ff128e33d15dbb9f776156ca",
+      "own_screens": false,
       "summary": "සියල්ලෙන් එක පවුලේ ආරක්ෂාව: ස්ථාන බෙදාගැනීම, බිඳවැටීම් ඇඟවීම්, රියදුරු වාර්තා සහ තවත් දේ",
       "title": "Life360: Family Safety & GPS"
     },
     "sk": {
-      "key": "ef69da50e5fcc4d3bbaa4011019b8f69",
+      "key": "9432548616efac2108272167d0c7289d",
+      "own_screens": false,
       "summary": "Bezpečnosť rodiny všetko v jednom: zdieľanie polohy, upozornenia na zrážky, hlásenia vodičov a ďalšie",
       "title": "Life360: Family Safety & GPS"
     },
     "sl": {
-      "key": "e3bf597951999c3f292790fc006fe7dc",
+      "key": "2165801119806dc6a2eab5ce93c6a5d0",
+      "own_screens": false,
       "summary": "Družinska varnost vse v enem: deljenje lokacije, opozorila o nesrečah, poročila voznikov in več",
       "title": "Life360: Family Safety & GPS"
     },
     "sq": {
-      "key": "d99a2eceb93f529e2c83acc20fc84a1f",
+      "key": "b077d05234c130102155e452e73af790",
+      "own_screens": false,
       "summary": "Siguria familjare gjithëpërfshirëse: ndarja e vendndodhjes, sinjalizimet e përplasjeve, raportet e shoferit dhe më shumë",
       "title": "Life360: Family Safety & GPS"
     },
     "sr": {
-      "key": "582f80cd71c57f86f47fbce18b5f3545",
+      "key": "620dc51d1b121e16b3715f09f1d89fb8",
+      "own_screens": false,
       "summary": "Све-у-једном породична безбедност: дељење локације, упозорења о удесу, извештаји возача и још много тога",
       "title": "Life360: Family Safety & GPS"
     },
     "sv": {
-      "key": "675cc291907f7ee1d8eed8605908ce9a",
+      "key": "5e5a0808d1b7a183e54f3f6b0e2deb3b",
+      "own_screens": true,
       "summary": "Dela din plats med vänner och familj; se till att alla är trygga även på håll.",
       "title": "Platsdelning med Life360"
     },
     "sw": {
-      "key": "af042ca17fd7e6f2b42c3603ff168d35",
+      "key": "41158484aca613b65497f7b908d54858",
+      "own_screens": false,
       "summary": "Usalama wa familia kwa wote: kushiriki eneo, arifa za kuacha kufanya kazi, ripoti za dereva na zaidi",
       "title": "Life360: Family Safety & GPS"
     },
     "ta": {
-      "key": "2877ac0f4c276d47cacb1536615c0927",
+      "key": "03c52ffae4f8df41055869f5ad0f0392",
+      "own_screens": false,
       "summary": "ஆல் இன் ஒன் குடும்பப் பாதுகாப்பு: இருப்பிடப் பகிர்வு, விபத்து விழிப்பூட்டல்கள், ஓட்டுனர் அறிக்கைகள் மற்றும் பல",
       "title": "Life360: Family Safety & GPS"
     },
     "te": {
-      "key": "ccc4e49fa1b27212ea0dda868167a39f",
+      "key": "e8d8f5396fdea5f8ed7ecb4a34eb595d",
+      "own_screens": false,
       "summary": "ఆల్ ఇన్ వన్ ఫ్యామిలీ సేఫ్టీ: లొకేషన్ షేరింగ్, క్రాష్ అలర్ట్‌లు, డ్రైవర్ రిపోర్ట్‌లు & మరిన్ని",
       "title": "Life360: Family Safety & GPS"
     },
     "th": {
-      "key": "d993ee80362cc6169c7510591c998950",
+      "key": "0a1c75c6c4dcf0483adb842b3ffba984",
+      "own_screens": true,
       "summary": "แอพระบุตำแหน่งครอบครัวช่วยให้รู้ว่าครอบครัวของคุณปลอดภัยดีแม้เวลาที่อยู่ห่างไกล!",
       "title": "Life360 แอพระบุตำแหน่งครอบครัว"
     },
     "tr": {
-      "key": "59b1722f0a9f18395789da262b52cd39",
+      "key": "f041f96c7dff64cd0fed4fdd8005a905",
+      "own_screens": true,
       "summary": "Aile Konum Belirleyici, uzaktayken ailenizin güvende olduğunu bilmenizi sağlar.",
       "title": "Life360: Canlı Konum Paylaşımı"
     },
     "uk": {
-      "key": "8bdfb5ee13bb95f4bcb85a2eb3a2a965",
+      "key": "d039edd75ca810d7857e267f06fd8acd",
+      "own_screens": true,
       "summary": "Коли ваша сім'я не поряд, сімейний трекер відстежить, що вони у безпеці!",
       "title": "Life360: обмін геоданими"
     },
     "ur": {
-      "key": "e0e1d0bbfe3f27e20b9c9783f4e66b14",
+      "key": "ee5e7173eb5d3172670ca48a950674a7",
+      "own_screens": false,
       "summary": "خاندان میں سبھی کی حفاظت: مقام کا اشتراک، کریش الرٹس، ڈرائیور کی رپورٹس اور مزید بہت کچھ",
       "title": "Life360: Family Safety & GPS"
     },
     "vi": {
-      "key": "fd1b74ed7c94bb25fda5e760879901d8",
+      "key": "794d13496f5073a0a09075e96370a216",
+      "own_screens": true,
       "summary": "Bộ định vị này cho bạn biết gia đình bạn đã an toàn ngay cả khi họ đang ở xa!",
       "title": "Life360: Chia sẽ vị trí"
     },
     "zh-CN": {
-      "key": "2676552a27989f280e0e84fc0167941a",
+      "key": "0d6d18d838edbd029fd99ada59332061",
+      "own_screens": false,
       "summary": "一体化家庭安全：位置共享、碰撞警报、驾驶员报告等",
       "title": "Life360: Family Safety & GPS"
     },
     "zh-HK": {
-      "key": "4e732c0c668d91248da398df6105d97b",
+      "key": "a4fc3d468f8eb778a299ecb3075af809",
+      "own_screens": false,
       "summary": "一體化家庭安全：位置共享、碰撞警報、駕駛員報告等",
       "title": "Life360: Family Safety & GPS"
     },
     "zh-TW": {
-      "key": "4e732c0c668d91248da398df6105d97b",
+      "key": "a4fc3d468f8eb778a299ecb3075af809",
+      "own_screens": false,
       "summary": "一體化家庭安全：位置共享、碰撞警報、駕駛員報告等",
       "title": "Life360: Family Safety & GPS"
     },
     "zu": {
-      "key": "6149fe8ad395a869e9ffe2a4435cb8a1",
+      "key": "81726271aa06d6c8f13243f657046bdc",
+      "own_screens": false,
       "summary": "Ukuphepha komndeni konke-kokukodwa: ukwabelana ngendawo, izexwayiso zokuphahlazeka, imibiko yomshayeli nokuningi",
       "title": "Life360: Family Safety & GPS"
     }
