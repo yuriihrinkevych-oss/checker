@@ -32,6 +32,20 @@ CURRENCY = {
     "nz": "NZD", "kz": "KZT", "rs": "RSD",
 }
 
+# Основна мова Google Play в країні: так сторінку бачать місцеві користувачі.
+COUNTRY_LANG = {
+    "us": "en", "ca": "en", "mx": "es-419", "br": "pt-BR", "ar": "es-419", "cl": "es-419",
+    "co": "es-419", "pe": "es-419", "gb": "en-GB", "ie": "en-GB", "de": "de", "fr": "fr",
+    "es": "es", "it": "it", "nl": "nl", "be": "nl", "at": "de", "pt": "pt-PT", "fi": "fi",
+    "gr": "el", "sk": "sk", "si": "sl", "ee": "et", "lv": "lv", "lt": "lt", "hr": "hr",
+    "bg": "bg", "pl": "pl", "cz": "cs", "hu": "hu", "ro": "ro", "se": "sv", "no": "no",
+    "dk": "da", "ch": "de", "ua": "uk", "tr": "tr", "il": "iw", "ae": "ar", "sa": "ar",
+    "qa": "ar", "eg": "ar", "ma": "ar", "za": "en", "ng": "en", "ke": "en", "in": "en-IN",
+    "pk": "en", "bd": "bn", "id": "id", "my": "ms", "th": "th", "vn": "vi", "ph": "en",
+    "sg": "en", "jp": "ja", "kr": "ko", "tw": "zh-TW", "hk": "zh-HK", "au": "en-AU",
+    "nz": "en", "kz": "ru", "rs": "sr",
+}
+
 # Мови сторінок Google Play (параметр hl).
 LANGUAGES = [
     "af", "am", "ar", "az", "be", "bg", "bn", "ca", "cs", "da", "de", "el",
@@ -136,8 +150,8 @@ def _listing(data, base_screens=None):
             "own_screens": base_screens is not None and _screens(data) != base_screens}
 
 
-def scan_app(app_id, countries, languages, rates, delay=(1, 2), fetch=fetch_page):
-    result = {"countries": {}, "languages": [], "errors": []}
+def scan_app(app_id, countries, languages, rates, delay=(1, 2), fetch=fetch_page, country_pages=True):
+    result = {"countries": {}, "languages": [], "errors": [], "country_pages": {}}
 
     for cc in countries:
         status, data = fetch(app_id, "en", cc)
@@ -153,6 +167,18 @@ def scan_app(app_id, countries, languages, rates, delay=(1, 2), fetch=fetch_page
                           "min_usd": to_usd(lo, cur, rates), "max_usd": to_usd(hi, cur, rates),
                           "containsAds": data.get("containsAds")})
         result["countries"][cc] = entry
+        # Сторінка країни її основною мовою (ціни парсимо з англійської, вона стабільніша)
+        if country_pages and status == "ok":
+            hl = COUNTRY_LANG.get(cc, "en")
+            if hl == "en":
+                page = data
+            else:
+                st2, page = fetch(app_id, hl, cc)
+                time.sleep(random.uniform(*delay)) if delay else None
+                if st2 == "error":
+                    result["errors"].append(f"page {cc}")
+            if page:
+                result["country_pages"][cc] = {"lang": hl, "data": page}
 
     # Мовні версії сторінки. Текст зберігаємо, щоб відрізнити ручні локалізації
     # від автоперекладу Google: автопереклад змінюється разом з англійським текстом,
