@@ -35,3 +35,17 @@ alerts:
 
 # Пауза між запитами до Google Play, секунди (щоб не впертись у ліміти)
 request_delay: [2, 4]
+
+# Щотижневий скан ринків (scan_markets.py)
+market_scan:
+  # Порожньо = всі ~60 країн і ~75 мов зі списку в tracker/market.py.
+  # Можна звузити для швидкості, наприклад: countries: [us, br, de, mx, in]
+  countries: []
+  languages: []
+  request_delay: [1, 2]
+  # Реальна виручка ВЛАСНОЇ апки за останні 30 днів у USD.
+  # Потрібна, щоб перетворити ріст інсталлів конкурентів на оцінку ревенью.
+  # Розкоментуй і впиши цифру:
+  # calibration:
+  #   app_id: com.geozilla.family
+  #   revenue_usd_30d: 0
