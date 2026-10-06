@@ -6,11 +6,11 @@
   "genre": "Lifestyle",
   "headerImage": "https://play-lh.googleusercontent.com/bKkTJcBVFL2kVQeTBx4LC1Va9s8bUcCv1KHL_UkQynPVOD-N0iGB_i915fBgcIw9wKMybhK4CuL2AsHIwcBUP8A",
   "histogram": [
-    102482,
+    102483,
     13608,
-    52490,
-    99704,
-    491024
+    52491,
+    99705,
+    491030
   ],
   "icon": "https://play-lh.googleusercontent.com/i72e4U2jPc5WBB6JXrWoFfBXJbLJSgrMnDna3qPjDN9dQaONNbetQLS2JkUua-vqB4IW_WQ7y5IEMoHQLL_bSQ",
   "inAppProductPrice": "£2.89 - £82.99 if billed through Play",
@@ -18,7 +18,7 @@
   "lastUpdatedOn": "Oct 2, 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 760422,
+    "ratings": 760430,
     "realInstalls": 29664756,
     "reviews": 305,
     "score": 4.1350365
