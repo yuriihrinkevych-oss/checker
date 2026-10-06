@@ -4,30 +4,33 @@ from statistics import median
 
 from .collect import TRACKED_FIELDS
 
-MAX_DIFF_LINES = 30
+
+
+def _lines(text):
+    return [l.strip() for l in (text or "").splitlines() if l.strip()]
 
 
 def _text_diff(old, new):
-    lines = list(difflib.unified_diff(
-        (old or "").splitlines(), (new or "").splitlines(), lineterm="", n=0))
-    body = [l for l in lines[2:] if not l.startswith("@@")]  # без заголовків
-    if len(body) > MAX_DIFF_LINES:
-        body = body[:MAX_DIFF_LINES] + [f"... ще {len(body) - MAX_DIFF_LINES} рядків"]
-    return "\n".join(body)
+    """Які рядки опису додали і які прибрали (без шуму unified diff)."""
+    a, b = _lines(old), _lines(new)
+    added = [l for l in b if l not in a]
+    removed = [l for l in a if l not in b]
+    return added, removed
 
 
 def _list_diff(old, new):
     old, new = old or [], new or []
     added = [x for x in new if x not in old]
     removed = [x for x in old if x not in new]
-    parts = []
+    if not added and not removed:
+        return "змінили порядок", added
+    if len(old) == len(new) and len(added) == len(removed):
+        return f"замінили {len(added)} з {len(new)}", added
+    parts = [f"було {len(old)}, стало {len(new)}"]
     if added:
-        parts.append(f"нових: {len(added)}")
+        parts.append(f"нових {len(added)}")
     if removed:
-        parts.append(f"прибрано: {len(removed)}")
-    if not added and not removed and old != new:
-        parts.append("змінено порядок")
-    parts.append(f"було {len(old)} → стало {len(new)}")
+        parts.append(f"прибрали {len(removed)}")
     return ", ".join(parts), added
 
 
@@ -42,7 +45,8 @@ def diff_snapshots(old, new):
             continue
         change = {"field": field, "label": label, "old": a, "new": b}
         if field == "description":
-            change["detail"] = _text_diff(a, b)
+            change["added"], change["removed"] = _text_diff(a, b)
+            change["detail"] = f"+{len(change['added'])} / −{len(change['removed'])} рядків"
             change["old"] = change["new"] = None  # повний текст не тягнемо в лог
         elif field == "screenshots":
             change["detail"], change["added_urls"] = _list_diff(a, b)
@@ -79,6 +83,8 @@ def velocity_alert(history, today_ratings, multiplier, min_delta, lookback):
     if today_delta < min_delta:
         return None
     if base <= 0 or today_delta >= base * multiplier:
-        ratio = f"x{today_delta / base:.1f}" if base > 0 else "з нуля"
+        r = today_delta / base if base > 0 else None
+        ratio = ("з нуля" if r is None else f"×{r:.0f}" if r >= 10
+                 else f"×{r:.1f}".replace(".", ","))
         return {"today_delta": int(today_delta), "baseline": round(base, 1), "ratio": ratio}
     return None

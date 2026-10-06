@@ -43,7 +43,8 @@ LANGUAGES = [
     "vi", "zh-CN", "zh-TW", "zh-HK", "zu",
 ]
 
-NUM = re.compile(r"\d[\d,]*(?:\.\d+)?")
+RANGE_SPLIT = re.compile(r"\s[-–]\s")
+NUMBER = re.compile(r"\d(?:[\d.,\s\u00a0\u202f]*\d)?")
 
 
 def fetch_page(app_id, hl, gl, retries=3):
@@ -62,11 +63,35 @@ def fetch_page(app_id, hl, gl, retries=3):
             time.sleep(5 * (attempt + 1))
 
 
+def parse_amount(token):
+    """Число в будь-якому локальному форматі Google Play:
+    '2 299,99' -> 2299.99, 'Rp 1.490.000' -> 1490000, '9,400.00' -> 9400.0, '€ 2,99' -> 2.99."""
+    t = re.sub(r"[\s\u00a0\u202f]", "", token)
+    if "." in t and "," in t:
+        dec = "." if t.rfind(".") > t.rfind(",") else ","
+        t = t.replace("," if dec == "." else ".", "").replace(dec, ".")
+    elif "." in t or "," in t:
+        parts = t.split("." if "." in t else ",")
+        # один роздільник і рівно 2 цифри після нього = десяткові; інакше тисячі
+        if len(parts) == 2 and len(parts[1]) == 2:
+            t = parts[0] + "." + parts[1]
+        else:
+            t = "".join(parts)
+    return float(t)
+
+
 def parse_price_range(text, country):
-    """'R$14.99 – R$449.99 per item' -> (14.99, 449.99, 'BRL')."""
+    """'R$14.99 - R$449.99 per item' -> (14.99, 449.99, 'BRL')."""
     if not text:
         return None, None, None
-    nums = [float(n.replace(",", "")) for n in NUM.findall(text)]
+    nums = []
+    for part in RANGE_SPLIT.split(text):
+        m = NUMBER.search(part)
+        if m:
+            try:
+                nums.append(parse_amount(m.group()))
+            except ValueError:
+                pass
     if not nums:
         return None, None, None
     cur = "USD" if ("US$" in text or "USD" in text) else CURRENCY.get(country)
@@ -98,6 +123,12 @@ def _listing_key(data):
     return hashlib.md5(text.encode("utf-8")).hexdigest()
 
 
+def _listing(data):
+    if not data:
+        return None
+    return {"title": data.get("title"), "summary": data.get("summary"), "key": _listing_key(data)}
+
+
 def scan_app(app_id, countries, languages, rates, delay=(1, 2), fetch=fetch_page):
     result = {"countries": {}, "languages": [], "errors": []}
 
@@ -116,9 +147,13 @@ def scan_app(app_id, countries, languages, rates, delay=(1, 2), fetch=fetch_page
                           "containsAds": data.get("containsAds")})
         result["countries"][cc] = entry
 
-    # Локалізація = текст title+summary у мові відрізняється від англійського.
+    # Мовні версії сторінки. Текст зберігаємо, щоб відрізнити ручні локалізації
+    # від автоперекладу Google: автопереклад змінюється разом з англійським текстом,
+    # ручна локалізація — сама по собі.
     _, base = fetch(app_id, "en", "us")
     base_key = _listing_key(base)
+    result["base"] = _listing(base)
+    result["listings"] = {}
     for hl in languages:
         status, data = fetch(app_id, hl, "us")
         time.sleep(random.uniform(*delay)) if delay else None
@@ -128,35 +163,72 @@ def scan_app(app_id, countries, languages, rates, delay=(1, 2), fetch=fetch_page
         key = _listing_key(data)
         if key and key != base_key:
             result["languages"].append(hl)
+            result["listings"][hl] = _listing(data)
     return result
 
 
 def diff_market(old, new, price_threshold=0.03):
-    """Зміни між двома сканами: нові/зниклі ринки та мови, зміни цін у локальній валюті."""
+    """Структуровані зміни між двома сканами одного застосунку."""
     if not old:
         return []
     out = []
-    old_av = {c for c, e in old["countries"].items() if e.get("available")}
-    new_av = {c for c, e in new["countries"].items() if e.get("available")}
-    scanned_both = set(old["countries"]) & set(new["countries"])
-    if added := sorted((new_av - old_av) & scanned_both):
-        out.append(("🌍 Нові країни", ", ".join(added)))
-    if removed := sorted((old_av - new_av) & scanned_both):
-        out.append(("🚫 Зникли з країн", ", ".join(removed)))
-    if added := sorted(set(new["languages"]) - set(old["languages"])):
-        out.append(("🗣 Нові локалізації", ", ".join(added)))
-    if removed := sorted(set(old["languages"]) - set(new["languages"])):
-        out.append(("Прибрали локалізації", ", ".join(removed)))
-    for cc in sorted(scanned_both):
-        a, b = old["countries"][cc], new["countries"][cc]
-        for k, label in (("min_local", "мін."), ("max_local", "макс.")):
+    oc, nc = old.get("countries", {}), new.get("countries", {})
+    both = set(oc) & set(nc)
+    old_av = {c for c in both if oc[c].get("available")}
+    new_av = {c for c in both if nc[c].get("available")}
+    if new_av - old_av:
+        out.append({"type": "country_added", "countries": sorted(new_av - old_av)})
+    if old_av - new_av:
+        out.append({"type": "country_removed", "countries": sorted(old_av - new_av)})
+
+    ol, nl = set(old.get("languages", [])), set(new.get("languages", []))
+    if nl - ol:
+        out.append({"type": "lang_added", "langs": sorted(nl - ol)})
+    if ol - nl:
+        out.append({"type": "lang_removed", "langs": sorted(ol - nl)})
+
+    # Ручні правки локалізацій: текст мови змінився, а англійський — ні.
+    base_same = (old.get("base") or {}).get("key") == (new.get("base") or {}).get("key")
+    olist, nlist = old.get("listings") or {}, new.get("listings") or {}
+    edited = sorted(hl for hl in set(olist) & set(nlist)
+                    if olist[hl] and nlist[hl] and olist[hl]["key"] != nlist[hl]["key"])
+    if edited and base_same:
+        out.append({"type": "listing_edited", "langs": edited,
+                    "samples": [(hl, olist[hl]["title"], nlist[hl]["title"]) for hl in edited[:3]]})
+    elif not base_same and old.get("base") and new.get("base"):
+        out.append({"type": "base_changed", "old": old["base"]["title"], "new": new["base"]["title"],
+                    "followed": len(edited)})
+
+    prices = []
+    for cc in sorted(both):
+        a, b = oc[cc], nc[cc]
+        for k, kind in (("min_local", "entry"), ("max_local", "top")):
             x, y = a.get(k), b.get(k)
             if x and y and abs(y - x) / x >= price_threshold:
-                out.append((f"💰 Ціна {label} [{cc}]",
-                            f"{x:g} → {y:g} {b.get('currency') or ''} ({(y - x) / x:+.0%})"))
-        if a.get("containsAds") is not None and a.get("containsAds") != b.get("containsAds"):
-            out.append((f"📺 Реклама в апці [{cc}]", f"{a.get('containsAds')} → {b.get('containsAds')}"))
+                prices.append({"country": cc, "kind": kind, "old": x, "new": y,
+                               "currency": b.get("currency"), "pct": (y - x) / x})
+    if prices:
+        out.append({"type": "price", "changes": prices})
+
+    ads = [cc for cc in sorted(both) if oc[cc].get("containsAds") is not None
+           and nc[cc].get("containsAds") is not None
+           and oc[cc]["containsAds"] != nc[cc]["containsAds"]]
+    if ads:
+        out.append({"type": "ads", "countries": ads, "now": nc[ads[0]]["containsAds"]})
     return out
+
+
+def merge_first_seen(old, new, today):
+    """Коли апка вперше з'явилась у країні / мові. 'baseline' = була вже на першому скані."""
+    prev = (old or {}).get("first_seen", {"countries": {}, "languages": {}})
+    stamp = today if old else "baseline"
+    fs = {"countries": {}, "languages": {}}
+    for cc, e in new["countries"].items():
+        if e.get("available"):
+            fs["countries"][cc] = prev["countries"].get(cc, stamp)
+    for hl in new["languages"]:
+        fs["languages"][hl] = prev["languages"].get(hl, stamp)
+    return fs
 
 
 def price_summary(scan):

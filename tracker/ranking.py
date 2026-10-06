@@ -49,19 +49,34 @@ def build_ranking(rows, apps, primary, price_by_app, calibration=None):
     return table, bool(factor)
 
 
-def ranking_markdown(table, calibrated):
-    def f(v):
-        return "—" if v is None else f"{v:,.0f}".replace(",", " ")
-    lines = ["## Пріоритет конкурентів", "",
-             "| Апка | Інсталли | +7 днів | +30 днів | Мін. ціна IAP, $ (медіана) | Оцінка ревенью 30д, $ |",
-             "|---|---|---|---|---|---|"]
+def ranking_markdown(table, calibrated, history_days=0):
+    from . import fmt
+    lines = ["## Хто росте", ""]
+    has_d7 = any(t["d7"] is not None for t in table)
+    if not has_d7:
+        lines.append(f"Динаміка з'явиться після 7 днів щоденних даних (зараз: {history_days}). "
+                     "Поки що лише масштаб:")
+        lines.append("")
+    head = "| Апка | Інсталли (оцінка) |"
+    sep = "|---|---|"
+    if has_d7:
+        head += " За 7 днів | За 30 днів |"
+        sep += "---|---|"
+    if calibrated:
+        head += " Ревенью 30д, $ (індекс) |"
+        sep += "---|"
+    lines += [head, sep]
     for t in table:
-        price = "—" if t["price"] is None else f"{t['price']:.2f}"
-        lines.append(f"| {t['app']} | {f(t['installs'])} | {f(t['d7'])} | {f(t['d30'])} | {price} | {f(t['rev_index'])} |")
-    lines.append("")
-    lines.append("Оцінка ревенью: приріст інсталлів × ціна × коефіцієнт з власної апки. "
-                 "Це індекс для порівняння, точність у межах порядку величини."
-                 if calibrated else
-                 "Оцінка ревенью з'явиться, коли в config.yaml буде заповнено `calibration` "
-                 "і накопичиться 30 днів історії.")
+        row = f"| {t['app']} | {fmt.num(t['installs'])} |"
+        if has_d7:
+            row += f" {fmt.signed(t['d7'], t['installs'])} | {fmt.signed(t['d30'], t['installs'])} |"
+        if calibrated:
+            row += f" {fmt.num(t['rev_index'])} |"
+        lines.append(row)
+    if has_d7 and not calibrated:
+        lines += ["", "Щоб бачити оцінку ревенью, заповни `calibration` у config.yaml "
+                      "(реальна виручка власної апки за 30 днів)."]
+    elif calibrated:
+        lines += ["", "Ревенью: ваша виручка × (їхній приріст інсталлів / ваш) × (їхня ціна / ваша). "
+                      "Індекс для порівняння, точність у межах порядку величини."]
     return "\n".join(lines)
