@@ -1,4 +1,9 @@
 {
+  "base": {
+    "key": "17c030df676745a2a5b62104d42ecef4",
+    "summary": "Locate your family members by GPS phone location tracker everywhere and anytime",
+    "title": "Geozilla - Family GPS Locator"
+  },
   "countries": {
     "ae": {
       "available": true,
@@ -25,10 +30,10 @@
       "containsAds": false,
       "currency": "EUR",
       "iap": "€ 2,99 - € 74,99 if billed through Play",
-      "max_local": 7499.0,
-      "max_usd": 8405.9,
-      "min_local": 299.0,
-      "min_usd": 335.16
+      "max_local": 74.99,
+      "max_usd": 84.06,
+      "min_local": 2.99,
+      "min_usd": 3.35
     },
     "au": {
       "available": true,
@@ -125,10 +130,10 @@
       "containsAds": false,
       "currency": "CZK",
       "iap": "79,99 CZK - 2 299,99 CZK if billed through Play",
-      "max_local": 29999.0,
-      "max_usd": 1375.57,
-      "min_local": 2.0,
-      "min_usd": 0.09
+      "max_local": 2299.99,
+      "max_usd": 105.46,
+      "min_local": 79.99,
+      "min_usd": 3.67
     },
     "de": {
       "available": true,
@@ -145,10 +150,10 @@
       "containsAds": false,
       "currency": "DKK",
       "iap": "26,00 kr. - 569,00 kr. if billed through Play",
-      "max_local": 56900.0,
-      "max_usd": 8530.14,
-      "min_local": 2600.0,
-      "min_usd": 389.78
+      "max_local": 569.0,
+      "max_usd": 85.3,
+      "min_local": 26.0,
+      "min_usd": 3.9
     },
     "ee": {
       "available": true,
@@ -245,20 +250,20 @@
       "containsAds": false,
       "currency": "HUF",
       "iap": "959 HUF - 31 499 HUF if billed through Play",
-      "max_local": 959.0,
-      "max_usd": 2.93,
-      "min_local": 31.0,
-      "min_usd": 0.09
+      "max_local": 31499.0,
+      "max_usd": 96.11,
+      "min_local": 959.0,
+      "min_usd": 2.93
     },
     "id": {
       "available": true,
       "containsAds": false,
       "currency": "IDR",
       "iap": "Rp 32.000 - Rp 1.490.000 per item",
-      "max_local": 32.0,
-      "max_usd": 0.0,
-      "min_local": 0.0,
-      "min_usd": 0.0
+      "max_local": 1490000.0,
+      "max_usd": 83.27,
+      "min_local": 32000.0,
+      "min_usd": 1.79
     },
     "ie": {
       "available": true,
@@ -415,10 +420,10 @@
       "containsAds": false,
       "currency": "NOK",
       "iap": "41,00 kr - 999,00 kr if billed through Play",
-      "max_local": 99900.0,
-      "max_usd": 10412.97,
-      "min_local": 4100.0,
-      "min_usd": 427.36
+      "max_local": 999.0,
+      "max_usd": 104.13,
+      "min_local": 41.0,
+      "min_usd": 4.27
     },
     "nz": {
       "available": true,
@@ -465,10 +470,10 @@
       "containsAds": false,
       "currency": "PLN",
       "iap": "11,99 PLN - 354,99 PLN if billed through Play",
-      "max_local": 35499.0,
-      "max_usd": 9084.37,
-      "min_local": 1199.0,
-      "min_usd": 306.83
+      "max_local": 354.99,
+      "max_usd": 90.84,
+      "min_local": 11.99,
+      "min_usd": 3.07
     },
     "pt": {
       "available": true,
@@ -495,10 +500,10 @@
       "containsAds": false,
       "currency": "RON",
       "iap": "8,99 RON - 479,99 RON if billed through Play",
-      "max_local": 47999.0,
-      "max_usd": 10085.81,
-      "min_local": 899.0,
-      "min_usd": 188.9
+      "max_local": 479.99,
+      "max_usd": 100.86,
+      "min_local": 8.99,
+      "min_usd": 1.89
     },
     "rs": {
       "available": true,
@@ -525,10 +530,10 @@
       "containsAds": false,
       "currency": "SEK",
       "iap": "39,99 kr - 859,00 kr if billed through Play",
-      "max_local": 85900.0,
-      "max_usd": 8555.07,
-      "min_local": 3999.0,
-      "min_usd": 398.27
+      "max_local": 859.0,
+      "max_usd": 85.55,
+      "min_local": 39.99,
+      "min_usd": 3.98
     },
     "sg": {
       "available": true,
@@ -595,10 +600,10 @@
       "containsAds": false,
       "currency": "UAH",
       "iap": "85,99 UAH - 3 749,99 UAH per item",
-      "max_local": 74999.0,
-      "max_usd": 1663.99,
-      "min_local": 3.0,
-      "min_usd": 0.07
+      "max_local": 3749.99,
+      "max_usd": 83.2,
+      "min_local": 85.99,
+      "min_usd": 1.91
     },
     "us": {
       "available": true,
@@ -625,14 +630,157 @@
       "containsAds": false,
       "currency": "ZAR",
       "iap": "R 17,99 - R 1 799,99 per item",
-      "max_local": 79999.0,
-      "max_usd": 4805.37,
-      "min_local": 1.0,
-      "min_usd": 0.06
+      "max_local": 1799.99,
+      "max_usd": 108.12,
+      "min_local": 17.99,
+      "min_usd": 1.08
     }
   },
   "date": "2026-10-06",
   "errors": [],
+  "first_seen": {
+    "countries": {
+      "ae": "2026-10-06",
+      "ar": "2026-10-06",
+      "at": "2026-10-06",
+      "au": "2026-10-06",
+      "bd": "2026-10-06",
+      "be": "2026-10-06",
+      "bg": "2026-10-06",
+      "br": "2026-10-06",
+      "ca": "2026-10-06",
+      "ch": "2026-10-06",
+      "cl": "2026-10-06",
+      "co": "2026-10-06",
+      "cz": "2026-10-06",
+      "de": "2026-10-06",
+      "dk": "2026-10-06",
+      "ee": "2026-10-06",
+      "eg": "2026-10-06",
+      "es": "2026-10-06",
+      "fi": "2026-10-06",
+      "fr": "2026-10-06",
+      "gb": "2026-10-06",
+      "gr": "2026-10-06",
+      "hk": "2026-10-06",
+      "hr": "2026-10-06",
+      "hu": "2026-10-06",
+      "id": "2026-10-06",
+      "ie": "2026-10-06",
+      "il": "2026-10-06",
+      "in": "2026-10-06",
+      "it": "2026-10-06",
+      "jp": "2026-10-06",
+      "ke": "2026-10-06",
+      "kr": "2026-10-06",
+      "kz": "2026-10-06",
+      "lt": "2026-10-06",
+      "lv": "2026-10-06",
+      "ma": "2026-10-06",
+      "mx": "2026-10-06",
+      "my": "2026-10-06",
+      "ng": "2026-10-06",
+      "nl": "2026-10-06",
+      "no": "2026-10-06",
+      "nz": "2026-10-06",
+      "pe": "2026-10-06",
+      "ph": "2026-10-06",
+      "pk": "2026-10-06",
+      "pl": "2026-10-06",
+      "pt": "2026-10-06",
+      "qa": "2026-10-06",
+      "ro": "2026-10-06",
+      "rs": "2026-10-06",
+      "sa": "2026-10-06",
+      "se": "2026-10-06",
+      "sg": "2026-10-06",
+      "si": "2026-10-06",
+      "sk": "2026-10-06",
+      "th": "2026-10-06",
+      "tr": "2026-10-06",
+      "tw": "2026-10-06",
+      "ua": "2026-10-06",
+      "us": "2026-10-06",
+      "vn": "2026-10-06",
+      "za": "2026-10-06"
+    },
+    "languages": {
+      "af": "2026-10-06",
+      "am": "2026-10-06",
+      "ar": "2026-10-06",
+      "az": "2026-10-06",
+      "be": "2026-10-06",
+      "bg": "2026-10-06",
+      "bn": "2026-10-06",
+      "ca": "2026-10-06",
+      "cs": "2026-10-06",
+      "da": "2026-10-06",
+      "de": "2026-10-06",
+      "el": "2026-10-06",
+      "es": "2026-10-06",
+      "es-419": "2026-10-06",
+      "et": "2026-10-06",
+      "eu": "2026-10-06",
+      "fa": "2026-10-06",
+      "fi": "2026-10-06",
+      "fil": "2026-10-06",
+      "fr": "2026-10-06",
+      "fr-CA": "2026-10-06",
+      "gl": "2026-10-06",
+      "gu": "2026-10-06",
+      "hi": "2026-10-06",
+      "hr": "2026-10-06",
+      "hu": "2026-10-06",
+      "hy": "2026-10-06",
+      "id": "2026-10-06",
+      "is": "2026-10-06",
+      "it": "2026-10-06",
+      "iw": "2026-10-06",
+      "ja": "2026-10-06",
+      "ka": "2026-10-06",
+      "kk": "2026-10-06",
+      "km": "2026-10-06",
+      "kn": "2026-10-06",
+      "ko": "2026-10-06",
+      "ky": "2026-10-06",
+      "lo": "2026-10-06",
+      "lt": "2026-10-06",
+      "lv": "2026-10-06",
+      "mk": "2026-10-06",
+      "ml": "2026-10-06",
+      "mn": "2026-10-06",
+      "mr": "2026-10-06",
+      "ms": "2026-10-06",
+      "my": "2026-10-06",
+      "ne": "2026-10-06",
+      "nl": "2026-10-06",
+      "no": "2026-10-06",
+      "pa": "2026-10-06",
+      "pl": "2026-10-06",
+      "pt-BR": "2026-10-06",
+      "pt-PT": "2026-10-06",
+      "ro": "2026-10-06",
+      "ru": "2026-10-06",
+      "si": "2026-10-06",
+      "sk": "2026-10-06",
+      "sl": "2026-10-06",
+      "sq": "2026-10-06",
+      "sr": "2026-10-06",
+      "sv": "2026-10-06",
+      "sw": "2026-10-06",
+      "ta": "2026-10-06",
+      "te": "2026-10-06",
+      "th": "2026-10-06",
+      "tr": "2026-10-06",
+      "uk": "2026-10-06",
+      "ur": "2026-10-06",
+      "vi": "2026-10-06",
+      "zh-CN": "2026-10-06",
+      "zh-HK": "2026-10-06",
+      "zh-TW": "2026-10-06",
+      "zu": "2026-10-06"
+    }
+  },
   "languages": [
     "af",
     "am",
@@ -708,5 +856,377 @@
     "zh-TW",
     "zh-HK",
     "zu"
-  ]
+  ],
+  "listings": {
+    "af": {
+      "key": "f9ca184ec30d4a33975abf11accad7c9",
+      "summary": "Vind jou gesinslede oral en enige tyd met GPS-foonliggingspoorder",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "am": {
+      "key": "30a28d4d6933cd18a4dc9ff048fb517b",
+      "summary": "የቤተሰብ አባላትዎን በየቦታው እና በማንኛውም ጊዜ በጂፒኤስ የስልክ መገኛ መከታተያ ያግኙ",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "ar": {
+      "key": "015d7ffe4071a3b88b035a09fe9e0553",
+      "summary": "حدد مكان تواجد عائلتك \nكن على علم عند وصولهم أو مغادرتهم لمكان معين",
+      "title": "Geozilla - محدد مكان الأسرة"
+    },
+    "az": {
+      "key": "851e77d86ca2caf0911d6278b9e4ddfe",
+      "summary": "Hər yerdə və istənilən vaxt GPS telefon yeri izləyicisi ilə ailə üzvlərinizi tapın",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "be": {
+      "key": "247a69af68a2b8f33ccb110f6c7fe10a",
+      "summary": "Знаходзьце членаў вашай сям'і з дапамогай GPS-трэкера месцазнаходжання тэлефона ўсюды і ў любы час",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "bg": {
+      "key": "42a34f15b096b9db696fdeb02d786dd8",
+      "summary": "Намерете членовете на вашето семейство чрез GPS проследяване на местоположението на телефона навсякъде и по всяко време",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "bn": {
+      "key": "62b71882a107113a4b476f310a8c589e",
+      "summary": "GPS ফোন অবস্থান ট্র্যাকার দ্বারা আপনার পরিবারের সদস্যদের সর্বত্র এবং যে কোনো সময় সনাক্ত করুন",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "ca": {
+      "key": "124b64f7b5f13db9a38efd217e22aab9",
+      "summary": "Localitzeu els membres de la vostra família mitjançant el rastrejador d'ubicació del telèfon GPS a tot arreu i en qualsevol moment",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "cs": {
+      "key": "8f1447623d221944c8c1e7fa7999d1fc",
+      "summary": "Najděte své rodinné příslušníky pomocí GPS telefonu, kdekoli a kdykoli",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "da": {
+      "key": "a3cea3d2dab0e6fb01ccb8ca5076d7e5",
+      "summary": "Find dine familiemedlemmer ved hjælp af GPS-telefonens placeringsporing overalt og når som helst",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "de": {
+      "key": "7835a7505e2b06bbe366808d7eac62c3",
+      "summary": "GPS-Tracker zeigt die Standorte Ihrer Familie in Echtzeit auf einer Karte",
+      "title": "Handy GPS Ortung Geozilla"
+    },
+    "el": {
+      "key": "44f859f1999186df7cbbbe80ee0d84fc",
+      "summary": "Εντοπίστε τα μέλη της οικογένειάς σας με τον εντοπισμό τοποθεσίας του τηλεφώνου GPS παντού και οποτεδήποτε",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "es": {
+      "key": "7432e943a6d661240d6ed7d90a175c56",
+      "summary": "Localizador de celulares GPS familiar con ubicación en tiempo real",
+      "title": "Geozilla GPS Localizador"
+    },
+    "es-419": {
+      "key": "7432e943a6d661240d6ed7d90a175c56",
+      "summary": "Localizador de celulares GPS familiar con ubicación en tiempo real",
+      "title": "Geozilla GPS Localizador"
+    },
+    "et": {
+      "key": "33225e02b7a7ac140b3d782eb60756ac",
+      "summary": "Leidke oma pereliikmed GPS-telefoni asukohajälgija abil kõikjal ja igal ajal",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "eu": {
+      "key": "a2d88f20cd1d0ef627c397de950f5e1c",
+      "summary": "Aurkitu zure familiako kideak nonahi eta edonoiz GPS telefonoaren kokapen-abiarazlearen bidez",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "fa": {
+      "key": "459a3d2de39fc69306d0cbc9164a9cce",
+      "summary": "اعضای خانواده خود را با ردیاب موقعیت مکانی تلفن GPS در همه جا و هر زمان تعیین کنید",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "fi": {
+      "key": "a006ce2e67baaee1eb96eaa580c3cfb9",
+      "summary": "Paikanna perheesi GPS-puhelimen sijainninseurantalaitteen avulla kaikkialla ja milloin tahansa",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "fil": {
+      "key": "d2e09045e0ddcb97d9515c3be1c401a8",
+      "summary": "Hanapin ang iyong mga miyembro ng pamilya sa pamamagitan ng GPS phone location tracker kahit saan at anumang oras",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "fr": {
+      "key": "c80c58095347095599c402ec54e2d4a2",
+      "summary": "Trouvez et suivez votre famille grâce à la géolocalisation sur téléphone",
+      "title": "Geozilla - Localiser Famille"
+    },
+    "fr-CA": {
+      "key": "c80c58095347095599c402ec54e2d4a2",
+      "summary": "Trouvez et suivez votre famille grâce à la géolocalisation sur téléphone",
+      "title": "Geozilla - Localiser Famille"
+    },
+    "gl": {
+      "key": "b29eca3ed2051af982f91cfaba447807",
+      "summary": "Localiza os membros da túa familia mediante o rastreador de localización do teléfono GPS en todas partes e en calquera momento",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "gu": {
+      "key": "d93376e1d63cab5719defee620d9925e",
+      "summary": "જીપીએસ ફોન લોકેશન ટ્રેકર દ્વારા દરેક જગ્યાએ અને ગમે ત્યારે તમારા પરિવારના સભ્યોને શોધો",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "hi": {
+      "key": "65c636bb6d326c2008cb7b1c132938de",
+      "summary": "रियल-टाइम GPS लोकेशन शेयरिंग के ज़रिए अपने प्रियजनों से जुड़े रहें",
+      "title": "Geozilla – फैमिली GPS लोकेटर"
+    },
+    "hr": {
+      "key": "a72e053d37c10984042f7d20d3c755ed",
+      "summary": "Pronađite članove svoje obitelji pomoću GPS uređaja za praćenje lokacije telefona svugdje i bilo kada",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "hu": {
+      "key": "ba04e7fad984d655688a2623ade99c66",
+      "summary": "Keresse meg családtagjait a GPS-telefon helymeghatározójával bárhol és bármikor",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "hy": {
+      "key": "34de5fa6ad04dd4437b767acffd5a967",
+      "summary": "Գտեք ձեր ընտանիքի անդամներին GPS հեռախոսի տեղորոշման որսի միջոցով ամենուր և ցանկացած ժամանակ",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "id": {
+      "key": "daafd24a93eb80aa0e867ca83e0a3004",
+      "summary": "Lacak lokasi anggota keluarga Anda di mana",
+      "title": "Geozilla - Pelacak Lokasi GPS"
+    },
+    "is": {
+      "key": "15c2fcf95a7694b6b3b74e42c9005096",
+      "summary": "Finndu fjölskyldumeðlimi þína með GPS símanúmeri hvar sem er og hvenær sem er",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "it": {
+      "key": "4a39c7730da3c02576bf973ba1dd3f57",
+      "summary": "Localizzatore GPS Per La Famiglia con Gestione Ottimizzata della Batteria",
+      "title": "Geozilla: Trova la famiglia"
+    },
+    "iw": {
+      "key": "fdfb1d283e61fc8ec62f165bbd4344d9",
+      "summary": "אתר את בני המשפחה שלך על ידי מעקב אחר מיקום טלפון GPS בכל מקום ובכל זמן",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "ja": {
+      "key": "9e99484d8bbb83ad9f9d1e077c4819b3",
+      "summary": "Geozillaは、家族やの正確な現在地を確認したり、特定エリアへの到着通知を受け取ることができるバッテリー消費の少ないGPSトラッカーです。",
+      "title": "Geozilla －家族と位置情報を共有する安心アプリ"
+    },
+    "ka": {
+      "key": "651704e9dfc6b651fd9c0cab7d60c8f7",
+      "summary": "იპოვნეთ თქვენი ოჯახის წევრები GPS ტელეფონის მდებარეობის ტრეკერით ყველგან და ნებისმიერ დროს",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "kk": {
+      "key": "785180bfe85a776356317916be7c85df",
+      "summary": "Барлық жерде және кез келген уақытта GPS телефонының орналасқан жерін бақылау құралы арқылы отбасы мүшелеріңізді табыңыз",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "km": {
+      "key": "bf43a24a1bc63c867d4213be95b90ab1",
+      "summary": "កំណត់ទីតាំងសមាជិកគ្រួសាររបស់អ្នកដោយកម្មវិធីតាមដានទីតាំងទូរស័ព្ទ GPS គ្រប់ទីកន្លែង និងគ្រប់ពេលវេលា",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "kn": {
+      "key": "c3bb3929b50345c7acfdae2204624020",
+      "summary": "GPS ಫೋನ್ ಸ್ಥಳ ಟ್ರ್ಯಾಕರ್ ಮೂಲಕ ನಿಮ್ಮ ಕುಟುಂಬದ ಸದಸ್ಯರನ್ನು ಎಲ್ಲೆಡೆ ಮತ್ತು ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ಪತ್ತೆ ಮಾಡಿ",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "ko": {
+      "key": "ed64120e4ab30b5ad57cf56b4e9fff4a",
+      "summary": "Geozilla는 가족 위치를 찾는 데 도움을 줍니다. 지도에서 현재 위치를 확인하고, 온종일 서로를 안전하게 지켜줄 수 있습니다.",
+      "title": "Geozilla가족 위치 추적기. Find Family"
+    },
+    "ky": {
+      "key": "b59edecde854fec0c35fb2ab12fce908",
+      "summary": "Бардык жерде жана каалаган убакта GPS телефонунун жайгашкан жерине көз салгыч аркылуу үй-бүлө мүчөлөрүңүздүн жайгашкан жерин табыңыз",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "lo": {
+      "key": "135792deaa933bb45606c00219319d9a",
+      "summary": "ຊອກ​ຫາ​ສະ​ມາ​ຊິກ​ໃນ​ຄອບ​ຄົວ​ຂອງ​ທ່ານ​ໂດຍ GPS ຕິດ​ຕາມ​ສະ​ຖານ​ທີ່​ໂທລະ​ສັບ​ທຸກ​ບ່ອນ​ແລະ​ທຸກ​ເວ​ລາ​",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "lt": {
+      "key": "ad48cad83db223fc06d25534384345d0",
+      "summary": "Raskite savo šeimos narius naudodami GPS telefono vietos stebėjimo priemonę visur ir bet kada",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "lv": {
+      "key": "1c00bcceba38e6be031ad22ef4932597",
+      "summary": "Atrodiet savus ģimenes locekļus, izmantojot GPS tālruņa atrašanās vietas izsekotāju visur un jebkurā laikā",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "mk": {
+      "key": "6e9004317f51471247ede4d17155546b",
+      "summary": "Лоцирајте ги членовите на вашето семејство со помош на GPS-следач за локација на телефонот насекаде и во секое време",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "ml": {
+      "key": "15293df07e9d997ae49ef044560d8988",
+      "summary": "എല്ലായിടത്തും എപ്പോൾ വേണമെങ്കിലും GPS ഫോൺ ലൊക്കേഷൻ ട്രാക്കർ ഉപയോഗിച്ച് നിങ്ങളുടെ കുടുംബാംഗങ്ങളെ കണ്ടെത്തുക",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "mn": {
+      "key": "1f3d0baf9d381fc273e4a927a68b1aad",
+      "summary": "Гэр бүлийн гишүүдийнхээ байршлыг хаана ч, хэзээ ч GPS утасны байршлыг тогтоогчоор олоорой",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "mr": {
+      "key": "5bddd158f831da8dc5a9bf9ce774b1f6",
+      "summary": "जीपीएस फोन लोकेशन ट्रॅकरद्वारे आपल्या कुटुंबातील सदस्यांना कुठेही आणि कधीही शोधा",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "ms": {
+      "key": "8e664578b93bf432122ef9713d7ea8d7",
+      "summary": "Jejaki lokasi ahli keluarga anda menggunakan penjejak lokasi telefon GPS",
+      "title": "Geozilla - Pengesan Lokasi GPS"
+    },
+    "my": {
+      "key": "c511c713cba092cba261f1767173f317",
+      "summary": "နေရာတိုင်းနှင့် အချိန်မရွေး GPS ဖုန်းတည်နေရာ ခြေရာခံကိရိယာဖြင့် သင့်မိသားစုဝင်များကို ရှာဖွေပါ။",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "ne": {
+      "key": "d1c814a933f539aa00f93b9ac7895b46",
+      "summary": "जहाँसुकै र कुनै पनि समय जीपीएस फोन स्थान ट्रयाकर द्वारा आफ्नो परिवारका सदस्यहरू पत्ता लगाउनुहोस्",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "nl": {
+      "key": "b28afdec8e5049277fd698bece7c1200",
+      "summary": "Lokaliseer uw gezinsleden overal en altijd via de GPS-telefoonlocatietracker",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "no": {
+      "key": "eb5de47015e424c8208ce4448b5a2446",
+      "summary": "Finn familiemedlemmene dine med GPS-telefonposisjonssporing overalt og når som helst",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "pa": {
+      "key": "b403f11bf8c994c7a26161bdf020761e",
+      "summary": "ਆਪਣੇ ਪਰਿਵਾਰ ਦੇ ਮੈਂਬਰਾਂ ਨੂੰ GPS ਫ਼ੋਨ ਟਿਕਾਣਾ ਟਰੈਕਰ ਦੁਆਰਾ ਕਿਤੇ ਵੀ ਅਤੇ ਕਿਸੇ ਵੀ ਸਮੇਂ ਲੱਭੋ",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "pl": {
+      "key": "1b76c95e0f45cb4d1f7712d344a10112",
+      "summary": "Zlokalizuj członków rodziny za pomocą urządzenia do śledzenia lokalizacji telefonu GPS w dowolnym miejscu i czasie",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "pt-BR": {
+      "key": "50c996a4a132926bf90c459622250412",
+      "summary": "Localizador GPS para celulares e famílias com localização precisa em",
+      "title": "Geozilla: Rastreador GPS"
+    },
+    "pt-PT": {
+      "key": "50c996a4a132926bf90c459622250412",
+      "summary": "Localizador GPS para celulares e famílias com localização precisa em",
+      "title": "Geozilla: Rastreador GPS"
+    },
+    "ro": {
+      "key": "4c402fc9b7873a06fa25512866c2e5e5",
+      "summary": "Localizați membrii familiei dvs. cu ajutorul dispozitivului de urmărire a locației telefonului GPS oriunde și oricând",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "ru": {
+      "key": "81c537d92a96883d49fd0c175b680cdd",
+      "summary": "Семейный GPS трекер поможет найти близких с помощью телефона!",
+      "title": "Geozilla - найти мой телефон"
+    },
+    "si": {
+      "key": "1834f224c63b8ec40f18e103d68d554e",
+      "summary": "සෑම තැනකම සහ ඕනෑම වේලාවක GPS දුරකථන ස්ථාන ට්රැකර් මගින් ඔබේ පවුලේ සාමාජිකයන් සොයා ගන්න",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "sk": {
+      "key": "dd7b1e45d6807cc677c32d2b93ecf68e",
+      "summary": "Nájdite svojich rodinných príslušníkov pomocou nástroja na sledovanie polohy telefónu GPS kdekoľvek a kedykoľvek",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "sl": {
+      "key": "bf03f05b8bbf49a6c324da9dabec24f5",
+      "summary": "Poiščite svoje družinske člane s pomočjo GPS sledilnika lokacije telefona povsod in kadarkoli",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "sq": {
+      "key": "9c7de70fa437e788275db3a6bab9f124",
+      "summary": "Gjeni anëtarët e familjes tuaj me anë të gjurmuesit të vendndodhjes së telefonit GPS kudo dhe në çdo kohë",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "sr": {
+      "key": "2f9a2d0e657565606e8ca88ebb0149ee",
+      "summary": "Пронађите чланове своје породице помоћу ГПС уређаја за праћење локације телефона свуда и било када",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "sv": {
+      "key": "94209881fd5fbc344b4ad8bc84017bfb",
+      "summary": "Hitta dina familjemedlemmar med GPS-telefonens platsspårare överallt och när som helst",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "sw": {
+      "key": "296bec6485837af98dc06c8194c41839",
+      "summary": "Tafuta wanafamilia yako kwa kifuatiliaji cha eneo la simu ya GPS kila mahali na wakati wowote",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "ta": {
+      "key": "2ab8a825239879a0846de2503bf648b5",
+      "summary": "எல்லா இடங்களிலும் எந்த நேரத்திலும் ஜிபிஎஸ் ஃபோன் இருப்பிட கண்காணிப்பு மூலம் உங்கள் குடும்ப உறுப்பினர்களைக் கண்டறியவும்",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "te": {
+      "key": "ec6d91c9646918b66170ba82971cda84",
+      "summary": "ప్రతిచోటా మరియు ఎప్పుడైనా GPS ఫోన్ లొకేషన్ ట్రాకర్ ద్వారా మీ కుటుంబ సభ్యులను గుర్తించండి",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "th": {
+      "key": "5e2530400088465efc6709aa860661de",
+      "summary": "เครื่องบอกพิกัดจีพีเอสสำหรับครอบครัว เพื่อให้คนที่คุณรักปลอดภัย",
+      "title": "Geozilla ค้นหาโทรศัพท์"
+    },
+    "tr": {
+      "key": "7a415a628c652aae502bbaede64255d8",
+      "summary": "Aile için Konum Belirleyici. GPS Telefon Takip",
+      "title": "Geozilla GPS phone konum bulma"
+    },
+    "uk": {
+      "key": "59e9c8d746d5f22945c75d7c614bbde2",
+      "summary": "Енергозберігаючий GPS трекер для визначення місцеположення членів сім’ї",
+      "title": "Geozilla – сімейний локатор"
+    },
+    "ur": {
+      "key": "d453da739a95bf9f6799ec6a2b995809",
+      "summary": "ہر جگہ اور کسی بھی وقت GPS فون لوکیشن ٹریکر کے ذریعے اپنے خاندان کے افراد کو تلاش کریں۔",
+      "title": "Geozilla - Family GPS Locator"
+    },
+    "vi": {
+      "key": "50676f1d92a3e29aa21446d6904d247d",
+      "summary": "Định vị các thành viên trong gia đình của bạn bằng trình theo dõi vị trí GPS",
+      "title": "Geozilla - bằng GPS"
+    },
+    "zh-CN": {
+      "key": "0781dc2b459c6b4ee81965f5981023d3",
+      "summary": "家人定位器可以让您了解您的家人是否安全！有效保证亲人的安全。",
+      "title": "Geozilla家庭GPS定位器。Find family"
+    },
+    "zh-HK": {
+      "key": "9b27c9f08ca5e8c6324f0aab20c62e17",
+      "summary": "透過 GPS 手機定位，隨時隨地掌握家人位置",
+      "title": "Geozilla – 家庭 GPS 定位 App"
+    },
+    "zh-TW": {
+      "key": "9b27c9f08ca5e8c6324f0aab20c62e17",
+      "summary": "透過 GPS 手機定位，隨時隨地掌握家人位置",
+      "title": "Geozilla – 家庭 GPS 定位 App"
+    },
+    "zu": {
+      "key": "814ce1228af7b675facfef55db45e6ed",
+      "summary": "Thola amalungu omndeni wakho nge-tracker yendawo yefoni ye-GPS yonke indawo nanoma nini",
+      "title": "Geozilla - Family GPS Locator"
+    }
+  }
 }

@@ -1,4 +1,9 @@
 {
+  "base": {
+    "key": "617f24593852280b0a66f959cfa2e2e4",
+    "summary": "GPS location tracker & parental control app. Track & find my family location",
+    "title": "Findmykids: Parental Control"
+  },
   "countries": {
     "ae": {
       "available": true,
@@ -25,10 +30,10 @@
       "containsAds": false,
       "currency": "EUR",
       "iap": "€ 0,29 - € 719,99 if billed through Play",
-      "max_local": 71999.0,
-      "max_usd": 80706.32,
-      "min_local": 29.0,
-      "min_usd": 32.51
+      "max_local": 719.99,
+      "max_usd": 807.06,
+      "min_local": 0.29,
+      "min_usd": 0.33
     },
     "au": {
       "available": true,
@@ -125,10 +130,10 @@
       "containsAds": false,
       "currency": "CZK",
       "iap": "6,99 CZK - 18 900,99 CZK if billed through Play",
-      "max_local": 90099.0,
-      "max_usd": 4131.39,
-      "min_local": 18.0,
-      "min_usd": 0.83
+      "max_local": 18900.99,
+      "max_usd": 866.68,
+      "min_local": 6.99,
+      "min_usd": 0.32
     },
     "de": {
       "available": true,
@@ -145,10 +150,10 @@
       "containsAds": false,
       "currency": "DKK",
       "iap": "2,00 kr. - 5.750,00 kr. if billed through Play",
-      "max_local": 200.0,
-      "max_usd": 29.98,
-      "min_local": 0.0,
-      "min_usd": 0.0
+      "max_local": 5750.0,
+      "max_usd": 862.01,
+      "min_local": 2.0,
+      "min_usd": 0.3
     },
     "ee": {
       "available": true,
@@ -245,20 +250,20 @@
       "containsAds": false,
       "currency": "HUF",
       "iap": "99 HUF - 309 000 HUF if billed through Play",
-      "max_local": 309.0,
-      "max_usd": 0.94,
-      "min_local": 0.0,
-      "min_usd": 0.0
+      "max_local": 309000.0,
+      "max_usd": 942.79,
+      "min_local": 99.0,
+      "min_usd": 0.3
     },
     "id": {
       "available": true,
       "containsAds": false,
       "currency": "IDR",
       "iap": "Rp 3.400 - Rp 9.990.000 per item",
-      "max_local": 9.99,
-      "max_usd": 0.0,
-      "min_local": 0.0,
-      "min_usd": 0.0
+      "max_local": 9990000.0,
+      "max_usd": 558.33,
+      "min_local": 3400.0,
+      "min_usd": 0.19
     },
     "ie": {
       "available": true,
@@ -415,10 +420,10 @@
       "containsAds": false,
       "currency": "NOK",
       "iap": "3,00 kr - 9 090,00 kr if billed through Play",
-      "max_local": 9000.0,
-      "max_usd": 938.11,
-      "min_local": 9.0,
-      "min_usd": 0.94
+      "max_local": 9090.0,
+      "max_usd": 947.49,
+      "min_local": 3.0,
+      "min_usd": 0.31
     },
     "nz": {
       "available": true,
@@ -465,10 +470,10 @@
       "containsAds": false,
       "currency": "PLN",
       "iap": "1,29 PLN - 3.350,99 PLN if billed through Play",
-      "max_local": 129.0,
-      "max_usd": 33.01,
-      "min_local": 3.35,
-      "min_usd": 0.86
+      "max_local": 3350.99,
+      "max_usd": 857.53,
+      "min_local": 1.29,
+      "min_usd": 0.33
     },
     "pt": {
       "available": true,
@@ -495,10 +500,10 @@
       "containsAds": false,
       "currency": "RON",
       "iap": "1,29 RON - 3.690,99 RON if billed through Play",
-      "max_local": 129.0,
-      "max_usd": 27.11,
-      "min_local": 3.69,
-      "min_usd": 0.78
+      "max_local": 3690.99,
+      "max_usd": 775.57,
+      "min_local": 1.29,
+      "min_usd": 0.27
     },
     "rs": {
       "available": true,
@@ -525,10 +530,10 @@
       "containsAds": false,
       "currency": "SEK",
       "iap": "3,00 kr - 8 850,00 kr if billed through Play",
-      "max_local": 85000.0,
-      "max_usd": 8465.44,
-      "min_local": 8.0,
-      "min_usd": 0.8
+      "max_local": 8850.0,
+      "max_usd": 881.4,
+      "min_local": 3.0,
+      "min_usd": 0.3
     },
     "sg": {
       "available": true,
@@ -595,10 +600,10 @@
       "containsAds": false,
       "currency": "UAH",
       "iap": "5,00 UAH - 23 900,00 UAH per item",
-      "max_local": 90000.0,
-      "max_usd": 1996.82,
-      "min_local": 23.0,
-      "min_usd": 0.51
+      "max_local": 23900.0,
+      "max_usd": 530.27,
+      "min_local": 5.0,
+      "min_usd": 0.11
     },
     "us": {
       "available": true,
@@ -625,14 +630,160 @@
       "containsAds": false,
       "currency": "ZAR",
       "iap": "R 4,49 - R 6 199,99 per item",
-      "max_local": 19999.0,
-      "max_usd": 1201.3,
-      "min_local": 6.0,
-      "min_usd": 0.36
+      "max_local": 6199.99,
+      "max_usd": 372.42,
+      "min_local": 4.49,
+      "min_usd": 0.27
     }
   },
   "date": "2026-10-06",
   "errors": [],
+  "first_seen": {
+    "countries": {
+      "ae": "2026-10-06",
+      "ar": "2026-10-06",
+      "at": "2026-10-06",
+      "au": "2026-10-06",
+      "bd": "2026-10-06",
+      "be": "2026-10-06",
+      "bg": "2026-10-06",
+      "br": "2026-10-06",
+      "ca": "2026-10-06",
+      "ch": "2026-10-06",
+      "cl": "2026-10-06",
+      "co": "2026-10-06",
+      "cz": "2026-10-06",
+      "de": "2026-10-06",
+      "dk": "2026-10-06",
+      "ee": "2026-10-06",
+      "eg": "2026-10-06",
+      "es": "2026-10-06",
+      "fi": "2026-10-06",
+      "fr": "2026-10-06",
+      "gb": "2026-10-06",
+      "gr": "2026-10-06",
+      "hk": "2026-10-06",
+      "hr": "2026-10-06",
+      "hu": "2026-10-06",
+      "id": "2026-10-06",
+      "ie": "2026-10-06",
+      "il": "2026-10-06",
+      "in": "2026-10-06",
+      "it": "2026-10-06",
+      "jp": "2026-10-06",
+      "ke": "2026-10-06",
+      "kr": "2026-10-06",
+      "kz": "2026-10-06",
+      "lt": "2026-10-06",
+      "lv": "2026-10-06",
+      "ma": "2026-10-06",
+      "mx": "2026-10-06",
+      "my": "2026-10-06",
+      "ng": "2026-10-06",
+      "nl": "2026-10-06",
+      "no": "2026-10-06",
+      "nz": "2026-10-06",
+      "pe": "2026-10-06",
+      "ph": "2026-10-06",
+      "pk": "2026-10-06",
+      "pl": "2026-10-06",
+      "pt": "2026-10-06",
+      "qa": "2026-10-06",
+      "ro": "2026-10-06",
+      "rs": "2026-10-06",
+      "sa": "2026-10-06",
+      "se": "2026-10-06",
+      "sg": "2026-10-06",
+      "si": "2026-10-06",
+      "sk": "2026-10-06",
+      "th": "2026-10-06",
+      "tr": "2026-10-06",
+      "tw": "2026-10-06",
+      "ua": "2026-10-06",
+      "us": "2026-10-06",
+      "vn": "2026-10-06",
+      "za": "2026-10-06"
+    },
+    "languages": {
+      "af": "2026-10-06",
+      "am": "2026-10-06",
+      "ar": "2026-10-06",
+      "az": "2026-10-06",
+      "be": "2026-10-06",
+      "bg": "2026-10-06",
+      "bn": "2026-10-06",
+      "ca": "2026-10-06",
+      "cs": "2026-10-06",
+      "da": "2026-10-06",
+      "de": "2026-10-06",
+      "el": "2026-10-06",
+      "en-AU": "2026-10-06",
+      "en-GB": "2026-10-06",
+      "en-IN": "2026-10-06",
+      "es": "2026-10-06",
+      "es-419": "2026-10-06",
+      "et": "2026-10-06",
+      "eu": "2026-10-06",
+      "fa": "2026-10-06",
+      "fi": "2026-10-06",
+      "fil": "2026-10-06",
+      "fr": "2026-10-06",
+      "fr-CA": "2026-10-06",
+      "gl": "2026-10-06",
+      "gu": "2026-10-06",
+      "hi": "2026-10-06",
+      "hr": "2026-10-06",
+      "hu": "2026-10-06",
+      "hy": "2026-10-06",
+      "id": "2026-10-06",
+      "is": "2026-10-06",
+      "it": "2026-10-06",
+      "iw": "2026-10-06",
+      "ja": "2026-10-06",
+      "ka": "2026-10-06",
+      "kk": "2026-10-06",
+      "km": "2026-10-06",
+      "kn": "2026-10-06",
+      "ko": "2026-10-06",
+      "ky": "2026-10-06",
+      "lo": "2026-10-06",
+      "lt": "2026-10-06",
+      "lv": "2026-10-06",
+      "mk": "2026-10-06",
+      "ml": "2026-10-06",
+      "mn": "2026-10-06",
+      "mr": "2026-10-06",
+      "ms": "2026-10-06",
+      "my": "2026-10-06",
+      "ne": "2026-10-06",
+      "nl": "2026-10-06",
+      "no": "2026-10-06",
+      "pa": "2026-10-06",
+      "pl": "2026-10-06",
+      "pt-BR": "2026-10-06",
+      "pt-PT": "2026-10-06",
+      "ro": "2026-10-06",
+      "ru": "2026-10-06",
+      "si": "2026-10-06",
+      "sk": "2026-10-06",
+      "sl": "2026-10-06",
+      "sq": "2026-10-06",
+      "sr": "2026-10-06",
+      "sv": "2026-10-06",
+      "sw": "2026-10-06",
+      "ta": "2026-10-06",
+      "te": "2026-10-06",
+      "th": "2026-10-06",
+      "tr": "2026-10-06",
+      "uk": "2026-10-06",
+      "ur": "2026-10-06",
+      "vi": "2026-10-06",
+      "zh-CN": "2026-10-06",
+      "zh-HK": "2026-10-06",
+      "zh-TW": "2026-10-06",
+      "zu": "2026-10-06"
+    }
+  },
   "languages": [
     "af",
     "am",
@@ -647,6 +798,8 @@
     "de",
     "el",
     "en-GB",
+    "en-AU",
+    "en-IN",
     "es",
     "es-419",
     "et",
@@ -709,5 +862,392 @@
     "zh-TW",
     "zh-HK",
     "zu"
-  ]
+  ],
+  "listings": {
+    "af": {
+      "key": "1b3c38b922b0501530634382564ecca6",
+      "summary": "GPS-liggingopsporing en ouerlike beheer-app. Spoor op en vind my gesin se ligging.",
+      "title": "Findmykids: Parental Control"
+    },
+    "am": {
+      "key": "de24f04b926a65773d8d96dd85448062",
+      "summary": "የጂፒኤስ አካባቢ መከታተያ እና የወላጅ ቁጥጥር መተግበሪያ። የቤተሰቤን አካባቢ ይከታተሉ እና ያግኙ",
+      "title": "Findmykids: Parental Control"
+    },
+    "ar": {
+      "key": "00c2b3c38e50f9eb957397d3c3a01da3",
+      "summary": "Find my kids - تطبيق للاتصال بطفلك وتعقب حركته باستخدام هاتفه وساعة تتبعه \"GPS\"",
+      "title": "Find my kids تتبع موقع أطفالك"
+    },
+    "az": {
+      "key": "61071ff7034eee2435acd3760545a547",
+      "summary": "Ailə izləyicisi - Uşaq GPS saatı & telefon lokator. Ətrafdakı səslər",
+      "title": "Find my kids:Uşağın İzləyicisi"
+    },
+    "be": {
+      "key": "ffd45ce78f45b8cc764e07a1b11142dc",
+      "summary": "Выбар рэдактара! Месцазнаходжання дзiцяцi, гук вакол тэлефона i gps гадзiннiка",
+      "title": "Find my kids: семейный локатор"
+    },
+    "bg": {
+      "key": "3022ee22e5a24985755c45a13e7aecbe",
+      "summary": "GPS тракер за детска безопасност. Местоположение на детето и звуците около него",
+      "title": "Find my kids: GPS координати"
+    },
+    "bn": {
+      "key": "d7a3a72ebe762f227f14f675e4b7fab7",
+      "summary": "Family tracker: locate a cell phone, track device and connect with family",
+      "title": "Find my kids: GPS tracker"
+    },
+    "ca": {
+      "key": "350f71c8e7951b014a00a56b020bf574",
+      "summary": "Rastrejador de nens per rellotge GPS o telèfon. Control parental. So al voltant",
+      "title": "Findmykids: Rastrejador mòbil"
+    },
+    "cs": {
+      "key": "161e2104a01b700b72a69c43e95ff109",
+      "summary": "Rodinný lokátor－sledování telefonu a urceni polohy. Lokátor telefonu－gps poloha.",
+      "title": "Find my kids: Sledování Polohy"
+    },
+    "da": {
+      "key": "9dbdede631ec077aa9ba34abafe1d1ff",
+      "summary": "Familie-tracker: GPS til børneur og telefonsporing. Lokalisering. Lyt med.",
+      "title": "Findmykids: Skole GPS sporing"
+    },
+    "de": {
+      "key": "88bcdaccad4dbf03fb6e0bef1080f85b",
+      "summary": "App zum Orten meiner Kinder. GPS ortungs und app blocker parental control app",
+      "title": "Find my kids: GPS tracking app"
+    },
+    "el": {
+      "key": "018aa60f58f251f8f3c5da3575b3fcb6",
+      "summary": "Ιχνηλάτης οικογένειας - Ρολόι-GPS & εντοπισμός κινητού. Ήχος περιβάλλοντος",
+      "title": "Find my kids: GPS ιχνηλάτης"
+    },
+    "en-AU": {
+      "key": "bed6841576c2c2d161c31c1b96482c7d",
+      "summary": "Parental control app lock & GPS family locarion tracker. Track & app blocker",
+      "title": "Find my kids: GPS tracking app"
+    },
+    "en-GB": {
+      "key": "f92d33dc6b7eb3dd3c1f2b61e8fc7c8c",
+      "summary": "Kids GPS tracking app. My child location tracker, app lock parental control",
+      "title": "Find My Kids: Parental Control"
+    },
+    "en-IN": {
+      "key": "59c2c63e65f638c96579ccc4d3863eec",
+      "summary": "GPS location mobile tracker: Share location with family, see kid's live location",
+      "title": "Find my kids: Share Location"
+    },
+    "es": {
+      "key": "c6cbfc7094c5cd438bcae4d931dc0f3e",
+      "summary": "GPS localizador familiar y rastreo app. Control parental y app lock",
+      "title": "Find my kids: GPS Tracker"
+    },
+    "es-419": {
+      "key": "c6cbfc7094c5cd438bcae4d931dc0f3e",
+      "summary": "GPS localizador familiar y rastreo app. Control parental y app lock",
+      "title": "Find my kids: GPS Tracker"
+    },
+    "et": {
+      "key": "51e3664627d4c307f0698194858c966f",
+      "summary": "Pere jälgija -Lapse GPS-kell & telefoni lokaator. Online asukoht. Ümbruse heli",
+      "title": "Find my kids: GPS Jälgija"
+    },
+    "eu": {
+      "key": "827a022bb81e450c2444b86a3c643a04",
+      "summary": "GPS kokapenaren jarraitzailea eta gurasoen kontrolerako aplikazioa. Jarraitu eta aurkitu nire familiaren kokapena",
+      "title": "Findmykids: Parental Control"
+    },
+    "fa": {
+      "key": "429fc204aac803e02cbc4978dc390f17",
+      "summary": "Family tracker - ساعت مکان یاب کودکان و ردیاب تلفن.",
+      "title": "Find my kids: ساعت مکان کودک"
+    },
+    "fi": {
+      "key": "82711945741e31eb33a59c62839cc00f",
+      "summary": "Perheen seuranta・Lapsen GPS-kellon・puhelimen paikannin. Sijainti. Äänitallenteet",
+      "title": "Findmykids: GPS koululaisille"
+    },
+    "fil": {
+      "key": "ac6e9320003176cb04d5e6fc0b7ce072",
+      "summary": "Family locator and parental control app: find phone with GPS location tracker",
+      "title": "Find my kids: Location Tracker"
+    },
+    "fr": {
+      "key": "927355f611af998477afbf178f18b79c",
+      "summary": "Un traceur GPS pour localiser votre enfant. Controle parental et app lock",
+      "title": "FindMyKids : GPS tracker app"
+    },
+    "fr-CA": {
+      "key": "846e8c74f7a9dbe74ba6057e01b41ff7",
+      "summary": "Tracker familial - Localisateur de montres GPS et de téléphones pour enfants.",
+      "title": "Find my kids: Tracker GPS"
+    },
+    "gl": {
+      "key": "3b4125d24974315048117e98d9a196b1",
+      "summary": "Rastreador de localización GPS e aplicación de control parental. Rastrexa e atopa a localización da miña familia",
+      "title": "Findmykids: Parental Control"
+    },
+    "gu": {
+      "key": "0a4252a8d730babffd0e6bada2fa52e8",
+      "summary": "બાળકોની માટે GPS-ઘડિયાળ અને ફોન લોકેટર. ઑનલાઇન લોકેશન. ચારે તરફનો અવાજ.",
+      "title": "Findmykids: ફેમિલી લોકેટર"
+    },
+    "hi": {
+      "key": "9bdd4684cbcc3196741ff9b12d06f9ab",
+      "summary": "किड्स जीपीएस-वॉच और फोन लोकेटर। ऑनलाइन लोकेशन। साउंड अराउंड",
+      "title": "Findmykids: फेमिली लोकेटर"
+    },
+    "hr": {
+      "key": "93af82df9d61bfa1ae50cb4bd5a2d67c",
+      "summary": "Obiteljski lokator — Dječji GPS sat & Lokator za Mobitel. Zvuk okolo",
+      "title": "Find my kids: Dječji GPS sat"
+    },
+    "hu": {
+      "key": "699bf29a3f19a0ea9527d05951eedaa5",
+      "summary": "Gyermekfelügyelet: Nyomkövető alkalmazás és lokátor. Követés az egész családnak.",
+      "title": "Find my kids: GPS nyomkövető"
+    },
+    "hy": {
+      "key": "2be32467d5b725ab7a7734346f293240",
+      "summary": "Երեխաների հեռախոսի հետևիչ և ընտանեկան GPS տեղորոշում",
+      "title": "Find my kids: GPS հետևիչ"
+    },
+    "id": {
+      "key": "ff1db8a8186ab787e7015c9840e6fbd3",
+      "summary": "Aplikasi lacak nomor HP dan lokasi anak. Cari lokasi no HP anak secara akurat.",
+      "title": "Find my kids: Pelacak No HP"
+    },
+    "is": {
+      "key": "40021a428e4e1b8ee1ea7aef69c8164f",
+      "summary": "GPS staðsetningarmæling og foreldraeftirlitsforrit. Fylgstu með og finndu staðsetningu fjölskyldu minnar.",
+      "title": "Findmykids: Parental Control"
+    },
+    "it": {
+      "key": "a6669d0586e86eeb3433ffa16b4ab5f2",
+      "summary": "Trova il mio telefono e dispositivo, localizzatore famiglia, posizione cellulare",
+      "title": "Find my kids: gps tracker"
+    },
+    "iw": {
+      "key": "69534e9e91ce1fa3722f921f3b89e3a0",
+      "summary": "Find my kids - בקרת הורים לילדים & מאתר מיקום נייד.מצא מכשיר - איתור טלפון.",
+      "title": "Find my kids: מאתר מיקום נייד"
+    },
+    "ja": {
+      "key": "33a524a5d028a78c259e19f79670d845",
+      "summary": "携帯を探す 位置情報アプリで子供の居場所を見守り 位置ナビと端末を探すアプリ",
+      "title": "Find my kids: 居場所と追跡アプリ"
+    },
+    "ka": {
+      "key": "e90ee60fdbe3fa045ea7e48c2b2a6537",
+      "summary": "რედაქტორის არჩევანი! ბავშვის GPS ტრეკერი. მოძებნა რუკაზე ონლაინ. ხმა ირგვლივ.",
+      "title": "Find my kids: GPS-სთ ტრეკერი"
+    },
+    "kk": {
+      "key": "97b216d059bdbf2fe19154f3383707ce",
+      "summary": "GPS семейный локатор: дети под контролем! Геолокатор и родительский контроль",
+      "title": "Find my kids: Род контроль"
+    },
+    "km": {
+      "key": "102988cda601d4256d230cc0db7807f7",
+      "summary": "កម្មវិធីតាមដានទីតាំង GPS និងកម្មវិធីគ្រប់គ្រងដោយឪពុកម្តាយ។ តាមដាន និងស្វែងរកទីតាំងគ្រួសាររបស់ខ្ញុំ",
+      "title": "Findmykids: Parental Control"
+    },
+    "kn": {
+      "key": "7441bc22a7a595635e0007fdf49aa514",
+      "summary": "ಮಕ್ಕಳ ಜಿಪಿಎಸ್ ಗಡಿಯಾರ ಮತ್ತು ಫೋನ್ ಲೊಕೇಟರ್. ಆನ್‌ಲೈನ್ ಸ್ಥಳ. ಸುತ್ತಮುತ್ತಲಿನ ಧ್ವನಿ ಕೇಳಿ",
+      "title": "Findmykids: ಫ್ಯಾಮಿಲಿ ಲೊಕೇಟರ್"
+    },
+    "ko": {
+      "key": "6478b8b47696d09c87b2ed2c7f2271d3",
+      "summary": "자녀 스마트폰 관리와 자녀 보호 기능으로 가족 위치 추적기와 위치공유",
+      "title": "Find my kids: 가족 위치 추적"
+    },
+    "ky": {
+      "key": "81dbdcf7e62dd28902bfa4444a19d8d0",
+      "summary": "GPS жайгашкан жерди көзөмөлдөөчү жана ата-энелик көзөмөл колдонмосу. Үй-бүлөмдүн жайгашкан жерин көзөмөлдөп, табыңыз",
+      "title": "Findmykids: Parental Control"
+    },
+    "lo": {
+      "key": "0a662fac916998e174ece52bdb3592f4",
+      "summary": "ແອັບຕິດຕາມສະຖານທີ່ GPS ແລະ ການຄວບຄຸມຂອງຜູ້ປົກຄອງ. ຕິດຕາມ ແລະ ຊອກຫາສະຖານທີ່ຂອງຄອບຄົວຂອງຂ້ອຍ",
+      "title": "Findmykids: Parental Control"
+    },
+    "lt": {
+      "key": "99600ac6bac9bedcb1a0c99354a7c06e",
+      "summary": "Šeimos seklys: vaikų GPS laikrodis ir telefono buvimo vietos nustatymas",
+      "title": "Find my kids: telefono seklys"
+    },
+    "lv": {
+      "key": "1ddd6af1177aa504b0431bcf5636e16c",
+      "summary": "Ģimenes izsekošanas ierīce - Bērna meklēšana. Online lokācija. Apkārtnes skaņa",
+      "title": "Find my kids: bērna meklētājs"
+    },
+    "mk": {
+      "key": "592b1f062e9f83918660912d5b88d0a4",
+      "summary": "GPS апликација за следење на локација и родителска контрола. Следете ја и пронајдете ја локацијата на моето семејство",
+      "title": "Findmykids: Parental Control"
+    },
+    "ml": {
+      "key": "cb05234a6eb7857f8fef6cffc7879213",
+      "summary": "കുട്ടികൾക്കുള്ള ജിപിഎസ്-വാച്ച് & ഫോൺ ലൊക്കേറ്റർ.",
+      "title": "Findmykids: ഫാമിലി ലൊക്കേറ്റർ"
+    },
+    "mn": {
+      "key": "fefb4d8a9febad70632cadd761b91e53",
+      "summary": "GPS байршил хянагч болон эцэг эхийн хяналтын апп. Гэр бүлийнхээ байршлыг хянах, олох",
+      "title": "Findmykids: Parental Control"
+    },
+    "mr": {
+      "key": "e5f6ddbac01f6044e2f201bdf9023be7",
+      "summary": "मुलांसाठी GPS घड्याळ आणि फोन शोधक. ऑनलाइन स्थान. आजूबाजूचा आवाज.",
+      "title": "Findmykids: कुटुंब स्थान शोधक"
+    },
+    "ms": {
+      "key": "208fcddf66fbfc2f10978a0381c189c2",
+      "summary": "Pilihan editor! Jejak GPS. Lokasi anak di peta online. Dengar persekitarannya",
+      "title": "Find my kids: Jejak jam-GPS"
+    },
+    "my": {
+      "key": "42f0b85500b90bcf05076ef4e4fa7640",
+      "summary": "GPS တည်နေရာခြေရာခံခြင်းနှင့် မိဘထိန်းချုပ်မှုအက်ပ်။ ကျွန်ုပ်၏မိသားစုတည်နေရာကို ခြေရာခံပြီးရှာဖွေပါ",
+      "title": "Findmykids: Parental Control"
+    },
+    "ne": {
+      "key": "66e23d6331456efb0469206bc65f4ac6",
+      "summary": "GPS स्थान ट्रयाकर र अभिभावकीय नियन्त्रण एप। मेरो परिवारको स्थान ट्र्याक गर्नुहोस् र फेला पार्नुहोस्",
+      "title": "Findmykids: Parental Control"
+    },
+    "nl": {
+      "key": "7968cec1d23502aecde68f06e7b14607",
+      "summary": "Familietracker - Kind GPS-tracker & Telefoon-Tracker. Omgevingsgeluid",
+      "title": "Find my kids: Kind GPS Tracker"
+    },
+    "no": {
+      "key": "769a8cfbe08f0c85003d2718c77d5be6",
+      "summary": "Familie-sporing - GPS-klokke og telefonsporing av barn. Lyd rundt",
+      "title": "Findmykids: GPS for skolebarn"
+    },
+    "pa": {
+      "key": "c53fc46ac0425a0d2993be4d163759f9",
+      "summary": "GPS ਸਥਾਨ ਟਰੈਕਰ ਅਤੇ ਮਾਪਿਆਂ ਦੇ ਨਿਯੰਤਰਣ ਐਪ। ਮੇਰੇ ਪਰਿਵਾਰਕ ਸਥਾਨ ਨੂੰ ਟਰੈਕ ਕਰੋ ਅਤੇ ਲੱਭੋ",
+      "title": "Findmykids: Parental Control"
+    },
+    "pl": {
+      "key": "5f228f3804bcaad51fec5f998ca28785",
+      "summary": "Geolokalizacja: Lokalizator GPS, śledzenie telefonu, znajdź moje urządzenie",
+      "title": "Find my kids: Znajdź telefon"
+    },
+    "pt-BR": {
+      "key": "e6c589cc8940afc49de708205ad613f8",
+      "summary": "Rastreador de celular para find my kids familia  e controle parental",
+      "title": "Find my kids: GPS tracker"
+    },
+    "pt-PT": {
+      "key": "d5c74970de737f3729fe8c8b850b05cf",
+      "summary": "Localizador de telemoveis para find my kids familia  e controlo parental",
+      "title": "Find my kids: GPS tracker"
+    },
+    "ro": {
+      "key": "436350bdf62393608c34997d5226ee79",
+      "summary": "Localizare telefon, locatia unde se afla o persoana, locatie telefon prin gps",
+      "title": "Find My Kids: locatie telefon"
+    },
+    "ru": {
+      "key": "dc5a673d3731a7873feb916e0f4b1d78",
+      "summary": "Cемейный локатор, отслеживание местоположения и родительский контроль",
+      "title": "Findmykids: семейный локатор"
+    },
+    "si": {
+      "key": "9a86390ee4cd6c278650d1becec33fdf",
+      "summary": "ජීපීඑස් ස්ථාන ට්රැකර් සහ දෙමාපිය පාලන යෙදුම. මගේ පවුලේ ස්ථානය නිරීක්ෂණය කර සොයා ගන්න.",
+      "title": "Findmykids: Parental Control"
+    },
+    "sk": {
+      "key": "d6192298610eee69a0d82d94bf0a9c94",
+      "summary": "Rodinný tracker - pre detské GPS hodinky a telefóny. Online poloha. Zvuk okolo",
+      "title": "Find my kids: Tracker GPS"
+    },
+    "sl": {
+      "key": "41c686552e4ff160bbd6b8b01580e64b",
+      "summary": "Družinska sledilna naprava - Otroška GPS-ura in lokator telefona. Okoliški zvok",
+      "title": "Find my kids: GPS sledilnik"
+    },
+    "sq": {
+      "key": "bffeb8daa1ad792943038aca477c175b",
+      "summary": "Gjurmues familjar - Ora fëmijës GPS & vendndodhja në telefon dhe zëri përreth",
+      "title": "Find my kids: Fëmijë Gjurmues"
+    },
+    "sr": {
+      "key": "b05c276f1b59c444ba8425b842071465",
+      "summary": "Породични локатор - Дечији GPS сат и телефонски локатор. Звук околине",
+      "title": "Find my kids Дечји GPS локатор"
+    },
+    "sv": {
+      "key": "f5901c6b8ffdf60b2f71fdaa3540a0a6",
+      "summary": "Familjespårare - Barn GPS-klocka & telefonspårare. Online-läge. Ljud runt",
+      "title": "Findmykids: GPS för skolbarn"
+    },
+    "sw": {
+      "key": "b641d2a018af2f5cdeb1771777b44295",
+      "summary": "Chaguo la Mhariri! Fuatilizi ya GPS. Pata wana kwenye ramani. Sauti ya karibu",
+      "title": "Find my kids: Fuatilizi GPS"
+    },
+    "ta": {
+      "key": "9d5d89c4e88f7ca3d51459e4d259934f",
+      "summary": "குழந்தைகளுக்கான GPS வாடச் மற்றும் லொகேடர். லொகேஷன் ஆன்லைனில். சவுண்ட் வசதியுடன்.",
+      "title": "Findmykids: ஃபேமிலி லொகேடர்"
+    },
+    "te": {
+      "key": "d999ff74fd53f9330123bc84327b92ac",
+      "summary": "కిడ్స్ జిపిఎస్-వాచ్ & ఫోన్ లొకేటర్. ఆన్‌లైన్ లొకేషన్. సౌండ్ అరౌండ్",
+      "title": "Findmykids: ఫ్యామిలీ లొకేటర్"
+    },
+    "th": {
+      "key": "0570522d56f05752bfc7d55df23dd1fe",
+      "summary": "แอปติดตามครอบครัว－ระบุตำแหน่งนาฬิกา GPS โทรศัพท์เด็ก ตำแหน่งออนไลน์ เสียงรอบตัว",
+      "title": "Find my kids: แอปติดตาม"
+    },
+    "tr": {
+      "key": "26bbe3da0d3cb5b36a1879c0029f7aa8",
+      "summary": "Aile bulucu telefon takip programı: aile takip gps konum ve izleme programı",
+      "title": "Findmykids aile takip programi"
+    },
+    "uk": {
+      "key": "17b40a8f041abe7a79634104dae63552",
+      "summary": "Вибір редакції. Дитячий GPS-локатор. Онлайн локація. Звук навколо.",
+      "title": "Findmykids Дитина під наглядом"
+    },
+    "ur": {
+      "key": "b2db1c36449a252fbe1aba7bdbad6ae4",
+      "summary": "GPS لوکیشن ٹریکر اور پیرنٹل کنٹرول ایپ۔ میرے خاندانی مقام کو ٹریک کریں اور تلاش کریں۔",
+      "title": "Findmykids: Parental Control"
+    },
+    "vi": {
+      "key": "a8f3863176c3310bd23c5b2497dae1d4",
+      "summary": "Định vị GPS. Xác định vị trí. Thiết bị định vị điện thoại.",
+      "title": "Find my kids: Theo dõi trẻ em"
+    },
+    "zh-CN": {
+      "key": "8e0b0eaf2b218bb4a03098a31515d5cd",
+      "summary": "儿童 GPS 手表手机跟踪器，用于家庭跟踪，在线查看孩子位置，聆听孩子周围声音",
+      "title": "Find my kids: 儿童 GPS 手表手机跟踪器"
+    },
+    "zh-HK": {
+      "key": "8e0b0eaf2b218bb4a03098a31515d5cd",
+      "summary": "儿童 GPS 手表手机跟踪器，用于家庭跟踪，在线查看孩子位置，聆听孩子周围声音",
+      "title": "Find my kids: 儿童 GPS 手表手机跟踪器"
+    },
+    "zh-TW": {
+      "key": "06be5fbfa018e38f263794cd32ff20b9",
+      "summary": "兒童位置追蹤-定位追蹤兒童的手錶或手機。實時取得孩子的位置並聆聽周圍聲音。",
+      "title": "Find my kids：手錶與手機的家庭定位器"
+    },
+    "zu": {
+      "key": "c22e6dc4142382a8b23f8baaf1a21644",
+      "summary": "Uhlelo lokusebenza lokulandelela indawo ye-GPS kanye nokulawula kwabazali. Landelela futhi uthole indawo yomndeni wami",
+      "title": "Findmykids: Parental Control"
+    }
+  }
 }
