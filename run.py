@@ -73,7 +73,9 @@ def main(fetch_fn=fetch, today=None, sleep=True):
 
     storage.upsert_metrics(metric_rows)
     storage.log_changes(events)
-    md = build_markdown(today, events, baseline_count, errors)
+    all_locs = [(l["country"], l["lang"]) for l in cfg["locales"]]
+    md = build_markdown(today, events, baseline_count, errors, all_locs,
+                        [a["name"] for a in cfg["apps"]])
     path = save_report(today, md)
     sent = send_slack(md) if events or errors else False
     print(md)
