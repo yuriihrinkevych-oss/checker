@@ -1,4 +1,5 @@
 {
+  "_scanned": "2026-10-07",
   "containsAds": false,
   "contentRating": "Classificação Livre",
   "description": "Use Find my kids como seu GPS rastreador de família para proteger my kids com geolocalização precisa. Acompanhe o celular com kids360, alikids 360 ou outro mykids família, receba alertas no seu rastreador de celular e use controle parental enquanto seu filho está fora de casa.\r\n\r\nFind my kids ajuda a cuidar da segurança do seu filho todos os dias. Veja a localização em tempo real no mapa, monitore o uso do celular e receba notificações importantes do rastreador de celular. Pais que já usaram life360 rastreador de celular, famio rastreador de celular ou qustodio kids encontram aqui uma solução focada em localização, geolocalização estável e ferramentas simples de controle parental.\r\n\r\nPrincipais funções para a sua família:\r\n\r\n• Localização ao vivo e rotas da criança  \r\nVeja a localização atual de my kids em tempo real com geolocalização detalhada e o histórico de rotas durante o dia. Use o GPS rastreador de família para saber se seu filho chegou à escola, voltou para casa ou está no caminho planejado, sem precisar ligar o tempo todo.\r\n\r\n• Controle parental do uso de apps  \r\nMonitore quanto tempo seu filho passa em aplicativos enquanto está na escola ou fora de casa. Com o controle parental você entende melhor como o celular é usado e pode conversar sobre hábitos digitais mais seguros sem invadir a privacidade de my kids.\r\n\r\n• Escuta do som ao redor em tempo real  \r\nAtive a função de escutar o som ao redor do aparelho da criança quando precisar ter certeza de que ela está segura. Essa função ajuda a avaliar a situação perto de mykids família em momentos de preocupação, sempre dentro das regras da sua família.\r\n\r\n• Toque alto que ignora o modo silencioso  \r\nEnvie um sinal sonoro alto para o celular da criança, mesmo se estiver no silencioso ou dentro da mochila. Esse alerta do rastreador de celular ajuda a chamar a atenção de my kids rapidamente quando eles não atendem às ligações ou não veem suas mensagens.\r\n\r\n• Previsão inteligente de rota com IA  \r\nReceba ajuda da previsão de rota para entender se o caminho escolhido pelo seu filho é seguro. A combinação de geolocalização e análise de trajeto mostra quando my kids se desvia muito da rota habitual, para que você possa agir com antecedência.\r\n\r\n• Alertas de movimento e zonas importantes  \r\nAdicione locais importantes como casa, escola ou atividades e receba alertas quando a criança chegar ou sair. Esses avisos do GPS rastreador de família mantêm você informado sobre os movimentos de mykids e reduzem a ansiedade do dia a dia.\r\n\r\nAlém disso, Find my kids envia alerta quando a bateria do celular está baixa, para você lembrar my kids de carregar o aparelho, e oferece um chat conveniente para trocar mensagens de texto e voz com seu filho.\r\n\r\nSe você encontrar qualquer problema técnico ao usar o Findmykids, pode sempre entrar em contato com o suporte 24/7 do Findmykids pelo chat no app ou por e-mail em support@findmykids.org. Estamos sempre prontos para ajudar!\r\n\r\nVocê pode se familiarizar com nossos documentos:\r\n\r\nUser Agreement - https://findmykids.org/docs/terms-of-use/ios/en\r\nPrivacy Policy - https://findmykids.org/docs/privacy-policy/ios/en",
@@ -6,11 +7,11 @@
   "genre": "Criação de filhos",
   "headerImage": "https://play-lh.googleusercontent.com/j4ULfbEHZk5u-WHihagFWFyZyIhDC-eGz5qXgOUXZXnOCxgofUZZvhGPsIg2pw2246MQM3FocEQQ0AmfJHdW0Fs",
   "histogram": [
-    45756,
-    14394,
+    45618,
+    14254,
     37144,
-    95286,
-    1865660
+    94875,
+    1866720
   ],
   "icon": "https://play-lh.googleusercontent.com/1xxhEalJmQZPdCdHbJ2cfABAmZn5vVB5kWPro0JjVmBAUHWLWfE0eKjQH3nO9IkQJCV7q3-Yu5-jWpLt_wdY",
   "inAppProductPrice": "R$ 1,19 – R$ 2.790,90 por item",
@@ -18,10 +19,10 @@
   "lastUpdatedOn": "2 de out. de 2026",
   "metrics": {
     "minInstalls": 50000000,
-    "ratings": 2058269,
-    "realInstalls": 82880689,
-    "reviews": 30189,
-    "score": 4.8076897
+    "ratings": 2058654,
+    "realInstalls": 82958346,
+    "reviews": 30194,
+    "score": 4.808381
   },
   "price": 0,
   "screenshots": [
@@ -49,6 +50,6 @@
   ],
   "summary": "Rastreador de celular para find my kids familia  e controle parental",
   "title": "Find my kids: GPS tracker",
-  "version": "2.12.11-google",
+  "version": "2.12.13-google",
   "video": null
 }

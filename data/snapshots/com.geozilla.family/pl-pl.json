@@ -1,4 +1,5 @@
 {
+  "_scanned": "2026-10-07",
   "containsAds": false,
   "contentRating": "PEGI 3",
   "description": "Geozilla to rodzinna aplikacja do udostępniania lokalizacji i zapewniania bezpieczeństwa, która pomaga rodzinom i zaufanym grupom pozostać blisko siebie, być na bieżąco i wspieranym – niezależnie od odległości. Dzięki inteligentnym funkcjom, takim jak śledzenie lokalizacji w czasie rzeczywistym, alerty alarmowe i raporty z jazdy, Geozilla zapewnia spokój ducha rodzinom, które cenią sobie bezpieczeństwo i transparentność.\r\n\r\n✅ Jak to działa:\r\n1. Zainstaluj aplikację i zezwól na udostępnianie swojej lokalizacji kręgowi.\r\n2. Utwórz lub dołącz do prywatnego kręgu rodzinnego – będą w nim uczestniczyć tylko osoby, które zaprosisz i które zaakceptują zaproszenie.\r\n3. Zaproś członków rodziny lub zaufanych członków, używając numeru telefonu, linku lub kodu QR.\r\n4. Każdy zaproszony członek musi wyraźnie zaakceptować zaproszenie i udzielić wszystkich niezbędnych uprawnień, zanim udostępnianie lokalizacji stanie się aktywne.\r\n5. Wszyscy członkowie są wyraźnie informowani o celu aplikacji, osobach, które ich zaprosiły, oraz o tym, jak będą wykorzystywane dane o lokalizacji.\r\n6. Geozilla działa tylko wtedy, gdy każdy użytkownik aktywnie wyrazi zgodę na udostępnianie swojej lokalizacji. Jeśli którakolwiek osoba nie wyrazi zgody, udostępnianie lokalizacji nie zostanie włączone.\r\n\r\n🌍 Podstawowe funkcje bezpieczeństwa rodziny:\r\nUdostępnianie lokalizacji na żywo: Zobacz lokalizacje GPS swojej rodziny lub zaufanych członków kręgu w czasie rzeczywistym.\r\nHistoria lokalizacji: Zobacz oś czasu ruchu swojej rodziny w ciągu dnia.\r\nAlerty przyjazdu i wyjazdu: Skonfiguruj geofencing (np. dom, szkoła, praca), aby otrzymywać powiadomienia o przyjeździe lub wyjeździe.\r\nMonitorowanie baterii: Otrzymuj powiadomienia o niskim poziomie naładowania baterii telefonu.\r\nInformacje o bezpiecznej jeździe: Pomóż poprawić bezpieczeństwo dzięki raportom dotyczącym nawyków jazdy.\r\nWyszukiwarka AR.\r\nWykrywanie kolizji i alerty SOS.\r\n\r\nKompatybilność z Wear OS: Dowiedz się, gdzie znajduje się Twoja rodzina lub udostępnij swoją lokalizację bezpośrednio ze smartwatcha.\r\n\r\n🔒 Prywatność, przejrzystość i zgoda użytkownika:\r\nGeozilla obsługuje wyłącznie wzajemne, świadome i transparentne udostępnianie lokalizacji między stronami wyrażającymi na to zgodę – takimi jak członkowie rodziny i bliskie kontakty. Nasza aplikacja opiera się na zasadach prywatności, bezpieczeństwa i zaufania. Każda funkcja Geozilli wymaga wyraźnego udziału i zgody użytkownika:\r\nNikt nie może zostać dodany do Twojego kręgu bez jego wyraźnej zgody.\r\nDane o lokalizacji nie są udostępniane bez aktywnej zgody użytkownika.\r\nZaproszeni użytkownicy są informowani o tym, kto ich zaprosił, jaki jest cel aplikacji i jakie konkretne uprawnienia są wymagane.\r\nZachęcamy użytkowników do korzystania z Geozilli wyłącznie w celach związanych z bezpieczeństwem rodziny i opieką. Niewłaściwe wykorzystanie aplikacji do śledzenia bez zezwolenia lub bez świadomej zgody jest sprzeczne z naszą polityką i lokalnymi przepisami o ochronie prywatności.\r\n\r\n📱 Wyjaśnienie uprawnień aplikacji:\r\nAby zapewnić kluczowe funkcje bezpieczeństwa, Geozilla może żądać następujących uprawnień (za zgodą użytkownika na każdym etapie):\r\nUsługi lokalizacyjne (zawsze/dostęp w tle): Wymagane do ciągłego śledzenia GPS, alertów geofencingu i wykrywania kolizji – nawet gdy aplikacja nie jest aktywnie używana.\r\nPowiadomienia: Używane do wysyłania ważnych alertów, takich jak przyjazd/wyjazd, SOS, niski poziom baterii i aktywność aplikacji. Kontakty: Opcjonalnie – upraszcza zapraszanie zaufanych kontaktów, umożliwiając wybór numerów telefonów z książki adresowej.\r\nAparat i zdjęcia: Służy do ustawiania zdjęć profilowych lub skanowania zaproszeń QR.\r\nRuch i sprawność fizyczna (rozpoznawanie aktywności): Ulepsza raporty z jazdy i wykrywanie kolizji poprzez monitorowanie wzorców ruchu.\r\nUprawnienia są wymagane w sposób przejrzysty i wyjaśnione w kontekście. Użytkownicy zachowują pełną kontrolę i mogą dostosować dostęp w ustawieniach urządzenia.\r\n\r\nGeozilla dba o prywatność, przejrzystość i odpowiedzialne korzystanie z aplikacji. Nie wspieramy korzystania z aplikacji bez wiedzy i zgody wszystkich użytkowników.\r\nGeozilla została zaprojektowana i jest sprzedawana wyłącznie w celach związanych z bezpieczeństwem rodziny, takich jak śledzenie dzieci przez rodziców lub pomoc opiekunom w opiece nad osobami zależnymi. Nie obsługuje ukrytego śledzenia, instalacji ukrytych ani zdalnej aktywacji.\r\nJeśli potrzebujesz pomocy lub masz opinię na temat Geozilli, skontaktuj się z nami pod adresem: support@geozilla.com\r\nPolityka prywatności: https://geozilla.com/privacy-policy\r\nWarunki korzystania: https://geozilla.com/terms-of-use",
@@ -6,11 +7,11 @@
   "genre": "Styl życia",
   "headerImage": "https://play-lh.googleusercontent.com/bKkTJcBVFL2kVQeTBx4LC1Va9s8bUcCv1KHL_UkQynPVOD-N0iGB_i915fBgcIw9wKMybhK4CuL2AsHIwcBUP8A",
   "histogram": [
-    263176,
-    14932,
-    29864,
-    89592,
-    361168
+    263323,
+    14940,
+    29880,
+    89641,
+    361369
   ],
   "icon": "https://play-lh.googleusercontent.com/i72e4U2jPc5WBB6JXrWoFfBXJbLJSgrMnDna3qPjDN9dQaONNbetQLS2JkUua-vqB4IW_WQ7y5IEMoHQLL_bSQ",
   "inAppProductPrice": "11,99 zł – 354,99 zł, jeśli rozliczasz się przez Play",
@@ -18,8 +19,8 @@
   "lastUpdatedOn": "2 paź 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 760600,
-    "realInstalls": 29664756,
+    "ratings": 761023,
+    "realInstalls": 29716930,
     "reviews": 96,
     "score": 3.3564355
   },
