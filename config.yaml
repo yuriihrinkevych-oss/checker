@@ -3,8 +3,23 @@
 # Package names нижче перевір, відкривши їх у браузері.
 apps:
   - id: com.geozilla.family
-    name: GeoZilla (ми, контрольна точка)
+    name: GeoZilla (ми)
     group: locators
+  - id: com.sygic.familywhere.android
+    name: Family Locator (ми)
+    group: locators
+  - id: net.familo.android
+    name: Familo (ми)
+    group: locators
+  - id: com.gpstracker.misky.phone
+    name: Phone GPS Tracker
+    group: locators
+  - id: net.zenrindatacom.itsmodelivery
+    name: GoDoor
+    group: locators    
+  - id: com.mspy.lite
+    name: mLite
+    group: locators  
   - id: com.life360.android.safetymapd
     name: Life360
     group: locators
