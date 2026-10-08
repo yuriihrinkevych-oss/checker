@@ -1,0 +1,1382 @@
+{
+  "base": {
+    "key": "17ca6d37594c90701b1f6e4b379c4aa9",
+    "own_screens": false,
+    "summary": "Real-time Family Locator and Location Sharing App",
+    "title": "Phone GPS Tracker",
+    "v": 2
+  },
+  "countries": {
+    "ae": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "ar": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "at": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "au": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "bd": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "be": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "bg": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "br": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "ca": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "ch": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "cl": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "co": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "cz": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "de": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "dk": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "ee": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "eg": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "es": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "fi": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "fr": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "gb": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "gr": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "hk": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "hr": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "hu": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "id": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "ie": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "il": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "in": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "it": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "jp": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "ke": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "kr": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "kz": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "lt": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "lv": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "ma": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "mx": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "my": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "ng": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "nl": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "no": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "nz": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "pe": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "ph": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "pk": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "pl": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "pt": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "qa": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "ro": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "rs": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "sa": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "se": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "sg": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "si": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "sk": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "th": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "tr": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "tw": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "ua": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "us": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "vn": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    },
+    "za": {
+      "available": true,
+      "containsAds": true,
+      "currency": null,
+      "iap": null,
+      "max_local": null,
+      "max_usd": null,
+      "min_local": null,
+      "min_usd": null
+    }
+  },
+  "date": "2026-10-08",
+  "errors": [],
+  "first_seen": {
+    "countries": {
+      "ae": "baseline",
+      "ar": "baseline",
+      "at": "baseline",
+      "au": "baseline",
+      "bd": "baseline",
+      "be": "baseline",
+      "bg": "baseline",
+      "br": "baseline",
+      "ca": "baseline",
+      "ch": "baseline",
+      "cl": "baseline",
+      "co": "baseline",
+      "cz": "baseline",
+      "de": "baseline",
+      "dk": "baseline",
+      "ee": "baseline",
+      "eg": "baseline",
+      "es": "baseline",
+      "fi": "baseline",
+      "fr": "baseline",
+      "gb": "baseline",
+      "gr": "baseline",
+      "hk": "baseline",
+      "hr": "baseline",
+      "hu": "baseline",
+      "id": "baseline",
+      "ie": "baseline",
+      "il": "baseline",
+      "in": "baseline",
+      "it": "baseline",
+      "jp": "baseline",
+      "ke": "baseline",
+      "kr": "baseline",
+      "kz": "baseline",
+      "lt": "baseline",
+      "lv": "baseline",
+      "ma": "baseline",
+      "mx": "baseline",
+      "my": "baseline",
+      "ng": "baseline",
+      "nl": "baseline",
+      "no": "baseline",
+      "nz": "baseline",
+      "pe": "baseline",
+      "ph": "baseline",
+      "pk": "baseline",
+      "pl": "baseline",
+      "pt": "baseline",
+      "qa": "baseline",
+      "ro": "baseline",
+      "rs": "baseline",
+      "sa": "baseline",
+      "se": "baseline",
+      "sg": "baseline",
+      "si": "baseline",
+      "sk": "baseline",
+      "th": "baseline",
+      "tr": "baseline",
+      "tw": "baseline",
+      "ua": "baseline",
+      "us": "baseline",
+      "vn": "baseline",
+      "za": "baseline"
+    },
+    "languages": {
+      "af": "baseline",
+      "am": "baseline",
+      "ar": "baseline",
+      "az": "baseline",
+      "be": "baseline",
+      "bg": "baseline",
+      "bn": "baseline",
+      "ca": "baseline",
+      "cs": "baseline",
+      "da": "baseline",
+      "de": "baseline",
+      "el": "baseline",
+      "es": "baseline",
+      "es-419": "baseline",
+      "et": "baseline",
+      "eu": "baseline",
+      "fa": "baseline",
+      "fi": "baseline",
+      "fil": "baseline",
+      "fr": "baseline",
+      "fr-CA": "baseline",
+      "gl": "baseline",
+      "gu": "baseline",
+      "hi": "baseline",
+      "hr": "baseline",
+      "hu": "baseline",
+      "hy": "baseline",
+      "id": "baseline",
+      "is": "baseline",
+      "it": "baseline",
+      "iw": "baseline",
+      "ja": "baseline",
+      "ka": "baseline",
+      "kk": "baseline",
+      "km": "baseline",
+      "kn": "baseline",
+      "ko": "baseline",
+      "ky": "baseline",
+      "lo": "baseline",
+      "lt": "baseline",
+      "lv": "baseline",
+      "mk": "baseline",
+      "ml": "baseline",
+      "mn": "baseline",
+      "mr": "baseline",
+      "ms": "baseline",
+      "my": "baseline",
+      "ne": "baseline",
+      "nl": "baseline",
+      "no": "baseline",
+      "pa": "baseline",
+      "pl": "baseline",
+      "pt-BR": "baseline",
+      "pt-PT": "baseline",
+      "ro": "baseline",
+      "ru": "baseline",
+      "si": "baseline",
+      "sk": "baseline",
+      "sl": "baseline",
+      "sq": "baseline",
+      "sr": "baseline",
+      "sv": "baseline",
+      "sw": "baseline",
+      "ta": "baseline",
+      "te": "baseline",
+      "th": "baseline",
+      "tr": "baseline",
+      "uk": "baseline",
+      "ur": "baseline",
+      "vi": "baseline",
+      "zh-CN": "baseline",
+      "zh-HK": "baseline",
+      "zh-TW": "baseline",
+      "zu": "baseline"
+    }
+  },
+  "languages": [
+    "af",
+    "am",
+    "ar",
+    "az",
+    "be",
+    "bg",
+    "bn",
+    "ca",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "es",
+    "es-419",
+    "et",
+    "eu",
+    "fa",
+    "fi",
+    "fil",
+    "fr",
+    "fr-CA",
+    "gl",
+    "gu",
+    "hi",
+    "hr",
+    "hu",
+    "hy",
+    "id",
+    "is",
+    "it",
+    "iw",
+    "ja",
+    "ka",
+    "kk",
+    "km",
+    "kn",
+    "ko",
+    "ky",
+    "lo",
+    "lt",
+    "lv",
+    "mk",
+    "ml",
+    "mn",
+    "mr",
+    "ms",
+    "my",
+    "ne",
+    "nl",
+    "no",
+    "pa",
+    "pl",
+    "pt-BR",
+    "pt-PT",
+    "ro",
+    "ru",
+    "si",
+    "sk",
+    "sl",
+    "sq",
+    "sr",
+    "sv",
+    "sw",
+    "ta",
+    "te",
+    "th",
+    "tr",
+    "uk",
+    "ur",
+    "vi",
+    "zh-CN",
+    "zh-TW",
+    "zh-HK",
+    "zu"
+  ],
+  "listings": {
+    "af": {
+      "key": "6965dad20c4f20ce6c0daeeebf5f68a4",
+      "own_screens": false,
+      "summary": "Intydse Gesinsopsporing en Liggingdeling-app",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "am": {
+      "key": "dcbc7b5dfdcc799d4db3d79e74a7485d",
+      "own_screens": false,
+      "summary": "የእውነተኛ ጊዜ የቤተሰብ አመልካች እና የአካባቢ ማጋራት መተግበሪያ",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "ar": {
+      "key": "2d21301d9e30dac9759c17fc76e17f76",
+      "own_screens": false,
+      "summary": "تطبيق لتحديد مواقع العائلة ومشاركة المواقع في الوقت الفعلي",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "az": {
+      "key": "0fab9c03210b28bac08b6cd8786b59ad",
+      "own_screens": false,
+      "summary": "Real vaxt Ailə Yerləşdiricisi və Yer Paylaşımı Tətbiqi",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "be": {
+      "key": "f3ee422470ffe9587179529f312fa323",
+      "own_screens": false,
+      "summary": "Праграма для пошуку сям'і ў рэжыме рэальнага часу і абмену месцазнаходжаннем",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "bg": {
+      "key": "7ccee074a78910c46cfcb0e299f3f10d",
+      "own_screens": false,
+      "summary": "Приложение за локализиране на семейства в реално време и споделяне на местоположение",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "bn": {
+      "key": "8117c5eeb97ca35afca5ca3422c848dd",
+      "own_screens": false,
+      "summary": "রিয়েল-টাইম ফ্যামিলি লোকেটর এবং লোকেশন শেয়ারিং অ্যাপ",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "ca": {
+      "key": "1cf63c2d9ec2229154b6aa5e15168646",
+      "own_screens": false,
+      "summary": "Localitzador familiar en temps real i aplicació per compartir la ubicació",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "cs": {
+      "key": "260e2f2177c60cfa34b62f700bfd24ad",
+      "own_screens": false,
+      "summary": "Aplikace pro vyhledávání rodin v reálném čase a sdílení polohy",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "da": {
+      "key": "814b24b8df79035b0bbbe1bbbb6cc231",
+      "own_screens": false,
+      "summary": "App til familiesøgning og placeringsdeling i realtid",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "de": {
+      "key": "5e5998a02cfd3527f3d8e455d3f9fd2d",
+      "own_screens": true,
+      "summary": "Echtzeit-Familienortungs- und Standortfreigabe-App",
+      "title": "Telefon GPS Tracker",
+      "v": 2
+    },
+    "el": {
+      "key": "8f3cef15eef0db5c21605e94ec41b5b5",
+      "own_screens": false,
+      "summary": "Εφαρμογή εντοπισμού οικογένειας σε πραγματικό χρόνο και κοινής χρήσης τοποθεσίας",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "es": {
+      "key": "2bc28dbfcf37ad30e8609158a6c4f371",
+      "own_screens": true,
+      "summary": "Aplicación localizador familiar en tiempo real y compartición de ubicación",
+      "title": "Rastreador GPS de Teléfono",
+      "v": 2
+    },
+    "es-419": {
+      "key": "2bc28dbfcf37ad30e8609158a6c4f371",
+      "own_screens": true,
+      "summary": "Aplicación localizador familiar en tiempo real y compartición de ubicación",
+      "title": "Rastreador GPS de Teléfono",
+      "v": 2
+    },
+    "et": {
+      "key": "5e92471a4be7b23f9c4b3f63b43c842c",
+      "own_screens": false,
+      "summary": "Reaalajas pereotsija ja asukoha jagamise rakendus",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "eu": {
+      "key": "5ab49b905b01a6f0fedec10ef2be67f8",
+      "own_screens": false,
+      "summary": "Familia Lokatzaile eta Kokapena Partekatzeko Aplikazioa Denbora Errealean",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "fa": {
+      "key": "c3028b28c625318f6b98550a7aea0a74",
+      "own_screens": false,
+      "summary": "اپلیکیشن موقعیت‌یاب خانواده و اشتراک‌گذاری موقعیت مکانی به صورت آنی",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "fi": {
+      "key": "87580aabb0ca3fb9ce00d40cbd5d1283",
+      "own_screens": false,
+      "summary": "Reaaliaikainen perhehaku ja sijainninjakosovellus",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "fil": {
+      "key": "e59f80dd50031c98649ba8d0cf1eb805",
+      "own_screens": false,
+      "summary": "Real-time na Family Locator at Location Sharing App",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "fr": {
+      "key": "d53b34c2b33dd2508f3aff79f822d74d",
+      "own_screens": true,
+      "summary": "Application de localisation familiale en temps réel et partage de position",
+      "title": "Traceur GPS de Téléphone",
+      "v": 2
+    },
+    "fr-CA": {
+      "key": "d53b34c2b33dd2508f3aff79f822d74d",
+      "own_screens": true,
+      "summary": "Application de localisation familiale en temps réel et partage de position",
+      "title": "Traceur GPS de Téléphone",
+      "v": 2
+    },
+    "gl": {
+      "key": "9a27193081d8210954a4d6a00c606a4a",
+      "own_screens": false,
+      "summary": "Localizador familiar en tempo real e aplicación para compartir localización",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "gu": {
+      "key": "e0525e9343cc59143e01726338f4978a",
+      "own_screens": false,
+      "summary": "રીઅલ-ટાઇમ ફેમિલી લોકેટર અને લોકેશન શેરિંગ એપ",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "hi": {
+      "key": "4f554ba1ba36d70403980d720f5fce85",
+      "own_screens": false,
+      "summary": "रीयल-टाइम फैमिली लोकेटर और लोकेशन शेयरिंग ऐप",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "hr": {
+      "key": "0e3aae7bfc8251831f51bad7b01b4cd0",
+      "own_screens": false,
+      "summary": "Aplikacija za lociranje obitelji u stvarnom vremenu i dijeljenje lokacije",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "hu": {
+      "key": "b0c45192eb6e1d99373e6afcb864b21b",
+      "own_screens": false,
+      "summary": "Valós idejű családkereső és helymegosztó alkalmazás",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "hy": {
+      "key": "5a99cce2cd6a1d41d3a141f278f9a33c",
+      "own_screens": false,
+      "summary": "Ընտանիքի տեղորոշիչի և գտնվելու վայրի համօգտագործման իրական ժամանակի հավելված",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "id": {
+      "key": "b4a04580b55cc0dab6d958e4b114db01",
+      "own_screens": true,
+      "summary": "Aplikasi pelacak keluarga real-time dan berbagi lokasi",
+      "title": "Pelacak GPS Telepon",
+      "v": 2
+    },
+    "is": {
+      "key": "c4b110e93133c745f92cfafe2f34c680",
+      "own_screens": false,
+      "summary": "Rauntíma fjölskyldustaðsetningar- og staðsetningardeilingarforrit",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "it": {
+      "key": "60ef62f9bc8fc70664cd03b13b4a74d1",
+      "own_screens": true,
+      "summary": "App localizzatore famiglia in tempo reale e condivisione posizione",
+      "title": "Telefono Tracciatore GPS",
+      "v": 2
+    },
+    "iw": {
+      "key": "5d5afb4959449d6eed788719571d6790",
+      "own_screens": false,
+      "summary": "אפליקציית איתור משפחה ושיתוף מיקום בזמן אמת",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "ja": {
+      "key": "5108cfd92c556a8f2d5e1d0911c1fb68",
+      "own_screens": false,
+      "summary": "リアルタイム家族位置情報追跡・共有アプリ",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "ka": {
+      "key": "97ef9eba4b0e074ed61065a570ec0953",
+      "own_screens": false,
+      "summary": "რეალურ დროში ოჯახის ლოკატორი და მდებარეობის გაზიარების აპლიკაცია",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "kk": {
+      "key": "380f29fa609ad1cdec08111d51f3e289",
+      "own_screens": false,
+      "summary": "Нақты уақыттағы отбасылық локатор және орналасқан жерді бөлісу қолданбасы",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "km": {
+      "key": "5e62afd2cac6bdbf9148485249cad0ef",
+      "own_screens": false,
+      "summary": "កម្មវិធីស្វែងរកទីតាំងគ្រួសារ និងចែករំលែកទីតាំងតាមពេលវេលាជាក់ស្តែង",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "kn": {
+      "key": "8b4a5191764495263303f4101a58c81d",
+      "own_screens": false,
+      "summary": "ನೈಜ-ಸಮಯದ ಕುಟುಂಬ ಲೊಕೇಟರ್ ಮತ್ತು ಸ್ಥಳ ಹಂಚಿಕೆ ಅಪ್ಲಿಕೇಶನ್",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "ko": {
+      "key": "6bd6f364cc7f8df9730fe2788a39f834",
+      "own_screens": false,
+      "summary": "실시간 가족 위치 찾기 및 위치 공유 앱",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "ky": {
+      "key": "bddbddb57a50fc3beec8fefc1410f692",
+      "own_screens": false,
+      "summary": "Үй-бүлөлүк локатор жана жайгашкан жерди бөлүшүү үчүн реалдуу убакыттагы колдонмо",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "lo": {
+      "key": "84e5b31b756e67d6a7dea44fd2952884",
+      "own_screens": false,
+      "summary": "ແອັບຊອກຫາຄອບຄົວ ແລະ ແບ່ງປັນສະຖານທີ່ແບບເວລາຈິງ",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "lt": {
+      "key": "62ba0265232b779e1ca86e6f693ecb01",
+      "own_screens": false,
+      "summary": "Šeimos paieškos ir vietos bendrinimo programa realiuoju laiku",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "lv": {
+      "key": "e776382a203165a20475eb341edee845",
+      "own_screens": false,
+      "summary": "Reāllaika ģimenes meklētāja un atrašanās vietas koplietošanas lietotne",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "mk": {
+      "key": "07794043796c9d15ee92b130e2b95403",
+      "own_screens": false,
+      "summary": "Апликација за лоцирање на семејство во реално време и споделување локација",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "ml": {
+      "key": "6e513389e284dcd5e3954019399c8656",
+      "own_screens": false,
+      "summary": "തത്സമയ ഫാമിലി ലൊക്കേറ്റർ, ലൊക്കേഷൻ പങ്കിടൽ ആപ്പ്",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "mn": {
+      "key": "03d49f7fb17fb4fa8b4afd838b68088a",
+      "own_screens": false,
+      "summary": "Бодит цагийн гэр бүлийн байршил тогтоогч болон байршил хуваалцах апп",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "mr": {
+      "key": "149e088ffefee30db91d6c18d0b6e5ff",
+      "own_screens": false,
+      "summary": "रिअल-टाइम फॅमिली लोकेटर आणि लोकेशन शेअरिंग अ‍ॅप",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "ms": {
+      "key": "a14929c122ec697fd2a7106f5386f666",
+      "own_screens": true,
+      "summary": "Aplikasi pengesan keluarga masa nyata dan perkongsian lokasi",
+      "title": "Pembekal Jejak GPS Telefon",
+      "v": 2
+    },
+    "my": {
+      "key": "a4853dbfe9c5001ec371e8bdd40c5060",
+      "own_screens": false,
+      "summary": "မိသားစုတည်နေရာရှာဖွေခြင်းနှင့် တည်နေရာမျှဝေခြင်းအက်ပ်ကို အချိန်နှင့်တပြေးညီ ရှာဖွေပေးသည်",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "ne": {
+      "key": "db503376991a306f2d602de84da2fe10",
+      "own_screens": false,
+      "summary": "वास्तविक-समय परिवार लोकेटर र स्थान साझेदारी एप",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "nl": {
+      "key": "2c06cf63a474b93e6333d4db70d9473c",
+      "own_screens": true,
+      "summary": "Realtime gezinslocator en locatiedeling-app",
+      "title": "Telefoon GPS Tracker",
+      "v": 2
+    },
+    "no": {
+      "key": "a71ec3d97f61762858b84d406345653e",
+      "own_screens": false,
+      "summary": "App for familielokalisering og posisjonsdeling i sanntid",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "pa": {
+      "key": "c7498139e109687d6cfed8b06ead1133",
+      "own_screens": false,
+      "summary": "ਰੀਅਲ-ਟਾਈਮ ਫੈਮਿਲੀ ਲੋਕੇਟਰ ਅਤੇ ਲੋਕੇਸ਼ਨ ਸ਼ੇਅਰਿੰਗ ਐਪ",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "pl": {
+      "key": "9b7952de4493bfcfc8b16a64a8c3a324",
+      "own_screens": false,
+      "summary": "Aplikacja do lokalizowania rodziny w czasie rzeczywistym i udostępniania lokalizacji",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "pt-BR": {
+      "key": "95e46aa0d1f2c891cf580d507395912e",
+      "own_screens": true,
+      "summary": "Aplicativo localizador familiar em tempo real e compartilhamento de localização",
+      "title": "Rastreador GPS de Telefone",
+      "v": 2
+    },
+    "pt-PT": {
+      "key": "95e46aa0d1f2c891cf580d507395912e",
+      "own_screens": true,
+      "summary": "Aplicativo localizador familiar em tempo real e compartilhamento de localização",
+      "title": "Rastreador GPS de Telefone",
+      "v": 2
+    },
+    "ro": {
+      "key": "899ad30683ed4f9d584aae462f932ab4",
+      "own_screens": false,
+      "summary": "Aplicație de localizare a familiei în timp real și partajare a locației",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "ru": {
+      "key": "67596a3328b86b07fd405a25d27dc8cd",
+      "own_screens": true,
+      "summary": "Приложение для отслеживания семьи в реальном времени и обмена геолокацией",
+      "title": "Трекер GPS для телефона",
+      "v": 2
+    },
+    "si": {
+      "key": "4858c98028cff2c9cafcd31b393d3427",
+      "own_screens": false,
+      "summary": "තත්‍ය කාලීන පවුල් ස්ථානගත කිරීමේ සහ ස්ථාන බෙදාගැනීමේ යෙදුම",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "sk": {
+      "key": "723fab1e7cacb1c3d82850ffcd16f0ef",
+      "own_screens": false,
+      "summary": "Aplikácia na vyhľadávanie rodín v reálnom čase a zdieľanie polohy",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "sl": {
+      "key": "089a9c699ab30d05d3bee08278370505",
+      "own_screens": false,
+      "summary": "Aplikacija za iskanje družin v realnem času in deljenje lokacije",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "sq": {
+      "key": "79a94913e8064c661f9867467b7368a4",
+      "own_screens": false,
+      "summary": "Aplikacioni i Lokatorit të Familjes dhe Ndarjes së Vendndodhjes në Kohë Reale",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "sr": {
+      "key": "af5f90b15bb365aae99b716b8e67f0ae",
+      "own_screens": false,
+      "summary": "Апликација за локацију породице у реалном времену и дељење локације",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "sv": {
+      "key": "7a797af990a9aabba23f6beaa5756296",
+      "own_screens": false,
+      "summary": "App för familjelokalisering och platsdelning i realtid",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "sw": {
+      "key": "97259b7131161b683b4147bbb2aa82b3",
+      "own_screens": false,
+      "summary": "Programu ya Kutafuta Familia na Kushiriki Mahali kwa Wakati Halisi",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "ta": {
+      "key": "7c0136215b86cbddbb3586ce485a6ce5",
+      "own_screens": false,
+      "summary": "நிகழ்நேர குடும்ப இருப்பிடங்காட்டி மற்றும் இருப்பிடப் பகிர்வு செயலி",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "te": {
+      "key": "3a126c155e8bad8f00d19a69ae451424",
+      "own_screens": false,
+      "summary": "రియల్-టైమ్ ఫ్యామిలీ లొకేటర్ మరియు లొకేషన్ షేరింగ్ యాప్",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "th": {
+      "key": "31dda1db61ded1c77cf974ef852048a4",
+      "own_screens": true,
+      "summary": "แอปตัวค้นหาตำแหน่งครอบครัวและแชร์ตำแหน่งแบบเรียลไทม์",
+      "title": "ติดตาม GPS โทรศัพท์",
+      "v": 2
+    },
+    "tr": {
+      "key": "0877e20bc53c9dd4d858b6668ca2c77f",
+      "own_screens": true,
+      "summary": "Gerçek Zamanlı Aile Konum Bulucu ve Konum Paylaşma Uygulaması",
+      "title": "Telefon GPS İzleyici",
+      "v": 2
+    },
+    "uk": {
+      "key": "791d6315288600dc4c085d8ed0148ac4",
+      "own_screens": false,
+      "summary": "Додаток для пошуку родини в режимі реального часу та обміну місцезнаходженням",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "ur": {
+      "key": "5dc42cdbeabbdbb97d029d5f11638d80",
+      "own_screens": false,
+      "summary": "ریئل ٹائم فیملی لوکیٹر اور لوکیشن شیئرنگ ایپ",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "vi": {
+      "key": "11d60dc6d8ed38e15e98f222c1dcfb2b",
+      "own_screens": true,
+      "summary": "Ứng dụng định vị gia đình thời gian thực và chia sẻ vị trí",
+      "title": "Bộ Theo Dõi GPS Điện Thoại",
+      "v": 2
+    },
+    "zh-CN": {
+      "key": "02600de9fdb6b53538f67276273352e8",
+      "own_screens": false,
+      "summary": "实时家庭定位和位置共享应用程序",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    },
+    "zh-HK": {
+      "key": "ea5a9ad828c8e117894d53a13d1721d8",
+      "own_screens": true,
+      "summary": "即時家庭定位與位置分享應用",
+      "title": "手機 GPS 追蹤器",
+      "v": 2
+    },
+    "zh-TW": {
+      "key": "ea5a9ad828c8e117894d53a13d1721d8",
+      "own_screens": true,
+      "summary": "即時家庭定位與位置分享應用",
+      "title": "手機 GPS 追蹤器",
+      "v": 2
+    },
+    "zu": {
+      "key": "a5504117bfc98e7c5ff7208f50513218",
+      "own_screens": false,
+      "summary": "Uhlelo Lokuthola Umndeni Lwesikhathi Sangempela kanye Nokwabelana Ngendawo",
+      "title": "Phone GPS Tracker",
+      "v": 2
+    }
+  }
+}

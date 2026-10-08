@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "Everyone",
   "description": "Find my phone fast with a GPS phone location tracker for families. This geolocation app gives clear location updates and helps you stay connected.\r\n\r\nSee where your child is right now on a private map, review today’s routes, and get alerts when they arrive at school or get home. Built for parents, our tracker app focuses on safety and clarity so you can guide your kids with confidence.\r\n\r\nWith a family locator you can rely on, Find my kids offers a GPS tracker and phone location in one. It works as a GPS phone location tracker across Android devices to simplify busy days without constant calls.\r\n\r\nEverything important is one tap away. The core tools parents use daily:\r\n\r\n• Kid’s live location and route — See your child’s spot in real time and the places they visited today.\r\n• Parental control — Track how much time your child spends on apps while at school.\r\n• Live listen to sound around — Hear what’s happening near your child to ensure they are safe.\r\n• Bypass silent mode — Send a Loud Signal that rings even if the phone is muted or in a backpack.\r\n• Movement alerts — Add places like school, home or the park and get notified on arrival or departure.\r\n• SOS signal on kid’s phone — In an emergency, your child can alert you instantly with the SOS button.\r\n\r\nSet-up takes minutes. Link your child’s device, tailor notifications to your routine, and decide who in the family can see updates. Create a simple family link so trusted relatives can receive alerts too.\r\n\r\nParents choose Find my kids because it is easy to read at a glance yet powerful when you need it. As a GPS tracker app, it surfaces the essentials and helps you act quickly if plans change.\r\n\r\nStay in control with a location tracker that respects your child’s space while giving timely context. Combine precise map details with movement alerts to reduce uncertainty, and use live listening only when you need extra reassurance.\r\n\r\nBuilt for modern families, it fits alongside your favourite tools and routines, supporting a calm, proactive approach to safety and communication from school drop-off to evening activities.\r\n\r\nChoose a trusted family locator and GPS phone location tracker that helps you find my phone when it truly counts.\r\n\r\nOur app asks for the following permissions:\r\n– access to the camera and photos – to install the child's avatar;\r\n– access to a microphone – to send voice messages in the chat;\r\n– accessibility services - to limit time at the smartphone screen.\r\n\r\nIf you encounter any technical issues using Findmykids, you can always reach Findmykids' 24/7 support through the app’s chat or via email at support@findmykids.org. We are always here to help!\r\n\r\nYou can familiarise yourself with our documents:\r\n\r\nUser Agreement - https://findmykids.org/docs/terms-of-use/ios/en\r\nPrivacy Policy - https://findmykids.org/docs/privacy-policy/ios/en",
@@ -7,22 +7,22 @@
   "genre": "Parenting",
   "headerImage": "https://play-lh.googleusercontent.com/j4ULfbEHZk5u-WHihagFWFyZyIhDC-eGz5qXgOUXZXnOCxgofUZZvhGPsIg2pw2246MQM3FocEQQ0AmfJHdW0Fs",
   "histogram": [
-    77935,
-    30217,
-    85334,
-    180770,
-    1683986
+    78007,
+    30252,
+    85407,
+    180650,
+    1684901
   ],
   "icon": "https://play-lh.googleusercontent.com/1xxhEalJmQZPdCdHbJ2cfABAmZn5vVB5kWPro0JjVmBAUHWLWfE0eKjQH3nO9IkQJCV7q3-Yu5-jWpLt_wdY",
   "inAppProductPrice": "$0.39 – $999.99 per item",
   "installs": "50,000,000+",
-  "lastUpdatedOn": "2 Oct 2026",
+  "lastUpdatedOn": "6 Oct 2026",
   "metrics": {
     "minInstalls": 50000000,
-    "ratings": 2058334,
-    "realInstalls": 82880689,
-    "reviews": 12985,
-    "score": 4.633693
+    "ratings": 2059278,
+    "realInstalls": 82974106,
+    "reviews": 12987,
+    "score": 4.633679
   },
   "price": 0,
   "screenshots": [
@@ -44,6 +44,6 @@
   ],
   "summary": "Kids GPS tracking app. My child location tracker, app lock parental control",
   "title": "Find My Kids: Parental Control",
-  "version": "2.12.11-google",
+  "version": "2.12.13-google",
   "video": null
 }

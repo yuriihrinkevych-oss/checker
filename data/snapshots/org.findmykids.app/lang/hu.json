@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "Korhatár nélküli",
   "description": "A Find my kids egy gps alapú gyerekkereső figyelmes szülőknek. Az alkalmazás lehetőséged add számodra, hogy figyeld a gyerek helyzetét, napközbeni tevékenységét és az alkalmazás használatát a telefonján.\r\n\r\nFogadhatsz értesítéseket is:\r\n- A gyerek megérkezéséről / elindulásáról otthonról vagy más helyekről, amelyeket bejelölsz;\r\n- A telefon töltöttségének alacsony szintjéről;\r\n- Ha a gyerek megnyomja a \"SOS gombot\".\r\n\r\nHogy működik a Find my kids:\r\n- Telepítsd a Find my kids alkalmazást a telefonodra\r\n- Válaszd ki milyen eszközt szeretnél csatlakoztatni:\r\na gyerek telefonját vagy GPS-es órát\r\n- Engedélyzed a gyerek alkalmazásában a megfigyelést vagy írd be a GPS-es óra SIM kártyájának számát.\r\n\r\nHa a gyerekednek okostelefonja van:\r\nTelepísd a Pingo! - GPS nyomkövetőt alkalmazást a gyerek okostelefonjára. Az alkalmazás GPS helymeghatározóként fog működni a gyerek telefonján. A gyereked chatelni is tud veled, sőt baj esetén megnyomhatja a vészjelzés gombot.\r\n\r\nHa a gyerekednek GPS-es órája van:\r\nA megfelelő technikai támogatással rendelkező helyi interface-t csatlakoztasd a megbízható Find my kids alkalmazáshoz.\r\n\r\nAz első telepítést követő 7 napon belül minden funkciót ingyen használhatsz. Az időszak végén az ingyenes verzióban továbbra is használhatod az online helymeghatározás funkciót. Az összes funkció eléréséhez aktiválnod kell az alábbiakat:\r\n- automatikus díjfizetés az alkalmazáson belüli vásárlásokhoz;\r\n- állandó szolgáltatási licenc.\r\n\r\nAz előfizetési díjat a iTunes számládról vonjuk le. Az előfizetésed automatikusan megújításra kerül rendszeres időközönként, melyet te határozol meg. Ha korábban le szeretnéd mondani, akkor 24 órával az aktuális időszak kezdete előtt megteheted. Az előfizetésen változtatni az iTunes fiókod beállításaiban tudsz a vásárlás után.\r\n\r\nHozzáférés szükséges:\r\n- a kamerához és képekhez - az avatár beállításához a gyerek regisztrációjakor\r\n- a kontaktokhoz - hogy kiválaszd a gps-es óra által elérhető telefonszámokat\r\n Speciális funkciók - hogy korlátozni tudd a gyermeked képernyő idejét\r\n- a mikrofonhoz - hangüzenetek küldéséhez\r\n- az értesítésekhez - chat értesítések küldéséhez\r\n\r\nItt megismerheted a dokumentumainkat:\r\n- Felhasználói feltételek - https://findmykids.org/docs/terms-of-use/ios/en\r\n- Adatvédelmi szabályzat - https://findmykids.org/docs/privacy-policy/ios/en\r\n\r\nHa bármilyen hozzászólásod vagy kérdésed van az alkalmazásról, kérlek írj nekünk a v@lappc.ru-ra vagy a honlapunkon http://findmykids.org/faq",
@@ -7,22 +7,22 @@
   "genre": "Gyereknevelés",
   "headerImage": "https://play-lh.googleusercontent.com/j4ULfbEHZk5u-WHihagFWFyZyIhDC-eGz5qXgOUXZXnOCxgofUZZvhGPsIg2pw2246MQM3FocEQQ0AmfJHdW0Fs",
   "histogram": [
-    77935,
-    30217,
-    85334,
-    180770,
-    1683984
+    78007,
+    30252,
+    85407,
+    180650,
+    1684901
   ],
   "icon": "https://play-lh.googleusercontent.com/1xxhEalJmQZPdCdHbJ2cfABAmZn5vVB5kWPro0JjVmBAUHWLWfE0eKjQH3nO9IkQJCV7q3-Yu5-jWpLt_wdY",
   "inAppProductPrice": "0,39 USD–999,99 USD elemenként",
   "installs": "50 000 000+",
-  "lastUpdatedOn": "2026. okt. 2.",
+  "lastUpdatedOn": "2026. okt. 6.",
   "metrics": {
     "minInstalls": 50000000,
-    "ratings": 2058332,
-    "realInstalls": 82880689,
-    "reviews": 12985,
-    "score": 4.633693
+    "ratings": 2059278,
+    "realInstalls": 82974106,
+    "reviews": 12987,
+    "score": 4.633679
   },
   "price": 0,
   "screenshots": [
@@ -50,6 +50,6 @@
   ],
   "summary": "Gyermekfelügyelet: Nyomkövető alkalmazás és lokátor. Követés az egész családnak.",
   "title": "Find my kids: GPS nyomkövető",
-  "version": "2.12.11-google",
+  "version": "2.12.13-google",
   "video": null
 }

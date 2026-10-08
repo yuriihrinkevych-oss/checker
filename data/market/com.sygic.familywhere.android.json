@@ -1,0 +1,1382 @@
+{
+  "base": {
+    "key": "b172a478920b3cf064607243ae24bdca",
+    "own_screens": false,
+    "summary": "Link & locate for real-time child & family safety: GPS tracker for families",
+    "title": "Find my Phone - Family Locator",
+    "v": 2
+  },
+  "countries": {
+    "ae": {
+      "available": true,
+      "containsAds": false,
+      "currency": "AED",
+      "iap": "AED 11.99 - AED 229.99 per item",
+      "max_local": 229.99,
+      "max_usd": 62.62,
+      "min_local": 11.99,
+      "min_usd": 3.26
+    },
+    "ar": {
+      "available": true,
+      "containsAds": false,
+      "currency": "ARS",
+      "iap": "ARS 4,455.10 - ARS 89,685.05 per item",
+      "max_local": 89685.05,
+      "max_usd": 58.98,
+      "min_local": 4455.1,
+      "min_usd": 2.93
+    },
+    "at": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€ 3,59 - € 74,99 if billed through Play",
+      "max_local": 74.99,
+      "max_usd": 83.98,
+      "min_local": 3.59,
+      "min_usd": 4.02
+    },
+    "au": {
+      "available": true,
+      "containsAds": false,
+      "currency": "AUD",
+      "iap": "$4.79 - $99.99 per item",
+      "max_local": 99.99,
+      "max_usd": 69.62,
+      "min_local": 4.79,
+      "min_usd": 3.33
+    },
+    "bd": {
+      "available": true,
+      "containsAds": false,
+      "currency": "BDT",
+      "iap": "BDT 290.00 - BDT 8,500.00 per item",
+      "max_local": 8500.0,
+      "max_usd": 69.1,
+      "min_local": 290.0,
+      "min_usd": 2.36
+    },
+    "be": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€3.59 - €74.99 if billed through Play",
+      "max_local": 74.99,
+      "max_usd": 83.98,
+      "min_local": 3.59,
+      "min_usd": 4.02
+    },
+    "bg": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€3.57 - €71.58 if billed through Play",
+      "max_local": 71.58,
+      "max_usd": 80.16,
+      "min_local": 3.57,
+      "min_usd": 4.0
+    },
+    "br": {
+      "available": true,
+      "containsAds": false,
+      "currency": "BRL",
+      "iap": "R$14.99 - R$329.99 per item",
+      "max_local": 329.99,
+      "max_usd": 65.96,
+      "min_local": 14.99,
+      "min_usd": 3.0
+    },
+    "ca": {
+      "available": true,
+      "containsAds": false,
+      "currency": "CAD",
+      "iap": "$3.89 - $81.99 per item",
+      "max_local": 81.99,
+      "max_usd": 57.56,
+      "min_local": 3.89,
+      "min_usd": 2.73
+    },
+    "ch": {
+      "available": true,
+      "containsAds": false,
+      "currency": "CHF",
+      "iap": "CHF 2.90 - CHF 60.00 per item",
+      "max_local": 60.0,
+      "max_usd": 72.02,
+      "min_local": 2.9,
+      "min_usd": 3.48
+    },
+    "cl": {
+      "available": true,
+      "containsAds": false,
+      "currency": "CLP",
+      "iap": "CLP 3,300 - CLP 67,000 per item",
+      "max_local": 67000.0,
+      "max_usd": 68.76,
+      "min_local": 3300.0,
+      "min_usd": 3.39
+    },
+    "co": {
+      "available": true,
+      "containsAds": false,
+      "currency": "COP",
+      "iap": "COP 13,000 - COP 265,000 per item",
+      "max_local": 265000.0,
+      "max_usd": 81.87,
+      "min_local": 13000.0,
+      "min_usd": 4.02
+    },
+    "cz": {
+      "available": true,
+      "containsAds": false,
+      "currency": "CZK",
+      "iap": "89,99 CZK - 1 799,99 CZK if billed through Play",
+      "max_local": 1799.99,
+      "max_usd": 82.53,
+      "min_local": 89.99,
+      "min_usd": 4.13
+    },
+    "de": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€3.59 - €69.99 if billed through Play",
+      "max_local": 69.99,
+      "max_usd": 78.38,
+      "min_local": 3.59,
+      "min_usd": 4.02
+    },
+    "dk": {
+      "available": true,
+      "containsAds": false,
+      "currency": "DKK",
+      "iap": "28,00 kr. - 559,00 kr. if billed through Play",
+      "max_local": 559.0,
+      "max_usd": 83.65,
+      "min_local": 28.0,
+      "min_usd": 4.19
+    },
+    "ee": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€3.59 - €74.99 if billed through Play",
+      "max_local": 74.99,
+      "max_usd": 83.98,
+      "min_local": 3.59,
+      "min_usd": 4.02
+    },
+    "eg": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EGP",
+      "iap": "EGP 56.99 - EGP 3,599.99 per item",
+      "max_local": 3599.99,
+      "max_usd": 68.72,
+      "min_local": 56.99,
+      "min_usd": 1.09
+    },
+    "es": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€3.59 - €74.99 if billed through Play",
+      "max_local": 74.99,
+      "max_usd": 83.98,
+      "min_local": 3.59,
+      "min_usd": 4.02
+    },
+    "fi": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€3.69 - €74.99 if billed through Play",
+      "max_local": 74.99,
+      "max_usd": 83.98,
+      "min_local": 3.69,
+      "min_usd": 4.13
+    },
+    "fr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€3.59 - €74.99 if billed through Play",
+      "max_local": 74.99,
+      "max_usd": 83.98,
+      "min_local": 3.59,
+      "min_usd": 4.02
+    },
+    "gb": {
+      "available": true,
+      "containsAds": false,
+      "currency": "GBP",
+      "iap": "£2.99 - £60.99 if billed through Play",
+      "max_local": 60.99,
+      "max_usd": 80.62,
+      "min_local": 2.99,
+      "min_usd": 3.95
+    },
+    "gr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€3.69 - €74.99 if billed through Play",
+      "max_local": 74.99,
+      "max_usd": 83.98,
+      "min_local": 3.69,
+      "min_usd": 4.13
+    },
+    "hk": {
+      "available": true,
+      "containsAds": false,
+      "currency": "HKD",
+      "iap": "HK$23.00 - HK$469.00 per item",
+      "max_local": 469.0,
+      "max_usd": 59.76,
+      "min_local": 23.0,
+      "min_usd": 2.93
+    },
+    "hr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€3.72 - €75.52 if billed through Play",
+      "max_local": 75.52,
+      "max_usd": 84.57,
+      "min_local": 3.72,
+      "min_usd": 4.17
+    },
+    "hu": {
+      "available": true,
+      "containsAds": false,
+      "currency": "HUF",
+      "iap": "1 590 HUF - 31 499 HUF if billed through Play",
+      "max_local": 31499.0,
+      "max_usd": 96.34,
+      "min_local": 1590.0,
+      "min_usd": 4.86
+    },
+    "id": {
+      "available": true,
+      "containsAds": false,
+      "currency": "IDR",
+      "iap": "Rp 44.000 - Rp 1.090.000 per item",
+      "max_local": 1090000.0,
+      "max_usd": 60.98,
+      "min_local": 44000.0,
+      "min_usd": 2.46
+    },
+    "ie": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€3.69 - €74.99 if billed through Play",
+      "max_local": 74.99,
+      "max_usd": 83.98,
+      "min_local": 3.69,
+      "min_usd": 4.13
+    },
+    "il": {
+      "available": true,
+      "containsAds": false,
+      "currency": "ILS",
+      "iap": "₪9.80 - ₪225.00 per item",
+      "max_local": 225.0,
+      "max_usd": 73.34,
+      "min_local": 9.8,
+      "min_usd": 3.19
+    },
+    "in": {
+      "available": true,
+      "containsAds": false,
+      "currency": "INR",
+      "iap": "₹280.00 - ₹6,800.00 per item",
+      "max_local": 6800.0,
+      "max_usd": 70.23,
+      "min_local": 280.0,
+      "min_usd": 2.89
+    },
+    "it": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€3.69 - €74.99 if billed through Play",
+      "max_local": 74.99,
+      "max_usd": 83.98,
+      "min_local": 3.69,
+      "min_usd": 4.13
+    },
+    "jp": {
+      "available": true,
+      "containsAds": false,
+      "currency": "JPY",
+      "iap": "¥410 - ¥10,500 per item",
+      "max_local": 10500.0,
+      "max_usd": 66.41,
+      "min_local": 410.0,
+      "min_usd": 2.59
+    },
+    "ke": {
+      "available": true,
+      "containsAds": false,
+      "currency": "KES",
+      "iap": "Ksh 400.00 - Ksh 9,200.00 per item",
+      "max_local": 9200.0,
+      "max_usd": 70.98,
+      "min_local": 400.0,
+      "min_usd": 3.09
+    },
+    "kr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "KRW",
+      "iap": "₩4,400 - ₩99,000 per item",
+      "max_local": 99000.0,
+      "max_usd": 73.93,
+      "min_local": 4400.0,
+      "min_usd": 3.29
+    },
+    "kz": {
+      "available": true,
+      "containsAds": false,
+      "currency": "KZT",
+      "iap": "KZT 1,590.00 - KZT 34,990.00 per item",
+      "max_local": 34990.0,
+      "max_usd": 78.24,
+      "min_local": 1590.0,
+      "min_usd": 3.56
+    },
+    "lt": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€3.59 - €74.99 if billed through Play",
+      "max_local": 74.99,
+      "max_usd": 83.98,
+      "min_local": 3.59,
+      "min_usd": 4.02
+    },
+    "lv": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€3.59 - €74.99 if billed through Play",
+      "max_local": 74.99,
+      "max_usd": 83.98,
+      "min_local": 3.59,
+      "min_usd": 4.02
+    },
+    "ma": {
+      "available": true,
+      "containsAds": false,
+      "currency": "MAD",
+      "iap": "MAD 37.99 - MAD 759.99 per item",
+      "max_local": 759.99,
+      "max_usd": 76.23,
+      "min_local": 37.99,
+      "min_usd": 3.81
+    },
+    "mx": {
+      "available": true,
+      "containsAds": false,
+      "currency": "MXN",
+      "iap": "MX$69.00 - MX$1,449.00 per item",
+      "max_local": 1449.0,
+      "max_usd": 80.47,
+      "min_local": 69.0,
+      "min_usd": 3.83
+    },
+    "my": {
+      "available": true,
+      "containsAds": false,
+      "currency": "MYR",
+      "iap": "RM 12.99 - RM 304.99 per item",
+      "max_local": 304.99,
+      "max_usd": 74.61,
+      "min_local": 12.99,
+      "min_usd": 3.18
+    },
+    "ng": {
+      "available": true,
+      "containsAds": false,
+      "currency": "NGN",
+      "iap": "₦1,360.00 - ₦106,000.00 per item",
+      "max_local": 106000.0,
+      "max_usd": 79.69,
+      "min_local": 1360.0,
+      "min_usd": 1.02
+    },
+    "nl": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€3.59 - €74.99 if billed through Play",
+      "max_local": 74.99,
+      "max_usd": 83.98,
+      "min_local": 3.59,
+      "min_usd": 4.02
+    },
+    "no": {
+      "available": true,
+      "containsAds": false,
+      "currency": "NOK",
+      "iap": "37,00 kr - 829,00 kr if billed through Play",
+      "max_local": 829.0,
+      "max_usd": 86.58,
+      "min_local": 37.0,
+      "min_usd": 3.86
+    },
+    "nz": {
+      "available": true,
+      "containsAds": false,
+      "currency": "NZD",
+      "iap": "$5.49 - $124.99 per item",
+      "max_local": 124.99,
+      "max_usd": 69.99,
+      "min_local": 5.49,
+      "min_usd": 3.07
+    },
+    "pe": {
+      "available": true,
+      "containsAds": false,
+      "currency": "PEN",
+      "iap": "PEN 11.99 - PEN 234.99 per item",
+      "max_local": 234.99,
+      "max_usd": 68.25,
+      "min_local": 11.99,
+      "min_usd": 3.48
+    },
+    "ph": {
+      "available": true,
+      "containsAds": false,
+      "currency": "PHP",
+      "iap": "₱169.00 - ₱4,150.00 per item",
+      "max_local": 4150.0,
+      "max_usd": 66.07,
+      "min_local": 169.0,
+      "min_usd": 2.69
+    },
+    "pk": {
+      "available": true,
+      "containsAds": false,
+      "currency": "PKR",
+      "iap": "Rs 650.00 - Rs 16,800.00 per item",
+      "max_local": 16800.0,
+      "max_usd": 60.63,
+      "min_local": 650.0,
+      "min_usd": 2.35
+    },
+    "pl": {
+      "available": true,
+      "containsAds": false,
+      "currency": "PLN",
+      "iap": "17,99 PLN - 354,99 PLN if billed through Play",
+      "max_local": 354.99,
+      "max_usd": 90.77,
+      "min_local": 17.99,
+      "min_usd": 4.6
+    },
+    "pt": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€3.69 - €74.99 if billed through Play",
+      "max_local": 74.99,
+      "max_usd": 83.98,
+      "min_local": 3.69,
+      "min_usd": 4.13
+    },
+    "qa": {
+      "available": true,
+      "containsAds": false,
+      "currency": "QAR",
+      "iap": "QAR 11.00 - QAR 220.00 per item",
+      "max_local": 220.0,
+      "max_usd": 60.44,
+      "min_local": 11.0,
+      "min_usd": 3.02
+    },
+    "ro": {
+      "available": true,
+      "containsAds": false,
+      "currency": "RON",
+      "iap": "16,99 RON - 349,99 RON if billed through Play",
+      "max_local": 349.99,
+      "max_usd": 73.21,
+      "min_local": 16.99,
+      "min_usd": 3.55
+    },
+    "rs": {
+      "available": true,
+      "containsAds": false,
+      "currency": "RSD",
+      "iap": "RSD 399 - RSD 8,499 per item",
+      "max_local": 8499.0,
+      "max_usd": 81.06,
+      "min_local": 399.0,
+      "min_usd": 3.81
+    },
+    "sa": {
+      "available": true,
+      "containsAds": false,
+      "currency": "SAR",
+      "iap": "SAR 12.99 - SAR 259.99 per item",
+      "max_local": 259.99,
+      "max_usd": 69.33,
+      "min_local": 12.99,
+      "min_usd": 3.46
+    },
+    "se": {
+      "available": true,
+      "containsAds": false,
+      "currency": "SEK",
+      "iap": "40,00 kr - 809,00 kr if billed through Play",
+      "max_local": 809.0,
+      "max_usd": 80.81,
+      "min_local": 40.0,
+      "min_usd": 4.0
+    },
+    "sg": {
+      "available": true,
+      "containsAds": false,
+      "currency": "SGD",
+      "iap": "$4.48 - $89.98 per item",
+      "max_local": 89.98,
+      "max_usd": 70.31,
+      "min_local": 4.48,
+      "min_usd": 3.5
+    },
+    "si": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€3.69 - €74.99 if billed through Play",
+      "max_local": 74.99,
+      "max_usd": 83.98,
+      "min_local": 3.69,
+      "min_usd": 4.13
+    },
+    "sk": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€3.59 - €74.99 if billed through Play",
+      "max_local": 74.99,
+      "max_usd": 83.98,
+      "min_local": 3.59,
+      "min_usd": 4.02
+    },
+    "th": {
+      "available": true,
+      "containsAds": false,
+      "currency": "THB",
+      "iap": "THB 110.00 - THB 2,350.00 per item",
+      "max_local": 2350.0,
+      "max_usd": 69.82,
+      "min_local": 110.0,
+      "min_usd": 3.27
+    },
+    "tr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "TRY",
+      "iap": "TRY 63.99 - TRY 3,269.99 per item",
+      "max_local": 3269.99,
+      "max_usd": 66.44,
+      "min_local": 63.99,
+      "min_usd": 1.3
+    },
+    "tw": {
+      "available": true,
+      "containsAds": false,
+      "currency": "TWD",
+      "iap": "NT$94.00 - NT$2,080.00 per item",
+      "max_local": 2080.0,
+      "max_usd": 65.27,
+      "min_local": 94.0,
+      "min_usd": 2.95
+    },
+    "ua": {
+      "available": true,
+      "containsAds": false,
+      "currency": "UAH",
+      "iap": "129,99 UAH - 3 149,99 UAH per item",
+      "max_local": 3149.99,
+      "max_usd": 70.13,
+      "min_local": 129.99,
+      "min_usd": 2.89
+    },
+    "us": {
+      "available": true,
+      "containsAds": false,
+      "currency": "USD",
+      "iap": "$2.99 - $59.99 per item",
+      "max_local": 59.99,
+      "max_usd": 59.99,
+      "min_local": 2.99,
+      "min_usd": 2.99
+    },
+    "vn": {
+      "available": true,
+      "containsAds": false,
+      "currency": "VND",
+      "iap": "₫70,000 - ₫1,600,000 per item",
+      "max_local": 1600000.0,
+      "max_usd": 61.65,
+      "min_local": 70000.0,
+      "min_usd": 2.7
+    },
+    "za": {
+      "available": true,
+      "containsAds": false,
+      "currency": "ZAR",
+      "iap": "R 58,99 - R 1 249,99 per item",
+      "max_local": 1249.99,
+      "max_usd": 75.12,
+      "min_local": 58.99,
+      "min_usd": 3.55
+    }
+  },
+  "date": "2026-10-08",
+  "errors": [],
+  "first_seen": {
+    "countries": {
+      "ae": "baseline",
+      "ar": "baseline",
+      "at": "baseline",
+      "au": "baseline",
+      "bd": "baseline",
+      "be": "baseline",
+      "bg": "baseline",
+      "br": "baseline",
+      "ca": "baseline",
+      "ch": "baseline",
+      "cl": "baseline",
+      "co": "baseline",
+      "cz": "baseline",
+      "de": "baseline",
+      "dk": "baseline",
+      "ee": "baseline",
+      "eg": "baseline",
+      "es": "baseline",
+      "fi": "baseline",
+      "fr": "baseline",
+      "gb": "baseline",
+      "gr": "baseline",
+      "hk": "baseline",
+      "hr": "baseline",
+      "hu": "baseline",
+      "id": "baseline",
+      "ie": "baseline",
+      "il": "baseline",
+      "in": "baseline",
+      "it": "baseline",
+      "jp": "baseline",
+      "ke": "baseline",
+      "kr": "baseline",
+      "kz": "baseline",
+      "lt": "baseline",
+      "lv": "baseline",
+      "ma": "baseline",
+      "mx": "baseline",
+      "my": "baseline",
+      "ng": "baseline",
+      "nl": "baseline",
+      "no": "baseline",
+      "nz": "baseline",
+      "pe": "baseline",
+      "ph": "baseline",
+      "pk": "baseline",
+      "pl": "baseline",
+      "pt": "baseline",
+      "qa": "baseline",
+      "ro": "baseline",
+      "rs": "baseline",
+      "sa": "baseline",
+      "se": "baseline",
+      "sg": "baseline",
+      "si": "baseline",
+      "sk": "baseline",
+      "th": "baseline",
+      "tr": "baseline",
+      "tw": "baseline",
+      "ua": "baseline",
+      "us": "baseline",
+      "vn": "baseline",
+      "za": "baseline"
+    },
+    "languages": {
+      "af": "baseline",
+      "am": "baseline",
+      "ar": "baseline",
+      "az": "baseline",
+      "be": "baseline",
+      "bg": "baseline",
+      "bn": "baseline",
+      "ca": "baseline",
+      "cs": "baseline",
+      "da": "baseline",
+      "de": "baseline",
+      "el": "baseline",
+      "es": "baseline",
+      "es-419": "baseline",
+      "et": "baseline",
+      "eu": "baseline",
+      "fa": "baseline",
+      "fi": "baseline",
+      "fil": "baseline",
+      "fr": "baseline",
+      "fr-CA": "baseline",
+      "gl": "baseline",
+      "gu": "baseline",
+      "hi": "baseline",
+      "hr": "baseline",
+      "hu": "baseline",
+      "hy": "baseline",
+      "id": "baseline",
+      "is": "baseline",
+      "it": "baseline",
+      "iw": "baseline",
+      "ja": "baseline",
+      "ka": "baseline",
+      "kk": "baseline",
+      "km": "baseline",
+      "kn": "baseline",
+      "ko": "baseline",
+      "ky": "baseline",
+      "lo": "baseline",
+      "lt": "baseline",
+      "lv": "baseline",
+      "mk": "baseline",
+      "ml": "baseline",
+      "mn": "baseline",
+      "mr": "baseline",
+      "ms": "baseline",
+      "my": "baseline",
+      "ne": "baseline",
+      "nl": "baseline",
+      "no": "baseline",
+      "pa": "baseline",
+      "pl": "baseline",
+      "pt-BR": "baseline",
+      "pt-PT": "baseline",
+      "ro": "baseline",
+      "ru": "baseline",
+      "si": "baseline",
+      "sk": "baseline",
+      "sl": "baseline",
+      "sq": "baseline",
+      "sr": "baseline",
+      "sv": "baseline",
+      "sw": "baseline",
+      "ta": "baseline",
+      "te": "baseline",
+      "th": "baseline",
+      "tr": "baseline",
+      "uk": "baseline",
+      "ur": "baseline",
+      "vi": "baseline",
+      "zh-CN": "baseline",
+      "zh-HK": "baseline",
+      "zh-TW": "baseline",
+      "zu": "baseline"
+    }
+  },
+  "languages": [
+    "af",
+    "am",
+    "ar",
+    "az",
+    "be",
+    "bg",
+    "bn",
+    "ca",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "es",
+    "es-419",
+    "et",
+    "eu",
+    "fa",
+    "fi",
+    "fil",
+    "fr",
+    "fr-CA",
+    "gl",
+    "gu",
+    "hi",
+    "hr",
+    "hu",
+    "hy",
+    "id",
+    "is",
+    "it",
+    "iw",
+    "ja",
+    "ka",
+    "kk",
+    "km",
+    "kn",
+    "ko",
+    "ky",
+    "lo",
+    "lt",
+    "lv",
+    "mk",
+    "ml",
+    "mn",
+    "mr",
+    "ms",
+    "my",
+    "ne",
+    "nl",
+    "no",
+    "pa",
+    "pl",
+    "pt-BR",
+    "pt-PT",
+    "ro",
+    "ru",
+    "si",
+    "sk",
+    "sl",
+    "sq",
+    "sr",
+    "sv",
+    "sw",
+    "ta",
+    "te",
+    "th",
+    "tr",
+    "uk",
+    "ur",
+    "vi",
+    "zh-CN",
+    "zh-TW",
+    "zh-HK",
+    "zu"
+  ],
+  "listings": {
+    "af": {
+      "key": "fe0c1940e0f5a54cf45c0d3d369dd9be",
+      "own_screens": false,
+      "summary": "Skakel en soek vir intydse kinder- en gesinsveiligheid: GPS-spoorsnyer vir gesinne",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "am": {
+      "key": "001990a7e145ecc9d360b503cdaaf993",
+      "own_screens": false,
+      "summary": "አገናኝ እና ለእውነተኛ ጊዜ ልጅ እና ቤተሰብ ደህንነት ያግኙ፡ የጂፒኤስ መከታተያ ለቤተሰብ",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "ar": {
+      "key": "e04c96ec41f5d6e93fc5537a9442bd42",
+      "own_screens": false,
+      "summary": "ربط وتحديد الموقع لضمان سلامة أطفالكم وعائلتكم في الوقت الفعلي: متعقب GPS لعائلة",
+      "title": "محدد مواقع العائلة",
+      "v": 2
+    },
+    "az": {
+      "key": "47f4439f00063153b1cc3e8ea7c1258e",
+      "own_screens": false,
+      "summary": "Real vaxtda uşaq və ailə təhlükəsizliyi üçün əlaqə saxlayın və tapın: ailələr üçün GPS izləyicisi",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "be": {
+      "key": "7819dab77e40d41cbb2a299f94acf09f",
+      "own_screens": false,
+      "summary": "Спасылка і месцазнаходжанне для бяспекі дзяцей і сям'і ў рэжыме рэальнага часу: GPS-трэкер для сем'яў",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "bg": {
+      "key": "d7d8f0333383506919a5ac03c26bdf72",
+      "own_screens": false,
+      "summary": "Свържете и намерете за безопасност на децата и семейството в реално време: GPS тракер за семейства",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "bn": {
+      "key": "28467a73b1d177f6bbfd2404d413aa65",
+      "own_screens": false,
+      "summary": "রিয়েল-টাইম শিশু এবং পরিবারের নিরাপত্তার জন্য লিঙ্ক এবং সনাক্ত করুন: পরিবারের জন্য জিপিএস ট্র্যাকার",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "ca": {
+      "key": "ca4f1064b1ce82e36298ed25125f9a9a",
+      "own_screens": false,
+      "summary": "Enllaça i localitza per a la seguretat infantil i familiar en temps real: rastrejador GPS per a famílies",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "cs": {
+      "key": "b5c4e1c52b17459eb5b31ae92321f433",
+      "own_screens": false,
+      "summary": "Odkaz a lokalizace pro bezpečnost dětí a rodiny v reálném čase: GPS tracker pro rodiny",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "da": {
+      "key": "d38c2b5c7555784c10f073ec590b925f",
+      "own_screens": false,
+      "summary": "Link og lokaliser for børne- og familiesikkerhed i realtid: GPS-tracker til familier",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "de": {
+      "key": "c2c9cee4065a0d4c4b7b9d71bcf933dc",
+      "own_screens": true,
+      "summary": "Vernetzen & orten für Familiensicherheit in Echtzeit: GPS-Tracker für Familie",
+      "title": "Handy finden: Familien-Locator",
+      "v": 2
+    },
+    "el": {
+      "key": "f8c07acd34d3263de2ead8251d6ed331",
+      "own_screens": false,
+      "summary": "Σύνδεση και εντοπισμός για ασφάλεια παιδιών και οικογένειας σε πραγματικό χρόνο: GPS tracker για οικογένειες",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "es": {
+      "key": "e637e0d54e5a933d3cabb7cf0160131a",
+      "own_screens": true,
+      "summary": "Conecta y localiza para seguridad en tiempo real: Rastreador GPS para familias",
+      "title": "Family Locator - GPS Tracker",
+      "v": 2
+    },
+    "es-419": {
+      "key": "e637e0d54e5a933d3cabb7cf0160131a",
+      "own_screens": true,
+      "summary": "Conecta y localiza para seguridad en tiempo real: Rastreador GPS para familias",
+      "title": "Family Locator - GPS Tracker",
+      "v": 2
+    },
+    "et": {
+      "key": "e65c0721dde1c9691a0f7d65fe6fa7e8",
+      "own_screens": false,
+      "summary": "Linkige ja leidke reaalajas laste ja perede turvalisus: GPS-jälgija peredele",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "eu": {
+      "key": "d4a44e1ceae9e28f4b77a1789d3e2958",
+      "own_screens": false,
+      "summary": "Lotu eta kokatu denbora errealean haurren eta familiaren segurtasunerako: GPS jarraitzailea familientzat",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "fa": {
+      "key": "b3b7f4a3068c8d248d867234e74780d7",
+      "own_screens": false,
+      "summary": "پیوند و مکان یابی برای ایمنی کودک و خانواده در زمان واقعی: ردیاب GPS برای خانواده ها",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "fi": {
+      "key": "0a7768e00cbbe85180d47ab376a6e41f",
+      "own_screens": false,
+      "summary": "Linkitä ja etsi reaaliaikainen lasten ja perheen turvallisuus: GPS-seuranta perheille",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "fil": {
+      "key": "28f6c5bbf16dcbe594c00ab8baf34f38",
+      "own_screens": false,
+      "summary": "I-link at hanapin ang real-time na kaligtasan ng bata at pamilya: GPS tracker para sa mga pamilya",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "fr": {
+      "key": "49a3a85450c279e578b901b17b889bc4",
+      "own_screens": true,
+      "summary": "Localisez et connectez pour la sécurité en temps réel : traceur GPS famille",
+      "title": "Find my Phone - Localisateur",
+      "v": 2
+    },
+    "fr-CA": {
+      "key": "49a3a85450c279e578b901b17b889bc4",
+      "own_screens": true,
+      "summary": "Localisez et connectez pour la sécurité en temps réel : traceur GPS famille",
+      "title": "Find my Phone - Localisateur",
+      "v": 2
+    },
+    "gl": {
+      "key": "00e78bf6a56c3d3b13661784a8b4b0cf",
+      "own_screens": false,
+      "summary": "Ligazón e localización para a seguridade infantil e familiar en tempo real: rastreador GPS para familias",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "gu": {
+      "key": "e0dd37d82d56ee065e648be6dcad0e32",
+      "own_screens": false,
+      "summary": "રીઅલ-ટાઇમ બાળક અને કુટુંબની સલામતી માટે લિંક અને શોધો: પરિવારો માટે જીપીએસ ટ્રેકર",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "hi": {
+      "key": "9fa5a6c903a42d2c0cadcd3211f7c3d6",
+      "own_screens": false,
+      "summary": "बच्चों और परिवार की रीयल-टाइम सुरक्षा हेतु लिंक और लोकेट करें: GPS ट्रैकर परिवार",
+      "title": "फैमिली लोकेटर",
+      "v": 2
+    },
+    "hr": {
+      "key": "d1a9ef959dcb58ccd336ed43c6b6b733",
+      "own_screens": false,
+      "summary": "Povežite i locirajte za sigurnost djece i obitelji u stvarnom vremenu: GPS uređaj za praćenje za obitelji",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "hu": {
+      "key": "5d833b019cb30807776047c3ee9377b3",
+      "own_screens": false,
+      "summary": "Link és helymeghatározás a gyermekek és családok valós idejű biztonsága érdekében: GPS nyomkövető családoknak",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "hy": {
+      "key": "8f8fbd10da3afed18128fe14d1620c25",
+      "own_screens": false,
+      "summary": "Կապել և տեղորոշել իրական ժամանակում երեխայի և ընտանիքի անվտանգության համար. GPS որոնիչ ընտանիքների համար",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "id": {
+      "key": "e5807acd57c5248f6f97b02f9f99f116",
+      "own_screens": true,
+      "summary": "Tautkan & lacak secara real-time untuk keamanan anak & keluarga: Pelacak GPS",
+      "title": "Family Locator",
+      "v": 2
+    },
+    "is": {
+      "key": "fde5c441c4d042bf482c50d9f3cac890",
+      "own_screens": false,
+      "summary": "Tengdu og finndu fyrir öryggi barna og fjölskyldu í rauntíma: GPS rekja spor einhvers fyrir fjölskyldur",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "it": {
+      "key": "c86132c108f3e12c4d0a2ca975852a1c",
+      "own_screens": true,
+      "summary": "Collega e localizza per sicurezza familiare in tempo reale: GPS tracker famiglia",
+      "title": "Family Locator: Trova Famiglia",
+      "v": 2
+    },
+    "iw": {
+      "key": "fcd9fcbaffe64f9a1f184162ec6fdc59",
+      "own_screens": false,
+      "summary": "קישור ואיתור לבטיחות ילדים ומשפחה בזמן אמת: גשש GPS למשפחות",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "ja": {
+      "key": "e1cc99b4c62e7bdedc44cd4265e47b4b",
+      "own_screens": true,
+      "summary": "お子様とご家族の安全をリアルタイムで確認：家族向けGPSトラッカー",
+      "title": "Family Locator - 家族と位置情報共有アプリ",
+      "v": 2
+    },
+    "ka": {
+      "key": "fb3aaf93e77e382dba54bc48c48aa269",
+      "own_screens": false,
+      "summary": "დაუკავშირდით და იპოვნეთ რეალურ დროში ბავშვისა და ოჯახის უსაფრთხოებისთვის: GPS ტრეკერი ოჯახებისთვის",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "kk": {
+      "key": "c44edee946e2ce53910011b3727b6cbf",
+      "own_screens": false,
+      "summary": "Нақты уақыттағы баланың және отбасының қауіпсіздігі үшін байланыстыру және табу: отбасыларға арналған GPS трекер",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "km": {
+      "key": "781573846ef9e470dba77e426e46852b",
+      "own_screens": false,
+      "summary": "ភ្ជាប់ និងកំណត់ទីតាំងសម្រាប់សុវត្ថិភាពកុមារ និងគ្រួសារក្នុងពេលជាក់ស្តែង៖ កម្មវិធីតាមដាន GPS សម្រាប់គ្រួសារ",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "kn": {
+      "key": "48914635544ebce904de2f8bf02c0942",
+      "own_screens": false,
+      "summary": "ನೈಜ-ಸಮಯದ ಮಗು ಮತ್ತು ಕುಟುಂಬದ ಸುರಕ್ಷತೆಗಾಗಿ ಲಿಂಕ್ ಮಾಡಿ ಮತ್ತು ಪತ್ತೆ ಮಾಡಿ: ಕುಟುಂಬಗಳಿಗೆ GPS ಟ್ರ್ಯಾಕರ್",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "ko": {
+      "key": "25c956ecbf609a0388984c3276509f11",
+      "own_screens": true,
+      "summary": "실시간 자녀 및 가족 안전을 위한 연결 및 위치 추적: 가족용 GPS 추적",
+      "title": "가족 위치 추적기",
+      "v": 2
+    },
+    "ky": {
+      "key": "e51d086d9629a86c5f29efee2b7ddd81",
+      "own_screens": false,
+      "summary": "Баланын жана үй-бүлөнүн коопсуздугу үчүн шилтеме жана табыңыз: үй-бүлөлөр үчүн GPS трекер",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "lo": {
+      "key": "2e5836996d9cf2e8426ba26fa2ae0b23",
+      "own_screens": false,
+      "summary": "ເຊື່ອມຕໍ່ ແລະຊອກຫາສະຖານທີ່ເພື່ອຄວາມປອດໄພຂອງເດັກນ້ອຍ ແລະຄອບຄົວໃນເວລາຈິງ: GPS tracker ສໍາລັບຄອບຄົວ",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "lt": {
+      "key": "4ad44deb3cb7586984601a2e660c960c",
+      "own_screens": false,
+      "summary": "Susiekite ir suraskite vaiko ir šeimos saugumą realiuoju laiku: GPS sekiklis šeimoms",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "lv": {
+      "key": "395f40a5c6377a66380acf0224f0e9c5",
+      "own_screens": false,
+      "summary": "Saite un atrodiet reāllaika bērnu un ģimenes drošību: GPS izsekotājs ģimenēm",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "mk": {
+      "key": "f2418e27a0c6444319fdf8d2f778ec1f",
+      "own_screens": false,
+      "summary": "Поврзете и лоцирајте за безбедност на децата и семејството во реално време: ГПС-тракер за семејства",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "ml": {
+      "key": "778b873bfd22b12b84b41fc683d1aa80",
+      "own_screens": false,
+      "summary": "കുട്ടിയുടെയും കുടുംബത്തിൻ്റെയും തത്സമയ സുരക്ഷയ്ക്കായി ലിങ്ക് ചെയ്‌ത് കണ്ടെത്തുക: കുടുംബങ്ങൾക്കുള്ള GPS ട്രാക്കർ",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "mn": {
+      "key": "09c61b36d42b24c9383574731f6b5185",
+      "own_screens": false,
+      "summary": "Хүүхэд болон гэр бүлийн аюулгүй байдлыг хангахын тулд холбоно уу, олоорой: Гэр бүлд зориулсан GPS-ийн хөтөч",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "mr": {
+      "key": "155a40b24a0cbda8d0bf43860fb75abf",
+      "own_screens": false,
+      "summary": "रीअल-टाइम मुलासाठी आणि कौटुंबिक सुरक्षिततेसाठी लिंक आणि शोधा: कुटुंबांसाठी GPS ट्रॅकर",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "ms": {
+      "key": "79224ef3c56bcb3e0f9ca68838fd3b5e",
+      "own_screens": false,
+      "summary": "Paut & cari keselamatan keluarga & anak masa nyata: Penjejak GPS untuk keluarga",
+      "title": "Pengesan Keluarga",
+      "v": 2
+    },
+    "my": {
+      "key": "4f72f8b7321f82bcb3b604257487db1e",
+      "own_screens": false,
+      "summary": "အချိန်နှင့်တပြေးညီ ကလေးနှင့် မိသားစုလုံခြုံရေးအတွက် လင့်ခ်ချိတ်ပြီး ရှာဖွေပါ- မိသားစုများအတွက် GPS ခြေရာခံပါ။",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "ne": {
+      "key": "8496e948363125d7ffc2ba675895552a",
+      "own_screens": false,
+      "summary": "लिंक र वास्तविक समय बच्चा र परिवार सुरक्षा को लागी पत्ता लगाउनुहोस्: परिवारहरु को लागी जीपीएस ट्रयाकर",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "nl": {
+      "key": "7541a2840ed131c74064bb7252804121",
+      "own_screens": false,
+      "summary": "Koppelen en lokaliseren voor realtime veiligheid van kind en gezin: GPS-tracker voor gezinnen",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "no": {
+      "key": "a9a552c01f29f1e8474cfb5d9246a48e",
+      "own_screens": false,
+      "summary": "Koble til og finn for barn- og familiesikkerhet i sanntid: GPS-sporer for familier",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "pa": {
+      "key": "061ba91c3b72be2f7b0312c00ef8d24d",
+      "own_screens": false,
+      "summary": "ਰੀਅਲ-ਟਾਈਮ ਬੱਚੇ ਅਤੇ ਪਰਿਵਾਰਕ ਸੁਰੱਖਿਆ ਲਈ ਲਿੰਕ ਅਤੇ ਲੱਭੋ: ਪਰਿਵਾਰਾਂ ਲਈ GPS ਟਰੈਕਰ",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "pl": {
+      "key": "806db6822ff5572513465d66dba559b0",
+      "own_screens": false,
+      "summary": "Połącz i zlokalizuj, aby zapewnić bezpieczeństwo dzieci i rodziny w czasie rzeczywistym: lokalizator GPS dla rodzin",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "pt-BR": {
+      "key": "67313b6737c5fc884bf040aadc97bc43",
+      "own_screens": true,
+      "summary": "Conecte e localize em tempo real: rastreador GPS para famílias e crianças",
+      "title": "Family Locator - GPS Tracker",
+      "v": 2
+    },
+    "pt-PT": {
+      "key": "67313b6737c5fc884bf040aadc97bc43",
+      "own_screens": true,
+      "summary": "Conecte e localize em tempo real: rastreador GPS para famílias e crianças",
+      "title": "Family Locator - GPS Tracker",
+      "v": 2
+    },
+    "ro": {
+      "key": "d9b0d70a883156b482edcd12c471107d",
+      "own_screens": false,
+      "summary": "Conectați și localizați pentru siguranța copiilor și a familiei în timp real: tracker GPS pentru familii",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "ru": {
+      "key": "a45a4495c98c85e4ad93f3c28525609f",
+      "own_screens": true,
+      "summary": "GPS-трекер для семьи: Связывайте с семьей в реальном времени",
+      "title": "Семейный Трекер – GPS локатор",
+      "v": 2
+    },
+    "si": {
+      "key": "f6afcbf3e1fcb1ad33b59d11c6af52e3",
+      "own_screens": false,
+      "summary": "තත්‍ය කාලීන ළමා සහ පවුලේ ආරක්ෂාව සඳහා සබැඳි කර ස්ථානගත කරන්න: පවුල් සඳහා GPS ට්‍රැකර්",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "sk": {
+      "key": "1870b83024c62b1822a7972d1ce98c18",
+      "own_screens": false,
+      "summary": "Prepojenie a lokalizácia pre bezpečnosť detí a rodiny v reálnom čase: GPS sledovač pre rodiny",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "sl": {
+      "key": "ad3ffa9f3622cfa4f6eeb14b53167ae9",
+      "own_screens": false,
+      "summary": "Poveži in poišči za varnost otrok in družin v realnem času: sledilnik GPS za družine",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "sq": {
+      "key": "be7ed255603e2df8934d3f39c627ad80",
+      "own_screens": false,
+      "summary": "Lidhni dhe gjeni për sigurinë e fëmijëve dhe familjes në kohë reale: gjurmues GPS për familjet",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "sr": {
+      "key": "0e4ddb19e3648bfc9e58ac0efb6230ef",
+      "own_screens": false,
+      "summary": "Повежите и лоцирајте за безбедност деце и породице у реалном времену: ГПС трагач за породице",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "sv": {
+      "key": "585f01180fca6775856b6a7ef321fae8",
+      "own_screens": false,
+      "summary": "Länka och lokalisera för barn- och familjesäkerhet i realtid: GPS-spårare för familjer",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "sw": {
+      "key": "ae1dd9cc549d1e84fdfcc152dcea719b",
+      "own_screens": false,
+      "summary": "Unganisha na utafute usalama wa mtoto na familia katika wakati halisi: Kifuatiliaji cha GPS cha familia",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "ta": {
+      "key": "5b5172f11b9332ea65e009742c103ff2",
+      "own_screens": false,
+      "summary": "நிகழ்நேர குழந்தை மற்றும் குடும்பப் பாதுகாப்பிற்கான இணைப்பு & இருப்பிடம்: குடும்பங்களுக்கான ஜிபிஎஸ் டிராக்கர்",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "te": {
+      "key": "2fd90d865864882d76d9e83ffadcb6bb",
+      "own_screens": false,
+      "summary": "రియల్ టైమ్ చైల్డ్ & ఫ్యామిలీ సేఫ్టీ కోసం లింక్ & లొకేట్: కుటుంబాల కోసం GPS ట్రాకర్",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "th": {
+      "key": "b766d83a5f0d3fe2b2b9d3e1c87e4f95",
+      "own_screens": false,
+      "summary": "เชื่อมต่อและติดตามแบบเรียลไทม์: เครื่องติดตาม GPS สำหรับครอบครัวและเด็ก",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "tr": {
+      "key": "b730fd672e89f2675dc55376470f2553",
+      "own_screens": false,
+      "summary": "Gerçek zamanlı çocuk ve aile güvenliği için bağlantı kurun ve konumunuzu belirleyin: Aileler için GPS izleyici",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "uk": {
+      "key": "38b5a088a18a13e558dc6a0f4e529dac",
+      "own_screens": true,
+      "summary": "GPS-трекер для родини: зв'язуйтесь з родиною в реальному часі",
+      "title": "Family Locator - GPS локатор",
+      "v": 2
+    },
+    "ur": {
+      "key": "2d9694b75c705a4653e0b1da83a64e69",
+      "own_screens": false,
+      "summary": "ریئل ٹائم چائلڈ اینڈ فیملی سیفٹی کے لیے لنک اور تلاش کریں: فیملیز کے لیے GPS ٹریکر",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "vi": {
+      "key": "74663e8ef671e1b5eee2258436e39ea7",
+      "own_screens": true,
+      "summary": "Kết nối & định vị để đảm bảo an toàn cho trẻ em & gia đình theo thời gian thực",
+      "title": "Tìm Điện Thoại -Family Locator",
+      "v": 2
+    },
+    "zh-CN": {
+      "key": "450622fac4edec3c1cdf9f69056b420f",
+      "own_screens": false,
+      "summary": "连接并定位，确保儿童和家庭的实时安全：家庭 GPS 追踪器",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    },
+    "zh-HK": {
+      "key": "3b2498871d85377980a55d75c5a912da",
+      "own_screens": true,
+      "summary": "即時連結與定位，守護孩子與家人的安全：家庭用 GPS 定位追蹤器",
+      "title": "尋找我的手機－Family Locator",
+      "v": 2
+    },
+    "zh-TW": {
+      "key": "3b2498871d85377980a55d75c5a912da",
+      "own_screens": true,
+      "summary": "即時連結與定位，守護孩子與家人的安全：家庭用 GPS 定位追蹤器",
+      "title": "尋找我的手機－Family Locator",
+      "v": 2
+    },
+    "zu": {
+      "key": "dd71ea95203d84c6931d64531845adf6",
+      "own_screens": false,
+      "summary": "Xhumanisa futhi uthole ukuphepha kwengane nomndeni ngesikhathi sangempela: I-GPS tracker yemindeni",
+      "title": "Find my Phone - Family Locator",
+      "v": 2
+    }
+  }
+}

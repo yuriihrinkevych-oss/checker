@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "Toți",
   "description": "<b>Find my kids este o aplicație de localizare telefon prin GPS pentru siguranța copiilor.</b> Instalează aplicația Find my kids pe telefon și aplicația Pingo! pe telefonul copilului sau conectează un ceas GPS.\r\n\r\n<b>Găsește locatie telefon cu această aplicație pentru părinți care te va ajuta să nu îți mai faci griji în momentele în care copiii nu sunt cu tine și nu îți aud apelurile:</b>\r\n\r\n<b>Localizare telefon prin GPS</b> - vezi pe hartă locatie persoane si telefon, istoria deplasărilor copilului tău peste zi și asigură-te că nu trece prin locuri periculoase;\r\n<b>Sunetul din jur</b> - ascultă tot ce se întâmplă în jurul telefonului pentru a te asigura că este în siguranță și că are companie bună;\r\n<b>Semnal puternic</b> - trimite un semnal puternic pe telefon dacă și l-a uitat în ghiozdan sau dacă a activat modul silențios și nu răspunde la apeluri;\r\n<b>Statistici aplicații</b> - vezi ce aplicații a folosit la școală, dacă s-a jucat în clasă în loc să învețe;\r\n<b>Monitorizarea copilului</b> - verifică dacă ajunge acasă la timp - primești notificări când ajunge la școală, la activități și când se întoarce acasă;\r\n<b>Alerte de baterie descărcată </b> - aduceți-i aminte să-și încarce telefonul la timp, aplicația va trimite o notificare dacă bateria telefonului este pe punctul de a se descărca;\r\n<b>Convorbiri în familie</b> - comunicați într-un chat cu abțibilde amuzante;\r\n\r\n<b>Aplicație pentru locatie persoane si telefon</b>\r\n\r\nGPS tracker Find my kids este numai pentru siguranța familiei (locatie persoane si telefon, urmarire telefon). Aplicația nu poate fi instalată pe telefon în secret. Nu poți utiliza aplicația pentru a vedea locatia unde se afla o persoana decât cu permisiunea explicită a copilului. Informațiile personale sunt stocate în strictă concordanță cu legislația și regulile GDPR.\r\n\r\n<b>Dacă are un smartphone:</b>\r\n\r\nInstalează aplicația Pingo! pe telefon - GPS locator. Serviciul folosește GPS-ul telefonului în mod economic, acest lucru ne diferențiază de competitori. Aplicația va funcționa pe telefon în mod de localizare telefon prin gps satelit. În aplicația Pingo! copilul va putea comunica cu tine, iar în caz de nevoie, poate apăsa un buton de urgență, SOS. Atunci când butonul SOS este apăsat, vei primi imediat un semnal de alarmă pe telefon și vei putea vedea locatie telefon. \r\nDupă ce conectezi dispozitivul copilului, poți utiliza toate serviciile oferite pe gratis pe durata perioadei de probă. La sfârșitul acestei perioade, în versiunea gratuită vei putea să vezi locatie telefon copil. Va trebui să îți faci un abonament pentru a folosi toate funcțiile.\r\n\r\nAplicația are nevoie de următoarele permisiuni:\r\n\r\n- acces la cameră și la poze - pentru a seta avatarul copilului\r\n- acces de utilizare - pentru a colecta statistici despre perioada de folosire a aplicației\r\n- acces la contacte - pentru a le trece în agenda de contacte pe ceasul gps\r\n- acces la microfon - pentru a trimite mesaje audio în convorbiri.",
@@ -7,22 +7,22 @@
   "genre": "Părinți",
   "headerImage": "https://play-lh.googleusercontent.com/j4ULfbEHZk5u-WHihagFWFyZyIhDC-eGz5qXgOUXZXnOCxgofUZZvhGPsIg2pw2246MQM3FocEQQ0AmfJHdW0Fs",
   "histogram": [
-    77935,
-    30217,
-    85334,
-    180770,
-    1683986
+    78007,
+    30252,
+    85407,
+    180650,
+    1684901
   ],
   "icon": "https://play-lh.googleusercontent.com/1xxhEalJmQZPdCdHbJ2cfABAmZn5vVB5kWPro0JjVmBAUHWLWfE0eKjQH3nO9IkQJCV7q3-Yu5-jWpLt_wdY",
   "inAppProductPrice": "0,39 USD – 999,99 USD per articol",
   "installs": "50.000.000+",
-  "lastUpdatedOn": "2 oct. 2026",
+  "lastUpdatedOn": "6 oct. 2026",
   "metrics": {
     "minInstalls": 50000000,
-    "ratings": 2058334,
-    "realInstalls": 82880689,
-    "reviews": 12985,
-    "score": 4.633693
+    "ratings": 2059278,
+    "realInstalls": 82974106,
+    "reviews": 12987,
+    "score": 4.633679
   },
   "price": 0,
   "screenshots": [
@@ -50,6 +50,6 @@
   ],
   "summary": "Localizare telefon, locatia unde se afla o persoana, locatie telefon prin gps",
   "title": "Find My Kids: locatie telefon",
-  "version": "2.12.11-google",
+  "version": "2.12.13-google",
   "video": "https://play.google.com/video/lava/web/player/yt:movie:hchK6pxvNso?autoplay=1&embed=play"
 }

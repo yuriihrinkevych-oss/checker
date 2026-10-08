@@ -1,6 +1,6 @@
 {
   "_lang": "lt",
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": true,
   "contentRating": "PEGI 3",
   "description": "<b>„iSharing“ yra šeimos vietos nustatymo ir GPS vietos sekimo priemonė, sukurta padėti šeimoms palaikyti ryšį ir saugumą.</b> Bendrinkite šeimos buvimo vietą realiuoju laiku, gaukite įspėjimus, kai vaikai ar šeimos nariai atvyksta į svarbias vietas arba iš jų išvyksta, ir naudokite „iSharing“ kaip telefono sekimo priemonę, kad padėtumėte rasti pamestą telefoną.\r\n\r\nNesvarbu, ar tikrinate, ar jūsų vaikai saugiai atvyko, stebite šeimos narius visą dieną, ar susitinkate su grupe, „iSharing“ supaprastina kasdienį buvimo vietos bendrinimą. „iSharing“ teikia buvimo vietos bendrinimo paslaugas nuo 2010 m.\r\n\r\n<b>MŪSŲ SIŪLOMOS FUNKCIJOS:</b>\r\n\r\n★ <b>Realaus laiko GPS vietos sekimo priemonė:</b> Privačiai bendrinkite buvimo vietą realiuoju laiku su šeima ir patikrinkite šeimos buvimo vietą žemėlapyje. Palaikykite ryšį visą dieną gaudami tikslius buvimo vietos atnaujinimus.\r\n\r\n★ <b>Vietos įspėjimai ir šeimos pranešimai:</b> Gaukite pranešimus, kai vaikai ar šeimos nariai atvyksta į svarbias vietas, pvz., namus, mokyklą ar darbą, arba iš jų išvyksta. Būkite automatiškai informuoti be pakartotinių registracijų.\r\n\r\n★ <b>Susitikimas – laikinas grupinis vietos bendrinimas:</b> Bendrinkite buvimo vietą realiuoju laiku ir naudokitės grupiniu pokalbiu ribotą laiką neužmezgant nuolatinių ryšių. Prisijunkite naudodami QR kodą arba nuorodą, o vietos bendrinimas automatiškai baigsis, kai susitikimas pasibaigs.\r\n\r\n★ <b>Rasti mano telefoną ir telefono sekiklis:</b> Naudokite „iSharing“, kad surastumėte pamestą ar pavogtą telefoną ir sektumėte jo vietą žemėlapyje.\r\n\r\n★ <b>Panikos įspėjimas:</b> Avariniu atveju išsiųskite panikos įspėjimą, kad greitai pasidalytumėte savo buvimo vieta ir išsiųstumėte SOS pranešimą šeimai.\r\n\r\n★ <b>Racija:</b> Siųskite balso pranešimus tiesiogiai per „iSharing“, kad galėtumėte greitai ir patogiai bendrauti su šeima.\r\n\r\n<b>PREMIUM FUNKCIJOS:</b>\r\n\r\n🔄 <b>365 dienų vietų istorija:</b> Peržiūrėkite ankstesnes vietas iki 365 dienų\r\n\r\n📍 <b>Neriboti vietų įspėjimai:</b> Gaukite atvykimo ir išvykimo įspėjimus iš daugiau vietų\r\n\r\n📡 <b>3D gatvės vaizdas:</b> Tyrinėkite vietas su artimesniu gatvės lygio vaizdu\r\n\r\n🔋 <b>Įspėjimai apie išsikrovusį akumuliatorių:</b> Žinokite, kada šeimos įrenginio akumuliatorius išsikrauna\r\n\r\n🚗 <b>Vairavimo ataskaitos ir vairavimo saugumas:</b> Peržiūrėkite keliones, greičio viršijimą, staigų stabdymą ir telefono naudojimą vairuojant\r\n\r\n🆘 <b>SOS garso įrašymas:</b> Gaukite aplinkinį garsą su SOS įspėjimais\r\n\r\n👵 <b>Neaktyvumo įspėjimai:</b> Gaukite pranešimą, kai aptinkamas neįprastas neveiklumas\r\n\r\n💻 <b>Susieti įrenginiai ir žiniatinklio programa:</b> Pasiekite „iSharing“ palaikomuose įrenginiuose\r\n\r\n🛑 <b>Pašalinti Skelbimai:</b> Naudokite „iSharing“ be skelbimų\r\n\r\n„iSharing“ naudoja priekinio plano paslaugą, kad nuolat atnaujintų vietą fone ir taip padėtų teikti tikslius ir savalaikius vietos atnaujinimus.\r\n\r\nReikia pagalbos? Susisiekite su „iSharing“ palaikymo komanda adresu contact@isharingsoft.com.\r\n\r\n* „iSharing“ skirta abipusiam vietos bendrinimui ir turėtų būti naudojama tik gavus sutikimą.",
@@ -8,22 +8,22 @@
   "genre": "Bendravimas",
   "headerImage": "https://play-lh.googleusercontent.com/aOyJlomq1KevZyaeufRspaJ5QT6KB8uDejAZMtcAZV5tAhNWqxS5bqAZL7mH7PhY35MxaPkXyIiiGvagoUoR9g",
   "histogram": [
-    13190,
-    4797,
-    11125,
-    21275,
-    197736
+    13116,
+    4773,
+    11089,
+    21243,
+    198074
   ],
   "icon": "https://play-lh.googleusercontent.com/g_FlgIrM9oMubvKbMvgcFubkkLKBXA6kw6-x3pH-rTXzivtFjdy7Y4bTxDxVp32hXsGXGgE_kJUXJql2VJfG",
   "inAppProductPrice": "2,78 €–144,99 €, jei atsiskaitoma per „Google Play“",
   "installs": "10 000 000+",
-  "lastUpdatedOn": "2026-09-30",
+  "lastUpdatedOn": "2026-10-05",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 248126,
-    "realInstalls": 32880091,
-    "reviews": 48224,
-    "score": 4.553927
+    "ratings": 248298,
+    "realInstalls": 32942824,
+    "reviews": 48238,
+    "score": 4.5561404
   },
   "price": 0,
   "screenshots": [

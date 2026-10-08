@@ -1,0 +1,38 @@
+{
+  "_scanned": "2026-10-08",
+  "containsAds": true,
+  "contentRating": "Teen",
+  "description": "Putting your family's safety first, use Familo—a simple and secure way to stay connected.\r\n\r\nFamilo helps families stay informed about each other's whereabouts, making daily communication and coordination easier and smoother. Designed with explicit consent and complete transparency, Familo aims to provide peace of mind—making family members feel closer and more supported even when apart.\r\n\r\nFamilo offers the following features:\r\n\r\n- View the real-time location of consenting family members on your private family map.\r\n\r\n- Receive notifications when family members arrive at or leave pre-set locations (such as home or school).\r\n\r\n- Share your location in an emergency using the SOS button.\r\n\r\n- Stay connected with family members through private chats within the app.\r\n\r\n- Let your family know you're safe and sound with your current location.\r\n\r\n- Location sharing is entirely voluntary; each family member can control whether their location is displayed.\r\n\r\n- Each family member can decide who can view their location.\r\n\r\n🔒 Important Privacy Reminder:\r\n\r\n- Familo requires explicit consent from all users before sharing their location.\r\n\r\n- Location information will only be shared within your private family circle after consent is obtained.\r\n\r\n- Location data will not be displayed without this consent.\r\n\r\nFamilo GPS Location Usage Guide:\r\n\r\n- Download and complete setup: Simply install the app and grant the necessary permissions (such as location access) to fully utilize all features.\r\n\r\n- Create your private circle: Create or join a secure family group. Members are limited to those you invite and who have explicitly agreed to join.\r\n\r\n- Send invitations: Easily invite family members via phone number, a dedicated link, or a QR code.\r\n\r\n- Consent is crucial: To enable location sharing, each invited family member must actively accept the invitation with full knowledge and grant all necessary permissions (including location services) on their device.\r\n\r\n- Stay informed: We ensure all family members receive clear notifications about the app's purpose, the inviter's identity, and how their location information will be used within the group.\r\n\r\n- Always in control: Familio only operates if each family member actively consents to location sharing. Location sharing remains disabled if consent is not obtained.\r\n\r\nFamilo can only provide full functionality with the following permissions:\r\n\r\n- Location Access: For real-time location sharing, geofencing, and SOS emergency alerts\r\n\r\n- Notifications: To remind your family members of their safe status or related safety alerts\r\n\r\n- Contacts: To invite trusted family members to join\r\n\r\n- Photos & Camera: To personalize user profiles with images\r\n\r\nFamilo is committed to privacy, transparency, and responsible use of information.\r\n\r\nWe look forward to your feedback! Please share your thoughts and opinions with us: support@familo.net\r\n\r\nTerms of Use: https://terms.familo.net/en/Terms_and_Conditions_Familonet.pdf\r\n\r\nPrivacy Policy: https://terms.familo.net/privacy",
+  "developer": "SAFETIX LTD",
+  "genre": "Lifestyle",
+  "headerImage": "https://play-lh.googleusercontent.com/L7jnwXpKWmdmAUeU-wkOjRzhXHk9XXGnexTG25Wpsjw-WKNjT8q3FkV1wDbpAbbpKRxidzKdgXIkVCbE5Tk1Wg",
+  "histogram": [
+    49061,
+    15467,
+    41633,
+    88127,
+    471970
+  ],
+  "icon": "https://play-lh.googleusercontent.com/k65pzF3iC2vrf7LV96MkzDYjuyTu10Xa1m1jYEDzzpy9Z3le-IPpyXDbU2enm7ZHFPcBJSLiYdTIqEDGugf2TQ",
+  "inAppProductPrice": "$2.99 – $89.99 per item",
+  "installs": "10,000,000+",
+  "lastUpdatedOn": "28 Aug 2026",
+  "metrics": {
+    "minInstalls": 10000000,
+    "ratings": 666353,
+    "realInstalls": 24221635,
+    "reviews": 1768,
+    "score": 4.3783913
+  },
+  "price": 0,
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/TbZkfAXa15Qn9hc_U3Dj-vwHVGJZapcAOpub6b7UJtqhKdVgjiYNFmmQM8UwUWjM8Xpn4mfP0qE16MDc6XHkdyE",
+    "https://play-lh.googleusercontent.com/6BMoGTwCHZ9WYy4JwSiryUMXJh96BiAYE9E2hPI3QHN_3-OqI6srSFPlJ8SyTfYu4xEl9qk4KXOvKukYw4hFGi0",
+    "https://play-lh.googleusercontent.com/vXWyfXYzQhsL1ZwJ5z9i0tqmpPgbt2yGqHWmln8L9CjOQGqlpAg5Wu2k4g8XErruZNNmSufXKpkyezS2W2pFwg",
+    "https://play-lh.googleusercontent.com/A-TNb0WX8bR_vRYT7ZLkn07fOI52zKegPZxPy933ULM7NNm5hCVSFSLQAZ5P9tbw5sASIsurq0fXu08UMMc3EA"
+  ],
+  "summary": "Locate your family 24/7 with a GPS tracker for peace of mind.",
+  "title": "Familo: Find My Phone Tracker",
+  "version": "2.114.2",
+  "video": null
+}

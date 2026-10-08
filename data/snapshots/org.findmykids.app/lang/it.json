@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "Per tutti",
   "description": "Trova il mio telefono e trova il mio dispositivo con Find my kids: un localizzatore famiglia e GPS tracker per la geolocalizzazione telefono e la posizione cellulare sicura. Ideale per rintracciare posizione cellulare dei figli e restare sereni durante scuola, sport e spostamenti quotidiani.\r\n\r\nFind my kids combina un potente GPS tracker con strumenti di controllo genitori chiari e intuitivi. Vedi dove si trova tuo figlio, ricevi avvisi quando entra o esce da luoghi importanti e proteggilo con funzioni pensate per le famiglie. Il nostro localizzatore cellulari offre mappa precisa, aggiornamenti rapidi e impostazioni facili da configurare, anche per chi usa per la prima volta un parental control per Android.\r\n\r\nFunzioni principali:\r\n- Posizione live e percorso: visualizza in tempo reale la posizione del bambino tramite GPS tracker e consulta l’elenco dei luoghi visitati durante la giornata.\r\n- Controllo genitori: monitora quanto tempo tuo figlio trascorre nelle app durante la scuola con strumenti di controllo genitori semplici e utili.\r\n- Ascolto live dell’audio intorno: ascolta ciò che accade attorno a tuo figlio per assicurarti che sia al sicuro grazie al GPS tracker per bambini.\r\n- Segnale Forte che supera il silenzioso: invia un suono potente udibile anche se il telefono è in zaino o in modalità silenziosa.\r\n- Avvisi di movimento: aggiungi luoghi come scuola, casa o parco e ricevi notifiche quando tuo figlio arriva o riparte.\r\n- SOS sul telefono del bambino: in caso di emergenza, tuo figlio può avvisarti subito premendo il pulsante SOS.\r\n\r\nCome ti aiuta ogni giorno\r\n- Geolocalizzazione telefono chiara: apri la mappa, vedi la posizione cellulare e il percorso recente senza passaggi complicati.\r\n- Maggiore serenità a scuola: attiva il controllo genitori per capire come viene usato il dispositivo durante le lezioni e promuovere buone abitudini digitali.\r\n- Allerta quando serve: imposta aree sicure per sapere quando tuo figlio arriva a casa o lascia la scuola. Gli avvisi appaiono subito sul tuo smartphone.\r\n- Sicurezza anche a distanza: se tuo figlio non risponde, usa il Segnale Forte per far squillare il telefono o l’ascolto live per verificare l’ambiente circostante, sempre nel rispetto delle regole familiari concordate.\r\n- Prontezza in emergenza: con il tasto SOS, tuo figlio ti invia una richiesta di aiuto istantanea così puoi reagire senza perdere tempo.\r\n\r\nPerché scegliere Find my kids\r\n- Affidabilità del GPS tracker e geolocalizzazione figli costante anche in ambienti complessi grazie a un algoritmo ottimizzato.\r\n- Interfaccia chiara pensata per i genitori: configurazione guidata e impostazioni semplici per ogni età.\r\n- Notifiche puntuali: ricevi solo avvisi utili su movimento, luoghi e sicurezza, evitando rumore inutile.\r\n- Privacy e controllo: le impostazioni permettono una gestione responsabile dell’app in famiglia, con trasparenza sugli strumenti usati.\r\n\r\nSe cerchi un modo pratico per rintracciare posizione cellulare e migliorare la sicurezza quotidiana, questo localizzatore famiglia unisce GPS tracker, geolocalizzazione telefono e controllo genitori in un’unica esperienza.\r\n\r\nPer rintracciare posizione cellulare e geolocalizzazione figli, scegli il nostro localizzatore cellulari e GPS tracker affidabile.\r\n\r\nSe riscontri problemi tecnici nell’uso di Findmykids, puoi sempre contattare l’assistenza 24/7 di Findmykids tramite la chat nell’app o via email a support@findmykids.org. Siamo sempre pronti ad aiutarti!\r\n\r\nPuoi consultare i nostri documenti:\r\n\r\nUser Agreement - https://findmykids.org/docs/terms-of-use/ios/en\r\nPrivacy Policy - https://findmykids.org/docs/privacy-policy/ios/en",
@@ -7,22 +7,22 @@
   "genre": "Genitori",
   "headerImage": "https://play-lh.googleusercontent.com/j4ULfbEHZk5u-WHihagFWFyZyIhDC-eGz5qXgOUXZXnOCxgofUZZvhGPsIg2pw2246MQM3FocEQQ0AmfJHdW0Fs",
   "histogram": [
-    77935,
-    30217,
-    85334,
-    180770,
-    1683984
+    78007,
+    30252,
+    85407,
+    180650,
+    1684901
   ],
   "icon": "https://play-lh.googleusercontent.com/1xxhEalJmQZPdCdHbJ2cfABAmZn5vVB5kWPro0JjVmBAUHWLWfE0eKjQH3nO9IkQJCV7q3-Yu5-jWpLt_wdY",
   "inAppProductPrice": "0,39 USD - 999,99 USD per articolo",
   "installs": "50.000.000+",
-  "lastUpdatedOn": "2 ott 2026",
+  "lastUpdatedOn": "6 ott 2026",
   "metrics": {
     "minInstalls": 50000000,
-    "ratings": 2058332,
-    "realInstalls": 82880689,
-    "reviews": 12985,
-    "score": 4.633693
+    "ratings": 2059278,
+    "realInstalls": 82974106,
+    "reviews": 12987,
+    "score": 4.633679
   },
   "price": 0,
   "screenshots": [
@@ -50,6 +50,6 @@
   ],
   "summary": "Trova il mio telefono e dispositivo, localizzatore famiglia, posizione cellulare",
   "title": "Find my kids: gps tracker",
-  "version": "2.12.11-google",
+  "version": "2.12.13-google",
   "video": null
 }

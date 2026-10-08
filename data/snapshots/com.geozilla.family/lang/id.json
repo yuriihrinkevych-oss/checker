@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "Semua Umur",
   "description": "Geozilla adalah aplikasi berbagi lokasi dan keamanan keluarga yang membantu keluarga dan grup tepercaya untuk tetap dekat, mendapatkan kabar terbaru, dan saling melindungi - tanpa memandang jarak. Dengan fitur-fitur cerdas seperti pelacakan lokasi secara real-time, peringatan darurat, dan laporan perjalanan, Geozilla menghadirkan ketenangan pikiran bagi keluarga yang mengutamakan keselamatan dan transparansi.\r\n\r\n✅ Cara kerjanya:\r\n1. Instal aplikasi dan berikan izin agar lokasi Anda dapat dibagikan dengan lingkaran Anda.\r\n2. Buat atau bergabunglah dengan lingkaran keluarga pribadi - hanya mereka yang Anda undang dan yang menerima undangan yang akan disertakan.\r\n3. Undang keluarga atau anggota tepercaya menggunakan nomor telepon, tautan, atau kode QR.\r\n4. Setiap anggota yang diundang harus secara eksplisit menerima undangan dan memberikan semua izin yang diperlukan sebelum berbagi lokasi diaktifkan.\r\n5. Semua anggota diberi tahu secara jelas tentang tujuan aplikasi, siapa yang mengundang mereka, dan bagaimana data lokasi akan digunakan.\r\n6. Geozilla hanya dapat berfungsi jika setiap pengguna secara aktif setuju untuk membagikan lokasi mereka. Jika ada orang yang tidak memberikan persetujuan, berbagi lokasi tidak akan diaktifkan.\r\n\r\n🌍 Fitur utama untuk keamanan keluarga:\r\nBerbagi Lokasi Live: Lihat lokasi GPS secara real-time dari keluarga Anda atau anggota lingkaran tepercaya Anda.\r\nRiwayat Lokasi: Lihat linimasa pergerakan keluarga Anda sepanjang hari.\r\nPemberitahuan Kedatangan & Keberangkatan: Atur lokasi yang dibatasi secara geografis (seperti rumah, sekolah, tempat kerja) untuk menerima pemberitahuan saat seseorang tiba atau pergi.\r\nPemantauan Baterai: Dapatkan pemberitahuan saat baterai ponsel seseorang hampir habis.\r\nWawasan Mengemudi Aman: Membantu meningkatkan keselamatan dengan laporan perilaku tentang kebiasaan mengemudi.\r\nPelacak AR.\r\nDeteksi Kecelakaan & Peringatan SOS.\r\n\r\nKompatibel dengan Wear OS: ketahui lokasi keluarga Anda atau bagikan lokasi Anda sendiri langsung dari jam tangan pintar Anda.\r\n\r\n🔒 Privasi, Transparansi, dan Persetujuan Pengguna:\r\nGeozilla hanya mendukung penggunaan berbagi lokasi bersama-sama, berdasarkan informasi yang lengkap, dan transparan antara pihak-pihak yang sudah memberikan persetujuannya - seperti anggota keluarga dan kenalan dekat. Aplikasi kami dibangun berdasarkan prinsip privasi, keamanan, dan kepercayaan.\r\nSetiap fitur Geozilla bergantung pada partisipasi dan persetujuan pengguna yang jelas:\r\nTidak seorang pun yang dapat ditambahkan ke lingkaran Anda tanpa persetujuan eksplisit mereka.\r\nData lokasi tidak akan dibagikan tanpa persetujuan aktif dari pengguna.\r\nPengguna yang diundang akan diberi tahu siapa yang mengundang mereka, tujuan aplikasi, dan izin khusus yang dibutuhkan.\r\nKami menganjurkan pengguna untuk menggunakan Geozilla hanya untuk keperluan keamanan keluarga dan pengasuhan. Penyalahgunaan aplikasi untuk pelacakan yang tidak disetujui atau tanpa persetujuan yang jelas sangat bertentangan dengan kebijakan kami dan hukum privasi setempat.\r\n\r\nGeozilla berkomitmen terhadap privasi, transparansi, dan penggunaan yang bertanggung jawab. Kami tidak mendukung penggunaan apa pun dari aplikasi ini tanpa sepengetahuan dan persetujuan semua peserta.\r\nGeozilla dirancang dan dipasarkan khusus untuk tujuan keamanan keluarga, seperti orang tua yang melacak anak-anak atau pengasuh yang membantu anggota keluarga yang bergantung pada mereka. Aplikasi ini tidak mendukung pelacakan terselubung, penginstalan tersembunyi, atau aktivasi jarak jauh.\r\nJika Anda memerlukan bantuan atau memiliki masukan tentang Geozilla, hubungi kami di: support@geozilla.com\r\nKebijakan Privasi: https://geozilla.com/privacy-policy\r\nKetentuan Penggunaan: https://geozilla.com/terms-of-use",
@@ -7,11 +7,11 @@
   "genre": "Gaya Hidup",
   "headerImage": "https://play-lh.googleusercontent.com/bKkTJcBVFL2kVQeTBx4LC1Va9s8bUcCv1KHL_UkQynPVOD-N0iGB_i915fBgcIw9wKMybhK4CuL2AsHIwcBUP8A",
   "histogram": [
-    91251,
-    20501,
-    44000,
-    92174,
-    512712
+    90679,
+    20517,
+    44751,
+    91602,
+    514374
   ],
   "icon": "https://play-lh.googleusercontent.com/i72e4U2jPc5WBB6JXrWoFfBXJbLJSgrMnDna3qPjDN9dQaONNbetQLS2JkUua-vqB4IW_WQ7y5IEMoHQLL_bSQ",
   "inAppProductPrice": "US$2,99 - US$89,99 per item",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "2 Okt 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 760686,
-    "realInstalls": 29664756,
+    "ratings": 761996,
+    "realInstalls": 29727083,
     "reviews": 3208,
-    "score": 4.202363
+    "score": 4.20533
   },
   "price": 0,
   "screenshots": [

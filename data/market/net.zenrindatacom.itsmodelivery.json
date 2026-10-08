@@ -1,0 +1,1409 @@
+{
+  "base": {
+    "key": "556d4bfffc02d86d3a74814743c01aac",
+    "own_screens": false,
+    "summary": "GODOOR, an app for delivery and delivery drivers that combines Zenrin residential maps, car navigation, and luggage management, supports speedy delivery operations.",
+    "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+    "v": 2
+  },
+  "countries": {
+    "ae": {
+      "available": true,
+      "containsAds": false,
+      "currency": "AED",
+      "iap": "AED 43.99 per item",
+      "max_local": 43.99,
+      "max_usd": 11.98,
+      "min_local": 43.99,
+      "min_usd": 11.98
+    },
+    "ar": {
+      "available": true,
+      "containsAds": false,
+      "currency": "ARS",
+      "iap": "ARS 17,252.30 per item",
+      "max_local": 17252.3,
+      "max_usd": 11.34,
+      "min_local": 17252.3,
+      "min_usd": 11.34
+    },
+    "at": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€ 12,99 if billed through Play",
+      "max_local": 12.99,
+      "max_usd": 14.55,
+      "min_local": 12.99,
+      "min_usd": 14.55
+    },
+    "au": {
+      "available": true,
+      "containsAds": false,
+      "currency": "AUD",
+      "iap": "$17.99 per item",
+      "max_local": 17.99,
+      "max_usd": 12.53,
+      "min_local": 17.99,
+      "min_usd": 12.53
+    },
+    "bd": {
+      "available": true,
+      "containsAds": false,
+      "currency": "BDT",
+      "iap": "BDT 1,000.00 per item",
+      "max_local": 1000.0,
+      "max_usd": 8.13,
+      "min_local": 1000.0,
+      "min_usd": 8.13
+    },
+    "be": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€12.99 if billed through Play",
+      "max_local": 12.99,
+      "max_usd": 14.55,
+      "min_local": 12.99,
+      "min_usd": 14.55
+    },
+    "bg": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€13.29 if billed through Play",
+      "max_local": 13.29,
+      "max_usd": 14.88,
+      "min_local": 13.29,
+      "min_usd": 14.88
+    },
+    "br": {
+      "available": true,
+      "containsAds": false,
+      "currency": "BRL",
+      "iap": "R$57.99 per item",
+      "max_local": 57.99,
+      "max_usd": 11.59,
+      "min_local": 57.99,
+      "min_usd": 11.59
+    },
+    "ca": {
+      "available": true,
+      "containsAds": false,
+      "currency": "CAD",
+      "iap": "$14.99 per item",
+      "max_local": 14.99,
+      "max_usd": 10.52,
+      "min_local": 14.99,
+      "min_usd": 10.52
+    },
+    "ch": {
+      "available": true,
+      "containsAds": false,
+      "currency": "CHF",
+      "iap": "CHF 11.00 per item",
+      "max_local": 11.0,
+      "max_usd": 13.2,
+      "min_local": 11.0,
+      "min_usd": 13.2
+    },
+    "cl": {
+      "available": true,
+      "containsAds": false,
+      "currency": "CLP",
+      "iap": "CLP 11,600 per item",
+      "max_local": 11600.0,
+      "max_usd": 11.9,
+      "min_local": 11600.0,
+      "min_usd": 11.9
+    },
+    "co": {
+      "available": true,
+      "containsAds": false,
+      "currency": "COP",
+      "iap": "COP 46,000 per item",
+      "max_local": 46000.0,
+      "max_usd": 14.21,
+      "min_local": 46000.0,
+      "min_usd": 14.21
+    },
+    "cz": {
+      "available": true,
+      "containsAds": false,
+      "currency": "CZK",
+      "iap": "319,99 CZK if billed through Play",
+      "max_local": 319.99,
+      "max_usd": 14.67,
+      "min_local": 319.99,
+      "min_usd": 14.67
+    },
+    "de": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€12.99 if billed through Play",
+      "max_local": 12.99,
+      "max_usd": 14.55,
+      "min_local": 12.99,
+      "min_usd": 14.55
+    },
+    "dk": {
+      "available": true,
+      "containsAds": false,
+      "currency": "DKK",
+      "iap": "99,00 kr. if billed through Play",
+      "max_local": 99.0,
+      "max_usd": 14.81,
+      "min_local": 99.0,
+      "min_usd": 14.81
+    },
+    "ee": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€12.99 if billed through Play",
+      "max_local": 12.99,
+      "max_usd": 14.55,
+      "min_local": 12.99,
+      "min_usd": 14.55
+    },
+    "eg": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EGP",
+      "iap": "EGP 209.99 per item",
+      "max_local": 209.99,
+      "max_usd": 4.01,
+      "min_local": 209.99,
+      "min_usd": 4.01
+    },
+    "es": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€12.99 if billed through Play",
+      "max_local": 12.99,
+      "max_usd": 14.55,
+      "min_local": 12.99,
+      "min_usd": 14.55
+    },
+    "fi": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€13.99 if billed through Play",
+      "max_local": 13.99,
+      "max_usd": 15.67,
+      "min_local": 13.99,
+      "min_usd": 15.67
+    },
+    "fr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€12.99 if billed through Play",
+      "max_local": 12.99,
+      "max_usd": 14.55,
+      "min_local": 12.99,
+      "min_usd": 14.55
+    },
+    "gb": {
+      "available": true,
+      "containsAds": false,
+      "currency": "GBP",
+      "iap": "£10.99 if billed through Play",
+      "max_local": 10.99,
+      "max_usd": 14.53,
+      "min_local": 10.99,
+      "min_usd": 14.53
+    },
+    "gr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€13.99 if billed through Play",
+      "max_local": 13.99,
+      "max_usd": 15.67,
+      "min_local": 13.99,
+      "min_usd": 15.67
+    },
+    "hk": {
+      "available": true,
+      "containsAds": false,
+      "currency": "HKD",
+      "iap": "HK$90.90 per item",
+      "max_local": 90.9,
+      "max_usd": 11.58,
+      "min_local": 90.9,
+      "min_usd": 11.58
+    },
+    "hr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€13.94 if billed through Play",
+      "max_local": 13.94,
+      "max_usd": 15.61,
+      "min_local": 13.94,
+      "min_usd": 15.61
+    },
+    "hu": {
+      "available": true,
+      "containsAds": false,
+      "currency": "HUF",
+      "iap": "5 199 HUF if billed through Play",
+      "max_local": 5199.0,
+      "max_usd": 15.9,
+      "min_local": 5199.0,
+      "min_usd": 15.9
+    },
+    "id": {
+      "available": true,
+      "containsAds": false,
+      "currency": "IDR",
+      "iap": "Rp 169.000 per item",
+      "max_local": 169000.0,
+      "max_usd": 9.45,
+      "min_local": 169000.0,
+      "min_usd": 9.45
+    },
+    "ie": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€12.99 if billed through Play",
+      "max_local": 12.99,
+      "max_usd": 14.55,
+      "min_local": 12.99,
+      "min_usd": 14.55
+    },
+    "il": {
+      "available": true,
+      "containsAds": false,
+      "currency": "ILS",
+      "iap": "₪38.00 per item",
+      "max_local": 38.0,
+      "max_usd": 12.39,
+      "min_local": 38.0,
+      "min_usd": 12.39
+    },
+    "in": {
+      "available": true,
+      "containsAds": false,
+      "currency": "INR",
+      "iap": "₹1,050.00 per item",
+      "max_local": 1050.0,
+      "max_usd": 10.84,
+      "min_local": 1050.0,
+      "min_usd": 10.84
+    },
+    "it": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€12.99 if billed through Play",
+      "max_local": 12.99,
+      "max_usd": 14.55,
+      "min_local": 12.99,
+      "min_usd": 14.55
+    },
+    "jp": {
+      "available": true,
+      "containsAds": false,
+      "currency": "JPY",
+      "iap": "¥1,800 per item",
+      "max_local": 1800.0,
+      "max_usd": 11.39,
+      "min_local": 1800.0,
+      "min_usd": 11.39
+    },
+    "ke": {
+      "available": true,
+      "containsAds": false,
+      "currency": "KES",
+      "iap": "Ksh 1,500.00 per item",
+      "max_local": 1500.0,
+      "max_usd": 11.57,
+      "min_local": 1500.0,
+      "min_usd": 11.57
+    },
+    "kr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "KRW",
+      "iap": "₩16,000 per item",
+      "max_local": 16000.0,
+      "max_usd": 11.95,
+      "min_local": 16000.0,
+      "min_usd": 11.95
+    },
+    "kz": {
+      "available": true,
+      "containsAds": false,
+      "currency": "KZT",
+      "iap": "KZT 5,190.00 per item",
+      "max_local": 5190.0,
+      "max_usd": 11.61,
+      "min_local": 5190.0,
+      "min_usd": 11.61
+    },
+    "lt": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€12.99 if billed through Play",
+      "max_local": 12.99,
+      "max_usd": 14.55,
+      "min_local": 12.99,
+      "min_usd": 14.55
+    },
+    "lv": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€12.99 if billed through Play",
+      "max_local": 12.99,
+      "max_usd": 14.55,
+      "min_local": 12.99,
+      "min_usd": 14.55
+    },
+    "ma": {
+      "available": true,
+      "containsAds": false,
+      "currency": "MAD",
+      "iap": "MAD 139.99 per item",
+      "max_local": 139.99,
+      "max_usd": 14.04,
+      "min_local": 139.99,
+      "min_usd": 14.04
+    },
+    "mx": {
+      "available": true,
+      "containsAds": false,
+      "currency": "MXN",
+      "iap": "MX$275.00 per item",
+      "max_local": 275.0,
+      "max_usd": 15.27,
+      "min_local": 275.0,
+      "min_usd": 15.27
+    },
+    "my": {
+      "available": true,
+      "containsAds": false,
+      "currency": "MYR",
+      "iap": "RM 52.99 per item",
+      "max_local": 52.99,
+      "max_usd": 12.96,
+      "min_local": 52.99,
+      "min_usd": 12.96
+    },
+    "ng": {
+      "available": true,
+      "containsAds": false,
+      "currency": "NGN",
+      "iap": "₦5,160.00 per item",
+      "max_local": 5160.0,
+      "max_usd": 3.88,
+      "min_local": 5160.0,
+      "min_usd": 3.88
+    },
+    "nl": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€12.99 if billed through Play",
+      "max_local": 12.99,
+      "max_usd": 14.55,
+      "min_local": 12.99,
+      "min_usd": 14.55
+    },
+    "no": {
+      "available": true,
+      "containsAds": false,
+      "currency": "NOK",
+      "iap": "135,00 kr if billed through Play",
+      "max_local": 135.0,
+      "max_usd": 14.1,
+      "min_local": 135.0,
+      "min_usd": 14.1
+    },
+    "nz": {
+      "available": true,
+      "containsAds": false,
+      "currency": "NZD",
+      "iap": "$19.99 per item",
+      "max_local": 19.99,
+      "max_usd": 11.19,
+      "min_local": 19.99,
+      "min_usd": 11.19
+    },
+    "pe": {
+      "available": true,
+      "containsAds": false,
+      "currency": "PEN",
+      "iap": "PEN 50.00 per item",
+      "max_local": 50.0,
+      "max_usd": 14.52,
+      "min_local": 50.0,
+      "min_usd": 14.52
+    },
+    "ph": {
+      "available": true,
+      "containsAds": false,
+      "currency": "PHP",
+      "iap": "₱600.00 per item",
+      "max_local": 600.0,
+      "max_usd": 9.55,
+      "min_local": 600.0,
+      "min_usd": 9.55
+    },
+    "pk": {
+      "available": true,
+      "containsAds": false,
+      "currency": "PKR",
+      "iap": "Rs 2,150.00 per item",
+      "max_local": 2150.0,
+      "max_usd": 7.76,
+      "min_local": 2150.0,
+      "min_usd": 7.76
+    },
+    "pl": {
+      "available": true,
+      "containsAds": false,
+      "currency": "PLN",
+      "iap": "62,99 PLN if billed through Play",
+      "max_local": 62.99,
+      "max_usd": 16.11,
+      "min_local": 62.99,
+      "min_usd": 16.11
+    },
+    "pt": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€12.99 if billed through Play",
+      "max_local": 12.99,
+      "max_usd": 14.55,
+      "min_local": 12.99,
+      "min_usd": 14.55
+    },
+    "qa": {
+      "available": true,
+      "containsAds": false,
+      "currency": "QAR",
+      "iap": "QAR 42.00 per item",
+      "max_local": 42.0,
+      "max_usd": 11.54,
+      "min_local": 42.0,
+      "min_usd": 11.54
+    },
+    "ro": {
+      "available": true,
+      "containsAds": false,
+      "currency": "RON",
+      "iap": "64,99 RON if billed through Play",
+      "max_local": 64.99,
+      "max_usd": 13.59,
+      "min_local": 64.99,
+      "min_usd": 13.59
+    },
+    "rs": {
+      "available": true,
+      "containsAds": false,
+      "currency": "RSD",
+      "iap": "RSD 1,499 per item",
+      "max_local": 1499.0,
+      "max_usd": 14.3,
+      "min_local": 1499.0,
+      "min_usd": 14.3
+    },
+    "sa": {
+      "available": true,
+      "containsAds": false,
+      "currency": "SAR",
+      "iap": "SAR 49.99 per item",
+      "max_local": 49.99,
+      "max_usd": 13.33,
+      "min_local": 49.99,
+      "min_usd": 13.33
+    },
+    "se": {
+      "available": true,
+      "containsAds": false,
+      "currency": "SEK",
+      "iap": "139,00 kr if billed through Play",
+      "max_local": 139.0,
+      "max_usd": 13.88,
+      "min_local": 139.0,
+      "min_usd": 13.88
+    },
+    "sg": {
+      "available": true,
+      "containsAds": false,
+      "currency": "SGD",
+      "iap": "$16.99 per item",
+      "max_local": 16.99,
+      "max_usd": 13.28,
+      "min_local": 16.99,
+      "min_usd": 13.28
+    },
+    "si": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€12.99 if billed through Play",
+      "max_local": 12.99,
+      "max_usd": 14.55,
+      "min_local": 12.99,
+      "min_usd": 14.55
+    },
+    "sk": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€12.99 if billed through Play",
+      "max_local": 12.99,
+      "max_usd": 14.55,
+      "min_local": 12.99,
+      "min_usd": 14.55
+    },
+    "th": {
+      "available": true,
+      "containsAds": false,
+      "currency": "THB",
+      "iap": "THB 425.00 per item",
+      "max_local": 425.0,
+      "max_usd": 12.63,
+      "min_local": 425.0,
+      "min_usd": 12.63
+    },
+    "tr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "TRY",
+      "iap": "TRY 199.99 per item",
+      "max_local": 199.99,
+      "max_usd": 4.06,
+      "min_local": 199.99,
+      "min_usd": 4.06
+    },
+    "tw": {
+      "available": true,
+      "containsAds": false,
+      "currency": "TWD",
+      "iap": "NT$360.00 per item",
+      "max_local": 360.0,
+      "max_usd": 11.3,
+      "min_local": 360.0,
+      "min_usd": 11.3
+    },
+    "ua": {
+      "available": true,
+      "containsAds": false,
+      "currency": "UAH",
+      "iap": "409,99 UAH per item",
+      "max_local": 409.99,
+      "max_usd": 9.13,
+      "min_local": 409.99,
+      "min_usd": 9.13
+    },
+    "us": {
+      "available": true,
+      "containsAds": false,
+      "currency": "USD",
+      "iap": "$11.99 per item",
+      "max_local": 11.99,
+      "max_usd": 11.99,
+      "min_local": 11.99,
+      "min_usd": 11.99
+    },
+    "vn": {
+      "available": true,
+      "containsAds": false,
+      "currency": "VND",
+      "iap": "₫306,000 per item",
+      "max_local": 306000.0,
+      "max_usd": 11.79,
+      "min_local": 306000.0,
+      "min_usd": 11.79
+    },
+    "za": {
+      "available": true,
+      "containsAds": false,
+      "currency": "ZAR",
+      "iap": "R 209,99 per item",
+      "max_local": 209.99,
+      "max_usd": 12.62,
+      "min_local": 209.99,
+      "min_usd": 12.62
+    }
+  },
+  "date": "2026-10-08",
+  "errors": [],
+  "first_seen": {
+    "countries": {
+      "ae": "baseline",
+      "ar": "baseline",
+      "at": "baseline",
+      "au": "baseline",
+      "bd": "baseline",
+      "be": "baseline",
+      "bg": "baseline",
+      "br": "baseline",
+      "ca": "baseline",
+      "ch": "baseline",
+      "cl": "baseline",
+      "co": "baseline",
+      "cz": "baseline",
+      "de": "baseline",
+      "dk": "baseline",
+      "ee": "baseline",
+      "eg": "baseline",
+      "es": "baseline",
+      "fi": "baseline",
+      "fr": "baseline",
+      "gb": "baseline",
+      "gr": "baseline",
+      "hk": "baseline",
+      "hr": "baseline",
+      "hu": "baseline",
+      "id": "baseline",
+      "ie": "baseline",
+      "il": "baseline",
+      "in": "baseline",
+      "it": "baseline",
+      "jp": "baseline",
+      "ke": "baseline",
+      "kr": "baseline",
+      "kz": "baseline",
+      "lt": "baseline",
+      "lv": "baseline",
+      "ma": "baseline",
+      "mx": "baseline",
+      "my": "baseline",
+      "ng": "baseline",
+      "nl": "baseline",
+      "no": "baseline",
+      "nz": "baseline",
+      "pe": "baseline",
+      "ph": "baseline",
+      "pk": "baseline",
+      "pl": "baseline",
+      "pt": "baseline",
+      "qa": "baseline",
+      "ro": "baseline",
+      "rs": "baseline",
+      "sa": "baseline",
+      "se": "baseline",
+      "sg": "baseline",
+      "si": "baseline",
+      "sk": "baseline",
+      "th": "baseline",
+      "tr": "baseline",
+      "tw": "baseline",
+      "ua": "baseline",
+      "us": "baseline",
+      "vn": "baseline",
+      "za": "baseline"
+    },
+    "languages": {
+      "af": "baseline",
+      "am": "baseline",
+      "ar": "baseline",
+      "az": "baseline",
+      "be": "baseline",
+      "bg": "baseline",
+      "bn": "baseline",
+      "ca": "baseline",
+      "cs": "baseline",
+      "da": "baseline",
+      "de": "baseline",
+      "el": "baseline",
+      "en-AU": "baseline",
+      "en-GB": "baseline",
+      "en-IN": "baseline",
+      "es": "baseline",
+      "es-419": "baseline",
+      "et": "baseline",
+      "eu": "baseline",
+      "fa": "baseline",
+      "fi": "baseline",
+      "fil": "baseline",
+      "fr": "baseline",
+      "fr-CA": "baseline",
+      "gl": "baseline",
+      "gu": "baseline",
+      "hi": "baseline",
+      "hr": "baseline",
+      "hu": "baseline",
+      "hy": "baseline",
+      "id": "baseline",
+      "is": "baseline",
+      "it": "baseline",
+      "iw": "baseline",
+      "ja": "baseline",
+      "ka": "baseline",
+      "kk": "baseline",
+      "km": "baseline",
+      "kn": "baseline",
+      "ko": "baseline",
+      "ky": "baseline",
+      "lo": "baseline",
+      "lt": "baseline",
+      "lv": "baseline",
+      "mk": "baseline",
+      "ml": "baseline",
+      "mn": "baseline",
+      "mr": "baseline",
+      "ms": "baseline",
+      "my": "baseline",
+      "ne": "baseline",
+      "nl": "baseline",
+      "no": "baseline",
+      "pa": "baseline",
+      "pl": "baseline",
+      "pt-BR": "baseline",
+      "pt-PT": "baseline",
+      "ro": "baseline",
+      "ru": "baseline",
+      "si": "baseline",
+      "sk": "baseline",
+      "sl": "baseline",
+      "sq": "baseline",
+      "sr": "baseline",
+      "sv": "baseline",
+      "sw": "baseline",
+      "ta": "baseline",
+      "te": "baseline",
+      "th": "baseline",
+      "tr": "baseline",
+      "uk": "baseline",
+      "ur": "baseline",
+      "vi": "baseline",
+      "zh-CN": "baseline",
+      "zh-HK": "baseline",
+      "zh-TW": "baseline",
+      "zu": "baseline"
+    }
+  },
+  "languages": [
+    "af",
+    "am",
+    "ar",
+    "az",
+    "be",
+    "bg",
+    "bn",
+    "ca",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "en-GB",
+    "en-AU",
+    "en-IN",
+    "es",
+    "es-419",
+    "et",
+    "eu",
+    "fa",
+    "fi",
+    "fil",
+    "fr",
+    "fr-CA",
+    "gl",
+    "gu",
+    "hi",
+    "hr",
+    "hu",
+    "hy",
+    "id",
+    "is",
+    "it",
+    "iw",
+    "ja",
+    "ka",
+    "kk",
+    "km",
+    "kn",
+    "ko",
+    "ky",
+    "lo",
+    "lt",
+    "lv",
+    "mk",
+    "ml",
+    "mn",
+    "mr",
+    "ms",
+    "my",
+    "ne",
+    "nl",
+    "no",
+    "pa",
+    "pl",
+    "pt-BR",
+    "pt-PT",
+    "ro",
+    "ru",
+    "si",
+    "sk",
+    "sl",
+    "sq",
+    "sr",
+    "sv",
+    "sw",
+    "ta",
+    "te",
+    "th",
+    "tr",
+    "uk",
+    "ur",
+    "vi",
+    "zh-CN",
+    "zh-TW",
+    "zh-HK",
+    "zu"
+  ],
+  "listings": {
+    "af": {
+      "key": "69f9bf0b99f27ad00591b2323758281e",
+      "own_screens": false,
+      "summary": "GODOOR, 'n toepassing vir aflewerings- en afleweringsbestuurders wat Zenrin-residensiële kaarte, motornavigasie en bagasiebestuur kombineer, ondersteun vinnige afleweringsbedrywighede.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "am": {
+      "key": "7058b291a5da567e65bf84e45452c692",
+      "own_screens": false,
+      "summary": "ጎዶኦር፣ የዜንሪን የመኖሪያ ካርታዎች፣ የመኪና አሰሳ እና የሻንጣ አስተዳደርን የሚያጣምር የማድረስ እና የማድረስ ነጂዎች መተግበሪያ ፈጣን የማድረስ ስራዎችን ይደግፋል።",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "ar": {
+      "key": "91b231b99a77a47691afb669020893eb",
+      "own_screens": false,
+      "summary": "GODOOR هو تطبيق لسائقي التوصيل والتوصيل يجمع بين خرائط Zenrin السكنية ونظام الملاحة في السيارة وإدارة الأمتعة، ويدعم عمليات التسليم السريع.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "az": {
+      "key": "736c3af9bff38a1638d4c023f59eb04c",
+      "own_screens": false,
+      "summary": "Zenrin yaşayış xəritələrini, avtomobil naviqasiyasını və baqaj idarəçiliyini birləşdirən çatdırılma və çatdırılma sürücüləri üçün proqram olan GODOOR sürətli çatdırılma əməliyyatlarını dəstəkləyir.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "be": {
+      "key": "215eb93c97a40de3ce5003522274a4f1",
+      "own_screens": false,
+      "summary": "GODOOR, праграма для дастаўкі і вадзіцеляў дастаўкі, якая аб'ядноўвае карты жылых памяшканняў Zenrin, аўтамабільную навігацыю і кіраванне багажом, падтрымлівае хуткую дастаўку.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "bg": {
+      "key": "2cb42063df8b9d1cc178a8c19143138d",
+      "own_screens": false,
+      "summary": "GODOOR, приложение за доставка и шофьори за доставка, което съчетава жилищни карти на Zenrin, автомобилна навигация и управление на багажа, поддържа бързи операции за доставка.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "bn": {
+      "key": "36488966bb5fb50152f2c0a96ff3460a",
+      "own_screens": false,
+      "summary": "GODOOR, ডেলিভারি এবং ডেলিভারি ড্রাইভারদের জন্য একটি অ্যাপ যা জেনরিন আবাসিক মানচিত্র, গাড়ি নেভিগেশন এবং লাগেজ ব্যবস্থাপনাকে একত্রিত করে, দ্রুত ডেলিভারি কার্যক্রমকে সমর্থন করে।",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "ca": {
+      "key": "1d0b65f0d612247f77c7dfc2f8e283c3",
+      "own_screens": false,
+      "summary": "GODOOR, una aplicació per a conductors de lliurament i lliurament que combina mapes residencials Zenrin, navegació de cotxes i gestió d'equipatges, admet operacions de lliurament ràpides.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "cs": {
+      "key": "f87becd9ef8e448d0c25ec5690613015",
+      "own_screens": false,
+      "summary": "GODOOR, aplikace pro řidiče doručovacích a doručovacích služeb, která kombinuje rezidenční mapy Zenrin, automobilovou navigaci a správu zavazadel, podporuje operace rychlého doručení.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "da": {
+      "key": "6b76c5ce34e35f6d0c834e6a59b972d2",
+      "own_screens": false,
+      "summary": "GODOOR, en app til leverings- og leveringsdrivere, der kombinerer Zenrin-boligkort, bilnavigation og bagagestyring, understøtter hurtig levering.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "de": {
+      "key": "353af575887a6e196fb984ba1b0bbf9b",
+      "own_screens": false,
+      "summary": "GODOOR, eine App für Liefer- und Lieferfahrer, die Zenrin-Wohngebietskarten, Autonavigation und Gepäckmanagement kombiniert, unterstützt schnelle Lieferabläufe.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "el": {
+      "key": "3c81d53a22ecec74888586b96407e1e8",
+      "own_screens": false,
+      "summary": "Το GODOOR, μια εφαρμογή για προγράμματα οδήγησης παράδοσης και παράδοσης που συνδυάζει χάρτες κατοικιών Zenrin, πλοήγηση αυτοκινήτου και διαχείριση αποσκευών, υποστηρίζει λειτουργίες γρήγορης παράδοσης.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "en-AU": {
+      "key": "75cd421775c9d1f6e52a79c832e8a221",
+      "own_screens": false,
+      "summary": "GODOOR, an app for delivery and delivery drivers that combines Zenrin residential maps, car navigation, and luggage management, supports speedy delivery operations.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "en-GB": {
+      "key": "3ee4969f69d11cb54dd98ff716779b5f",
+      "own_screens": false,
+      "summary": "GODOOR, an app for delivery and delivery drivers that combines Zenrin residential maps, car navigation, and luggage management, supports speedy delivery operations.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "en-IN": {
+      "key": "3ee4969f69d11cb54dd98ff716779b5f",
+      "own_screens": false,
+      "summary": "GODOOR, an app for delivery and delivery drivers that combines Zenrin residential maps, car navigation, and luggage management, supports speedy delivery operations.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "es": {
+      "key": "71cb2a1558fb8592d0484209eddc0a0f",
+      "own_screens": false,
+      "summary": "GODOOR, una aplicación para repartidores y conductores de reparto que combina mapas residenciales de Zenrin, navegación para automóviles y gestión de equipaje, admite operaciones de entrega rápidas.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "es-419": {
+      "key": "60ea3eda6256293c34df3c96a318fe70",
+      "own_screens": false,
+      "summary": "GODOOR, una aplicación para repartidores y conductores de reparto que combina mapas residenciales de Zenrin, navegación para automóviles y gestión de equipaje, admite operaciones de entrega rápidas.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "et": {
+      "key": "d7bcef3967898f35aebb146a9d82807b",
+      "own_screens": false,
+      "summary": "GODOOR, kohaletoimetamise ja kohaletoimetamise autojuhtide rakendus, mis ühendab Zenrini elamukaardid, autode navigeerimise ja pagasihalduse, toetab kiiret kohaletoimetamist.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "eu": {
+      "key": "53a088efd98c2a27655ee57c5aad7135",
+      "own_screens": false,
+      "summary": "GODOOR, entregatzeko eta entregatzeko gidarientzako aplikazioak, Zenrin egoitza-mapak, autoen nabigazioa eta ekipajeen kudeaketa konbinatzen dituena, bidalketa eragiketa azkarrak onartzen ditu.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "fa": {
+      "key": "901d51ae72547988642591d17c328bac",
+      "own_screens": false,
+      "summary": "GODOOR، برنامه ای برای رانندگان تحویل و تحویل که نقشه های مسکونی Zenrin، ناوبری خودرو و مدیریت چمدان را ترکیب می کند، از عملیات تحویل سریع پشتیبانی می کند.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "fi": {
+      "key": "dc9335a6b77fd5c9942ba6a1ce56a4eb",
+      "own_screens": false,
+      "summary": "GODOOR, jakelu- ja toimituskuljettajille tarkoitettu sovellus, joka yhdistää Zenrinin asuinkartat, autonavigoinnin ja matkatavaroiden hallinnan, tukee nopeaa toimitusta.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "fil": {
+      "key": "d5ad9fb57ac93d38e72712f95eae11c0",
+      "own_screens": false,
+      "summary": "Ang GODOOR, isang app para sa mga driver ng paghahatid at paghahatid na pinagsasama ang mga mapa ng tirahan ng Zenrin, nabigasyon ng kotse, at pamamahala ng bagahe, ay sumusuporta sa mga mabilis na operasyon ng paghahatid.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "fr": {
+      "key": "fa06b80aadce2ab3266594ac34d8fcee",
+      "own_screens": false,
+      "summary": "GODOOR, une application pour les livreurs et les chauffeurs-livreurs qui combine les cartes résidentielles Zenrin, la navigation automobile et la gestion des bagages, prend en charge les opérations de livraison rapides.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "fr-CA": {
+      "key": "6217e312f9b5861ab7ed20cfe822032b",
+      "own_screens": false,
+      "summary": "GODOOR, une application pour les livreurs et les chauffeurs-livreurs qui combine les cartes résidentielles Zenrin, la navigation automobile et la gestion des bagages, prend en charge les opérations de livraison rapides.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "gl": {
+      "key": "b3b438ef60d9a824478eb11f47c6aa69",
+      "own_screens": false,
+      "summary": "GODOOR, unha aplicación para condutores de entrega e entrega que combina mapas residenciais de Zenrin, navegación de coches e xestión de equipaxe, admite operacións de entrega rápidas.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "gu": {
+      "key": "921f107572db08628378575e34adfac9",
+      "own_screens": false,
+      "summary": "GODOOR, ડિલિવરી અને ડિલિવરી ડ્રાઇવરો માટેની એપ્લિકેશન કે જે ઝેનરીન રેસિડેન્શિયલ નકશા, કાર નેવિગેશન અને લગેજ મેનેજમેન્ટને જોડે છે, ઝડપી ડિલિવરી કામગીરીને સપોર્ટ કરે છે.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "hi": {
+      "key": "103464c2e5f5c9123908ae905243fa32",
+      "own_screens": false,
+      "summary": "GODOOR, डिलीवरी और डिलीवरी ड्राइवरों के लिए एक ऐप जो ज़ेनरिन आवासीय मानचित्र, कार नेविगेशन और सामान प्रबंधन को जोड़ती है, त्वरित डिलीवरी संचालन का समर्थन करती है।",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "hr": {
+      "key": "1e5f3fefa0afc609efa0518e2abe8f07",
+      "own_screens": false,
+      "summary": "GODOOR, aplikacija za dostavu i vozače dostave koja kombinira Zenrin rezidencijalne karte, navigaciju automobila i upravljanje prtljagom, podržava brze operacije dostave.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "hu": {
+      "key": "d5a65a37e43ffea091ff0901a5f4257d",
+      "own_screens": false,
+      "summary": "A GODOOR, a kézbesítési és kézbesítő sofőrök számára készült alkalmazás, amely egyesíti a Zenrin lakossági térképeit, az autós navigációt és a poggyászkezelést, támogatja a gyors kézbesítési műveleteket.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "hy": {
+      "key": "83d91291debabc760b6aaebe37eddeed",
+      "own_screens": false,
+      "summary": "GODOOR՝ առաքման և առաքման վարորդների համար նախատեսված հավելված, որը համատեղում է Zenrin բնակելի քարտեզները, մեքենաների նավիգացիան և ուղեբեռի կառավարումը, աջակցում է արագ առաքման գործողություններին:",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "id": {
+      "key": "84dd83cda92a9e07ec05f931bffd67b4",
+      "own_screens": false,
+      "summary": "GODOOR, sebuah aplikasi untuk pengantaran dan pengemudi pengantaran yang menggabungkan peta perumahan Zenrin, navigasi mobil, dan manajemen bagasi, mendukung pengoperasian pengiriman yang cepat.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "is": {
+      "key": "1d04528e254dfe21f23619cdbc44c7e1",
+      "own_screens": false,
+      "summary": "GODOOR, app fyrir sendingar- og sendingarbílstjóra sem sameinar Zenrin íbúðakort, bílaleiðsögu og farangursstjórnun, styður skjóta sendingaraðgerðir.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "it": {
+      "key": "458ff2dbe2ba8afddaf8b5a9edf99912",
+      "own_screens": false,
+      "summary": "GODOOR, un'app per consegne e autisti che combina mappe residenziali Zenrin, navigazione per auto e gestione dei bagagli, supporta operazioni di consegna rapide.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "iw": {
+      "key": "d013ca998f6039ee99a57d3ded08b476",
+      "own_screens": false,
+      "summary": "GODOOR, אפליקציה לנהגי משלוחים ומשלוחים המשלבת מפות מגורים של Zenrin, ניווט ברכב וניהול מזוודות, תומכת בפעולות משלוח מהיר.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "ja": {
+      "key": "f0335d73792e4647e69d2b0e36174ce7",
+      "own_screens": false,
+      "summary": "ゼンリン住宅地図・カーナビ・荷物管理 が1つになった配達・配送ドライバー向けアプリ「GODOOR」　スピーディな配達業務をサポートします。",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "ka": {
+      "key": "52aa4d31df64925feebfcfbe3a24139c",
+      "own_screens": false,
+      "summary": "GODOOR, აპლიკაცია მიტანისა და მიტანის მძღოლებისთვის, რომელიც აერთიანებს ზენრინის საცხოვრებელ რუქებს, მანქანის ნავიგაციას და ბარგის მენეჯმენტს, მხარს უჭერს სწრაფი მიწოდების ოპერაციებს.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "kk": {
+      "key": "e56fcffc6461ac11129e67038f1f26ef",
+      "own_screens": false,
+      "summary": "GODOOR, Zenrin тұрғын үй карталарын, автокөлік навигациясын және багажды басқаруды біріктіретін жеткізу және жеткізу драйверлеріне арналған қолданба жылдам жеткізу операцияларын қолдайды.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "km": {
+      "key": "883092e86a5b267979630f8366089303",
+      "own_screens": false,
+      "summary": "GODOOR ជាកម្មវិធីសម្រាប់អ្នកបើកបរដឹកជញ្ជូន និងដឹកជញ្ជូនដែលរួមបញ្ចូលគ្នានូវផែនទីលំនៅដ្ឋាន Zenrin ការរុករករថយន្ត និងការគ្រប់គ្រងឥវ៉ាន់ គាំទ្រប្រតិបត្តិការដឹកជញ្ជូនដែលមានល្បឿនលឿន។",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "kn": {
+      "key": "e82bf959ed36eeaa117cffd492f91fd3",
+      "own_screens": false,
+      "summary": "GODOOR, ಝೆನ್ರಿನ್ ವಸತಿ ನಕ್ಷೆಗಳು, ಕಾರ್ ನ್ಯಾವಿಗೇಷನ್ ಮತ್ತು ಲಗೇಜ್ ನಿರ್ವಹಣೆಯನ್ನು ಸಂಯೋಜಿಸುವ ಡೆಲಿವರಿ ಮತ್ತು ಡೆಲಿವರಿ ಡ್ರೈವರ್‌ಗಳಿಗಾಗಿ ಅಪ್ಲಿಕೇಶನ್, ವೇಗದ ವಿತರಣಾ ಕಾರ್ಯಾಚರಣೆಗಳನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "ko": {
+      "key": "10547b5fb45a321eccf697c5e23b0994",
+      "own_screens": false,
+      "summary": "젠린 주택지도·카 내비게이션·짐 관리가 1개가 된 배달·배송 드라이버용 어플리 “GODOOR” 스피디한 배달 업무를 서포트합니다.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "ky": {
+      "key": "3fb9c9c93c7590ab902230e76dbce5b2",
+      "own_screens": false,
+      "summary": "GODOOR, жеткирүү жана жеткирүү айдоочулары үчүн колдонмо Zenrin турак карталарын, унаа навигациясын жана багажды башкарууну бириктирип, тез жеткирүү операцияларын колдойт.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "lo": {
+      "key": "1528d1f6b8a5b569670b17fa105991ce",
+      "own_screens": false,
+      "summary": "GODOOR, ແອັບສຳລັບຜູ້ຂັບຂີ່ການຈັດສົ່ງ ແລະ ການຈັດສົ່ງທີ່ລວມເອົາແຜນທີ່ທີ່ຢູ່ອາໄສຂອງ Zenrin, ການນຳທາງລົດ, ແລະການຈັດການກະເປົາ, ຮອງຮັບການຈັດສົ່ງທີ່ໄວ.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "lt": {
+      "key": "623c634b10e0a88baa96f8a7bea1dff1",
+      "own_screens": false,
+      "summary": "GODOOR, pristatymo ir pristatymo vairuotojams skirta programa, apjungianti Zenrin gyvenamųjų vietų žemėlapius, automobilio navigaciją ir bagažo valdymą, palaiko greitas pristatymo operacijas.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "lv": {
+      "key": "02b1c4f90e26d09fce94a39fa54ea0b9",
+      "own_screens": false,
+      "summary": "GODOOR, piegādes un piegādes autovadītāju lietotne, kas apvieno Zenrin dzīvojamo māju kartes, automašīnu navigāciju un bagāžas pārvaldību, atbalsta ātras piegādes darbības.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "mk": {
+      "key": "1c2e46a93d65c35fefda38a5d836ec25",
+      "own_screens": false,
+      "summary": "GODOOR, апликација за двигатели за испорака и испорака која ги комбинира мапите за домување на Zenrin, навигација со автомобил и управување со багажот, поддржува операции за брза испорака.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "ml": {
+      "key": "65a7a60894c7e630b5cdd047d12d7a29",
+      "own_screens": false,
+      "summary": "Zenrin റെസിഡൻഷ്യൽ മാപ്പുകൾ, കാർ നാവിഗേഷൻ, ലഗേജ് മാനേജ്‌മെന്റ് എന്നിവ സംയോജിപ്പിക്കുന്ന ഡെലിവറി, ഡെലിവറി ഡ്രൈവർമാർക്കുള്ള ആപ്പായ GODOOR, വേഗത്തിലുള്ള ഡെലിവറി പ്രവർത്തനങ്ങളെ പിന്തുണയ്ക്കുന്നു.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "mn": {
+      "key": "579088414b6312d016ad153d635b2a95",
+      "own_screens": false,
+      "summary": "Zenrin орон сууцны газрын зураг, автомашины навигаци, ачаа тээшний менежментийг хослуулсан хүргэлт, хүргэлтийн жолооч нарт зориулсан GODOOR програм нь хурдан хүргэлтийн үйл ажиллагааг дэмждэг.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "mr": {
+      "key": "353f2f9dea153e35f781fbfedcc700d6",
+      "own_screens": false,
+      "summary": "GODOOR, डिलिव्हरी आणि डिलिव्हरी ड्रायव्हर्ससाठी एक अॅप जे झेनरिन निवासी नकाशे, कार नेव्हिगेशन आणि लगेज मॅनेजमेंट एकत्र करते, जलद वितरण ऑपरेशनला समर्थन देते.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "ms": {
+      "key": "06900448f93bc6947ae1875c8990d820",
+      "own_screens": false,
+      "summary": "GODOOR, aplikasi untuk pemandu penghantaran dan penghantaran yang menggabungkan peta kediaman Zenrin, navigasi kereta dan pengurusan bagasi, menyokong operasi penghantaran pantas.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "my": {
+      "key": "947f92fc8a2bf30aa057924047b73668",
+      "own_screens": false,
+      "summary": "GODOOR၊ Zenrin လူနေအိမ်မြေပုံများ၊ ကားလမ်းကြောင်းပြခြင်းနှင့် ခရီးဆောင်အိတ်စီမံခန့်ခွဲမှုတို့ကို ပေါင်းစပ်ထားသည့် ပို့ဆောင်ရေးနှင့် ပို့ဆောင်ရေးယာဉ်မောင်းများအတွက် အက်ပ်တစ်ခုဖြစ်ပြီး လျင်မြန်သော ပို့ဆောင်ခြင်းလုပ်ငန်းကို ပံ့ပိုးပေးပါသည်။",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "ne": {
+      "key": "4cc765cbad7589dddf6119b790a2efba",
+      "own_screens": false,
+      "summary": "GODOOR, डेलिभरी र डेलिभरी ड्राइभरहरूको लागि एउटा एप जसले Zenrin आवासीय नक्साहरू, कार नेभिगेसन, र सामान व्यवस्थापनलाई संयोजन गर्दछ, छिटो डेलिभरी सञ्चालनहरूलाई समर्थन गर्दछ।",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "nl": {
+      "key": "d814709312ff430bcefee4cb4409620d",
+      "own_screens": false,
+      "summary": "GODOOR, een app voor bezorgers en bezorgers die Zenrin-woonkaarten, autonavigatie en bagagebeheer combineert, ondersteunt snelle bezorgoperaties.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "no": {
+      "key": "ff34484e8d1df29c1991b5bb2d4b4d4a",
+      "own_screens": false,
+      "summary": "GODOOR, en app for leverings- og leveringssjåfører som kombinerer Zenrin-boligkart, bilnavigasjon og bagasjehåndtering, støtter rask levering.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "pa": {
+      "key": "48156a1e17b8550e972a02de242bdc55",
+      "own_screens": false,
+      "summary": "GODOOR, ਡਿਲੀਵਰੀ ਅਤੇ ਡਿਲੀਵਰੀ ਡ੍ਰਾਈਵਰਾਂ ਲਈ ਇੱਕ ਐਪ ਜੋ ਜ਼ੈਨਰਿਨ ਰਿਹਾਇਸ਼ੀ ਨਕਸ਼ੇ, ਕਾਰ ਨੈਵੀਗੇਸ਼ਨ ਅਤੇ ਸਮਾਨ ਪ੍ਰਬੰਧਨ ਨੂੰ ਜੋੜਦਾ ਹੈ, ਤੇਜ਼ ਡਿਲੀਵਰੀ ਕਾਰਜਾਂ ਦਾ ਸਮਰਥਨ ਕਰਦਾ ਹੈ।",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "pl": {
+      "key": "4cbdc2073309c1a81bd6289f1fa5635a",
+      "own_screens": false,
+      "summary": "GODOOR, aplikacja dla dostawców i kierowców dostawczych, która łączy w sobie mapy mieszkańców Zenrin, nawigację samochodową i zarządzanie bagażem, wspiera szybką dostawę.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "pt-BR": {
+      "key": "3c002a60a284d9f8550cd6a4cf31f661",
+      "own_screens": false,
+      "summary": "GODOOR, um aplicativo para entregadores e motoristas de entrega que combina mapas residenciais Zenrin, navegação automotiva e gerenciamento de bagagem, oferece suporte a operações de entrega rápida.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "pt-PT": {
+      "key": "3c002a60a284d9f8550cd6a4cf31f661",
+      "own_screens": false,
+      "summary": "GODOOR, um aplicativo para entregadores e motoristas de entrega que combina mapas residenciais Zenrin, navegação automotiva e gerenciamento de bagagem, oferece suporte a operações de entrega rápida.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "ro": {
+      "key": "8e5980b2024a87419b9d510a3afc8f20",
+      "own_screens": false,
+      "summary": "GODOOR, o aplicație pentru șoferii de livrare și livrare care combină hărțile rezidențiale Zenrin, navigația auto și gestionarea bagajelor, acceptă operațiunile de livrare rapide.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "ru": {
+      "key": "da33f07057cf81a374802e3e9718a915",
+      "own_screens": false,
+      "summary": "GODOOR, приложение для курьеров и водителей-курьеров, которое сочетает в себе карты домов Zenrin, автомобильную навигацию и управление багажом, поддерживает быструю доставку.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "si": {
+      "key": "0d1705cdb4fdc05328f503babb40b4d7",
+      "own_screens": false,
+      "summary": "GODOOR, සෙන්රින් නේවාසික සිතියම්, මෝටර් රථ සංචාලනය සහ ගමන් මලු කළමනාකරණය ඒකාබද්ධ කරන බෙදා හැරීම සහ බෙදා හැරීමේ රියදුරන් සඳහා යෙදුමක්, වේගවත් බෙදා හැරීමේ මෙහෙයුම් සඳහා සහය දක්වයි.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "sk": {
+      "key": "778d943fd9e91c74673f85571497d21a",
+      "own_screens": false,
+      "summary": "GODOOR, aplikácia pre vodičov doručovania a doručovania, ktorá kombinuje obytné mapy Zenrin, navigáciu do auta a správu batožiny, podporuje rýchle doručovacie operácie.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "sl": {
+      "key": "548b8217c9e2be7428699e54eaddd37e",
+      "own_screens": false,
+      "summary": "GODOOR, aplikacija za dostavo in voznike dostave, ki združuje zemljevide stanovanj Zenrin, avtomobilsko navigacijo in upravljanje prtljage, podpira hitro dostavo.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "sq": {
+      "key": "29e161348da74a1f72138bd9183043fc",
+      "own_screens": false,
+      "summary": "GODOOR, një aplikacion për drejtuesit e dërgesave dhe dërgesave që kombinon hartat e banimit të Zenrin, navigimin e makinave dhe menaxhimin e bagazheve, mbështet operacionet e dërgimit të shpejtë.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "sr": {
+      "key": "2bb11690a5da1fbb9572433d89b14d19",
+      "own_screens": false,
+      "summary": "ГОДООР, апликација за возаче доставе и доставе која комбинује Зенрин стамбене мапе, навигацију за аутомобиле и управљање пртљагом, подржава брзе операције испоруке.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "sv": {
+      "key": "ca977f58ba0b1442c1bfca41f636b6be",
+      "own_screens": false,
+      "summary": "GODOOR, en app för leverans- och leveransförare som kombinerar Zenrin-bostadskartor, bilnavigering och bagagehantering, stöder snabb leverans.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "sw": {
+      "key": "f1e58ed0ffb554312f751aa3eed900d4",
+      "own_screens": false,
+      "summary": "GODOOR, programu ya viendeshaji vya uwasilishaji na uwasilishaji ambayo inachanganya ramani za makazi za Zenrin, urambazaji wa gari, na usimamizi wa mizigo, inasaidia shughuli za utoaji wa haraka.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "ta": {
+      "key": "b67c3e9b68c1db5a6c72e7f27cfa7323",
+      "own_screens": false,
+      "summary": "ஜென்ரின் குடியிருப்பு வரைபடங்கள், கார் வழிசெலுத்தல் மற்றும் லக்கேஜ் மேலாண்மை ஆகியவற்றை ஒருங்கிணைக்கும் டெலிவரி மற்றும் டெலிவரி டிரைவர்களுக்கான பயன்பாடான GODOOR, விரைவான டெலிவரி செயல்பாடுகளை ஆதரிக்கிறது.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "te": {
+      "key": "fff22dbb759e24df50bd5dcc4c86de33",
+      "own_screens": false,
+      "summary": "GODOOR, డెలివరీ మరియు డెలివరీ డ్రైవర్‌ల కోసం జెన్‌రిన్ రెసిడెన్షియల్ మ్యాప్‌లు, కార్ నావిగేషన్ మరియు సామాను నిర్వహణను మిళితం చేసే యాప్, వేగవంతమైన డెలివరీ కార్యకలాపాలకు మద్దతు ఇస్తుంది.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "th": {
+      "key": "6948dafca396d7d332758464974f0312",
+      "own_screens": false,
+      "summary": "GODOOR แอปสำหรับจัดส่งและคนขับรถส่งของที่รวมแผนที่ที่อยู่อาศัยของ Zenrin ระบบนำทางรถยนต์ และการจัดการสัมภาระเข้าด้วยกัน รองรับการดำเนินการจัดส่งที่รวดเร็ว",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "tr": {
+      "key": "8d8af82c105dfdb5157aa006569c6c09",
+      "own_screens": false,
+      "summary": "Zenrin yerleşim haritalarını, araç navigasyonunu ve bagaj yönetimini birleştiren teslimat ve teslimat sürücülerine yönelik bir uygulama olan GODOOR, hızlı teslimat operasyonlarını destekler.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "uk": {
+      "key": "1f06d7a5ef5e8f2fc6a4a373ad2a5920",
+      "own_screens": false,
+      "summary": "GODOOR, програма для доставки та водіїв, яка поєднує в собі карти житлових районів Zenrin, автомобільну навігацію та керування багажем, підтримує швидку доставку.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "ur": {
+      "key": "661d53027d44b95a0357ca591594da91",
+      "own_screens": false,
+      "summary": "GODOOR، ڈیلیوری اور ڈیلیوری ڈرائیوروں کے لیے ایک ایپ جو Zenrin کے رہائشی نقشوں، کار نیویگیشن، اور سامان کے انتظام کو یکجا کرتی ہے، تیزی سے ترسیل کی کارروائیوں کو سپورٹ کرتی ہے۔",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "vi": {
+      "key": "3636506d6070513eb8e8079b968b72aa",
+      "own_screens": false,
+      "summary": "GODOOR, một ứng dụng dành cho tài xế giao hàng và giao hàng kết hợp bản đồ khu dân cư Zenrin, điều hướng ô tô và quản lý hành lý, hỗ trợ các hoạt động giao hàng nhanh chóng.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "zh-CN": {
+      "key": "ddb606d675985fea8a63b4ed30f99993",
+      "own_screens": false,
+      "summary": "GODOOR 是一款面向送货和送货司机的应用程序，集 Zenrin 住宅地图、汽车导航和行李管理于一体，支持快速送货操作。",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "zh-HK": {
+      "key": "5326e0df248002ba287d8b9c6b57992f",
+      "own_screens": false,
+      "summary": "GODOOR 是一款針對送貨和送貨司機的應用程序，集 Zenrin 住宅地圖、汽車導航和行李管理於一體，支援快速送貨操作。",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "zh-TW": {
+      "key": "5326e0df248002ba287d8b9c6b57992f",
+      "own_screens": false,
+      "summary": "GODOOR 是一款針對送貨和送貨司機的應用程序，集 Zenrin 住宅地圖、汽車導航和行李管理於一體，支援快速送貨操作。",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    },
+    "zu": {
+      "key": "ccc8a5be447ba50d52618e9dc7e773d6",
+      "own_screens": false,
+      "summary": "I-GODOOR, uhlelo lokusebenza lokulethwa nokudiliva abashayeli oluhlanganisa amamephu okuhlala e-Zenrin, ukuzulazula kwemoto, nokuphathwa kwemithwalo, lusekela imisebenzi yokulethwa okusheshayo.",
+      "title": "GODOOR - ゼンリン住宅地図対応 配達アプリ",
+      "v": 2
+    }
+  }
+}

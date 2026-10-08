@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "Lahat",
   "description": "Find my kids is a family GPS location tracker designed for child safety and parental control. \r\nAre you a parent concerned about your child’s safety and screen time? \"Find My Kids\" is the ultimate GPS location tracker with comprehensive parental control features. With our app, you can track your child’s location, monitor their activities, and stay connected. Whether you need a reliable child parental control solution or want to effortlessly share my location, \"Find My Kids\" provides the tools to keep your family safe and connected. It's also perfect for families needing to share location in real time or use a trusted sharing GPS location tracker to ensure peace of mind.\r\n\r\nReal-Time GPS Tracking: Locate your child instantly with our sharing GPS location tracker and view their travel history throughout the day.\r\nParental Control: Manage screen time with daily statistics and block distracting apps to ensure focus on important activities. This powerful child parental control tool empowers parents.\r\nAlerts and Notifications: Receive alerts when your child leaves predefined safe zones. Stay updated with real-time notifications on their movement.\r\nListen-In Feature: Check the surrounding environment remotely to ensure your child is in safe company.\r\nEmergency SOS Button: Your child can press the SOS button in an emergency, alerting you instantly.\r\nLive Location Sharing: Use the live location app to track your child’s movement and share your location with trusted contacts.\r\nBattery Monitoring: Track your child’s device battery level and receive reminders to recharge when it’s low.\r\nFamily Chat: Communicate with ease using the in-app chat, complete with stickers for a fun experience.\r\nDevice Compatibility: Connect with smartphones or GPS watches like Smart Baby Watch, Wonlex, and more for seamless usage.\r\n\r\n\r\n<b>The Premier App for Parental Control!</b>\r\n\r\n\r\nThe app <b>cannot be installed on the cell phone without your child’s knowledge</b>, the use is only authorized with your child’s explicit consent.\r\n Personal data is stored in strict accordance with current legislation and GDPR policies. We care about your privacy and the security of your data. Therefore, we align our app with the requirements of the COPPA, the law on children's protection on the Internet, which confirms the official certificate of the <b>COPPA kidSAFE Seal Program</b>.\r\n\r\n\r\n<b>If your child has a smartphone:</b>\r\n\r\n\r\nYou can use all the features of the service for free during the trial period after connecting the child’s device. After the trial period, you will still be able to see your child’s location online in the free version. You will need a subscription to keep using all other features.\r\n\r\n\"Find My Kids\" combines advanced safety features with user-friendly design to give parents confidence and peace of mind. Whether you need effective parental control solutions, a live location app, or a trusted way to share my location, this app ensures you are always connected to your child. Stay on top of their safety and screen time with a single, reliable app.\r\n\r\nThe Find my kids app asks for the following permissions:\r\n\r\n– access to the camera and photo – to install the child's avatar;\r\n\r\n– accessibility services - to limit time at the smartphone screen;\r\n\r\n– access to contacts – to fill in the phone book in the GPS watch;\r\n\r\n– access to a microphone – to send voice messages in the chat.\r\n\r\n\r\nHaving technical difficulties? Please contact our 24/7 chat support within the app or send an email to support@findmykids.org",
@@ -7,22 +7,22 @@
   "genre": "Pagmamagulang",
   "headerImage": "https://play-lh.googleusercontent.com/j4ULfbEHZk5u-WHihagFWFyZyIhDC-eGz5qXgOUXZXnOCxgofUZZvhGPsIg2pw2246MQM3FocEQQ0AmfJHdW0Fs",
   "histogram": [
-    77935,
-    30217,
-    85334,
-    180770,
-    1683986
+    78007,
+    30252,
+    85406,
+    180650,
+    1684900
   ],
   "icon": "https://play-lh.googleusercontent.com/1xxhEalJmQZPdCdHbJ2cfABAmZn5vVB5kWPro0JjVmBAUHWLWfE0eKjQH3nO9IkQJCV7q3-Yu5-jWpLt_wdY",
   "inAppProductPrice": "$0.39 - $999.99 bawat item",
   "installs": "50,000,000+",
-  "lastUpdatedOn": "Okt 2, 2026",
+  "lastUpdatedOn": "Okt 6, 2026",
   "metrics": {
     "minInstalls": 50000000,
-    "ratings": 2058334,
-    "realInstalls": 82880689,
-    "reviews": 12985,
-    "score": 4.633693
+    "ratings": 2059276,
+    "realInstalls": 82974106,
+    "reviews": 12987,
+    "score": 4.633679
   },
   "price": 0,
   "screenshots": [
@@ -44,6 +44,6 @@
   ],
   "summary": "Family locator and parental control app: find phone with GPS location tracker",
   "title": "Find my kids: Location Tracker",
-  "version": "2.12.11-google",
+  "version": "2.12.13-google",
   "video": null
 }

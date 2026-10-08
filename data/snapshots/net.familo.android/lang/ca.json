@@ -1,0 +1,38 @@
+{
+  "_scanned": "2026-10-08",
+  "containsAds": true,
+  "contentRating": "Adolescents",
+  "description": "Prioritza la seguretat de la teva família amb Familo: la manera senzilla i segura de mantenir-te connectat.\r\n\r\nFamilo ajuda els membres de la família a mantenir-se informats i coordinar-se més fàcilment durant tot el dia. Amb un consentiment clar i una transparència total, està dissenyat per a la tranquil·litat, ajudant les famílies a sentir-se més unides i recolzades, fins i tot quan estan separades.\r\n\r\nFamilo ofereix les funcions següents:\r\n\r\n- Visualitza la ubicació en temps real dels membres de la família aprovats en un mapa familiar privat\r\n- Rep notificacions quan arribin o marxin els membres de la família amb llocs predefinits (com ara casa o l'escola)\r\n- Utilitza el botó SOS per compartir la ubicació d'emergència\r\n- Xateja en privat amb la teva família dins de l'aplicació: mantén-te connectat en qualsevol moment\r\n- Fes saber als membres de la família que estàs d'acord amb un registre ràpid a la teva ubicació actual\r\n- La compartició de la ubicació sempre és opcional: cada membre de la família controla la seva visibilitat\r\n- Cada membre de la família decideix qui pot veure la seva ubicació\r\n\r\n🔒 Avís de privadesa important:\r\n\r\n- Familo requereix el consentiment explícit de tots els usuaris abans de compartir la ubicació.\r\n- La ubicació només es comparteix dins del teu cercle familiar privat després que es doni el consentiment.\r\n- Sense aquest consentiment, les dades de localització no són visibles.\r\n\r\nComençar amb el localitzador GPS de Familo:\r\n\r\n- Descàrrega i configuració: Només cal instal·lar l'aplicació i proporcionar els permisos essencials, com ara l'accés a la ubicació, per a una funcionalitat completa.\r\n\r\n- Forma el teu cercle privat: Estableix o uneix-te a un grup familiar segur. La pertinença és exclusiva per a aquells que convides i que accepten explícitament unir-s'hi.\r\n\r\n- Envia invitacions: Convida fàcilment membres de la família mitjançant el seu número de telèfon, un enllaç únic o un codi QR.\r\n\r\n- El consentiment és crucial: Perquè comenci a compartir la ubicació, cada membre de la família convidat ha d'acceptar conscientment la invitació i concedir tots els permisos necessaris, inclosos els serveis de localització, al seu dispositiu.\r\n\r\n- Mantén-te informat: Ens assegurem que tots els membres de la família rebin notificacions clares que expliquen la finalitat de l'aplicació, qui els ha convidat i com s'utilitzarà la seva informació de localització dins del grup.\r\n\r\n- El teu control, sempre: Familo funciona únicament amb l'acord actiu de cada membre de la família per compartir la seva ubicació. Si es denega el consentiment, la compartició de la ubicació per a aquest membre romandrà inactiva.\r\n\r\nFamilo només funciona amb els permisos següents per proporcionar la funcionalitat completa:\r\n\r\n- Accés a la ubicació: per compartir en temps real, geofencing i alertes SOS\r\n- Notificacions: per informar-vos sobre registres o alertes de seguretat\r\n- Contactes: per convidar membres de confiança de la família\r\n- Fotos i càmera: per personalitzar perfils amb imatges\r\n\r\nFamilo està compromès amb la privadesa, la transparència i l'ús responsable.\r\n\r\nEns agradaria rebre els vostres comentaris! Comparteix les teves idees amb nosaltres a support@familo.net\r\n\r\nCondicions d'ús: https://terms.familo.net/en/Terms_and_Conditions_Familonet.pdf\r\nPolítica de privadesa: https://terms.familo.net/privacy",
+  "developer": "SAFETIX LTD",
+  "genre": "Estil de vida",
+  "headerImage": "https://play-lh.googleusercontent.com/L7jnwXpKWmdmAUeU-wkOjRzhXHk9XXGnexTG25Wpsjw-WKNjT8q3FkV1wDbpAbbpKRxidzKdgXIkVCbE5Tk1Wg",
+  "histogram": [
+    49061,
+    15467,
+    41633,
+    88127,
+    471970
+  ],
+  "icon": "https://play-lh.googleusercontent.com/k65pzF3iC2vrf7LV96MkzDYjuyTu10Xa1m1jYEDzzpy9Z3le-IPpyXDbU2enm7ZHFPcBJSLiYdTIqEDGugf2TQ",
+  "inAppProductPrice": "2,99 USD - 89,99 USD per cada element",
+  "installs": "10.000.000+",
+  "lastUpdatedOn": "28 d’ag. 2026",
+  "metrics": {
+    "minInstalls": 10000000,
+    "ratings": 666353,
+    "realInstalls": 24221635,
+    "reviews": 1768,
+    "score": 4.3783913
+  },
+  "price": 0,
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/TbZkfAXa15Qn9hc_U3Dj-vwHVGJZapcAOpub6b7UJtqhKdVgjiYNFmmQM8UwUWjM8Xpn4mfP0qE16MDc6XHkdyE",
+    "https://play-lh.googleusercontent.com/6BMoGTwCHZ9WYy4JwSiryUMXJh96BiAYE9E2hPI3QHN_3-OqI6srSFPlJ8SyTfYu4xEl9qk4KXOvKukYw4hFGi0",
+    "https://play-lh.googleusercontent.com/vXWyfXYzQhsL1ZwJ5z9i0tqmpPgbt2yGqHWmln8L9CjOQGqlpAg5Wu2k4g8XErruZNNmSufXKpkyezS2W2pFwg",
+    "https://play-lh.googleusercontent.com/A-TNb0WX8bR_vRYT7ZLkn07fOI52zKegPZxPy933ULM7NNm5hCVSFSLQAZ5P9tbw5sASIsurq0fXu08UMMc3EA"
+  ],
+  "summary": "Localitzeu la vostra família les 24 hores del dia, els 7 dies del dia, utilitzant un localitzador GPS per mantenir la calma",
+  "title": "Familo: Find My Phone Locator",
+  "version": "2.114.2",
+  "video": null
+}

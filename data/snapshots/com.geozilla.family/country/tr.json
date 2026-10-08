@@ -1,6 +1,6 @@
 {
   "_lang": "tr",
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "PEGI 3",
   "description": "Geozilla, ailelerin ve güvenilir grupların mesafe ne olursa olsun yakın, bilgili ve destekli kalmasına yardımcı olan bir aile konum paylaşımı ve güvenlik uygulamasıdır. Gerçek zamanlı konum takibi, acil durum uyarıları ve sürüş raporları gibi akıllı özelliklerle Geozilla, hem güvenliğe hem de şeffaflığa değer veren ailelere gönül rahatlığı getiriyor.\r\n✅ Nasıl çalışır:\r\n1. Uygulamayı yükleyin ve kendi konumunuzun çevrenizle paylaşılmasına izin verin.\r\n2. Özel bir aile çevresi oluşturun veya katılın - yalnızca davet ettiğiniz ve kabul edenler dahil edilecektir.\r\n3. Telefon numarası, bağlantı veya QR kodu kullanarak aile veya güvenilir üyeleri davet edin.\r\n4. Davet edilen her üye, konum paylaşımı etkinleşmeden önce daveti açıkça kabul etmeli ve gerekli tüm izinleri vermelidir.\r\n5. Tüm üyeler, uygulamanın amacı, onları kimin davet ettiği ve konum verilerinin nasıl kullanılacağı hakkında açıkça bilgilendirilir.\r\n6. Geozilla, yalnızca her kullanıcı konumunu paylaşmayı aktif olarak kabul ederse çalışabilir. Herhangi bir kişi onay vermezse, konum paylaşımı etkinleştirilmez. \r\n\r\n🌍 Aile güvenliği için temel özellikler:\r\nCanlı Konum Paylaşımı: Ailenizin veya güvendiğiniz çevre üyelerinizin gerçek zamanlı GPS konumlarını görün.\r\nKonum Geçmişi: Ailenizin gün içindeki hareket zaman çizelgesini görüntüleyin.\r\nGeliş ve Ayrılış Uyarıları: Birisi geldiğinde veya ayrıldığında uyarı almak için coğrafi olarak sınırlandırılmış konumlar (ev, okul, iş gibi) ayarlayın.\r\nPil İzleme: Birinin telefon pili azaldığında bildirim alın.\r\nGüvenli Sürüş İçgörüleri: Sürüş alışkanlıkları için davranış raporlarıyla güvenliği artırmaya yardımcı olun.\r\nAR Bulucu: Artırılmış Gerçeklik modunu kullanarak kalabalık alanlarda ailenizi görsel olarak bulun.\r\nÇarpışma Algılama ve SOS Uyarıları: Bir çarpışma veya sıkıntı durumu algılanırsa acil durum bildirimleri alın.\r\nWear OS uyumlu: Ailenizin nerede olduğunu bilin veya kendi konumunuzu doğrudan akıllı saatinizden paylaşın.\r\n\r\n🔒 Gizlilik, Şeffaflık ve Kullanıcı Onayı:\r\nGeozilla, yalnızca rıza gösteren taraflar (aile üyeleri ve yakın kişiler gibi) arasında konum paylaşımının karşılıklı, bilgilendirilmiş ve şeffaf kullanımını destekler. Uygulamamız gizlilik, güvenlik ve güven ilkeleri üzerine kurulmuştur. \r\n\r\n📱 Uygulama İzinleri Açıklandı:\r\nGeozilla, temel güvenlik özelliklerini sunmak için aşağıdaki izinleri talep edebilir (her adımda kullanıcı onayıyla):\r\nKonum Hizmetleri (Her Zaman / Arka Plan Erişimi): Uygulama aktif olarak kullanılmadığında bile sürekli GPS izleme, coğrafi sınırlama uyarıları ve çökme algılamayı etkinleştirmek için gereklidir.\r\nBildirimler: Varış/kalkış, SOS, düşük pil ve uygulama etkinliği gibi önemli uyarıları iletmek için kullanılır. Kişiler: İsteğe bağlı - adres defterinizden telefon numaraları seçmenize izin vererek güvenilir kişileri davet etmeyi basitleştirir.\r\nKamera ve Fotoğraflar: Profil resimleri ayarlamak veya QR davetlerini taramak için kullanılır.\r\nHareket ve Zindelik (Etkinlik Tanıma): Hareket modellerini izleyerek sürüş raporlarını ve çarpışma tespitini geliştirir.\r\n\r\nİzinler şeffaf bir şekilde talep edilir ve bağlam içinde açıklanır. Kullanıcılar her zaman kontrolde kalır ve cihaz ayarlarından erişimi ayarlayabilir.\r\nGeozilla gizliliğe, şeffaflığa ve sorumlu kullanıma kendini adamıştır. Tüm katılımcıların bilgisi ve izni olmadan uygulamanın hiçbir şekilde kullanılmasını desteklemiyoruz.\r\nGeozilla yalnızca ebeveynlerin çocuklarını veya bakıcıların bakmakla yükümlü oldukları kişileri takip etmesi gibi aile güvenliği kullanım durumları için tasarlanmış ve pazarlanmıştır. Gizli takip, gizli yükleme veya uzaktan etkinleştirmeyi desteklemez.\r\nGeozilla hakkında yardıma ihtiyacınız varsa veya geri bildiriminiz varsa bizimle şu adresten iletişime geçin: support@geozilla.com\r\nGizlilik Politikası: https://geozilla.com/privacy-policy\r\nKullanım Şartları: https://geozilla.com/terms-of-use",
@@ -8,11 +8,11 @@
   "genre": "Yaşam Tarzı",
   "headerImage": "https://play-lh.googleusercontent.com/bKkTJcBVFL2kVQeTBx4LC1Va9s8bUcCv1KHL_UkQynPVOD-N0iGB_i915fBgcIw9wKMybhK4CuL2AsHIwcBUP8A",
   "histogram": [
-    66324,
-    24871,
-    53888,
-    72542,
-    543029
+    69740,
+    22556,
+    55254,
+    65601,
+    548196
   ],
   "icon": "https://play-lh.googleusercontent.com/i72e4U2jPc5WBB6JXrWoFfBXJbLJSgrMnDna3qPjDN9dQaONNbetQLS2JkUua-vqB4IW_WQ7y5IEMoHQLL_bSQ",
   "inAppProductPrice": "Öğe başına ₺53,99-₺4.539,99",
@@ -20,10 +20,10 @@
   "lastUpdatedOn": "2 Eki 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 760656,
-    "realInstalls": 29664756,
+    "ratings": 761971,
+    "realInstalls": 29727083,
     "reviews": 442,
-    "score": 4.3160763
+    "score": 4.3126683
   },
   "price": 0,
   "screenshots": [

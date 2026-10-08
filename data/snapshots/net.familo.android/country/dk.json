@@ -1,0 +1,39 @@
+{
+  "_lang": "da",
+  "_scanned": "2026-10-08",
+  "containsAds": true,
+  "contentRating": "PG-klassificering",
+  "description": "Sæt din families sikkerhed først med Familo - den enkle og sikre måde at holde forbindelsen på.\r\n\r\nFamilo hjælper familiemedlemmer med at holde sig informerede og koordinere lettere i løbet af dagen. Med tydeligt samtykke og fuld gennemsigtighed er det designet til ro i sindet - hvilket hjælper familier med at føle sig tættere og mere støttede, selv når de er adskilt.\r\n\r\nFamilo tilbyder følgende funktioner:\r\n\r\n- Se godkendte familiemedlemmers realtidsplacering på et privat familiekort\r\n- Få besked, når familiemedlemmer ankommer eller forlader med foruddefinerede steder (som hjemme eller skole)\r\n- Brug SOS-knappen til deling af placering i nødstilfælde\r\n- Chat privat med din familie i appen - hold forbindelsen når som helst\r\n- Lad familiemedlemmer vide, at du er okay med en hurtig check-in på din nuværende placering\r\n- Placeringsdeling er altid tilvalg - hvert familiemedlem styrer sin synlighed\r\n- Hvert familiemedlem bestemmer, hvem der kan se deres placering\r\n\r\n🔒 Vigtig privatlivsmeddelelse:\r\n\r\n- Familo kræver udtrykkeligt samtykke fra alle brugere, før placering deles.\r\n\r\n- Placering deles kun inden for din private familiekreds, efter at samtykke er givet.\r\n\r\n- Uden dette samtykke er placeringsdata ikke synlige.\r\n\r\nKom godt i gang med Familo GPS Locator:\r\n\r\n- Download og opsæt: Installer blot appen og angiv de nødvendige tilladelser, f.eks. adgang til lokation, for at få fuld funktionalitet.\r\n\r\n- Dan din private cirkel: Opret eller bliv medlem af en sikker familiegruppe. Medlemskab er eksklusivt for dem, du inviterer, og som udtrykkeligt accepterer at deltage.\r\n\r\n- Send invitationer ud: Inviter nemt familiemedlemmer ved hjælp af deres telefonnummer, et unikt link eller en QR-kode.\r\n\r\n- Samtykke er afgørende: For at lokationsdeling kan begynde, skal hvert inviteret familiemedlem bevidst acceptere invitationen og give alle nødvendige tilladelser, inklusive lokationstjenester, på deres enhed.\r\n\r\n- Hold dig informeret: Vi sørger for, at alle familiemedlemmer modtager klare notifikationer, der forklarer appens formål, hvem der inviterede dem, og hvordan deres lokationsoplysninger vil blive brugt i gruppen.\r\n\r\n- Din kontrol, altid: Familo fungerer udelukkende med hvert familiemedlems aktive samtykke til at dele deres lokation. Hvis samtykket tilbageholdes, forbliver lokationsdeling for det pågældende medlem inaktiv.\r\n\r\nFamilo fungerer kun med følgende tilladelser for at levere fuld funktionalitet:\r\n\r\n- Adgang til placering: til deling i realtid, geofencing og SOS-advarsler\r\n- Notifikationer: til at informere dig om check-ins eller sikkerhedsadvarsler\r\n- Kontakter: til at invitere betroede familiemedlemmer\r\n- Fotos og kamera: til at personliggøre profiler med billeder\r\n\r\nFamilo er forpligtet til privatliv, gennemsigtighed og ansvarlig brug.\r\n\r\nVi vil meget gerne have din feedback! Del dine ideer med os på support@familo.net\r\n\r\nBrugsbetingelser: https://terms.familo.net/en/Terms_and_Conditions_Familonet.pdf\r\nPrivatlivspolitik: https://terms.familo.net/privacy",
+  "developer": "SAFETIX LTD",
+  "genre": "Livsstilsapps",
+  "headerImage": "https://play-lh.googleusercontent.com/L7jnwXpKWmdmAUeU-wkOjRzhXHk9XXGnexTG25Wpsjw-WKNjT8q3FkV1wDbpAbbpKRxidzKdgXIkVCbE5Tk1Wg",
+  "histogram": [
+    67225,
+    23917,
+    40428,
+    68922,
+    465859
+  ],
+  "icon": "https://play-lh.googleusercontent.com/k65pzF3iC2vrf7LV96MkzDYjuyTu10Xa1m1jYEDzzpy9Z3le-IPpyXDbU2enm7ZHFPcBJSLiYdTIqEDGugf2TQ",
+  "inAppProductPrice": "26,00 kr.-789,00 kr. hvis du faktureres via Play",
+  "installs": "10.000.000+",
+  "lastUpdatedOn": "28. aug. 2026",
+  "metrics": {
+    "minInstalls": 10000000,
+    "ratings": 666353,
+    "realInstalls": 24221635,
+    "reviews": 48803,
+    "score": 4.2640038
+  },
+  "price": 0,
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/TbZkfAXa15Qn9hc_U3Dj-vwHVGJZapcAOpub6b7UJtqhKdVgjiYNFmmQM8UwUWjM8Xpn4mfP0qE16MDc6XHkdyE",
+    "https://play-lh.googleusercontent.com/6BMoGTwCHZ9WYy4JwSiryUMXJh96BiAYE9E2hPI3QHN_3-OqI6srSFPlJ8SyTfYu4xEl9qk4KXOvKukYw4hFGi0",
+    "https://play-lh.googleusercontent.com/vXWyfXYzQhsL1ZwJ5z9i0tqmpPgbt2yGqHWmln8L9CjOQGqlpAg5Wu2k4g8XErruZNNmSufXKpkyezS2W2pFwg",
+    "https://play-lh.googleusercontent.com/A-TNb0WX8bR_vRYT7ZLkn07fOI52zKegPZxPy933ULM7NNm5hCVSFSLQAZ5P9tbw5sASIsurq0fXu08UMMc3EA"
+  ],
+  "summary": "Find din familie 24/7 ved hjælp af en GPS-locator for at bevare roen",
+  "title": "Familo: Find My Phone Locator",
+  "version": "2.114.2",
+  "video": null
+}

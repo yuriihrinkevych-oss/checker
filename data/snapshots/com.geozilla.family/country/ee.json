@@ -1,6 +1,6 @@
 {
   "_lang": "et",
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "PEGI 3",
   "description": "Geozilla on peredele mõeldud asukoha jagamise ja turvalisuse rakendus, mis aitab peredel ja usaldusväärsetel rühmadel olla lähedal, kursis ja toetatud – olenemata kaugusest. Nutikate funktsioonidega, nagu reaalajas asukoha jälgimine, hädaolukorra hoiatused ja sõiduraportid, toob Geozilla meelerahu peredele, kes hindavad nii turvalisust kui ka läbipaistvust.\r\n\r\n✅ Kuidas see töötab:\r\n1. Installige rakendus ja andke luba oma asukohta suhtlusringiga jagada.\r\n2. Looge privaatne perering või liituge sellega – kaasatakse ainult need, keda kutsute ja kes nõustuvad.\r\n3. Kutsuge perekonda või usaldusväärseid liikmeid telefoninumbri, lingi või QR-koodi abil.\r\n4. Enne asukoha jagamise aktiveerimist peab iga kutsutud liige kutse selgesõnaliselt vastu võtma ja andma kõik vajalikud load.\r\n5. Kõiki liikmeid teavitatakse selgelt rakenduse eesmärgist, kes nad kutsus ja kuidas asukohaandmeid kasutatakse.\r\n6. Geozilla saab toimida ainult siis, kui iga kasutaja nõustub aktiivselt oma asukohta jagama. Kui keegi ei nõustu, siis asukoha jagamist ei lubata.\r\n\r\n🌍 Pere turvalisuse põhifunktsioonid:\r\nAsukoha reaalajas jagamine: vaadake oma pere või usaldusväärsete suhtlusringi liikmete GPS-i asukohti reaalajas.\r\nAsukohaajalugu: vaadake oma pere päevast liikumise ajaskaala.\r\nSaabumis- ja lahkumishoiatused: seadistage geopiirdega asukohad (nt kodu, kool, töö), et saada hoiatusi, kui keegi saabub või lahkub.\r\nAku jälgimine: saate teada, kui kellegi telefoni aku hakkab tühjaks saama.\r\nSafe Driving Insights: aidake parandada ohutust sõiduharjumuste käitumisaruannete abil.\r\nAR-otsija.\r\nKrahhi tuvastamine ja hädaabiteated.\r\n\r\nWear OS-iga ühilduv: saate teada, kus teie pere on, või jagage oma asukohta otse nutikellast.\r\n\r\n🔒 Privaatsus, läbipaistvus ja kasutaja nõusolek:\r\nGeozilla toetab ainult vastastikust, teadlikku ja läbipaistvat asukoha jagamise kasutamist nõusoleku andnud osapoolte (nt pereliikmete ja lähedaste kontaktide) vahel. Meie rakendus on üles ehitatud privaatsuse, turvalisuse ja usalduse põhimõtetele.\r\nIga Geozilla funktsioon sõltub kasutaja selgest osalusest ja heakskiitmisest:\r\nKedagi ei saa teie suhtlusringi lisada ilma nende selgesõnalise nõusolekuta.\r\nAsukohaandmeid ei jagata ilma kasutaja aktiivse nõusolekuta.\r\nKutsutud kasutajaid teavitatakse sellest, kes nad kutsus, rakenduse eesmärgist ja nõutavatest konkreetsetest lubadest.\r\nSoovitame kasutajatel kasutada Geozillat ainult pere turvalisuse ja hooldamise eesmärgil. Rakenduse väärkasutamine heakskiitmata jälgimiseks või ilma teadliku nõusolekuta on rangelt vastuolus meie eeskirjade ja kohalike privaatsusseadustega.\r\n\r\n📱 Rakenduse load selgitatud:\r\nPeamiste turvafunktsioonide pakkumiseks võib Geozilla taotleda järgmisi õigusi (igas etapis kasutaja heakskiiduga):\r\nAsukohateenused (alati / taustal juurdepääs): nõutav pideva GPS-jälgimise, geotara hoiatuste ja krahhi tuvastamise lubamiseks – isegi kui rakendust aktiivselt ei kasutata.\r\nMärguanded: kasutatakse oluliste hoiatuste edastamiseks, nagu saabumine/väljumine, hädaabi, aku tühjenemine ja rakenduse tegevus.\r\nKontaktid: valikuline – lihtsustab usaldusväärsete kontaktide kutsumist, võimaldades teil valida aadressiraamatust telefoninumbreid.\r\nKaamera ja fotod: kasutatakse profiilipiltide seadistamiseks või QR-kutsete skannimiseks.\r\nLiikumine ja sobivus (aktiivsuse tuvastamine): täiustab sõiduraporteid ja avarii tuvastamist, jälgides liikumismustreid.\r\nLube küsitakse läbipaistvalt ja neid selgitatakse kontekstis. Kasutajad jäävad kogu aeg kontrolli alla ja saavad seadme seadetes juurdepääsu reguleerida.\r\n\r\nGeozilla on pühendunud privaatsusele, läbipaistvusele ja vastutustundlikule kasutamisele. Me ei toeta rakenduse kasutamist ilma kõigi osalejate teadmata ja nõusolekuta.\r\nGeozilla on loodud ja turustatud ainult pere turvalisuse kasutamiseks, näiteks lapsevanemad, kes jälgivad lapsi või hooldajad, kes abistavad ülalpeetavaid. See ei toeta varjatud jälgimist, salajasi installimisi ega kaugaktiveerimist.\r\nKui vajate abi või teil on Geozilla kohta tagasisidet, võtke meiega ühendust aadressil: support@geozilla.com\r\nPrivaatsuspoliitika: https://geozilla.com/privacy-policy\r\nKasutustingimused: https://geozilla.com/terms-of-use",
@@ -8,11 +8,11 @@
   "genre": "Elustiil",
   "headerImage": "https://play-lh.googleusercontent.com/bKkTJcBVFL2kVQeTBx4LC1Va9s8bUcCv1KHL_UkQynPVOD-N0iGB_i915fBgcIw9wKMybhK4CuL2AsHIwcBUP8A",
   "histogram": [
-    76695,
-    25799,
-    49044,
-    86924,
-    522188
+    76666,
+    25658,
+    48949,
+    86810,
+    523885
   ],
   "icon": "https://play-lh.googleusercontent.com/i72e4U2jPc5WBB6JXrWoFfBXJbLJSgrMnDna3qPjDN9dQaONNbetQLS2JkUua-vqB4IW_WQ7y5IEMoHQLL_bSQ",
   "inAppProductPrice": "2,99 € – 74,99 €, kui arveldatakse Play kaudu",
@@ -20,10 +20,10 @@
   "lastUpdatedOn": "2. okt 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 760656,
-    "realInstalls": 29664756,
-    "reviews": 68986,
-    "score": 4.251694
+    "ratings": 761971,
+    "realInstalls": 29727083,
+    "reviews": 69081,
+    "score": 4.2541046
   },
   "price": 0,
   "screenshots": [

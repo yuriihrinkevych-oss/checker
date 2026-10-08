@@ -1,0 +1,39 @@
+{
+  "_lang": "en-IN",
+  "_scanned": "2026-10-08",
+  "containsAds": false,
+  "contentRating": "Rated for 3+",
+  "description": "Find my Phone - Family Locator helps you stay connected and ensure the safety of your family members. Using advanced GPS technology, our app provides real-time location updates, allowing you to easily locate family members and find them in the crowds with your phone.\r\n\r\nKey features for family safety & connection:\r\n✔️ Real-time location tracking: view your family members' live location on a private map.\r\n✔️ Arrival & departure alerts: get notified when family members arrive at or leave predefined places (e.g., home, school).\r\n✔️ SOS button: share your emergency location instantly with your trusted circle.\r\n✔️ Flights tracking: easily know where your circle members fly and get notifications.\r\n✔️ Private in-app chat: stay in touch with your family through secure messaging.\r\n✔️ Quick check-in: let family members know you're safe with a tap.\r\n✔️ Location history: review past locations of family members.\r\n\r\n📲 How Find my Phone - Family Locator works: \r\n1. Install the app and grant necessary permissions for the app to function (e.g., location access).\r\n2. Create or join a private family circle. This ensures that only the people you invite and who accept your invitation will be part of your circle.\r\n3. Invite family or trusted members using their phone number, a direct link, or a QR code.\r\n4. Explicit consent is key: Each invited member must explicitly accept the invitation only with consent and grant all necessary permissions (including location access) on their own device before location sharing becomes active for them.\r\n5. Transparent notifications: All members are clearly notified about the purpose of the app, who invited them, and how their location data will be used within the private circle.\r\n6. User control: Find my Phone - Family Locator can only function if each user actively agrees to share their location. \r\n\r\n🔒 Privacy, Transparency & User Consent:\r\nFamily Locator supports only mutual, informed, and transparent usage of location sharing between consenting parties - such as family members and close contacts. Our app is built on the principles of privacy, safety, and trust.\r\n\r\nWe encourage users to use Find my Phone - Family Locator only for family safety and caregiving use cases. Misuse of the app for unapproved tracking and/or without informed consent is strictly against our policies and local privacy laws.\r\n\r\nOptional permissions: \r\n- Find my Phone - Family Locator may request the following permissions (with user approval at each step):\r\n- Location services: for real-time location sharing, geofencing, and SOS alerts.\r\n- Notifications: to inform you of family location changes and safety alerts.\r\n- Contacts: to help you invite trusted family members to your circles.\r\n- Photos and Camera: to personalize your profile picture.\r\n\r\nPermissions are requested transparently and explained in context. Users remain in control at all times and can adjust access in device settings.\r\nFamily Locator is committed to privacy, transparency, and responsible use. We do not support any use of the app without the knowledge and consent of all participants.\r\nFind my Phone - Family Locator is not intended for secret tracking or unauthorized surveillance. It is designed and marketed solely for family safety use cases, such as parents tracking children or caregivers assisting dependents. It does not support covert tracking, stealth installs, or remote activation.\r\n\r\nWe value your feedback! Contact us at: support@family-locator.com.\r\nPrivacy Policy: https://family-locator.com/privacy-policy/ \r\nTerms of Use: https://family-locator.com/terms-of-use/",
+  "developer": "GEO TRACK LABS LTD",
+  "genre": "Travel & Local",
+  "headerImage": "https://play-lh.googleusercontent.com/E7zWOwq7z9WrftqmQvoh4XwbtTYwPQ_rbchW5OtoY7rGzDpnWQ6fPg-ed1SjKXBjVJ57hlgRHgpJ-W0z0fnc",
+  "histogram": [
+    142607,
+    50720,
+    83105,
+    135139,
+    763496
+  ],
+  "icon": "https://play-lh.googleusercontent.com/tnmV5JsJpLKEGZoi-zpeum9Tv0RJlRYuOfsFaB3vJnFGc9oco5RBurLW64w61ujcQABYrIE14-f56gERNlF9lg",
+  "inAppProductPrice": "₹280.00 – ₹6,800.00 per item",
+  "installs": "10,000,000+",
+  "lastUpdatedOn": "2 Sept 2026",
+  "metrics": {
+    "minInstalls": 10000000,
+    "ratings": 1175075,
+    "realInstalls": 47155571,
+    "reviews": 35444,
+    "score": 4.128606
+  },
+  "price": 0,
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/6gMaVBqFBX8x2zhMWT8D9RBJFD8ai_1ZhaH8XDbDWNRMqS83WAZfc-M9cmupeRn0kKpolWDZJVW9QCiPjnfCcXQ",
+    "https://play-lh.googleusercontent.com/1O1HympK_ho6FuNNOjK8Ykr7iSqWW21vPJ3U6TLGhCbnNM-RpNNn364QVF8S1Or4dykmGTdYmNPTXFjEbvYb",
+    "https://play-lh.googleusercontent.com/yGWoJKD3NsyUQcQArP1DNzQGJ9n_3FkWhqJM_NciUaOZ9BUNItTfnQw3NBaf3J95ncOU4PdKPgYJVCQd4kwm",
+    "https://play-lh.googleusercontent.com/D-k8d3X0CLKfy75ZRVbbGcZ04RA5wIeYX6-6DGQ1PrX1l5tMuwJfu3IpVgtI7FuvEGmv5OTUoeLO2n-C_Agt1w"
+  ],
+  "summary": "Link & locate for real-time child & family safety: GPS tracker for families",
+  "title": "Find my Phone - Family Locator",
+  "version": "6.40.3",
+  "video": "https://play.google.com/video/lava/web/player/yt:movie:mYlnbJHZRfw?autoplay=1&embed=play"
+}

@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "Pre všetkých",
   "description": "Geozilla je aplikácia na zdieľanie polohy a bezpečnosť rodiny, ktorá pomáha rodinám a dôveryhodným skupinám zostať blízko, informovaní a podporovaní – bez ohľadu na vzdialenosť. Vďaka inteligentným funkciám, ako je sledovanie polohy v reálnom čase, núdzové výstrahy a správy o jazde, prináša Geozilla pokoj rodinám, ktoré oceňujú bezpečnosť aj transparentnosť.\r\n\r\n✅ Ako to funguje:\r\n1. Nainštalujte aplikáciu a povoľte zdieľanie vašej vlastnej polohy s vaším kruhom.\r\n2. Vytvorte alebo sa pripojte k súkromnému rodinnému kruhu – zaradení budú iba tí, ktorých pozvete a prijmú.\r\n3. Pozvite rodinu alebo dôveryhodných členov pomocou telefónneho čísla, odkazu alebo QR kódu.\r\n4. Pred aktiváciou zdieľania polohy musí každý pozvaný člen výslovne prijať pozvanie a udeliť všetky potrebné povolenia.\r\n5. Všetci členovia sú jasne informovaní o účele aplikácie, o tom, kto ich pozval a ako sa budú používať údaje o polohe.\r\n6. Geozilla môže fungovať iba vtedy, ak každý používateľ aktívne súhlasí so zdieľaním svojej polohy. Ak niektorá osoba nesúhlasí, zdieľanie polohy nebude povolené.\r\n\r\n🌍 Základné funkcie pre bezpečnosť rodiny:\r\nZdieľanie polohy naživo: Zobrazte si v reálnom čase polohu GPS svojej rodiny alebo členov dôveryhodného kruhu.\r\nHistória polohy: Pozrite si časovú os pohybu vašej rodiny počas dňa.\r\nUpozornenia na príchod a odchod: Nastavte geograficky ohraničené miesta (napríklad domov, škola, práca), aby ste dostávali upozornenia, keď niekto príde alebo odíde.\r\nMonitorovanie batérie: Dostávajte upozornenia, keď je batéria v telefóne niekoho vybitá.\r\nŠtatistiky bezpečnej jazdy: Pomôžte zlepšiť bezpečnosť pomocou správ o správaní pri šoférovaní.\r\nAR Finder.\r\nDetekcia zrútenia a SOS výstrahy.\r\n\r\nKompatibilné s Wear OS: zistite, kde sa nachádza vaša rodina, alebo zdieľajte svoju vlastnú polohu priamo zo svojich inteligentných hodiniek.\r\n\r\n🔒 Ochrana osobných údajov, transparentnosť a súhlas používateľa:\r\nGeozilla podporuje iba vzájomné, informované a transparentné používanie zdieľania polohy medzi súhlasiacimi stranami – ako sú rodinní príslušníci a blízke kontakty. Naša aplikácia je postavená na princípoch súkromia, bezpečnosti a dôvery.\r\nKaždá funkcia Geozilla závisí od jasnej účasti a schválenia používateľa:\r\nNikto nemôže byť pridaný do vášho okruhu bez jeho výslovného súhlasu.\r\nŽiadne údaje o polohe nie sú zdieľané bez aktívneho súhlasu používateľa.\r\nPozvaní používatelia sú informovaní o tom, kto ich pozval, o účele aplikácie a konkrétnych požadovaných povoleniach.\r\nOdporúčame používateľom, aby Geozillu používali iba na účely bezpečnosti rodiny a starostlivosti. Zneužitie aplikácie na neschválené sledovanie alebo bez informovaného súhlasu je prísne v rozpore s našimi zásadami a miestnymi zákonmi o ochrane osobných údajov.\r\n\r\n📱 Vysvetlenie povolení aplikácie:\r\nNa poskytovanie kľúčových bezpečnostných funkcií môže Geozilla požiadať o nasledujúce povolenia (so súhlasom používateľa v každom kroku):\r\nLokalizačné služby (vždy / prístup na pozadí): Vyžaduje sa na nepretržité sledovanie GPS, upozornenia na geofencing a detekciu zlyhaní – aj keď sa aplikácia aktívne nepoužíva.\r\nUpozornenia: Používajú sa na doručenie dôležitých upozornení, ako sú príchod/odchod, SOS, slabá batéria a aktivita aplikácií.\r\nKontakty: Voliteľné – zjednodušuje pozývanie dôveryhodných kontaktov tým, že vám umožňuje vybrať si telefónne čísla z adresára.\r\nFotoaparát a fotografie: Používa sa na nastavenie profilových obrázkov alebo skenovanie QR pozvánok.\r\nMotion & Fitness (Activity Recognition): Vylepšuje hlásenia o jazde a detekciu nehôd monitorovaním vzorcov pohybu.\r\nPovolenia sú požadované transparentne a vysvetlené v kontexte. Používatelia majú vždy kontrolu a môžu upraviť prístup v nastaveniach zariadenia.\r\n\r\nGeozilla sa zaviazala k ochrane súkromia, transparentnosti a zodpovednému používaniu. Nepodporujeme žiadne používanie aplikácie bez vedomia a súhlasu všetkých účastníkov.\r\nGeozilla je navrhnutá a predávaná výhradne pre prípady rodinnej bezpečnosti, ako sú rodičia, ktorí sledujú deti alebo opatrovatelia, ktorí pomáhajú závislým osobám. Nepodporuje skryté sledovanie, stealth inštalácie ani vzdialenú aktiváciu.\r\nAk potrebujete pomoc alebo máte spätnú väzbu o Geozille, kontaktujte nás na adrese: support@geozilla.com\r\nZásady ochrany osobných údajov: https://geozilla.com/privacy-policy\r\nPodmienky používania: https://geozilla.com/terms-of-use",
@@ -7,11 +7,11 @@
   "genre": "Životný štýl",
   "headerImage": "https://play-lh.googleusercontent.com/bKkTJcBVFL2kVQeTBx4LC1Va9s8bUcCv1KHL_UkQynPVOD-N0iGB_i915fBgcIw9wKMybhK4CuL2AsHIwcBUP8A",
   "histogram": [
-    91248,
-    20500,
-    43998,
-    92170,
-    512692
+    90679,
+    20517,
+    44751,
+    91602,
+    514374
   ],
   "icon": "https://play-lh.googleusercontent.com/i72e4U2jPc5WBB6JXrWoFfBXJbLJSgrMnDna3qPjDN9dQaONNbetQLS2JkUua-vqB4IW_WQ7y5IEMoHQLL_bSQ",
   "inAppProductPrice": "2,99 USD – 89,99 USD za položku",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "2. 10. 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 760656,
-    "realInstalls": 29664756,
+    "ratings": 761996,
+    "realInstalls": 29727083,
     "reviews": 3208,
-    "score": 4.202363
+    "score": 4.20533
   },
   "price": 0,
   "screenshots": [

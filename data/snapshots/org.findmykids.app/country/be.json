@@ -1,6 +1,6 @@
 {
   "_lang": "nl",
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "PEGI 3",
   "description": "Ervaar de verbeterde versie van onze app! Onze nieuwste update bevat een groot aantal verbeteringen die speciaal voor u zijn ontwikkeld. Geniet van een strakkere interface in combinatie met verbeterde functies voor een probleemloze navigatie. Blijf altijd een stap voor met de AI-routevoorspelling! Onze AI-chatbot herkent nu empathisch de emoties van uw kind en helpt u om hiermee om te gaan.\r\n\r\nZie in één oogopslag waar uw kind zich bevindt en luister naar omgevingsgeluiden van de locatie. Zo hoeft u zich nooit meer zorgen te maken over de persoonlijke veiligheid van uw kind(eren). Maak verbinding met een GPS-horloge of installeer de app Pingo! op de telefoon van uw kind.\r\n\r\n<b>Find my kids is een tracking-app voor ouders die zich zorgen maken wanneer hun kind niet aanwezig is of als het kind een beloproep niet hoort.</b>\r\n\r\nHoe helpt Find my kids u bij uw gemoedsrust?\r\n<b>GPS-locator</b> - Bekijk de locatie van uw kind op de kaart en bekijk waar uw kind gedurende de dag is. Voorkom dat uw kind gevaarlijke plaatsen bezoekt;\r\n<b>Omgevingsgeluid</b> – Luister naar de geluiden in de omgeving van uw kind, waardoor u verzekerd bent dat uw kind in veiligheid en in goed gezelschap verkeert;\r\n<b>Luid signaal</b> - Neemt uw kind de telefoon niet op of staat de telefoon op stille modus? Zend een luid signaal naar de telefoon van uw kind zodat hij/zij merkt dat u naar hem/haar op zoek bent;\r\n<b> Applicatiecontrole </b> - Houd bij welke apps uw kind gebruikt op school. Zo kunt u ontdekken of uw kind, in plaats van te leren, spelletjes heeft gespeeld in de klas;\r\n<b>Veiligheidscontrole</b> - Controleer of uw kind op tijd op school is. Ontvang meldingen wanneer uw kind aankomt op school, terugkeert naar huis of op een alternatieve bestemming aankomt (u kunt deze functie handmatig activeren);\r\n<b>Batterijcontrole</b> - Herinner uw kind eraan om de telefoon tijdig op te laden; de app stuurt een melding als de batterij bijna leeg is;\r\n<b>Gezinschat</b> - Communiceer met uw kind in een chat met grappige stickers;\r\n<b>Complimenten</b> - Geef uw kind complimentjes voor goede cijfers door ze harten te sturen!\r\n\r\n<b>App voor ouderlijk toezicht</b>\r\n\r\nDe app kan niet in het geheim worden geïnstalleerd; u moet de nadrukkelijke toestemming van uw kind krijgen. Persoonlijke gegevens worden opgeslagen in strikte overeenstemming met wetgeving en AVG-beleid.\r\n\r\n<b>Als uw kind een smartphone heeft:</b>\r\n\r\nInstalleer de app Pingo! op de telefoon van uw kind - een GPS-tracker voor het kind. In de app Pingo! kan uw kind met u chatten en kunnen ze in geval van gevaar op de noodknop drukken. Wanneer uw kind op de SOS-knop drukt, ontvangt u onmiddellijk een luid alarmsignaal op uw telefoon.\r\n\r\nJe kunt tijdens de proefperiode gratis gebruikmaken van alle functies van de app. Aan het einde van deze gratis periode kun je enkel nog de locatie van je kind online inzien. Om alle functies te kunnen gebruiken, dien je een abonnement af te sluiten.\r\n\r\n<b>Als uw kind een GPS-horloge heeft:</b>\r\n\r\nVerbind het GPS-horloge van uw kind met de betrouwbare Find my kids-app met gelokaliseerde interface en technische ondersteuning. De app is geschikt voor elk apparaat, zoals de Smart Baby Watch, Smart Age Watch, Smart Pet Tracker, Smart Tracker en dergelijke.\r\n\r\n<b>Find my kids app vraagt om de volgende rechten:</b>\r\n\r\n- toegang tot de camera en foto's - om de avatar van het kind in te stellen\r\n- toegang tot contacten - om het telefoonboek in het GPS-horloge te laden\r\n- Toegankelijkheidsdiensten - om de tijd op het smartphonescherm te beperken\r\n- toegang tot microfoon - om spraakberichten \r\n\r\nWanneer u technische problemen ondervindt, kunt u altijd contact opnemen met onze 24/7 ondersteuning via de chat-optie in de app of door een e-mail te sturen naar support@findmykids.orgte verzenden in de chat",
@@ -8,22 +8,22 @@
   "genre": "Ouderschap",
   "headerImage": "https://play-lh.googleusercontent.com/j4ULfbEHZk5u-WHihagFWFyZyIhDC-eGz5qXgOUXZXnOCxgofUZZvhGPsIg2pw2246MQM3FocEQQ0AmfJHdW0Fs",
   "histogram": [
-    42222,
-    19522,
-    122128,
-    318261,
-    1555742
+    41914,
+    19368,
+    121507,
+    321095,
+    1554935
   ],
   "icon": "https://play-lh.googleusercontent.com/1xxhEalJmQZPdCdHbJ2cfABAmZn5vVB5kWPro0JjVmBAUHWLWfE0eKjQH3nO9IkQJCV7q3-Yu5-jWpLt_wdY",
   "inAppProductPrice": "€ 0,29 - € 719,99 bij facturering via Play",
   "installs": "50.000.000+",
-  "lastUpdatedOn": "2 okt 2026",
+  "lastUpdatedOn": "6 okt 2026",
   "metrics": {
     "minInstalls": 50000000,
-    "ratings": 2058332,
-    "realInstalls": 82880689,
-    "reviews": 2089,
-    "score": 4.6158357
+    "ratings": 2059276,
+    "realInstalls": 82974106,
+    "reviews": 2090,
+    "score": 4.615889
   },
   "price": 0,
   "screenshots": [
@@ -44,6 +44,6 @@
   ],
   "summary": "Familietracker - Kind GPS-tracker & Telefoon-Tracker. Omgevingsgeluid",
   "title": "Find my kids: Kind GPS Tracker",
-  "version": "2.12.11-google",
+  "version": "2.12.13-google",
   "video": null
 }

@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "Բոլորի համար",
   "description": "GPS հետևիչ և tracker երեխաների հեռախոսների համար, family tracker համակարգ, ինչպես նաև արագ «find my phone» հնարավորություն՝ ապահով ծնողական հսկողություն։ Find my kids-ը աշխարհի վստահված լուծումն է ծնողների համար, ովքեր ուզում են տեսնել, թե որտեղ է իրենց երեխան, կիսվել «share my location» տվյալներով ու պահել ընտանիքը միասին։ Առաջադեմ kids gps tracker տեխնոլոգիան կապում է ձեր ընտանիքին մեկ հարթակում՝ ապահով և հեշտ օգտագործվող միջավայրում։\r\n\r\n• Մանկայի կենդանի տեղադրությունն ու երթուղին\r\n• Ծնողական հսկողություն\r\n• Ուղիղ լսել շրջապատի ձայները\r\n• Բարձր ազդանշան նույնիսկ լռության ռեժիմում\r\n• AI երթուղու կանխատեսում\r\n• Շարժումների զգուշացումներ\r\n\r\nՄեր mobile tracker for kids լուծումը ցույց է տալիս տեղանքը իրական ժամանակում, հիշեցնում լիցքավորել մարտկոցը և տեղեկացնում, երբ երեխան հեռանում է դպրոցից կամ տուն է ժամանում։ Դուք կարող եք kids location tracker քարտեզի վրա տեսնել այցելած վայրերը, գտնել «find my location» մեկ հպումով և պահպանել հանգիստ միտք, գիտենալով, որ family tracker ալգորիթմները գործում են։\r\n\r\nԿիսվեք գտնվելու վայրով, ստացեք movement alerts և ղեկավարեք ծրագրերի օգտագործումը դպրոցի ընթացքում՝ parental control գործիքներով։ Արտակարգ իրավիճակում SOS կոճակը մի վայրկյանում կտեղեկացնի ձեզ։ Բոլոր տվյալներն ապահով են և պահպանվում են Findmykids գաղտնիության բարձր արժեքներին համապատասխան։\r\n\r\nKids location tracker, share my location և find location ֆունկցիաները պահպանում են ձեր ընտանիքի անվտանգությունը։\r\n\r\nԵթե դուք ցանկանում եք share my location կամ find my phone հնարավորությունը օգտագործել և հանդիպում եք տեխնիկական խնդիրների Findmykids օգտագործելիս, կարող եք միշտ կապվել Findmykids-ի 24/7 աջակցությանը հավելվածի չաթով կամ support@findmykids.org էլ. հասցեով։ Մենք միշտ այստեղ ենք՝ օգնելու համար!\r\n\r\nԴուք կարող եք ծանոթանալ մեր փաստաթղթերին:\r\n\r\nUser Agreement - https://findmykids.org/docs/terms-of-use/ios/en\r\nPrivacy Policy - https://findmykids.org/docs/privacy-policy/ios/en – GPS tracker, kids tracker",
@@ -7,22 +7,22 @@
   "genre": "Երեխաների դաստիարակում",
   "headerImage": "https://play-lh.googleusercontent.com/j4ULfbEHZk5u-WHihagFWFyZyIhDC-eGz5qXgOUXZXnOCxgofUZZvhGPsIg2pw2246MQM3FocEQQ0AmfJHdW0Fs",
   "histogram": [
-    77935,
-    30217,
-    85334,
-    180770,
-    1683984
+    78007,
+    30252,
+    85406,
+    180650,
+    1684900
   ],
   "icon": "https://play-lh.googleusercontent.com/1xxhEalJmQZPdCdHbJ2cfABAmZn5vVB5kWPro0JjVmBAUHWLWfE0eKjQH3nO9IkQJCV7q3-Yu5-jWpLt_wdY",
   "inAppProductPrice": "0,39 $ – 999,99 $ ապրանքի համար",
   "installs": "50 000 000+",
-  "lastUpdatedOn": "02 հոկ, 2026 թ.",
+  "lastUpdatedOn": "06 հոկ, 2026 թ.",
   "metrics": {
     "minInstalls": 50000000,
-    "ratings": 2058332,
-    "realInstalls": 82880689,
-    "reviews": 12985,
-    "score": 4.633693
+    "ratings": 2059276,
+    "realInstalls": 82974106,
+    "reviews": 12987,
+    "score": 4.633679
   },
   "price": 0,
   "screenshots": [
@@ -49,6 +49,6 @@
   ],
   "summary": "Երեխաների հեռախոսի հետևիչ և ընտանեկան GPS տեղորոշում",
   "title": "Find my kids: GPS հետևիչ",
-  "version": "2.12.11-google",
+  "version": "2.12.13-google",
   "video": null
 }

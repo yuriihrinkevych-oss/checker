@@ -1,6 +1,6 @@
 {
   "_lang": "ms",
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "Dinilai untuk 3+",
   "description": "Geozilla ialah aplikasi perkongsian lokasi dan keselamatan untuk keluarga yang membantu keluarga dan kumpulan dipercayai kekal berhubung, sentiasa dimaklumkan dan saling menyokong - walaupun berjauhan. Dengan ciri pintar seperti penjejakan lokasi masa nyata, amaran kecemasan dan laporan pemanduan, Geozilla memberikan ketenangan fikiran kepada keluarga yang mengutamakan keselamatan dan ketelusan.\r\n\r\n✅ Cara ia berfungsi:\r\n1. Pasang aplikasi dan berikan kebenaran untuk berkongsi lokasi anda dengan kumpulan anda.\r\n2. Cipta atau sertai kumpulan keluarga peribadi. Hanya orang yang anda jemput dan terima jemputan akan disertakan.\r\n3. Jemput ahli keluarga atau individu yang dipercayai untuk menggunakan nombor telefon, pautan, atau kod QR.\r\n4. Setiap ahli yang dijemput mesti menerima jemputan secara jelas dan memberikan semua kebenaran yang diperlukan sebelum perkongsian lokasi diaktifkan.\r\n5. Semua ahli dimaklumkan dengan jelas tentang tujuan aplikasi ini, pihak yang menjemput mereka, serta cara data lokasi akan digunakan.\r\n6. Geozilla hanya boleh berfungsi jika setiap pengguna bersetuju secara aktif untuk berkongsi lokasi mereka. Jika mana-mana individu tidak memberikan persetujuan, perkongsian lokasi tidak akan diaktifkan.\r\n\r\n🌍 Ciri teras untuk keselamatan keluarga:\r\nPerkongsian Lokasi Secara Langsung: Lihat lokasi GPS masa nyata ahli keluarga atau individu dalam senarai kepercayaan anda.\r\nSejarah Lokasi: Lihat garis masa pergerakan keluarga anda sepanjang hari.\r\nMakluman Ketibaan & Keberangkatan: Tetapkan lokasi pemagaran geo (seperti rumah, sekolah atau tempat kerja) untuk menerima makluman apabila seseorang tiba atau meninggalkan lokasi tersebut.\r\nPemantauan Bateri: Terima pemberitahuan apabila bateri telefon seseorang hampir habis.\r\nAnalitik Pemanduan Selamat: Membantu meningkatkan keselamatan melalui laporan tingkah laku tabiat pemanduan.\r\nPencari AR.\r\nPengesanan Kemalangan & Amaran SOS.\r\n\r\nSerasi dengan Wear OS: ketahui lokasi keluarga anda atau kongsi lokasi anda sendiri terus daripada jam pintar anda.\r\n\r\n🔒 Privasi, Ketelusan & Persetujuan Pengguna:\r\nGeozilla hanya menyokong penggunaan perkongsian lokasi yang saling dipersetujui, dimaklumkan, dan telus antara pihak yang memberikan persetujuan, seperti ahli keluarga dan kenalan rapat. Aplikasi kami dibangunkan berlandaskan prinsip privasi, keselamatan dan kepercayaan.\r\nSetiap ciri Geozilla bergantung pada penyertaan serta kelulusan pengguna yang jelas:\r\nTiada sesiapa boleh ditambahkan ke dalam kumpulan anda tanpa persetujuan jelas mereka.\r\nTiada data lokasi akan dikongsi tanpa persetujuan aktif daripada pengguna.\r\nPengguna yang dijemput akan dimaklumkan mengenai pihak yang menjemput mereka, tujuan penggunaan aplikasi ini, dan kebenaran khusus yang diperlukan.\r\nKami menggalakkan pengguna menggunakan Geozilla hanya untuk tujuan keselamatan keluarga dan penjagaan. Penyalahgunaan aplikasi ini untuk penjejakan tanpa kelulusan atau tanpa persetujuan yang dimaklumkan adalah dilarang sama sekali dan melanggar dasar kami serta undang-undang privasi tempatan\r\n\r\nGeozilla direka dan dipasarkan khusus untuk kegunaan keselamatan keluarga, seperti ibu bapa menjejak lokasi anak-anak atau penjaga membantu individu di bawah jagaan mereka. Aplikasi ini tidak membenarkan penjejakan tersembunyi, pemasangan tanpa pengetahuan pengguna, atau pengaktifan dari jarak jauh.\r\nJika anda memerlukan bantuan atau mempunyai maklum balas mengenai Geozilla, sila hubungi kami di: support@geozilla.com\r\nDasar Privasi: https://geozilla.com/privacy-policy\r\nTerma Penggunaan: https://geozilla.com/terms-of-use",
@@ -8,11 +8,11 @@
   "genre": "Gaya hidup",
   "headerImage": "https://play-lh.googleusercontent.com/bKkTJcBVFL2kVQeTBx4LC1Va9s8bUcCv1KHL_UkQynPVOD-N0iGB_i915fBgcIw9wKMybhK4CuL2AsHIwcBUP8A",
   "histogram": [
-    40836,
-    18376,
-    63296,
-    66359,
-    571714
+    40878,
+    18395,
+    63361,
+    66427,
+    572704
   ],
   "icon": "https://play-lh.googleusercontent.com/i72e4U2jPc5WBB6JXrWoFfBXJbLJSgrMnDna3qPjDN9dQaONNbetQLS2JkUua-vqB4IW_WQ7y5IEMoHQLL_bSQ",
   "inAppProductPrice": "RM 8.99 - RM 409.99 per item",
@@ -20,8 +20,8 @@
   "lastUpdatedOn": "2 Okt 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 760686,
-    "realInstalls": 29664756,
+    "ratings": 761971,
+    "realInstalls": 29727083,
     "reviews": 954,
     "score": 4.45906
   },

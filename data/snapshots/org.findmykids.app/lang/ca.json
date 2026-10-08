@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "Per a tots els públics",
   "description": "<b>Find my kids és un rastrejador familiar per a la seguretat dels nens i el control parental.</b> Pots connectar el rellotge GPS o instal·lar Pingo! al telèfon del teu fill.\r\n\r\nFind my kids és una app rastrejadora per a pares que es preocupen quan els seus fills no hi són o no senten les seves trucades:\r\n\r\n<b>Localitzador GPS</b> – rastreja la localització del teu fill al mapa i registra el moviment del nen durant el dia, assegurant-se que no visiti llocs perillosos.\r\n<b>So al voltant</b> – escolta què passa al voltant del teu fill, assegurant-se que estigui segur i en bona companyia.\r\n<b>Alarma forta</b> – alerta el telèfon del nen si se’l deixa a la motxilla o el té en silenci.\r\n<b>Control d’apps</b> – controla les apps que el nen ha fet servir a l’escola i descobreix si ha estat jugant a classe enlloc d’aprendre.\r\n<b>Control de seguretat</b> – rep notificacions quan el nen arribi a l’escola, quan torni a casa o a un destí alternatiu (es pot activar aquesta opció manualment). \r\n<b>Control de bateria</b> – recorda al teu fill quan carregar el telèfon a temps. L’app enviarà una notificació quan quedi poca bateria..\r\n<b>Xat familiar</b> – comunica’t amb el teu fill en un xat divertit amb stickers divertits..\r\n\r\n<b>App per a control parental</b>\r\nL’app Find my kids està només dirigida a la seguretat familiar i al control parental. L’app no es pot instal·lar al telèfon de manera secreta; s’ha d’obtenir permís explícit del nen. Les dades personals es guarden en compliment estricte de la llei i la política RGPD.\r\nEns importa la privacitat y la seguretat de les teves dades. Per això hem adaptat la nostra app als requeriments de la COPPA, la llei de protecció de la privacitat infantil a Internet, i comptem amb el segell d’aprovació del kidSAFE Seal Program. \r\n\r\n<b>Com funciona l’app Find my kids?:</b> \r\n1) Instal·la l’app Find my kids al teu mòbil.\r\n2) Selecciona quin dispositiu vols connectar-hi: el mòbil del nen o el rellotge GPS.\r\n3) Instal·la l’app Pingo! al mòbil del nen o posa-hi el número de SIM del rellotge GPS. \r\n\r\n<b>Si el nen té un smartphone:</b> \r\nInstal·la l’app Pingo! al mòbil del nen – un rastrejador GPS pel nen. A l’app Pingo! el nen podrà comunicar-se amb tu i, en cas de perill, podrà pressionar el botó d’emergència. Quan un nen prem el botó SOS, rebràs immediatament una forta senyal d’alarma al teu telèfon. \r\n\r\nPots fer servir totes les opcions del servei de forma gratuïta durant el període de prova després de connectar el dispositiu del nen. Quan s’acabi aquest període, a la versió gratuïta podràs veure la localització del nen, però hauràs de subscriure’t si vols utilitzar la resta de funcions.\r\n\r\nL’app Find my kids demana els següents permisos:\r\n- Accés a la càmera i les fotos – per instal·lar l’avatar del nen\r\n- Accés als contactes – per omplir l’agenda del rellotge GPS\r\n- Accés al micròfon – per enviar missatges de veu al xat\r\n- serveis d'accessibilitat: per limitar el temps a la pantalla del telèfon intel·ligent\r\n\r\n\r\n<b>Si el nen té un rellotge GPS:</b> \r\nConnecta’l amb Find my kids, l’app fiable amb una interfície localitzada i suport tècnic. L’app és apta per a qualsevol dispositiu Smart Baby Watch, Smart Age Watch, Smart Pet Tracker, Smart Tracker i similars.\r\nSi vols comprar un nou rellotge GPS per nens, recomanem que provis els models Smart Baby Watch Q8, W10, Q360, DS18, G10, i I8. Altres bones opcions podrien ser W8, Q50, i Q80. Si t’interessa alguna cosa més complexa, pots mirar el Tiroki Q8, l’OJOY A1 o algun rellotge d’Amoto.\r\n\r\nEn cas de problemes tècnics, sempre pots contactar amb el suport tècnic 24 hores via xat a través de l’app o per email a support@findmykids.org",
@@ -7,22 +7,22 @@
   "genre": "Criança",
   "headerImage": "https://play-lh.googleusercontent.com/OjN2pWUF1lePH_n4iGoxPigxS3aAfVc0WYByiy_Ie0pk_gLKWqywjOTC8gHNUz4MGD0WtDguh_RqDh9WKmdsYw",
   "histogram": [
-    77935,
-    30217,
-    85334,
-    180770,
-    1683984
+    78007,
+    30252,
+    85406,
+    180650,
+    1684900
   ],
   "icon": "https://play-lh.googleusercontent.com/1xxhEalJmQZPdCdHbJ2cfABAmZn5vVB5kWPro0JjVmBAUHWLWfE0eKjQH3nO9IkQJCV7q3-Yu5-jWpLt_wdY",
   "inAppProductPrice": "0,39 USD - 999,99 USD per cada element",
   "installs": "50.000.000+",
-  "lastUpdatedOn": "2 d’oct. 2026",
+  "lastUpdatedOn": "6 d’oct. 2026",
   "metrics": {
     "minInstalls": 50000000,
-    "ratings": 2058332,
-    "realInstalls": 82880689,
-    "reviews": 12985,
-    "score": 4.633693
+    "ratings": 2059276,
+    "realInstalls": 82974106,
+    "reviews": 12987,
+    "score": 4.633679
   },
   "price": 0,
   "screenshots": [
@@ -42,6 +42,6 @@
   ],
   "summary": "Rastrejador de nens per rellotge GPS o telèfon. Control parental. So al voltant",
   "title": "Findmykids: Rastrejador mòbil",
-  "version": "2.12.11-google",
+  "version": "2.12.13-google",
   "video": null
 }

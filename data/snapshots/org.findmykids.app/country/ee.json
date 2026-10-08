@@ -1,6 +1,6 @@
 {
   "_lang": "et",
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "PEGI 3",
   "description": "Find my kids on pere GPS jälgija lapse turvalisuse ja vanemliku kontrolli jaoks.\r\nPaigalda rakendus Find my kids oma telefoni ja Pingo! lapse telefoni või ühenda GPS-kell.\r\n\r\nFind my kids on vanematele mõeldud rakendus, mis aitab teil vähem muretseda, kui lapsed ei ole teiega ega kuule te kõnesid:\r\nGPS lokaator - vaadake lapse asukohta kaardil ja liikumise ajalugu päeval, veenduge, et laps ei külasta ohtlike kohtasid;\r\nÜmbruse heli - kuulake, mis toimub lapse ümbruses, et aru saada, kas kõik on korras ja olla veendunud, et ta on heas seltskonnas;\r\nVali signaal - saatke lapse telefoni vali signaal, kui ta on jätnud telefoni seljakotti või vaiksele režiimile ega kuule helinat;\r\nRakenduste kontroll - saage teada, mis rakendusi ta koolis olles kasutab ja kas ta tunnis õppimise asemel hoopis mängis;\r\nTurvalisuse kontroll - kontrollige, kas laps on õigel ajal kooli jõudnud - saage teateid tema kooli jõudmise, tegevuste ja koju jõudmise kohta;\r\nAku kontroll - tuletage lapsele meelde aku laadimist õigel ajal, rakendus saadab teate kui aku on varsti tühi;\r\nPere vestlus – kasutage lapsega suhtlemisel lõbusaid kleepekaid;\r\nKiitus - kiitke last heade hinnete eest, saates talle südameid!\r\n\r\nRakendus vanemlikuks kontrolliks\r\n\r\nFind my kids rakendus on mõeldud ainult pere turvalisuseks ja vanemlikuks kontrolliks.\r\nRakendust ei saa paigaldada telefoni salaja, kasutamine on võimalik ainult lapse nõusolekul.\r\nIsikuandmeid talletatakse vastavalt seadusele ja GDPR reeglitele.\r\n\r\n\r\nKui lapsel on nutitelefon:\r\nPaigaldage lapse telefoni rakendus Pingo! – lastele mõeldud GPS jälgija. Teenus kasutab lapse telefoni GPS-i ökonoomses režiimis, mis erineb teistest sarnastest teenustest. Rakendus töötab lapse telefonis GPS lokaator režiimis. Pingo! rakenduses saab laps teiega suhelda ja ohu korral vajutada häire nuppu. Kui laps vajutab SOS nuppu, saate kohe häiresignaali oma telefoni.\r\n\r\nKui lapsel on GPS-kell:\r\nÜhendage usaldusväärne Find my kids rakendus lokaliseeritud liidese ja tehnilise toega.\r\nRakendus sobib seadmetele Smart Baby Watch, Smart Age Watch, Smart Pet Tracker, Smart Tracker jms.\r\n\r\nKuidas Find my kids rakendus töötab:\r\n1) paigaldage Find my kids rakendus oma telefoni;\r\n2) valige ühendatav seade: lapse telefon või GPS-kell;\r\n3) paigaldage rakendus Pingo! lapse telefoni või sisestage GPS-kella SIM-kaardi number.\r\n\r\nPärast lapse seadme ühendamist käivitub testperiood, mille vältel saate kasutada kõiki teenuse funktsioone tasuta. Tasuta versiooni puhul säilib testperioodi lõppedes võimalus näha lapse asukohta onlainis. Kõigi funktsioonide kasutamiseks peab teil olema tellimus.\r\n\r\nFind my kids rakendus küsib järgmisi lube:\r\n- ligipääs kaamerale ja fotodele – lapse pildi lisamine\r\n- ligipääs kontaktidele – GPS-kellas telefoniraamatu täitmine\r\n- ligipääs mikrofonile – vestlusaknas helisõnumite saatmine\r\n- teenustele ligipääsemine - et piirata nutitelefoni kasutamise aega\r\n\r\nNimekiri toetatud GPS-kelladest:\r\nKui olete mõelnud osta uue lastele mõeldud GPS-kella, soovitame teil proovida Smart Baby Watch-i mudeleid, nagu Q8, W10, Q360, DS18, G10 ja I8. Teised head valikud on ka W8, Q50 ja Q80. Kui olete huvitatud aga millestki keerulisemast, pakume teile mudeleid Tiroki Q8 või OJOY A1 või mõnda Amoto kella.\r\n\r\nTehniliste probleemide korral võite alati rakenduses oleva vestluse kaudu meie 24/7 klienditoega ühendust võtta või saata e-kirja aadressile support@findmykids.org.",
@@ -8,22 +8,22 @@
   "genre": "Lapsevanematele",
   "headerImage": "https://play-lh.googleusercontent.com/j4ULfbEHZk5u-WHihagFWFyZyIhDC-eGz5qXgOUXZXnOCxgofUZZvhGPsIg2pw2246MQM3FocEQQ0AmfJHdW0Fs",
   "histogram": [
-    63530,
-    22366,
-    60260,
-    159135,
-    1753039
+    63506,
+    22350,
+    60109,
+    158986,
+    1754319
   ],
   "icon": "https://play-lh.googleusercontent.com/1xxhEalJmQZPdCdHbJ2cfABAmZn5vVB5kWPro0JjVmBAUHWLWfE0eKjQH3nO9IkQJCV7q3-Yu5-jWpLt_wdY",
   "inAppProductPrice": "0,29 € – 719,99 €, kui arveldatakse Play kaudu",
   "installs": "50 000 000+",
-  "lastUpdatedOn": "2. okt 2026",
+  "lastUpdatedOn": "6. okt 2026",
   "metrics": {
     "minInstalls": 50000000,
-    "ratings": 2058332,
-    "realInstalls": 82880689,
-    "reviews": 369088,
-    "score": 4.7080755
+    "ratings": 2059276,
+    "realInstalls": 82974106,
+    "reviews": 369204,
+    "score": 4.7084947
   },
   "price": 0,
   "screenshots": [
@@ -51,6 +51,6 @@
   ],
   "summary": "Pere jälgija -Lapse GPS-kell & telefoni lokaator. Online asukoht. Ümbruse heli",
   "title": "Find my kids: GPS Jälgija",
-  "version": "2.12.11-google",
+  "version": "2.12.13-google",
   "video": null
 }

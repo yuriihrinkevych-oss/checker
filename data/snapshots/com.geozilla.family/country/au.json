@@ -1,6 +1,6 @@
 {
   "_lang": "en-AU",
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "Rated for 3+",
   "description": "Geozilla is a family location sharing and safety app that helps families and trusted groups stay close, informed, and supported - no matter the distance. With smart features like real-time location tracking, emergency alerts, and driving reports, Geozilla brings peace of mind to families who value both safety and transparency.\r\n\r\n✅ How it works:\r\n1. Install the app and give permission for your own location to be shared with your circle.\r\n2. Create or join a private family circle - only those you invite and who accept will be included.\r\n3. Invite family or trusted members using phone number, link, or QR code.\r\n4. Each invited member must explicitly accept the invitation and grant all necessary permissions before location sharing becomes active.\r\n5. All members are clearly notified about the purpose of the app, who invited them, and how location data will be used.\r\n6. Geozilla can only function if each user actively agrees to share their location. If any person does not consent, location sharing will not be enabled.\r\n\r\n🌍 Core features for family safety:\r\nLive Location Sharing: See real-time GPS locations of your family or trusted circle members.\r\nLocation History: View the movement timeline of your family during the day.\r\nArrival & Departure Alerts: Set up geofenced locations (like home, school, work) to receive alerts when someone arrives or leaves.\r\nBattery Monitoring: Be notified when someone’s phone battery is running low.\r\nSafe Driving Insights: Help improve safety with behavior reports for driving habits.\r\nAR Finder.\r\nCrash Detection & SOS Alerts.\r\n\r\nWear OS compatible: know where your family is or share your own location directly from your smartwatch.\r\n\r\n🔒 Privacy, Transparency & User Consent:\r\nGeozilla supports only mutual, informed, and transparent usage of location sharing between consenting parties - such as family members and close contacts. Our app is built on the principles of privacy, safety, and trust.\r\nEvery feature of Geozilla depends on clear user participation and approval:\r\nNo one can be added to your circle without their explicit acceptance.\r\nNo location data is shared without the active consent of the user.\r\nInvited users are informed about who invited them, the purpose of the app, and the specific permissions required.\r\nWe encourage users to use Geozilla only for family safety and caregiving use cases. Misuse of the app for unapproved tracking or without informed consent is strictly against our policies and local privacy laws.\r\n\r\n📱 App Permissions Explained:\r\nTo deliver key safety features, Geozilla may request the following permissions (with user approval at each step):\r\nLocation Services (Always / Background Access): Required to enable continuous GPS tracking, geofencing alerts, and crash detection - even when the app is not actively used.\r\nNotifications: Used to deliver important alerts such as arrival/departure, SOS, low battery, and app activity.\r\nContacts: Optional - simplifies inviting trusted contacts by allowing you to choose phone numbers from your address book.\r\nCamera & Photos: Used for setting profile images or scanning QR invites.\r\nMotion & Fitness (Activity Recognition): Enhances driving reports and crash detection by monitoring movement patterns.\r\nPermissions are requested transparently and explained in context. Users remain in control at all times and can adjust access in device settings.\r\n\r\nGeozilla is committed to privacy, transparency, and responsible use. We do not support any use of the app without the knowledge and consent of all participants.\r\nGeozilla is designed and marketed solely for family safety use cases, such as parents tracking children or caregivers assisting dependents. It does not support covert tracking, stealth installs, or remote activation.\r\nIf you need assistance or have feedback about Geozilla, contact us at: support@geozilla.com\r\nPrivacy Policy: https://geozilla.com/privacy-policy\r\nTerms of Use: https://geozilla.com/terms-of-use",
@@ -8,11 +8,11 @@
   "genre": "Lifestyle",
   "headerImage": "https://play-lh.googleusercontent.com/bKkTJcBVFL2kVQeTBx4LC1Va9s8bUcCv1KHL_UkQynPVOD-N0iGB_i915fBgcIw9wKMybhK4CuL2AsHIwcBUP8A",
   "histogram": [
-    202198,
-    20917,
-    48806,
-    62751,
-    425314
+    181626,
+    27835,
+    48712,
+    62629,
+    439800
   ],
   "icon": "https://play-lh.googleusercontent.com/i72e4U2jPc5WBB6JXrWoFfBXJbLJSgrMnDna3qPjDN9dQaONNbetQLS2JkUua-vqB4IW_WQ7y5IEMoHQLL_bSQ",
   "inAppProductPrice": "$4.99 – $109.99 per item",
@@ -20,10 +20,10 @@
   "lastUpdatedOn": "2 Oct 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 760686,
-    "realInstalls": 29664756,
+    "ratings": 761996,
+    "realInstalls": 29727083,
     "reviews": 145,
-    "score": 3.642202
+    "score": 3.7247705
   },
   "price": 0,
   "screenshots": [

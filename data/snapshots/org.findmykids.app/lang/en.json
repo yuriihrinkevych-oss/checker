@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "Everyone",
   "description": "If your family's safety is a top priority, then the Findmykids parental control app & GPS family tracker is just for you!\r\n\r\nFindmykids delivers parental control, find my phone help, and precise location tracking in one GPS phone location tracker and a GPS tracker app.\r\n\r\nWhether you come from Family Link, Qustodio parental control app or the Qustodio kids app, or you looked at Airdroid parental control, you’ll feel right at home with our clear geolocator built for parents:  simple to start, reliable day to day, and respectful of your family’s privacy.\r\n\r\nParents who tried the iSharing gps location tracker, the Geozilla family gps locator, or an X gps tracker often say Findmykids is easier to start and easier to trust. It keeps focus on what matters: helping you understand where your child is, how they move through the day, and when they may need your attention. With thoughtful alerts and tools that support everyday routines, you stay informed without feeling overwhelmed.\r\n\r\nIt also pairs seamlessly with a child’s phone; if you used Setracker2 or the Setracker2 watch app before, moving over is straightforward. If you want a simple geo tracker app that centers on clarity and results, you’re in the right place. Set it up once and rely on consistent updates that help you make the right decisions fast.\r\n\r\nKey features parents value:\r\n• Kid’s live location tracker and route — View your child’s current position in real time and review the route and places visited during the day.\r\n• Parental control — See how much time your child spends on apps at school and keep screen time balanced.\r\n• Live listen to sound around — Hear what’s happening around your child when you need to be sure they are safe.\r\n• Bypass silent mode — Send a Loud Signal that rings even if the phone is on silent or in a backpack.\r\n• Movement alerts — Add places such as school, home, or the park and get notified when your child arrives or leaves.\r\n• SOS signal on kid’s phone — Your child can tap an SOS button to alert you instantly in an emergency.\r\n\r\nWhen your child is walking to class, staying late at practice, or taking a new route to a friend’s house, you can check in calmly, without calling and distracting them. If a phone is on silent, the Loud Signal helps you reach them. If they need you right away, the SOS button tells you where they are and that they want help now. Location insights and arrival notifications let you know the routine is on track, so you can spend less time worrying.\r\n\r\nFindmykids parental control app is built for families with different schedules and devices. Add key places once and the app quietly keeps watch, alerting you when your child arrives or leaves. Use it during commutes, school hours, playdates, and trips. You get context to act with confidence, all in one place. And if you’re exploring alternatives to a gps and phone location setup, or looking for a reliable gps location tracker that is easy to understand, Findmykids puts clarity first.\r\n\r\nWe work continuously to refine the experience: quicker updates, clearer maps, and dependable notifications. If you prefer a familiar style used by a gps kids tracker or a classic geo tracker app, you’ll find the interface intuitive from the first day. Thoughtful guidance inside the app helps you set everything up in minutes, with tips that make it simple to share access with a co-parent or caregiver when that helps your routine.\r\n\r\nOur app asks for the following permissions:\r\n– access to the camera and photos – to install the child's avatar;\r\n– access to a microphone – to send voice messages in the chat;\r\n– accessibility services - to limit time at the smartphone screen.\r\n\r\nIf you encounter any technical issues using Findmykids, you can always reach 24/7 support through the app’s chat or via email at support@findmykids.org. \r\n\r\nYou can familiarize yourself with our documents:\r\n- User Agreement - https://findmykids.org/docs/terms-of-use/ios/en\r\n- Privacy Policy - https://findmykids.org/docs/privacy-policy/ios/en",
@@ -7,22 +7,22 @@
   "genre": "Parenting",
   "headerImage": "https://play-lh.googleusercontent.com/j4ULfbEHZk5u-WHihagFWFyZyIhDC-eGz5qXgOUXZXnOCxgofUZZvhGPsIg2pw2246MQM3FocEQQ0AmfJHdW0Fs",
   "histogram": [
-    77935,
-    30217,
-    85334,
-    180770,
-    1683986
+    78007,
+    30252,
+    85406,
+    180650,
+    1684900
   ],
   "icon": "https://play-lh.googleusercontent.com/1xxhEalJmQZPdCdHbJ2cfABAmZn5vVB5kWPro0JjVmBAUHWLWfE0eKjQH3nO9IkQJCV7q3-Yu5-jWpLt_wdY",
   "inAppProductPrice": "$0.39 - $999.99 per item",
   "installs": "50,000,000+",
-  "lastUpdatedOn": "Oct 2, 2026",
+  "lastUpdatedOn": "Oct 6, 2026",
   "metrics": {
     "minInstalls": 50000000,
-    "ratings": 2058334,
-    "realInstalls": 82880689,
-    "reviews": 12985,
-    "score": 4.633693
+    "ratings": 2059276,
+    "realInstalls": 82974106,
+    "reviews": 12987,
+    "score": 4.633679
   },
   "price": 0,
   "screenshots": [
@@ -44,6 +44,6 @@
   ],
   "summary": "GPS location tracker & parental control app. Track & find my family location",
   "title": "Findmykids: Parental Control",
-  "version": "2.12.11-google",
+  "version": "2.12.13-google",
   "video": null
 }

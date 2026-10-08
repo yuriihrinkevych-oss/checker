@@ -1,6 +1,6 @@
 {
   "_lang": "de",
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "PEGI 3",
   "description": "Die deutsche Ortungs App und GPS Tracker für Eltern: Gerät finden, Standort sehen und mit der Eltern‑App die Handy‑Kontrolle behalten. Mit Find my kids wird die GPS‑Ortung fürs Handy, das Tracking und die sichere Kinder Ortung alltagstauglich.\r\n\r\nAls verlässliche Standort-App für Familien zeigt dieser GPS Standort Tracker den Live‑Standort Ihres Kindes und den zurückgelegten Weg auf einer klaren Karte. Wer eine Tracking App in Deutsch sucht, findet hier eine Lösung, um Geräte zu finden und den Schulweg im Blick zu behalten.\r\n\r\nFunktionen:\r\n• Live‑Standort des Kindes und Route: Sehen Sie den aktuellen Standort in Echtzeit und die besuchten Orte des Tages in der Karte.\r\n• Kindersicherung: Überwachen Sie, wie viel Zeit Ihr Kind in Apps verbringt, besonders während der Schulzeit.\r\n• Bewegungsalarme: Fügen Sie Orte wie Schule, Zuhause oder den Spielplatz hinzu und erhalten Sie Meldungen beim Ankommen oder Verlassen.\r\n• SOS‑Signal auf dem Kindertelefon: Ihr Kind kann Sie im Notfall mit einem Tastendruck sofort benachrichtigen.\r\n• Batteriekontrolle: Lassen Sie sich bei niedrigem Akkustand erinnern, damit das Gerät rechtzeitig geladen wird.\r\n• Chat mit Ihrem Kind: Tauschen Sie Text‑ und Sprachnachrichten aus und bleiben Sie im Kontakt.\r\n\r\nFind my kids ist die Eltern App, die GPS Handy orten verständlich macht: Sie sehen den Standort, verstehen die Route und erhalten wichtige Hinweise. Der GPS Tracker arbeitet stabil, damit Sie nicht nur eine Karte, sondern echte Orientierung haben. Für viele Familien ist es entscheidend, ein Gerät zu finden oder mehrere Geräte zu verwalten – vom Morgen bis zum Abend.\r\n\r\nUnser Fokus liegt auf Transparenz und Privatsphäre. Sie bestimmen, welche Hinweise Sie erhalten und welche Orte in der Standort App wichtig sind. Klare Jugendschutzeinstellungen helfen, Regeln passend zum Alter zu setzen und die Handy Kontrolle sinnvoll zu gestalten – ohne dauernd eingreifen zu müssen.\r\n\r\nMit dem GPS Standort Tracker behalten Sie die Bewegung im Blick, wenn es darauf ankommt. Die Benachrichtigungen der Tracking App sind anpassbar, und der Chat ermöglicht schnelle Rückmeldungen. Das ist hilfreich, wenn Kinder allein zur Schule gehen, nachmittags spielen oder zu Freunden fahren.\r\n\r\nInstallieren, Geräte verbinden und in der Standort App den Standort prüfen – die Ortungs App zum Orten von Handys, klar und deutsch. Ob Schulweg, Training oder Wochenendausflug: Mit dieser Standort App behalten Sie verlässlich den Überblick. Sie können Geräte finden, Routen nachvollziehen und bei Bedarf dank Bewegungsalarm schnell reagieren – alles in einer intuitiven Eltern‑App.\r\n\r\nWenn Sie bei der Nutzung von Findmykids auf technische Probleme stoßen, können Sie den 24/7‑Support von Findmykids jederzeit über den Chat in der App oder per E‑Mail an support@findmykids.org erreichen. Wir sind immer für Sie da!\r\n\r\nSie können sich mit unseren Dokumenten vertraut machen:\r\n\r\nUser Agreement - https://findmykids.org/docs/terms-of-use/ios/en\r\nPrivacy Policy - https://findmykids.org/docs/privacy-policy/ios/en",
@@ -8,22 +8,22 @@
   "genre": "Eltern",
   "headerImage": "https://play-lh.googleusercontent.com/j4ULfbEHZk5u-WHihagFWFyZyIhDC-eGz5qXgOUXZXnOCxgofUZZvhGPsIg2pw2246MQM3FocEQQ0AmfJHdW0Fs",
   "histogram": [
-    279479,
-    30753,
-    82549,
-    72297,
-    1591632
+    278995,
+    30759,
+    82565,
+    72312,
+    1593566
   ],
   "icon": "https://play-lh.googleusercontent.com/1xxhEalJmQZPdCdHbJ2cfABAmZn5vVB5kWPro0JjVmBAUHWLWfE0eKjQH3nO9IkQJCV7q3-Yu5-jWpLt_wdY",
   "inAppProductPrice": "€ 0,29–€ 719,99 bei Abrechnung über Google Play",
   "installs": "50.000.000+",
-  "lastUpdatedOn": "02.10.2026",
+  "lastUpdatedOn": "06.10.2026",
   "metrics": {
     "minInstalls": 50000000,
-    "ratings": 2058332,
-    "realInstalls": 82880689,
+    "ratings": 2059278,
+    "realInstalls": 82974106,
     "reviews": 629,
-    "score": 4.29471
+    "score": 4.2964826
   },
   "price": 0,
   "screenshots": [
@@ -44,6 +44,6 @@
   ],
   "summary": "App zum Orten meiner Kinder. GPS ortungs und app blocker parental control app",
   "title": "Find my kids: GPS tracking app",
-  "version": "2.12.11-google",
+  "version": "2.12.13-google",
   "video": null
 }

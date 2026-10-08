@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "Ingen åldersgräns",
   "description": "Geozilla är en familjeplatsdelnings- och säkerhetsapp som hjälper familjer och betrodda grupper att hålla sig nära, informerade och få stöd - oavsett avstånd. Med smarta funktioner som platsspårning i realtid, nödvarningar och körrapporter ger Geozilla sinnesfrid för familjer som värdesätter både säkerhet och transparens.\r\n\r\n✅ Så fungerar det:\r\n1. Installera appen och ge tillåtelse att din egen plats delas med din cirkel.\r\n2. Skapa eller gå med i en privat familjekrets - bara de du bjuder in och som accepterar kommer att inkluderas.\r\n3. Bjud in familj eller betrodda medlemmar med hjälp av telefonnummer, länk eller QR-kod.\r\n4. Varje inbjuden medlem måste uttryckligen acceptera inbjudan och ge alla nödvändiga behörigheter innan platsdelning blir aktiv.\r\n5. Alla medlemmar informeras tydligt om syftet med appen, vem som bjöd in dem och hur platsdata kommer att användas.\r\n6. Geozilla kan bara fungera om varje användare aktivt samtycker till att dela sin plats. Om någon person inte ger sitt samtycke kommer platsdelning inte att aktiveras.\r\n\r\n🌍 Kärnfunktioner för familjens säkerhet:\r\nLive platsdelning: Se GPS-positioner i realtid för din familj eller betrodda cirkelmedlemmar.\r\nPlatshistorik: Se rörelsetidslinjen för din familj under dagen.\r\nAnkomst- och avgångsvarningar: Ställ in geoskyddade platser (som hem, skola, arbete) för att ta emot varningar när någon anländer eller går.\r\nBatteriövervakning: Bli meddelad när någons telefonbatteri börjar ta slut.\r\nInsikter om säker körning: Hjälp till att förbättra säkerheten med beteenderapporter för körvanor.\r\nAR Finder.\r\nKraschdetektering och SOS-varningar.\r\n\r\nBär OS-kompatibelt: vet var din familj är eller dela din egen plats direkt från din smartwatch.\r\n\r\n🔒 Sekretess, transparens och användarsamtycke:\r\nGeozilla stöder endast ömsesidig, informerad och transparent användning av platsdelning mellan samtyckande parter - såsom familjemedlemmar och nära kontakter. Vår app är byggd på principerna om integritet, säkerhet och förtroende.\r\nVarje funktion i Geozilla beror på tydligt användarmedverkan och godkännande:\r\nIngen kan läggas till i din cirkel utan deras uttryckliga godkännande.\r\nIngen platsdata delas utan aktivt medgivande från användaren.\r\nInbjudna användare informeras om vem som bjöd in dem, syftet med appen och de specifika behörigheter som krävs.\r\nVi uppmuntrar användare att endast använda Geozilla för familjesäkerhet och vård. Missbruk av appen för ogodkänd spårning eller utan informerat samtycke strider strikt mot våra policyer och lokala integritetslagar.\r\n\r\n📱 Appbehörigheter förklaras:\r\nFör att leverera viktiga säkerhetsfunktioner kan Geozilla begära följande behörigheter (med användarens godkännande vid varje steg):\r\nPlatstjänster (alltid/bakgrundsåtkomst): Krävs för att möjliggöra kontinuerlig GPS-spårning, geofencing-varningar och kraschdetektering – även när appen inte används aktivt.\r\nAviseringar: Används för att leverera viktiga varningar som ankomst/avgång, SOS, lågt batteri och appaktivitet.\r\nKontakter: Valfritt – förenklar att bjuda in betrodda kontakter genom att du kan välja telefonnummer från din adressbok.\r\nKamera och foton: Används för att ställa in profilbilder eller skanna QR-inbjudningar.\r\nMotion & Fitness (Activity Recognition): Förbättrar körrapporter och krockdetektering genom att övervaka rörelsemönster.\r\nBehörigheter begärs öppet och förklaras i sitt sammanhang. Användarna har hela tiden kontrollen och kan justera åtkomsten i enhetsinställningarna.\r\n\r\nGeozilla är engagerad i integritet, transparens och ansvarsfull användning. Vi stöder inte någon användning av appen utan vetskap och samtycke från alla deltagare.\r\nGeozilla är designad och marknadsförs enbart för användning av familjesäkerhet, såsom föräldrar som spårar barn eller vårdgivare som hjälper anhöriga. Det stöder inte hemlig spårning, stealth-installationer eller fjärraktivering.\r\nOm du behöver hjälp eller har feedback om Geozilla, kontakta oss på: support@geozilla.com\r\nSekretesspolicy: https://geozilla.com/privacy-policy\r\nAnvändarvillkor: https://geozilla.com/terms-of-use",
@@ -7,11 +7,11 @@
   "genre": "Livsstil",
   "headerImage": "https://play-lh.googleusercontent.com/bKkTJcBVFL2kVQeTBx4LC1Va9s8bUcCv1KHL_UkQynPVOD-N0iGB_i915fBgcIw9wKMybhK4CuL2AsHIwcBUP8A",
   "histogram": [
-    91248,
-    20500,
-    43998,
-    92170,
-    512692
+    90679,
+    20517,
+    44751,
+    91602,
+    514374
   ],
   "icon": "https://play-lh.googleusercontent.com/i72e4U2jPc5WBB6JXrWoFfBXJbLJSgrMnDna3qPjDN9dQaONNbetQLS2JkUua-vqB4IW_WQ7y5IEMoHQLL_bSQ",
   "inAppProductPrice": "2,99 US$–89,99 US$ per objekt",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "2 okt. 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 760656,
-    "realInstalls": 29664756,
+    "ratings": 761996,
+    "realInstalls": 29727083,
     "reviews": 3208,
-    "score": 4.202363
+    "score": 4.20533
   },
   "price": 0,
   "screenshots": [

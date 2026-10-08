@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": true,
   "contentRating": "Per a tots els públics",
   "description": "<b>iSharing és un localitzador familiar i un rastrejador d'ubicació GPS dissenyat per ajudar les famílies a mantenir-se connectades i segures.</b> Comparteix ubicacions familiars en temps real, rep alertes quan els nens o la família arribin o marxin de llocs importants i utilitza iSharing com a rastrejador de telèfons per ajudar a trobar un telèfon perdut.\r\n\r\nTant si estàs comprovant que els teus fills han arribat sans i estalvis, fent un seguiment de la família durant tot el dia o reunint-te amb un grup, iSharing simplifica la compartició d'ubicacions diàries. iSharing ha estat oferint serveis de compartició d'ubicacions des del 2010.\r\n\r\n<b>FUNCIONS QUE OFERIM:</b>\r\n\r\n★ <b>Rastrejador d'ubicació GPS en temps real:</b> Comparteix de forma privada ubicacions en temps real amb la família i comprova la ubicació de la família al mapa. Mantén-te connectat durant tot el dia amb actualitzacions d'ubicació precises.\r\n\r\n★ <b>Alertes de llocs i notificacions familiars:</b> Rep notificacions quan els nens o la família arribin o marxin de llocs importants com ara casa, l'escola o la feina. Mantén-te informat automàticament sense registres repetits.\r\n\r\n★ <b>Meetup - Compartició temporal de la ubicació en grup:</b> Comparteix ubicacions en temps real i utilitza el xat en grup durant un temps limitat sense crear connexions permanents. Uneix-te amb un codi QR o un enllaç i la compartició de la ubicació finalitza automàticament quan la Meetup hagi acabat.\r\n\r\n\r\n★ <b>Troba el meu telèfon i rastrejador de telèfons:</b> Fes servir iSharing per localitzar un telèfon perdut o robat i seguir la seva ubicació al mapa.\r\n\r\n\r\n★ <b>Alerta de pànic:</b> Envia una alerta de pànic en cas d'emergència per compartir ràpidament la teva ubicació i enviar una notificació SOS a la família.\r\n\r\n\r\n★ <b>Walkie-talkie:</b> Envia missatges de veu directament a través d'iSharing per a una comunicació familiar ràpida i còmoda.\r\n\r\n<b>FUNCIONS PREMIUM:</b>\r\n\r\n🔄 <b>Historial d'ubicacions de 365 dies:</b> Revisa ubicacions anteriors durant un màxim de 365 dies\r\n\r\n📍 <b>Alertes de llocs il·limitades:</b> Rep alertes d'arribada i sortida de més llocs\r\n\r\n📡 <b>Vista de carrer en 3D:</b> Explora ubicacions amb una vista més propera a nivell de carrer\r\n\r\n🔋 <b>Alertes de bateria baixa:</b> Sap quan la bateria d'un dispositiu familiar s'està esgotant\r\n\r\n🚗 <b>Informes de conducció i seguretat al volant:</b> Revisa trajectes, excés de velocitat, frenades brusques i ús del telèfon mentre condueixes\r\n\r\n🆘 <b>Gravació de so SOS:</b> Rep àudio circumdant amb alertes SOS\r\n\r\n👵 <b>Alertes d'inactivitat:</b> Rep notificacions quan es detecti inactivitat inusual\r\n\r\n💻 <b>Dispositius enllaçats i aplicació web:</b> Accedeix a iSharing a través de dispositius compatibles\r\n\r\n🛑 <b>Elimina Anuncis:</b> Feu servir iSharing sense anuncis\r\n\r\niSharing utilitza un servei en primer pla per actualitzar contínuament la ubicació en segon pla, cosa que ajuda a proporcionar actualitzacions de ubicació precises i puntuals.\r\n\r\nNecessiteu ajuda? Poseu-vos en contacte amb l'equip d'assistència d'iSharing a contact@isharingsoft.com.\r\n\r\n* iSharing està dissenyat per compartir la ubicació mútua i només s'ha d'utilitzar amb el consentiment.",
@@ -7,22 +7,22 @@
   "genre": "Comunicació",
   "headerImage": "https://play-lh.googleusercontent.com/aOyJlomq1KevZyaeufRspaJ5QT6KB8uDejAZMtcAZV5tAhNWqxS5bqAZL7mH7PhY35MxaPkXyIiiGvagoUoR9g",
   "histogram": [
-    15248,
-    5000,
-    10021,
-    19013,
-    198780
+    15277,
+    5024,
+    10253,
+    19045,
+    198675
   ],
   "icon": "https://play-lh.googleusercontent.com/g_FlgIrM9oMubvKbMvgcFubkkLKBXA6kw6-x3pH-rTXzivtFjdy7Y4bTxDxVp32hXsGXGgE_kJUXJql2VJfG",
   "inAppProductPrice": "2,99 USD - 129,99 USD per cada element",
   "installs": "10.000.000+",
-  "lastUpdatedOn": "30 de set. 2026",
+  "lastUpdatedOn": "5 d’oct. 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 248126,
-    "realInstalls": 32880091,
-    "reviews": 2232,
-    "score": 4.5358047
+    "ratings": 248298,
+    "realInstalls": 32942824,
+    "reviews": 2231,
+    "score": 4.5337267
   },
   "price": 0,
   "screenshots": [

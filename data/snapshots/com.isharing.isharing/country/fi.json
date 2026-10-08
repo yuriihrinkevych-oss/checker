@@ -1,6 +1,6 @@
 {
   "_lang": "fi",
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": true,
   "contentRating": "PEGI 3",
   "description": "<b>iSharing on perheen paikannus- ja GPS-paikannustyökalu, joka on suunniteltu auttamaan perheitä pysymään yhteydessä ja turvassa.</b> Jaa reaaliaikaisia ​​perheen sijainteja, saat ilmoituksia, kun lapset tai perhe saapuvat tärkeisiin paikkoihin tai lähtevät niistä, ja käytä iSharingia puhelimen seurantalaitteena kadonneen puhelimen löytämiseen.\r\n\r\nTarkistatpa sitten, että lapsesi saapuivat turvallisesti perille, pidät kirjaa perheestä päivän mittaan tai tapaat ryhmää, iSharing tekee päivittäisestä sijainnin jakamisesta helppoa. iSharing on tarjonnut sijainninjakopalveluita vuodesta 2010 lähtien.\r\n\r\n<b>TARJOAMAMME OMINAISUUDET:</b>\r\n\r\n★ <b>Reaaliaikainen GPS-paikannustyökalu:</b> Jaa reaaliaikaisia ​​sijainteja yksityisesti perheen kanssa ja tarkista perheen sijainti kartalta. Pysy yhteydessä koko päivän ajan tarkkojen sijaintipäivitysten avulla.\r\n\r\n★ <b>Paikkahälytykset ja perheilmoitukset:</b> Saat ilmoituksia, kun lapset tai perhe saapuvat tärkeisiin paikkoihin, kuten kotiin, kouluun tai töihin, tai lähtevät niistä. Pysy ajan tasalla automaattisesti ilman toistuvia kirjautumisia.\r\n\r\n★ <b>Tapaaminen – Tilapäinen ryhmäsijainnin jakaminen:</b> Jaa reaaliaikaisia ​​sijainteja ja käytä ryhmäkeskustelua rajoitetun ajan ilman pysyvien yhteyksien luomista. Liity QR-koodilla tai linkillä, ja sijainnin jakaminen päättyy automaattisesti, kun tapaaminen on ohi.\r\n\r\n★ <b>Etsi puhelimeni ja puhelimen seuranta:</b> Käytä iSharingia kadonneen tai varastetun puhelimen paikantamiseen ja sen sijainnin seuraamiseen kartalla.\r\n\r\n★ <b>Paniikkahälytys:</b> Lähetä paniikkihälytys hätätilanteessa jakaaksesi sijaintisi nopeasti ja lähettääksesi hätäilmoituksen perheelle.\r\n\r\n★ <b>Radiopuhelin:</b> Lähetä ääniviestejä suoraan iSharingin kautta nopeaa ja kätevää perheen sisäistä viestintää varten.\r\n\r\n<b>PREMIUM-OMINAISUUDET:</b>\r\n\r\n🔄 <b>365 päivän sijaintihistoria:</b> Tarkista aiemmat sijainnit jopa 365 päivän ajalta\r\n\r\n📍 <b>Rajattomat paikkahälytykset:</b> Saat saapumis- ja lähtöhälytyksiä useammista paikoista\r\n\r\n📡 <b>3D-katunäkymä:</b> Tutki paikkoja lähempänä katutason näkymää\r\n\r\n🔋 <b>Akku vähissä -hälytykset:</b> Tiedä, milloin perheen laitteen akku on vähissä\r\n\r\n🚗 <b>Ajoraportit ja ajoturvallisuus:</b> Tarkista matkat, ylinopeudet, äkilliset jarrutukset ja puhelimen käyttö ajon aikana\r\n\r\n🆘 <b>Hätääänen tallennus:</b> Vastaanota ympäristöääniä SOS-hälytyksillä\r\n\r\n👵 <b>Poissa käytöstä -hälytykset:</b> Saat ilmoituksen, kun havaitaan epätavallista paikallaanoloa\r\n\r\n💻 <b>Yhdistetyt laitteet ja verkkosovellus:</b> Käytä iSharingia tuetuissa laitteissa\r\n\r\n🛑 <b>Poista Mainokset:</b> Käytä iSharingia ilman mainoksia\r\n\r\niSharing käyttää etualalla olevaa palvelua sijainnin jatkuvaan päivittämiseen taustalla, mikä auttaa tarjoamaan tarkkoja ja ajantasaisia ​​sijaintipäivityksiä.\r\n\r\nTarvitsetko apua? Ota yhteyttä iSharingin tukitiimiin osoitteessa contact@isharingsoft.com.\r\n\r\n* iSharing on suunniteltu keskinäiseen sijainnin jakamiseen, ja sitä tulisi käyttää vain suostumuksella.",
@@ -8,22 +8,22 @@
   "genre": "Viestintä",
   "headerImage": "https://play-lh.googleusercontent.com/aOyJlomq1KevZyaeufRspaJ5QT6KB8uDejAZMtcAZV5tAhNWqxS5bqAZL7mH7PhY35MxaPkXyIiiGvagoUoR9g",
   "histogram": [
-    13190,
-    4797,
-    11125,
-    21275,
-    197736
+    13116,
+    4773,
+    11089,
+    21243,
+    198074
   ],
   "icon": "https://play-lh.googleusercontent.com/g_FlgIrM9oMubvKbMvgcFubkkLKBXA6kw6-x3pH-rTXzivtFjdy7Y4bTxDxVp32hXsGXGgE_kJUXJql2VJfG",
   "inAppProductPrice": "2,76 €–149,99 €, jos laskutetaan Playn kautta",
   "installs": "10 000 000+",
-  "lastUpdatedOn": "30.9.2026",
+  "lastUpdatedOn": "5.10.2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 248126,
-    "realInstalls": 32880091,
-    "reviews": 48224,
-    "score": 4.553927
+    "ratings": 248298,
+    "realInstalls": 32942824,
+    "reviews": 48238,
+    "score": 4.5561404
   },
   "price": 0,
   "screenshots": [

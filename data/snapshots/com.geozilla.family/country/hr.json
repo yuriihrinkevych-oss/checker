@@ -1,6 +1,6 @@
 {
   "_lang": "hr",
-  "_scanned": "2026-10-06",
+  "_scanned": "2026-10-08",
   "containsAds": false,
   "contentRating": "PEGI 3",
   "description": "Geozilla je obiteljska aplikacija za dijeljenje lokacije i sigurnost koja pomaže obiteljima i pouzdanim grupama da ostanu blizu, informirani i podržani - bez obzira na udaljenost. S pametnim značajkama kao što su praćenje lokacije u stvarnom vremenu, hitna upozorenja i izvješća o vožnji, Geozilla donosi mir obiteljima koje cijene sigurnost i transparentnost.\r\n\r\n✅ Kako radi:\r\n1. Instalirajte aplikaciju i dopustite da se vaša vlastita lokacija dijeli s vašim krugom.\r\n2. Stvorite ili se pridružite privatnom obiteljskom krugu - bit će uključeni samo oni koje pozovete i koji prihvate.\r\n3. Pozovite članove obitelji ili pouzdane članove koristeći telefonski broj, vezu ili QR kod.\r\n4. Svaki pozvani član mora izričito prihvatiti pozivnicu i dati sva potrebna dopuštenja prije nego što dijeljenje lokacije postane aktivno.\r\n5. Svi članovi jasno su obaviješteni o svrsi aplikacije, tko ih je pozvao i kako će se podaci o lokaciji koristiti.\r\n6. Geozilla može funkcionirati samo ako svaki korisnik aktivno pristane dijeliti svoju lokaciju. Ako bilo koja osoba ne pristane, dijeljenje lokacije neće biti omogućeno.\r\n\r\n🌍 Osnovne značajke za obiteljsku sigurnost:\r\nDijeljenje lokacije uživo: pogledajte GPS lokacije svoje obitelji ili članova kruga od povjerenja u stvarnom vremenu.\r\nPovijest lokacije: Pregledajte vremensku traku kretanja svoje obitelji tijekom dana.\r\nUpozorenja o dolasku i odlasku: postavite geografski ograđene lokacije (poput kuće, škole, posla) za primanje upozorenja kada netko stigne ili ode.\r\nPraćenje baterije: primite obavijest kada je baterija nečijeg telefona pri kraju.\r\nUvidi u sigurnu vožnju: Pomozite poboljšati sigurnost s izvješćima o ponašanju za vozačke navike.\r\nAR Finder.\r\nDetekcija sudara i SOS upozorenja.\r\n\r\nKompatibilan s Wear OS-om: saznajte gdje je vaša obitelj ili podijelite vlastitu lokaciju izravno sa svog pametnog sata.\r\n\r\n🔒 Privatnost, transparentnost i pristanak korisnika:\r\nGeozilla podržava samo uzajamno, informirano i transparentno korištenje dijeljenja lokacije između strana koje su dale pristanak - kao što su članovi obitelji i bliski kontakti. Naša je aplikacija izgrađena na načelima privatnosti, sigurnosti i povjerenja.\r\nSvaka značajka Geozille ovisi o jasnom sudjelovanju i odobrenju korisnika:\r\nNitko ne može biti dodan u vaš krug bez njegovog izričitog prihvaćanja.\r\nPodaci o lokaciji se ne dijele bez aktivnog pristanka korisnika.\r\nPozvani korisnici dobivaju informacije o tome tko ih je pozvao, svrsi aplikacije i određenim dopuštenjima koja su potrebna.\r\nPotičemo korisnike da koriste Geozillu samo za obiteljsku sigurnost i slučajeve korištenja za njegu. Zlouporaba aplikacije za neodobreno praćenje ili bez informiranog pristanka strogo je protiv naših pravila i lokalnih zakona o privatnosti.\r\n\r\n📱 Objašnjenje dopuštenja aplikacije:\r\nZa pružanje ključnih sigurnosnih značajki, Geozilla može zatražiti sljedeća dopuštenja (uz odobrenje korisnika u svakom koraku):\r\nUsluge lokacije (uvijek/pristup u pozadini): potrebne za omogućavanje kontinuiranog GPS praćenja, upozorenja o geofencingu i otkrivanje pada - čak i kada se aplikacija ne koristi aktivno.\r\nObavijesti: koriste se za isporuku važnih upozorenja kao što su dolazak/odlazak, SOS, prazna baterija i aktivnost aplikacije.\r\nKontakti: izborno - pojednostavljuje pozivanje pouzdanih kontakata dopuštajući vam da odaberete telefonske brojeve iz svog adresara.\r\nKamera i fotografije: Koristi se za postavljanje slika profila ili skeniranje QR pozivnica.\r\nKretanje i fitness (prepoznavanje aktivnosti): Poboljšava izvješća o vožnji i otkrivanje sudara praćenjem obrazaca kretanja.\r\nDopuštenja se traže transparentno i objašnjavaju u kontekstu. Korisnici u svakom trenutku imaju kontrolu i mogu prilagoditi pristup u postavkama uređaja.\r\n\r\nGeozilla se zalaže za privatnost, transparentnost i odgovornu upotrebu. Ne podržavamo bilo kakvu upotrebu aplikacije bez znanja i pristanka svih sudionika.\r\nGeozilla je dizajnirana i reklamirana isključivo za slučajeve obiteljske sigurnosti, kao što su roditelji koji prate djecu ili skrbnici koji pomažu uzdržavanim osobama. Ne podržava tajno praćenje, nevidljive instalacije ili daljinsku aktivaciju.\r\nAko trebate pomoć ili imate povratne informacije o Geozilli, kontaktirajte nas na: support@geozilla.com\r\nPolitika privatnosti: https://geozilla.com/privacy-policy\r\nUvjeti korištenja: https://geozilla.com/terms-of-use",
@@ -8,11 +8,11 @@
   "genre": "Životni stil",
   "headerImage": "https://play-lh.googleusercontent.com/bKkTJcBVFL2kVQeTBx4LC1Va9s8bUcCv1KHL_UkQynPVOD-N0iGB_i915fBgcIw9wKMybhK4CuL2AsHIwcBUP8A",
   "histogram": [
-    76719,
-    25812,
-    49055,
-    86942,
-    522154
+    76693,
+    25666,
+    48966,
+    86801,
+    523865
   ],
   "icon": "https://play-lh.googleusercontent.com/i72e4U2jPc5WBB6JXrWoFfBXJbLJSgrMnDna3qPjDN9dQaONNbetQLS2JkUua-vqB4IW_WQ7y5IEMoHQLL_bSQ",
   "inAppProductPrice": "2,99 € – 75,52 € ako se naplaćuje putem Playa",
@@ -20,10 +20,10 @@
   "lastUpdatedOn": "2. lis 2026.",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 760686,
-    "realInstalls": 29664756,
-    "reviews": 68985,
-    "score": 4.251505
+    "ratings": 761996,
+    "realInstalls": 29727083,
+    "reviews": 69080,
+    "score": 4.2539134
   },
   "price": 0,
   "screenshots": [
