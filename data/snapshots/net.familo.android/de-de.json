@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-09",
+  "_scanned": "2026-10-10",
   "containsAds": true,
   "contentRating": "USK ab 12 Jahren",
   "description": "Die Sicherheit Ihrer Familie steht an erster Stelle – mit Familo – der einfachen und sicheren Möglichkeit, in Verbindung zu bleiben.\r\n\r\nFamilo hilft Familienmitgliedern, den ganzen Tag über informiert zu bleiben und sich leichter abzustimmen. Dank eindeutiger Zustimmung und voller Transparenz sorgt es für ein sicheres Gefühl – Familien fühlen sich auch dann näher und unterstützt, wenn sie getrennt sind.\r\n\r\nFamilo bietet folgende Funktionen:\r\n\r\n– Den Echtzeit-Standort freigegebener Familienmitglieder auf einer privaten Familienkarte anzeigen\r\n– Benachrichtigungen erhalten, wenn Familienmitglieder an vordefinierten Orten (z. B. zu Hause oder in der Schule) ankommen oder gehen\r\n– Den SOS-Knopf für die Notfall-Standortfreigabe verwenden\r\n– Privat mit Ihrer Familie in der App chatten – jederzeit in Verbindung bleiben\r\n– Familienmitglieder wissen lassen, dass Sie mit einem kurzen Check-in an Ihrem aktuellen Standort einverstanden sind\r\n– Die Standortfreigabe ist immer freiwillig – jedes Familienmitglied kontrolliert seine Sichtbarkeit\r\n– Jedes Familienmitglied entscheidet, wer seinen Standort sehen kann\r\n\r\n🔒 Wichtiger Datenschutzhinweis:\r\n\r\n– Familo benötigt die ausdrückliche Zustimmung aller Nutzer, bevor der Standort freigegeben wird.\r\n– Der Standort wird nur nach Einwilligung innerhalb Ihres privaten Familienkreises freigegeben.\r\n– Ohne diese Einwilligung sind Standortdaten nicht sichtbar.\r\n\r\nErste Schritte mit dem Familo GPS Locator:\r\n\r\n- Herunterladen und einrichten: Installieren Sie einfach die App und erteilen Sie die erforderlichen Berechtigungen, wie z. B. den Standortzugriff, für die volle Funktionalität.\r\n- Bilden Sie Ihren privaten Kreis: Gründen Sie eine sichere Familiengruppe oder treten Sie einer bei. Die Mitgliedschaft ist exklusiv für diejenigen, die Sie einladen und deren ausdrückliche Zustimmung zum Beitritt vorliegt.\r\n- Einladungen versenden: Laden Sie Familienmitglieder ganz einfach über ihre Telefonnummer, einen individuellen Link oder einen QR-Code ein.\r\n- Zustimmung ist entscheidend: Damit die Standortfreigabe beginnen kann, muss jedes eingeladene Familienmitglied die Einladung bewusst annehmen und alle erforderlichen Berechtigungen, einschließlich der Standortdienste, auf seinem Gerät erteilen.\r\n- Bleiben Sie informiert: Wir stellen sicher, dass alle Familienmitglieder klare Benachrichtigungen erhalten, die den Zweck der App, den Eingeladenen und die Verwendung ihrer Standortdaten innerhalb der Gruppe erläutern.\r\n- Immer Ihre Kontrolle: Familo funktioniert nur mit der aktiven Zustimmung jedes Familienmitglieds zur Standortfreigabe. Wird die Zustimmung verweigert, bleibt die Standortfreigabe für dieses Mitglied inaktiv.\r\n\r\nFamilo funktioniert nur mit den folgenden Berechtigungen, um die volle Funktionalität zu gewährleisten:\r\n\r\n– Standortzugriff: für Echtzeit-Freigabe, Geofencing und SOS-Benachrichtigungen\r\n– Benachrichtigungen: um Sie über Check-ins oder Sicherheitswarnungen zu informieren\r\n– Kontakte: um vertrauenswürdige Familienmitglieder einzuladen\r\n– Fotos und Kamera: um Profile mit Bildern zu personalisieren\r\n\r\nFamilo legt Wert auf Datenschutz, Transparenz und verantwortungsvolle Nutzung.\r\n\r\nWir freuen uns über Ihr Feedback! Teilen Sie uns Ihre Ideen unter support@familo.net mit.\r\n\r\nNutzungsbedingungen: https://terms.familo.net/en/Terms_and_Conditions_Familonet.pdf\r\n\r\nDatenschutzrichtlinie: https://terms.familo.net/privacy",
@@ -7,11 +7,11 @@
   "genre": "Lifestyle",
   "headerImage": "https://play-lh.googleusercontent.com/L7jnwXpKWmdmAUeU-wkOjRzhXHk9XXGnexTG25Wpsjw-WKNjT8q3FkV1wDbpAbbpKRxidzKdgXIkVCbE5Tk1Wg",
   "histogram": [
-    86269,
-    25854,
-    51708,
-    113120,
-    390138
+    86257,
+    25823,
+    51714,
+    113079,
+    391151
   ],
   "icon": "https://play-lh.googleusercontent.com/k65pzF3iC2vrf7LV96MkzDYjuyTu10Xa1m1jYEDzzpy9Z3le-IPpyXDbU2enm7ZHFPcBJSLiYdTIqEDGugf2TQ",
   "inAppProductPrice": "3,29 €–99,99 € bei Abrechnung über Google Play",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "28.08.2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 667224,
-    "realInstalls": 24239943,
-    "reviews": 3319,
-    "score": 4.0416665
+    "ratings": 668226,
+    "realInstalls": 24240136,
+    "reviews": 3320,
+    "score": 4.0430417
   },
   "price": 0,
   "screenshots": [

@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-09",
+  "_scanned": "2026-10-10",
   "containsAds": false,
   "contentRating": "PEGI 3",
   "description": "Chroń swoją rodzinę z mLite!\r\nmLite to zaufana i wszechstronna aplikacja do kontroli rodzicielskiej, która umożliwia rodzicom ochronę dzieci przy jednoczesnym zachowaniu otwartej komunikacji i przejrzystości. Aplikacja oferuje niezbędne narzędzia do śledzenia lokalizacji w czasie rzeczywistym, bezpieczeństwa rodziny i ochrony dzieci, a wszystko to w oparciu o najwyższe standardy prywatności i zgody.\r\nmLite - kluczowe funkcje:\r\n\t1.\tUdostępnianie lokalizacji GPS w czasie rzeczywistym: Pozostań w kontakcie ze swoim dzieckiem, wyświetlając jego lokalizację GPS w czasie rzeczywistym na mapie, gdy tylko zajdzie taka potrzeba. mLite umożliwia łatwe i przejrzyste udostępnianie lokalizacji między członkami rodziny, zapewniając rodzicom spokój o bezpieczeństwo ich dziecka.\r\n\t2.\tAlerty geofencing: Ustaw wirtualne strefy bezpieczeństwa (geofence) na mapie i otrzymuj natychmiastowe powiadomienia, gdy dziecko wejdzie lub opuści te obszary. Pomaga to śledzić ich ruchy przy jednoczesnym poszanowaniu prywatności, zwiększając bezpieczeństwo rodziny.\r\n\t3.\tDostęp do historii lokalizacji: Uzyskaj wgląd w codzienne czynności dziecka, przeglądając historię jego lokalizacji. Funkcja ta pomaga zrozumieć nawyki dziecka i upewnić się, że przebywa ono w bezpiecznym otoczeniu przez cały dzień.\r\n\t4.\tPrzycisk alarmowy: Wyposaż swoje dziecko w przycisk alarmowy, który umożliwia natychmiastowe wysłanie powiadomienia w przypadku niebezpieczeństwa lub sytuacji awaryjnej. Wystarczy jedno dotknięcie, aby natychmiast otrzymać powiadomienie i móc szybko zareagować.\r\n\t5.\tPrzeglądanie listy kontaktów: Pomóż chronić swoje dziecko, przeglądając jego listę kontaktów, aby upewnić się, że komunikuje się z zaufanymi osobami. Funkcja ta promuje odpowiedzialny nadzór i zwiększa bezpieczeństwo dziecka.\r\n\t6.\tMonitorowanie bezpiecznej komunikacji: Dzięki pełnej kontroli rodzicielskiej i zgodzie dziecka możesz przeglądać wiadomości wymieniane w niektórych aplikacjach do przesyłania wiadomości. Ma to na celu zapewnienie, że interakcje online dziecka są bezpieczne i odpowiedzialne.\r\n*Uwaga: Niektóre funkcje mogą nie być dostępne na iPhone'ach.\r\nUsługi dostępności mLite są wykorzystywane wyłącznie do funkcji bezpieczeństwa, takich jak monitorowanie komunikacji w określonych aplikacjach, za wiedzą i zgodą dziecka, w celu zapewnienia bezpiecznego zachowania online. Nie gromadzimy ani nie udostępniamy danych osobowych bez zgody.\r\nInstrukcja instalacji:\r\n\t1.\tZainstaluj aplikację mLite na swoim urządzeniu.\r\n\t2.\tZarejestruj konto jako rodzic.\r\n\t3.\tZainstaluj aplikację mLite na urządzeniu dziecka.\r\n\t4.\tWybierz opcję „dziecko” na ekranie konfiguracji.\r\n\t5.\tZezwól na udostępnianie lokalizacji i kontaktów.\r\n\t6.\tPołącz oba urządzenia, skanując kod QR lub używając łącza rodzinnego z urządzenia rodzica.\r\nWażne: mLite jest przeznaczony wyłącznie do kontroli rodzicielskiej i może być używany wyłącznie za zgodą rodzica i dziecka. Aplikacji nie można zainstalować bez wiedzy dziecka, a wszystkie gromadzone dane są przetwarzane w ścisłej zgodności z RODO i przepisami dotyczącymi prywatności.\r\nWymagane uprawnienia:\r\n\t- Aparat i Zdjęcia: Skanowanie kodu QR na urządzeniu dziecka w celu połączenia.\r\n\t- Kontakty: Udostępnianie listy kontaktów i zapewnienie bezpiecznej komunikacji.\r\n\t- Dane lokalizacji: Umożliwienie udostępniania lokalizacji w czasie rzeczywistym i alertów geofencing.\r\n\r\nW przypadku pojawienia się pytań, skontaktuj się z nami poprzez e-mail support@mliteapp.com\r\nPolityka prywatności: https://mliteapp.com/privacy.html\r\nInformacje prawne: https://mliteapp.com/eula/gpa/en/eula.html",
@@ -7,11 +7,11 @@
   "genre": "Styl życia",
   "headerImage": "https://play-lh.googleusercontent.com/9RSMt7nY0okTnutgi3pRefaf9mWFTQjlvF5kkkm0FAy4mPG15PNDUaEv2KI5wadlz-1JbXRldll5DvtiTYlegg",
   "histogram": [
-    5145,
+    5147,
     643,
     0,
     643,
-    7075
+    7077
   ],
   "icon": "https://play-lh.googleusercontent.com/YijjF8aherb_OOeGkOsBq5y_9ljWbiDlRVGAvr5ESeupxl9A5L_p7Nf1On3LAmpo20KowjamU4XMcSgTJR3tIw8",
   "inAppProductPrice": "4,79 zł – 1 029,99 zł, jeśli rozliczasz się przez Play",
@@ -19,7 +19,7 @@
   "lastUpdatedOn": "5 paź 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 13507,
+    "ratings": 13512,
     "realInstalls": 11955432,
     "reviews": 11,
     "score": 3.2857144

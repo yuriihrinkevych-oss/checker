@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-09",
+  "_scanned": "2026-10-10",
   "containsAds": false,
   "contentRating": "USK ab 0 Jahren",
   "description": "Find my Phone - Family Locator hilft Ihnen, in Verbindung zu bleiben und die Sicherheit Ihrer Familienmitglieder zu gewährleisten. Dank fortschrittlicher GPS-Technologie liefert unsere App Standort-Updates in Echtzeit, sodass Sie Ihre Familienmitglieder ganz einfach orten und in Menschenmengen mit Ihrem Smartphone finden können.\r\n\r\nHauptfunktionen für Familiensicherheit & -verbindung:\r\nEchtzeit-Standortverfolgung: Zeigen Sie den Live-Standort Ihrer Familie auf einer privaten Karte an.\r\nAnkunfts- & Abfahrtsbenachrichtigungen: Erhalten Sie Benachrichtigungen, wenn Ihre Lieben vordefinierte Orte (Zuhause, Schule usw.) erreichen oder verlassen.\r\nSOS-Taste: Teilen Sie Ihren Notfallstandort sofort mit Ihrem vertrauten Kreis, wenn Sie Hilfe brauchen.\r\nFlugverfolgung: Erfahren Sie einfach, wohin Ihre Kreismitglieder fliegen, und erhalten Sie Benachrichtigungen.\r\nPrivater In-App-Chat: Bleiben Sie über sichere Nachrichtenübermittlung mit Ihrer Familie in Kontakt.\r\nSchnell-Check-in: Mit einem Fingertipp teilen Sie Ihren Familienmitgliedern mit, dass Sie in Sicherheit sind.\r\nStandortverlauf: Überprüfen Sie vergangene Standorte von Familienmitgliedern.\r\n\r\nSo funktioniert Find my Phone - Family Locator:\r\nEinfache Installation: Installieren Sie die App und erteilen Sie die notwendigen Berechtigungen (Standortzugriff).\r\nPrivater Kreis: Erstellen oder treten Sie einem privaten Familienkreis bei. Nur eingeladene und akzeptierte Personen werden Teil Ihres Kreises.\r\nFlexible Einladungen: Laden Sie Ihre Lieben per Telefonnummer, direktem Link oder QR-Code ein.\r\nExplizite Zustimmung ist der Schlüssel: Jedes eingeladene Mitglied muss die Einladung ausdrücklich akzeptieren und alle notwendigen Berechtigungen (einschließlich Standortzugriff) auf dem eigenen Gerät erteilen, bevor die Standortfreigabe aktiv wird.\r\nVolle Transparenz: Alle Mitglieder werden klar über den Zweck der App, wer sie eingeladen hat und wie ihre Standortdaten im privaten Kreis verwendet werden, informiert.\r\nBenutzerkontrolle: Die App funktioniert nur, wenn jeder Benutzer aktiv der Standortfreigabe zustimmt.\r\n\r\nDatenschutz, Transparenz & Benutzerzustimmung:\r\nFamily Locator unterstützt ausschließlich die gegenseitige, informierte und transparente Nutzung der Standortfreigabe zwischen zustimmenden Parteien (Familienmitgliedern, engen Kontakten). Unsere App basiert auf den Prinzipien von Datenschutz, Sicherheit und Vertrauen.\r\nWir empfehlen Nutzern, „Mein Telefon suchen – Familienortung“ ausschließlich für die Sicherheit der Familie und die Betreuung zu verwenden. Der Missbrauch der App für nicht genehmigte Ortung und/oder ohne informierte Zustimmung verstößt strikt gegen unsere Richtlinien und die lokalen Datenschutzgesetze.\r\n\r\nOptionale Berechtigungen (mit Ihrer Zustimmung):\r\nOrtungsdienste: Für Echtzeit-Standortfreigabe, Geofencing und SOS-Benachrichtigungen.\r\nBenachrichtigungen: Um Sie über Standortänderungen der Familie und Sicherheitswarnungen zu informieren.\r\nKontakte: Um Sie beim Einladen vertrauenswürdiger Familienmitglieder zu Ihren Kreisen zu unterstützen.\r\nFotos und Kamera: Um Ihr Profilbild zu personalisieren.\r\n\r\nFamily Locator verpflichtet sich zu Datenschutz und verantwortungsvollem Gebrauch. Wir unterstützen keine Nutzung der App ohne das Wissen und die Zustimmung aller Teilnehmer. Die App ist nicht für geheime Verfolgung oder unbefugte Überwachung bestimmt, sondern ausschließlich für die Familiensicherheit (Eltern/Kinder, Pflegekräfte/Abhängige). Verdeckte Verfolgung, heimliche Installationen oder Fernaktivierung werden nicht unterstützt.\r\n\r\nWir freuen uns über Ihr Feedback! Kontaktieren Sie uns unter: support@family-locator.com\r\nDatenschutzbestimmungen: https://family-locator.com/privacy-policy/\r\nNutzungsbedingungen: https://family-locator.com/terms-of-use/",
@@ -7,11 +7,11 @@
   "genre": "Reisen & Lokales",
   "headerImage": "https://play-lh.googleusercontent.com/E7zWOwq7z9WrftqmQvoh4XwbtTYwPQ_rbchW5OtoY7rGzDpnWQ6fPg-ed1SjKXBjVJ57hlgRHgpJ-W0z0fnc",
   "histogram": [
-    151147,
-    42471,
-    77447,
-    185811,
-    717013
+    151144,
+    42470,
+    77446,
+    186120,
+    717625
   ],
   "icon": "https://play-lh.googleusercontent.com/tnmV5JsJpLKEGZoi-zpeum9Tv0RJlRYuOfsFaB3vJnFGc9oco5RBurLW64w61ujcQABYrIE14-f56gERNlF9lg",
   "inAppProductPrice": "3,59 €–69,99 € bei Abrechnung über Google Play",
@@ -19,8 +19,8 @@
   "lastUpdatedOn": "02.09.2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 1174828,
-    "realInstalls": 47168596,
+    "ratings": 1175432,
+    "realInstalls": 47168790,
     "reviews": 694,
     "score": 4.0858088
   },

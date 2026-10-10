@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-09",
+  "_scanned": "2026-10-10",
   "containsAds": true,
   "contentRating": "PEGI 3",
   "description": "Life360 vous simplifie la vie en vous permettant de rester facilement en contact avec les personnes qui comptent le plus, votre « Cercle ». Grâce à la géolocalisation et au partage de localisation, vous pouvez :\r\n- Afficher la localisation en temps réel de vos enfants, de votre famille et de vos amis sur la carte.\r\n- Recevoir des Alertes de lieu lorsque vos proches arrivent ou partent de la maison, du travail ou de l'école.\r\n- Partager des photos et des messages via un chat privé et sécurisé.\r\n- Suivre l'Historique des localisations des membres de votre Cercle.\r\n- Améliorer la sécurité au volant grâce aux rapports de conduite après chaque trajet.\r\n\r\nUn traqueur familial, avec votre accord\r\nTout le monde dans le Cercle accepte d'y participer et peut voir les autres membres. Pas de traçage caché : vous choisissez avec qui partager votre position, et pouvez arrêter à tout moment. À la différence d'un simple traqueur de numéro de téléphone, Life360 fonctionne par consentement mutuel entre les membres du Cercle.\r\n\r\nLife360 est un GPS tracker et cell phone tracker pensé pour les personnes que vous aimez, pas seulement pour vos objets : il utilise les données GPS pour indiquer en temps réel où se trouvent vos enfants, vos amis et votre famille. Installez simplement l'application sur chaque téléphone — compatible avec les principales plateformes mobiles. Chaque membre apparaît comme une icône unique sur la carte. Localiser et traquer les personnes que vous aimez n'a jamais été aussi simple.\r\n\r\nFonctionnalités principales :\r\n\r\nAlertes de lieu : sachez quand vos enfants rentrent de l'école ou quand vos proches quittent le travail.\r\n\r\nHistorique des localisations : une chronologie jour par jour des allées et venues de votre Cercle.\r\n\r\nAlerte silencieuse : en cas d'urgence, elle envoie une demande d'aide avec votre localisation à votre Cercle et vos contacts d'urgence.\r\n\r\nNotifications de batterie faible : le niveau de batterie de chaque membre du Cercle, avec une alerte quand il est faible.\r\n\r\nRapports de conduite : score de conducteur, vitesse, freinages et accélérations brusques pour chaque membre du Cercle.\r\n\r\nQuestions fréquentes\r\n\r\nOù est mon enfant en ce moment ? Ouvrez la carte pour voir la position en temps réel de chaque membre de votre Cercle.\r\n\r\nLife360 géolocalise-t-il un numéro de téléphone directement ? Non — chaque personne installe l'application et rejoint votre Cercle par consentement mutuel, contrairement à un simple traqueur par numéro.\r\n\r\nL'application est-elle gratuite ? Les fonctions essentielles sont gratuites ; Premium débloque des fonctionnalités supplémentaires.\r\n\r\nLife360 Premium :\r\n\r\nVersion Argent : 7 jours d'historique, 5 lieux avec alertes illimitées, alertes Premium pour la détection des accidents et SOS, service client prioritaire, plus tout ce qui est inclus dans la version gratuite.\r\n\r\nVersion Or : 30 jours d'historique, lieux illimités avec alertes illimitées, rapports familiaux et individuels des conducteurs, expérience sans publicité, plus tout ce qui est inclus dans les versions gratuite et Argent.\r\n\r\nTéléchargez Life360 maintenant et profitez de la tranquillité d'esprit, sachant que vos proches sont en sécurité. Rejoignez les millions de personnes qui font confiance à Life360 pour géolocaliser, traquer et rester en contact avec leur famille et leurs amis.\r\n\r\nhttps://www.life360.com/privacy_policy/\r\nhttps://www.life360.com/terms_of_use/\r\n\r\nAvertissement : l'utilisation continue des services de localisation en arrière-plan peut épuiser la batterie. Nos algorithmes maintiennent cette consommation au minimum, même pendant que vous conduisez.",
@@ -7,11 +7,11 @@
   "genre": "Style de vie",
   "headerImage": "https://play-lh.googleusercontent.com/O_gJAxQNyvq_JcBbzYYIZXj1MRyxPaQrG40NYIAeNkUH_z3CT93dZeOi7Us2bDnXBb_iQlcb8cez-YjpJ6mCOw",
   "histogram": [
-    16438,
-    14090,
-    76679,
-    499387,
-    1838369
+    16639,
+    15414,
+    76052,
+    499495,
+    1839958
   ],
   "icon": "https://play-lh.googleusercontent.com/nQsrQf5cd6IeIhFTvVFjez12UiB1QTYYyX1UiVA448XkK--5jQYBhDuiMHtBOWrVnoldLTlnUN1x3AbCt4vflg",
   "inAppProductPrice": "1,59 € - 269,99 € si facturé via Play",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "2 oct. 2026",
   "metrics": {
     "minInstalls": 100000000,
-    "ratings": 2445373,
-    "realInstalls": 224330505,
+    "ratings": 2447765,
+    "realInstalls": 224336156,
     "reviews": 7541,
-    "score": 4.688556
+    "score": 4.6875606
   },
   "price": 0,
   "screenshots": [

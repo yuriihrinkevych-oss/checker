@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-09",
+  "_scanned": "2026-10-10",
   "containsAds": false,
   "contentRating": "Everyone",
   "description": "Find my Phone - Family Locator helps you stay connected and ensure the safety of your family members. Using advanced GPS technology, our app provides real-time location updates, allowing you to easily locate family members and find them in the crowds with your phone.\r\n\r\nKey features for family safety & connection:\r\n✔️ Real-time location tracking: view your family members' live location on a private map.\r\n✔️ Arrival & departure alerts: get notified when family members arrive at or leave predefined places (e.g., home, school).\r\n✔️ SOS button: share your emergency location instantly with your trusted circle.\r\n✔️ Flights tracking: easily know where your circle members fly and get notifications.\r\n✔️ Private in-app chat: stay in touch with your family through secure messaging.\r\n✔️ Quick check-in: let family members know you're safe with a tap.\r\n✔️ Location history: review past locations of family members.\r\n\r\n📲 How Find my Phone - Family Locator works: \r\n1. Install the app and grant necessary permissions for the app to function (e.g., location access).\r\n2. Create or join a private family circle. This ensures that only the people you invite and who accept your invitation will be part of your circle.\r\n3. Invite family or trusted members using their phone number, a direct link, or a QR code.\r\n4. Explicit consent is key: Each invited member must explicitly accept the invitation only with consent and grant all necessary permissions (including location access) on their own device before location sharing becomes active for them.\r\n5. Transparent notifications: All members are clearly notified about the purpose of the app, who invited them, and how their location data will be used within the private circle.\r\n6. User control: Find my Phone - Family Locator can only function if each user actively agrees to share their location. \r\n\r\n🔒 Privacy, Transparency & User Consent:\r\nFamily Locator supports only mutual, informed, and transparent usage of location sharing between consenting parties - such as family members and close contacts. Our app is built on the principles of privacy, safety, and trust.\r\n\r\nWe encourage users to use Find my Phone - Family Locator only for family safety and caregiving use cases. Misuse of the app for unapproved tracking and/or without informed consent is strictly against our policies and local privacy laws.\r\n\r\nOptional permissions: \r\n- Find my Phone - Family Locator may request the following permissions (with user approval at each step):\r\n- Location services: for real-time location sharing, geofencing, and SOS alerts.\r\n- Notifications: to inform you of family location changes and safety alerts.\r\n- Contacts: to help you invite trusted family members to your circles.\r\n- Photos and Camera: to personalize your profile picture.\r\n\r\nPermissions are requested transparently and explained in context. Users remain in control at all times and can adjust access in device settings.\r\nFamily Locator is committed to privacy, transparency, and responsible use. We do not support any use of the app without the knowledge and consent of all participants.\r\nFind my Phone - Family Locator is not intended for secret tracking or unauthorized surveillance. It is designed and marketed solely for family safety use cases, such as parents tracking children or caregivers assisting dependents. It does not support covert tracking, stealth installs, or remote activation.\r\n\r\nWe value your feedback! Contact us at: support@family-locator.com.\r\nPrivacy Policy: https://family-locator.com/privacy-policy/ \r\nTerms of Use: https://family-locator.com/terms-of-use/",
@@ -7,11 +7,11 @@
   "genre": "Travel & Local",
   "headerImage": "https://play-lh.googleusercontent.com/E7zWOwq7z9WrftqmQvoh4XwbtTYwPQ_rbchW5OtoY7rGzDpnWQ6fPg-ed1SjKXBjVJ57hlgRHgpJ-W0z0fnc",
   "histogram": [
-    84059,
-    27289,
-    82752,
-    156703,
-    824050
+    84055,
+    27429,
+    82748,
+    156501,
+    824659
   ],
   "icon": "https://play-lh.googleusercontent.com/tnmV5JsJpLKEGZoi-zpeum9Tv0RJlRYuOfsFaB3vJnFGc9oco5RBurLW64w61ujcQABYrIE14-f56gERNlF9lg",
   "inAppProductPrice": "$2.99 - $59.99 per item",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "Sep 2, 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 1174895,
-    "realInstalls": 47168596,
+    "ratings": 1175432,
+    "realInstalls": 47168790,
     "reviews": 6479,
-    "score": 4.3698015
+    "score": 4.3699346
   },
   "price": 0,
   "screenshots": [

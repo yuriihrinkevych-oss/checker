@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-09",
+  "_scanned": "2026-10-10",
   "containsAds": false,
   "contentRating": "PEGI 3",
   "description": "Localiser mon appareil et localiser un portable par numéro avec position GPS et suivi de la position: géolocalisation téléphone fiable pour parents.\r\n\r\nFind my kids est une application de traqueur de téléphone portable pensée pour les familles. Elle réunit géolocalisation téléphone et contrôle parental pour que vous sachiez toujours où se trouve votre enfant et comment il se déplace. Sur la carte, vous voyez la position GPS en temps réel et l’historique des trajets, ce qui facilite la localisation d’un portable par numéro et rassure toute la famille. Je peux me localiser et vérifier ma position GPS, mais surtout localiser mon appareil de l’enfant en un regard, de manière claire et sûre.\r\n\r\nNotre traceur de téléphone met l’accent sur la précision de la position GPS et la clarté du suivi de la position. Vous recevez des notifications utiles quand l’enfant arrive ou quitte un lieu, et vous pouvez, si besoin, écouter ce qui se passe autour pour vérifier que tout va bien. Même si le téléphone est en mode silencieux, vous envoyez un signal sonore puissant afin de le retrouver rapidement. Avec le contrôle parental, vous surveillez le temps passé sur les applications pendant l’école et aidez votre enfant à garder de bonnes habitudes numériques. En cas d’urgence, un bouton SOS permet à l’enfant de vous prévenir immédiatement.\r\n\r\nFonctionnalités clés:\r\n- Localisation et trajet de l’enfant en direct: consultez la position actuelle en temps réel et la liste des lieux visités dans la journée.\r\n- Contrôle parental: suivez le temps passé sur les applications, notamment pendant l’école, depuis l’application de traqueur.\r\n- Écoute du son ambiant en direct: entendez ce qui se passe autour de l’enfant pour vérifier sa sécurité.\r\n- Contourner le mode silencieux: envoyez un signal fort audible même si le téléphone est en silencieux ou dans un sac.\r\n- Alertes de mouvement: ajoutez école, maison ou parc et recevez des notifications à l’arrivée et au départ.\r\n- Signal SOS sur le téléphone de l’enfant: l’enfant peut vous alerter immédiatement en appuyant sur le bouton SOS.\r\n\r\nGrâce à ce traqueur de téléphone portable, la géolocalisation devient simple et utile au quotidien. Vous pouvez suivre la position GPS et voir la route empruntée, afin de comprendre les habitudes et d’anticiper les besoins. Les parents apprécient la clarté de la carte, la fiabilité du suivi de la position et la réactivité des alertes. Pour encore plus de sérénité, vous pouvez activer le signal sonore pour retrouver un appareil égaré et utiliser l’écoute du son ambiant lorsque la situation l’exige.\r\n\r\nUtilisez Find my kids pour localiser un portable par numéro en cas de besoin, vérifier ma position GPS, et bénéficier d’un traceur de téléphone efficace. Notre approche met la sécurité au premier plan: les données de géolocalisation sont utilisées pour vous informer, vous alerter et vous aider à prendre des décisions rapides. Que ce soit à l’école, à la maison ou lors d’activités, le suivi de la position et la géolocalisation téléphone vous assurent une visibilité continue et une communication plus sereine avec votre enfant.\r\n\r\nPour une géolocalisation téléphone précise, position GPS fiable, suivi de la position et traqueur de téléphone portable, choisissez Find my kids.\r\n\r\nSi vous rencontrez des problèmes techniques en utilisant Findmykids, vous pouvez toujours contacter l’assistance 24h/24 et 7j/7 de Findmykids via le chat de l’application ou par e‑mail à support@findmykids.org. Nous sommes toujours là pour vous aider!\r\n\r\nVous pouvez consulter nos documents:\r\n\r\nContrat d’utilisation - https://findmykids.org/docs/terms-of-use/ios/en\r\nPolitique de confidentialité - https://findmykids.org/docs/privacy-policy/ios/en",
@@ -7,11 +7,11 @@
   "genre": "Parents",
   "headerImage": "https://play-lh.googleusercontent.com/j4ULfbEHZk5u-WHihagFWFyZyIhDC-eGz5qXgOUXZXnOCxgofUZZvhGPsIg2pw2246MQM3FocEQQ0AmfJHdW0Fs",
   "histogram": [
-    70544,
-    30350,
-    97730,
-    289141,
-    1571636
+    70101,
+    30604,
+    97572,
+    289266,
+    1572135
   ],
   "icon": "https://play-lh.googleusercontent.com/1xxhEalJmQZPdCdHbJ2cfABAmZn5vVB5kWPro0JjVmBAUHWLWfE0eKjQH3nO9IkQJCV7q3-Yu5-jWpLt_wdY",
   "inAppProductPrice": "0,29 € - 719,99 € si facturé via Play",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "6 oct. 2026",
   "metrics": {
     "minInstalls": 50000000,
-    "ratings": 2059467,
-    "realInstalls": 82974106,
-    "reviews": 12295,
-    "score": 4.5834103
+    "ratings": 2059775,
+    "realInstalls": 82974983,
+    "reviews": 12298,
+    "score": 4.5840235
   },
   "price": 0,
   "screenshots": [

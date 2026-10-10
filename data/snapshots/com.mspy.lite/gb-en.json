@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-09",
+  "_scanned": "2026-10-10",
   "containsAds": false,
   "contentRating": "PEGI 3",
   "description": "Take Care of Your Family's Safety with mLite!\r\n\r\nmLite is a parental control app that gives parents the tools they need to safeguard their kids while keeping communication open and clear. It offers key features like live location tracking & sharing, family safety tools, and child protection measures, all designed with top-notch privacy and consent standards.\r\n\r\nKey Features of mLite:\r\n\r\n📍 Live GPS Location Sharing: Easily keep an eye on your child's current GPS location on a map when necessary. This feature allows straightforward sharing of locations among family members, providing parents reassurance about their child’s whereabouts.\r\n\r\n🗺️ Geofencing Alerts: Create virtual safety zones (geofences) on the map and receive instant alerts if GPS location tracker detects your child enters or exits these areas. This helps you monitor movement while respecting privacy for improved family safety.\r\n\r\n🌐 Access to Location History: Understand your child's daily patterns by reviewing where they've been throughout the day. Knowing their routines can help ensure they're in safe places.\r\n\r\n🚨 Emergency Alarm Button: Your child can signal you instantly if there's danger with just one tap using an emergency button, letting you react swiftly in urgent situations.\r\n\r\n📱 Contact List Review: Protect your child by checking who they’re talking to, ensuring communication only occurs with trusted people for better oversight and family safety management.\r\n\r\n📩 Safe Communication Monitoring: With parental control app and agreement from the child, you can look at messages exchanged through specific apps to make sure online interactions are responsible and secure.\r\n\r\nGPS location tracker mLite uses accessibility services solely for security purposes like monitoring certain app communications with full knowledge from the child to promote safe behavior online without collecting personal data without permission.\r\n\r\nInstallation Steps:\r\n\r\n1. Get the mLite app installed on your device.\r\n2. Sign up as a parent.\r\n3. Put mLite onto your child's device too.\r\n4. Select “child” during setup.\r\n5. Allow sharing of location details and contacts.\r\n6. Connect devices by scanning a QR code or using a parent-generated link.\r\n\r\nImportant Information: mLite parental control app is solely meant for use in scenarios with both parties aware—parental consent along with that of the child is required before installation which follows GDPR guidelines strictly regarding data handling practices.\r\n\r\nPermissions Needed:\r\n- Camera/Photos: To connect devices via QR scan.\r\n- Contacts Access: To review contact lists ensuring safe interactions.\r\n- Location Data Use: For live location sharing and other features including geofence notifications.\r\n\r\nFor further information visit our Privacy Policy or Terms of Use pages:\r\nPrivacy Policy - https://mliteapp.com/privacy.html\r\nLegal Info - https://mliteapp.com/terms-of-use/\r\n\r\nQuestions? Reach out to us at support@mliteapp.com",
@@ -7,11 +7,11 @@
   "genre": "Lifestyle",
   "headerImage": "https://play-lh.googleusercontent.com/9RSMt7nY0okTnutgi3pRefaf9mWFTQjlvF5kkkm0FAy4mPG15PNDUaEv2KI5wadlz-1JbXRldll5DvtiTYlegg",
   "histogram": [
-    5361,
+    5363,
     206,
     206,
     103,
-    7423
+    7426
   ],
   "icon": "https://play-lh.googleusercontent.com/WvyD2L6UmL8R8F1vNOqLt6F0cDYZvc3LfrCA54uXMFDzgd1UG85iXLQnoNfvEJ6Y6-_opMHB6i6UKUrkgS_uMg",
   "inAppProductPrice": "£0.89 - £179.99 if billed through Play",
@@ -19,7 +19,7 @@
   "lastUpdatedOn": "Oct 5, 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 13507,
+    "ratings": 13512,
     "realInstalls": 11955432,
     "reviews": 81,
     "score": 3.29
