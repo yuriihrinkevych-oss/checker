@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-08",
+  "_scanned": "2026-10-12",
   "containsAds": true,
   "contentRating": "Teismelised",
   "description": "Pane oma pere turvalisus esikohale Familo abil – see on lihtne ja turvaline viis ühenduses püsimiseks.\r\n\r\nFamilo aitab pereliikmetel kogu päeva jooksul kursis püsida ja tegevusi hõlpsamini koordineerida. Selge nõusoleku ja täieliku läbipaistvusega on see loodud meelerahu tagamiseks – aidates peredel tunda end lähedasemana ja toetatuna isegi lahus olles.\r\n\r\nFamilo pakub järgmisi funktsioone:\r\n\r\n- Vaadake kinnitatud pereliikmete reaalajas asukohta privaatsel perekaardil\r\n- Saate teavitusi, kui pereliikmed saabuvad või lahkuvad eelnevalt määratud kohtadest (nt kodu või kool)\r\n- Kasutage SOS-nuppu hädaolukorra asukoha jagamiseks\r\n- Vestelge oma perega privaatselt rakenduses – püsige igal ajal ühenduses\r\n- Andke pereliikmetele teada, et olete nõus, kiire registreerimisega oma praeguses asukohas\r\n- Asukoha jagamine on alati valikuline – iga pereliige kontrollib oma nähtavust\r\n- Iga pereliige otsustab, kes tema asukohta näeb\r\n\r\n🔒 Oluline privaatsusteatis:\r\n\r\n- Familo nõuab enne asukoha jagamist kõigilt kasutajatelt selgesõnalist nõusolekut.\r\n- Asukohta jagatakse teie privaatses pereringis ainult pärast nõusoleku andmist.\r\n- Ilma selle nõusolekuta pole asukohaandmed nähtavad.\r\n\r\nFamilo GPS-lokaatori kasutamise alustamine:\r\n\r\n- Laadige alla ja seadistage: installige rakendus ja andke täieliku funktsionaalsuse tagamiseks vajalikud load, näiteks asukohateave.\r\n- Looge oma privaatne ring: looge turvaline peregrupp või liituge sellega. Liikmelisus on eksklusiivne neile, keda kutsute ja kes on selgesõnaliselt nõus liituma.\r\n- Saatke kutseid: kutsuge pereliikmeid hõlpsalt nende telefoninumbri, unikaalse lingi või QR-koodi abil.\r\n- Nõusolek on ülioluline: asukoha jagamise alustamiseks peab iga kutsutud pereliige kutse teadlikult vastu võtma ja andma oma seadmes kõik vajalikud load, sealhulgas asukohateenustele.\r\n- Püsige kursis: tagame, et kõik pereliikmed saavad selged teated, mis selgitavad rakenduse eesmärki, kes neid kutsus ja kuidas nende asukohateavet grupis kasutatakse.\r\n- Teie kontroll, alati: Familo toimib ainult iga pereliikme aktiivsel nõusolekul oma asukoha jagamiseks. Kui nõusolek antakse andmata, jääb selle liikme asukoha jagamine passiivseks.\r\n\r\nFamilo töötab täieliku funktsionaalsuse tagamiseks ainult järgmiste lubadega:\r\n\r\n- Asukoha ligipääs: reaalajas jagamiseks, geopiiramiseks ja SOS-teavitusteks\r\n- Teavitused: registreerimiste või ohutushoiatuste teavitamiseks\r\n- Kontaktid: usaldusväärsete pereliikmete kutsumiseks\r\n- Fotod ja kaamera: profiilide isikupärastamiseks piltidega\r\n\r\nFamilo on pühendunud privaatsusele, läbipaistvusele ja vastutustundlikule kasutamisele.\r\n\r\nMeile meeldiks teie tagasiside! Jagage oma ideid meiega aadressil support@familo.net\r\n\r\nKasutustingimused: https://terms.familo.net/en/Terms_and_Conditions_Familonet.pdf\r\nPrivaatsuspoliitika: https://terms.familo.net/privacy",
@@ -7,11 +7,11 @@
   "genre": "Elustiil",
   "headerImage": "https://play-lh.googleusercontent.com/L7jnwXpKWmdmAUeU-wkOjRzhXHk9XXGnexTG25Wpsjw-WKNjT8q3FkV1wDbpAbbpKRxidzKdgXIkVCbE5Tk1Wg",
   "histogram": [
-    49061,
-    15467,
-    41633,
-    88127,
-    471970
+    48351,
+    16096,
+    42556,
+    87074,
+    475662
   ],
   "icon": "https://play-lh.googleusercontent.com/k65pzF3iC2vrf7LV96MkzDYjuyTu10Xa1m1jYEDzzpy9Z3le-IPpyXDbU2enm7ZHFPcBJSLiYdTIqEDGugf2TQ",
   "inAppProductPrice": "2,99 $ kuni 89,99 $ üksuse kohta",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "28. aug 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 666353,
-    "realInstalls": 24221635,
-    "reviews": 1768,
-    "score": 4.3783913
+    "ratings": 669833,
+    "realInstalls": 24240136,
+    "reviews": 1769,
+    "score": 4.3818007
   },
   "price": 0,
   "screenshots": [

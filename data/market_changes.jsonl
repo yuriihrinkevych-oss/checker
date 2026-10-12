@@ -8,3 +8,6 @@
 {"date": "2026-10-08", "app_id": "org.findmykids.app", "type": "lang_added", "langs": ["en-AU"]}
 {"date": "2026-10-08", "app_id": "org.findmykids.app", "type": "lang_removed", "langs": ["en-IN"]}
 {"date": "2026-10-08", "app_id": "com.isharing.isharing", "type": "lang_added", "langs": ["en-GB"]}
+{"date": "2026-10-12", "app_id": "com.mspy.lite", "type": "listing_edited", "langs": ["en-AU"], "samples": [["en-AU", "mLite - GPS Phone Tracker", "mLite - Family GPS Tracker"]]}
+{"date": "2026-10-12", "app_id": "com.life360.android.safetymapd", "type": "lang_added", "langs": ["en-IN"]}
+{"date": "2026-10-12", "app_id": "org.findmykids.app", "type": "lang_added", "langs": ["en-IN"]}
