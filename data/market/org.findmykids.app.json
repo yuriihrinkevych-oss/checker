@@ -1,9 +1,9 @@
 {
   "base": {
-    "key": "ddf7c052e4f57297f26d876c8d9a8dea",
+    "key": "14edaa4d10660c1f0a66c0f85961cd62",
     "own_screens": false,
     "summary": "GPS location tracker & parental control app. Track & find my family location",
-    "title": "Findmykids: Parental Control",
+    "title": "Findmykids: Location tracker",
     "v": 2
   },
   "countries": {
@@ -21,11 +21,11 @@
       "available": true,
       "containsAds": false,
       "currency": "ARS",
-      "iap": "ARS 882.05 - ARS 1,494,985.05 per item",
+      "iap": "ARS 358.80 - ARS 1,494,985.05 per item",
       "max_local": 1494985.05,
-      "max_usd": 986.22,
-      "min_local": 882.05,
-      "min_usd": 0.58
+      "max_usd": 987.07,
+      "min_local": 358.8,
+      "min_usd": 0.24
     },
     "at": {
       "available": true,
@@ -33,9 +33,9 @@
       "currency": "EUR",
       "iap": "€ 0,29 - € 719,99 if billed through Play",
       "max_local": 719.99,
-      "max_usd": 806.59,
+      "max_usd": 808.2,
       "min_local": 0.29,
-      "min_usd": 0.32
+      "min_usd": 0.33
     },
     "au": {
       "available": true,
@@ -43,7 +43,7 @@
       "currency": "AUD",
       "iap": "$0.39 - $1,150.99 per item",
       "max_local": 1150.99,
-      "max_usd": 803.88,
+      "max_usd": 801.63,
       "min_local": 0.39,
       "min_usd": 0.27
     },
@@ -53,7 +53,7 @@
       "currency": "BDT",
       "iap": "BDT 20.00 - BDT 83,900.00 per item",
       "max_local": 83900.0,
-      "max_usd": 681.33,
+      "max_usd": 679.9,
       "min_local": 20.0,
       "min_usd": 0.16
     },
@@ -63,9 +63,9 @@
       "currency": "EUR",
       "iap": "€0.29 - €719.99 if billed through Play",
       "max_local": 719.99,
-      "max_usd": 806.59,
+      "max_usd": 808.2,
       "min_local": 0.29,
-      "min_usd": 0.32
+      "min_usd": 0.33
     },
     "bg": {
       "available": true,
@@ -73,7 +73,7 @@
       "currency": "EUR",
       "iap": "€0.25 - €279.99 if billed through Play",
       "max_local": 279.99,
-      "max_usd": 313.67,
+      "max_usd": 314.29,
       "min_local": 0.25,
       "min_usd": 0.28
     },
@@ -83,9 +83,9 @@
       "currency": "BRL",
       "iap": "R$1.19 - R$2,790.90 per item",
       "max_local": 2790.9,
-      "max_usd": 558.63,
+      "max_usd": 550.2,
       "min_local": 1.19,
-      "min_usd": 0.24
+      "min_usd": 0.23
     },
     "ca": {
       "available": true,
@@ -93,9 +93,9 @@
       "currency": "CAD",
       "iap": "$0.29 - $911.76 per item",
       "max_local": 911.76,
-      "max_usd": 639.54,
+      "max_usd": 645.19,
       "min_local": 0.29,
-      "min_usd": 0.2
+      "min_usd": 0.21
     },
     "ch": {
       "available": true,
@@ -103,7 +103,7 @@
       "currency": "CHF",
       "iap": "CHF 0.20 - CHF 575.99 per item",
       "max_local": 575.99,
-      "max_usd": 693.68,
+      "max_usd": 698.77,
       "min_local": 0.2,
       "min_usd": 0.24
     },
@@ -113,9 +113,9 @@
       "currency": "CLP",
       "iap": "CLP 240 - CLP 719,000 per item",
       "max_local": 719000.0,
-      "max_usd": 734.42,
+      "max_usd": 732.43,
       "min_local": 240.0,
-      "min_usd": 0.25
+      "min_usd": 0.24
     },
     "co": {
       "available": true,
@@ -123,9 +123,9 @@
       "currency": "COP",
       "iap": "COP 1,000 - COP 2,850,000 per item",
       "max_local": 2850000.0,
-      "max_usd": 888.7,
+      "max_usd": 897.78,
       "min_local": 1000.0,
-      "min_usd": 0.31
+      "min_usd": 0.32
     },
     "cz": {
       "available": true,
@@ -133,7 +133,7 @@
       "currency": "CZK",
       "iap": "6,99 CZK - 18 900,99 CZK if billed through Play",
       "max_local": 18900.99,
-      "max_usd": 868.17,
+      "max_usd": 871.93,
       "min_local": 6.99,
       "min_usd": 0.32
     },
@@ -143,9 +143,9 @@
       "currency": "EUR",
       "iap": "€0.29 - €719.99 if billed through Play",
       "max_local": 719.99,
-      "max_usd": 806.59,
+      "max_usd": 808.2,
       "min_local": 0.29,
-      "min_usd": 0.32
+      "min_usd": 0.33
     },
     "dk": {
       "available": true,
@@ -153,7 +153,7 @@
       "currency": "DKK",
       "iap": "2,00 kr. - 5.750,00 kr. if billed through Play",
       "max_local": 5750.0,
-      "max_usd": 861.87,
+      "max_usd": 864.93,
       "min_local": 2.0,
       "min_usd": 0.3
     },
@@ -163,9 +163,9 @@
       "currency": "EUR",
       "iap": "€0.29 - €719.99 if billed through Play",
       "max_local": 719.99,
-      "max_usd": 806.59,
+      "max_usd": 808.2,
       "min_local": 0.29,
-      "min_usd": 0.32
+      "min_usd": 0.33
     },
     "eg": {
       "available": true,
@@ -173,7 +173,7 @@
       "currency": "EGP",
       "iap": "EGP 4.39 - EGP 14,749.99 per item",
       "max_local": 14749.99,
-      "max_usd": 280.94,
+      "max_usd": 275.57,
       "min_local": 4.39,
       "min_usd": 0.08
     },
@@ -183,9 +183,9 @@
       "currency": "EUR",
       "iap": "€0.29 - €719.99 if billed through Play",
       "max_local": 719.99,
-      "max_usd": 806.59,
+      "max_usd": 808.2,
       "min_local": 0.29,
-      "min_usd": 0.32
+      "min_usd": 0.33
     },
     "fi": {
       "available": true,
@@ -193,9 +193,9 @@
       "currency": "EUR",
       "iap": "€0.29 - €719.99 if billed through Play",
       "max_local": 719.99,
-      "max_usd": 806.59,
+      "max_usd": 808.2,
       "min_local": 0.29,
-      "min_usd": 0.32
+      "min_usd": 0.33
     },
     "fr": {
       "available": true,
@@ -203,9 +203,9 @@
       "currency": "EUR",
       "iap": "€0.29 - €719.99 if billed through Play",
       "max_local": 719.99,
-      "max_usd": 806.59,
+      "max_usd": 808.2,
       "min_local": 0.29,
-      "min_usd": 0.32
+      "min_usd": 0.33
     },
     "gb": {
       "available": true,
@@ -213,7 +213,7 @@
       "currency": "GBP",
       "iap": "£0.19 - £649.99 if billed through Play",
       "max_local": 649.99,
-      "max_usd": 860.22,
+      "max_usd": 866.3,
       "min_local": 0.19,
       "min_usd": 0.25
     },
@@ -223,9 +223,9 @@
       "currency": "EUR",
       "iap": "€0.29 - €719.99 if billed through Play",
       "max_local": 719.99,
-      "max_usd": 806.59,
+      "max_usd": 808.2,
       "min_local": 0.29,
-      "min_usd": 0.32
+      "min_usd": 0.33
     },
     "hk": {
       "available": true,
@@ -233,7 +233,7 @@
       "currency": "HKD",
       "iap": "HK$1.81 - HK$5,290.99 per item",
       "max_local": 5290.99,
-      "max_usd": 674.18,
+      "max_usd": 674.17,
       "min_local": 1.81,
       "min_usd": 0.23
     },
@@ -243,7 +243,7 @@
       "currency": "EUR",
       "iap": "€0.27 - €719.99 if billed through Play",
       "max_local": 719.99,
-      "max_usd": 806.59,
+      "max_usd": 808.2,
       "min_local": 0.27,
       "min_usd": 0.3
     },
@@ -253,9 +253,9 @@
       "currency": "HUF",
       "iap": "99 HUF - 309 000 HUF if billed through Play",
       "max_local": 309000.0,
-      "max_usd": 947.66,
+      "max_usd": 955.1,
       "min_local": 99.0,
-      "min_usd": 0.3
+      "min_usd": 0.31
     },
     "id": {
       "available": true,
@@ -263,7 +263,7 @@
       "currency": "IDR",
       "iap": "Rp 3.400 - Rp 9.990.000 per item",
       "max_local": 9990000.0,
-      "max_usd": 558.31,
+      "max_usd": 553.37,
       "min_local": 3400.0,
       "min_usd": 0.19
     },
@@ -273,9 +273,9 @@
       "currency": "EUR",
       "iap": "€0.29 - €719.99 if billed through Play",
       "max_local": 719.99,
-      "max_usd": 806.59,
+      "max_usd": 808.2,
       "min_local": 0.29,
-      "min_usd": 0.32
+      "min_usd": 0.33
     },
     "il": {
       "available": true,
@@ -283,7 +283,7 @@
       "currency": "ILS",
       "iap": "₪0.80 - ₪2,650.90 per item",
       "max_local": 2650.9,
-      "max_usd": 862.42,
+      "max_usd": 852.6,
       "min_local": 0.8,
       "min_usd": 0.26
     },
@@ -293,9 +293,9 @@
       "currency": "INR",
       "iap": "₹10.00 - ₹64,500.00 per item",
       "max_local": 64500.0,
-      "max_usd": 665.19,
+      "max_usd": 677.63,
       "min_local": 10.0,
-      "min_usd": 0.1
+      "min_usd": 0.11
     },
     "it": {
       "available": true,
@@ -303,9 +303,9 @@
       "currency": "EUR",
       "iap": "€0.29 - €719.99 if billed through Play",
       "max_local": 719.99,
-      "max_usd": 806.59,
+      "max_usd": 808.2,
       "min_local": 0.29,
-      "min_usd": 0.32
+      "min_usd": 0.33
     },
     "jp": {
       "available": true,
@@ -313,7 +313,7 @@
       "currency": "JPY",
       "iap": "¥30 - ¥99,800 per item",
       "max_local": 99800.0,
-      "max_usd": 630.73,
+      "max_usd": 632.0,
       "min_local": 30.0,
       "min_usd": 0.19
     },
@@ -323,7 +323,7 @@
       "currency": "KES",
       "iap": "Ksh 32.09 - Ksh 119,000.00 per item",
       "max_local": 119000.0,
-      "max_usd": 916.97,
+      "max_usd": 916.88,
       "min_local": 32.09,
       "min_usd": 0.25
     },
@@ -333,7 +333,7 @@
       "currency": "KRW",
       "iap": "₩300 - ₩600,000 per item",
       "max_local": 600000.0,
-      "max_usd": 447.53,
+      "max_usd": 449.91,
       "min_local": 300.0,
       "min_usd": 0.22
     },
@@ -343,9 +343,9 @@
       "currency": "KZT",
       "iap": "KZT 120.00 - KZT 349,000.00 per item",
       "max_local": 349000.0,
-      "max_usd": 769.82,
+      "max_usd": 771.67,
       "min_local": 120.0,
-      "min_usd": 0.26
+      "min_usd": 0.27
     },
     "lt": {
       "available": true,
@@ -353,9 +353,9 @@
       "currency": "EUR",
       "iap": "€0.29 - €719.99 if billed through Play",
       "max_local": 719.99,
-      "max_usd": 806.59,
+      "max_usd": 808.2,
       "min_local": 0.29,
-      "min_usd": 0.32
+      "min_usd": 0.33
     },
     "lv": {
       "available": true,
@@ -363,9 +363,9 @@
       "currency": "EUR",
       "iap": "€0.29 - €719.99 if billed through Play",
       "max_local": 719.99,
-      "max_usd": 806.59,
+      "max_usd": 808.2,
       "min_local": 0.29,
-      "min_usd": 0.32
+      "min_usd": 0.33
     },
     "ma": {
       "available": true,
@@ -373,9 +373,9 @@
       "currency": "MAD",
       "iap": "MAD 2.89 - MAD 8,150.99 per item",
       "max_local": 8150.99,
-      "max_usd": 830.25,
+      "max_usd": 838.01,
       "min_local": 2.89,
-      "min_usd": 0.29
+      "min_usd": 0.3
     },
     "mx": {
       "available": true,
@@ -383,7 +383,7 @@
       "currency": "MXN",
       "iap": "MX$4.99 - MX$13,900.00 per item",
       "max_local": 13900.0,
-      "max_usd": 755.16,
+      "max_usd": 753.1,
       "min_local": 4.99,
       "min_usd": 0.27
     },
@@ -393,7 +393,7 @@
       "currency": "MYR",
       "iap": "RM 0.99 - RM 3,190.99 per item",
       "max_local": 3190.99,
-      "max_usd": 781.14,
+      "max_usd": 781.81,
       "min_local": 0.99,
       "min_usd": 0.24
     },
@@ -403,7 +403,7 @@
       "currency": "NGN",
       "iap": "₦99.00 - ₦769,000.00 per item",
       "max_local": 769000.0,
-      "max_usd": 578.12,
+      "max_usd": 577.49,
       "min_local": 99.0,
       "min_usd": 0.07
     },
@@ -413,9 +413,9 @@
       "currency": "EUR",
       "iap": "€0.29 - €719.99 if billed through Play",
       "max_local": 719.99,
-      "max_usd": 806.59,
+      "max_usd": 808.2,
       "min_local": 0.29,
-      "min_usd": 0.32
+      "min_usd": 0.33
     },
     "no": {
       "available": true,
@@ -423,9 +423,9 @@
       "currency": "NOK",
       "iap": "3,00 kr - 9 090,00 kr if billed through Play",
       "max_local": 9090.0,
-      "max_usd": 951.01,
+      "max_usd": 963.35,
       "min_local": 3.0,
-      "min_usd": 0.31
+      "min_usd": 0.32
     },
     "nz": {
       "available": true,
@@ -433,7 +433,7 @@
       "currency": "NZD",
       "iap": "$0.39 - $1,350.99 per item",
       "max_local": 1350.99,
-      "max_usd": 758.23,
+      "max_usd": 763.71,
       "min_local": 0.39,
       "min_usd": 0.22
     },
@@ -443,7 +443,7 @@
       "currency": "PEN",
       "iap": "PEN 0.89 - PEN 1,089.99 per item",
       "max_local": 1089.99,
-      "max_usd": 317.45,
+      "max_usd": 317.2,
       "min_local": 0.89,
       "min_usd": 0.26
     },
@@ -453,7 +453,7 @@
       "currency": "PHP",
       "iap": "₱13.00 - ₱36,900.00 per item",
       "max_local": 36900.0,
-      "max_usd": 587.33,
+      "max_usd": 585.1,
       "min_local": 13.0,
       "min_usd": 0.21
     },
@@ -463,7 +463,7 @@
       "currency": "PKR",
       "iap": "Rs 49.00 - Rs 185,000.00 per item",
       "max_local": 185000.0,
-      "max_usd": 667.37,
+      "max_usd": 668.46,
       "min_local": 49.0,
       "min_usd": 0.18
     },
@@ -473,7 +473,7 @@
       "currency": "PLN",
       "iap": "1,29 PLN - 3.350,99 PLN if billed through Play",
       "max_local": 3350.99,
-      "max_usd": 855.91,
+      "max_usd": 860.63,
       "min_local": 1.29,
       "min_usd": 0.33
     },
@@ -483,9 +483,9 @@
       "currency": "EUR",
       "iap": "€0.29 - €719.99 if billed through Play",
       "max_local": 719.99,
-      "max_usd": 806.59,
+      "max_usd": 808.2,
       "min_local": 0.29,
-      "min_usd": 0.32
+      "min_usd": 0.33
     },
     "qa": {
       "available": true,
@@ -503,7 +503,7 @@
       "currency": "RON",
       "iap": "1,29 RON - 3.690,99 RON if billed through Play",
       "max_local": 3690.99,
-      "max_usd": 774.37,
+      "max_usd": 778.98,
       "min_local": 1.29,
       "min_usd": 0.27
     },
@@ -513,7 +513,7 @@
       "currency": "RSD",
       "iap": "RSD 49 - RSD 38,999 per item",
       "max_local": 38999.0,
-      "max_usd": 372.29,
+      "max_usd": 373.81,
       "min_local": 49.0,
       "min_usd": 0.47
     },
@@ -533,7 +533,7 @@
       "currency": "SEK",
       "iap": "3,00 kr - 8 850,00 kr if billed through Play",
       "max_local": 8850.0,
-      "max_usd": 885.47,
+      "max_usd": 892.49,
       "min_local": 3.0,
       "min_usd": 0.3
     },
@@ -543,9 +543,9 @@
       "currency": "SGD",
       "iap": "$0.48 - $429.99 per item",
       "max_local": 429.99,
-      "max_usd": 335.73,
+      "max_usd": 336.07,
       "min_local": 0.48,
-      "min_usd": 0.37
+      "min_usd": 0.38
     },
     "si": {
       "available": true,
@@ -553,9 +553,9 @@
       "currency": "EUR",
       "iap": "€0.29 - €719.99 if billed through Play",
       "max_local": 719.99,
-      "max_usd": 806.59,
+      "max_usd": 808.2,
       "min_local": 0.29,
-      "min_usd": 0.32
+      "min_usd": 0.33
     },
     "sk": {
       "available": true,
@@ -563,9 +563,9 @@
       "currency": "EUR",
       "iap": "€0.29 - €719.99 if billed through Play",
       "max_local": 719.99,
-      "max_usd": 806.59,
+      "max_usd": 808.2,
       "min_local": 0.29,
-      "min_usd": 0.32
+      "min_usd": 0.33
     },
     "th": {
       "available": true,
@@ -573,7 +573,7 @@
       "currency": "THB",
       "iap": "THB 9.00 - THB 10,750.00 per item",
       "max_local": 10750.0,
-      "max_usd": 320.57,
+      "max_usd": 321.67,
       "min_local": 9.0,
       "min_usd": 0.27
     },
@@ -583,7 +583,7 @@
       "currency": "TRY",
       "iap": "TRY 1.79 - TRY 24,900.00 per item",
       "max_local": 24900.0,
-      "max_usd": 504.69,
+      "max_usd": 502.58,
       "min_local": 1.79,
       "min_usd": 0.04
     },
@@ -593,7 +593,7 @@
       "currency": "TWD",
       "iap": "NT$7.35 - NT$10,000.00 per item",
       "max_local": 10000.0,
-      "max_usd": 312.85,
+      "max_usd": 308.2,
       "min_local": 7.35,
       "min_usd": 0.23
     },
@@ -603,7 +603,7 @@
       "currency": "UAH",
       "iap": "5,00 UAH - 23 900,00 UAH per item",
       "max_local": 23900.0,
-      "max_usd": 532.21,
+      "max_usd": 532.76,
       "min_local": 5.0,
       "min_usd": 0.11
     },
@@ -623,7 +623,7 @@
       "currency": "VND",
       "iap": "₫5,500 - ₫7,400,000 per item",
       "max_local": 7400000.0,
-      "max_usd": 285.86,
+      "max_usd": 286.05,
       "min_local": 5500.0,
       "min_usd": 0.21
     },
@@ -633,12 +633,12 @@
       "currency": "ZAR",
       "iap": "R 4,49 - R 6 199,99 per item",
       "max_local": 6199.99,
-      "max_usd": 375.44,
+      "max_usd": 376.63,
       "min_local": 4.49,
       "min_usd": 0.27
     }
   },
-  "date": "2026-10-12",
+  "date": "2026-10-19",
   "errors": [],
   "first_seen": {
     "countries": {
@@ -720,7 +720,6 @@
       "de": "baseline",
       "el": "baseline",
       "en-AU": "2026-10-08",
-      "en-GB": "baseline",
       "en-IN": "2026-10-12",
       "es": "baseline",
       "es-419": "baseline",
@@ -799,7 +798,6 @@
     "da",
     "de",
     "el",
-    "en-GB",
     "en-AU",
     "en-IN",
     "es",
@@ -867,17 +865,17 @@
   ],
   "listings": {
     "af": {
-      "key": "114d35336cb3a373693578aac4e43918",
+      "key": "3a45948413ecfe995f905d17d592fab7",
       "own_screens": false,
       "summary": "GPS-liggingopsporing en ouerlike beheer-app. Spoor op en vind my gesin se ligging.",
-      "title": "Findmykids: Parental Control",
+      "title": "Findmykids: Location tracker",
       "v": 2
     },
     "am": {
-      "key": "05ec68ab8c018f97cd50ca4f4895ead4",
+      "key": "b3854ee98dd8adaeb4b0980696d777de",
       "own_screens": false,
       "summary": "የጂፒኤስ አካባቢ መከታተያ እና የወላጅ ቁጥጥር መተግበሪያ። የቤተሰቤን አካባቢ ይከታተሉ እና ያግኙ",
-      "title": "Findmykids: Parental Control",
+      "title": "Findmykids: Location tracker",
       "v": 2
     },
     "ar": {
@@ -957,13 +955,6 @@
       "title": "Find my kids: GPS tracking app",
       "v": 2
     },
-    "en-GB": {
-      "key": "abb3e8a746b93555e8e0507f231c355e",
-      "own_screens": false,
-      "summary": "Kids GPS tracking app. My child location tracker, app lock parental control",
-      "title": "Find My Kids: Parental Control",
-      "v": 2
-    },
     "en-IN": {
       "key": "9ca32f11749ba4d8b37517340c84a86d",
       "own_screens": false,
@@ -993,10 +984,10 @@
       "v": 2
     },
     "eu": {
-      "key": "26825b2ed3817b9fb3e1ca01db4ef0b7",
+      "key": "e303b1c6694fe3e2cd4adc66dd82a980",
       "own_screens": false,
       "summary": "GPS kokapenaren jarraitzailea eta gurasoen kontrolerako aplikazioa. Jarraitu eta aurkitu nire familiaren kokapena",
-      "title": "Findmykids: Parental Control",
+      "title": "Findmykids: Location tracker",
       "v": 2
     },
     "fa": {
@@ -1028,17 +1019,17 @@
       "v": 2
     },
     "fr-CA": {
-      "key": "925f2f61af1c0f708648f2c9f9613148",
+      "key": "1fd96f91aee712648935ca6ceab57efd",
       "own_screens": true,
-      "summary": "Tracker familial - Localisateur de montres GPS et de téléphones pour enfants.",
-      "title": "Find my kids: Tracker GPS",
+      "summary": "Un traceur GPS pour localiser votre enfant. Controle parental et app lock",
+      "title": "FindMyKids : GPS tracker app",
       "v": 2
     },
     "gl": {
-      "key": "4cbf89337c8ecd332bd3f1417b055aba",
+      "key": "20e2a5a19f02743a48a02857928d835b",
       "own_screens": false,
       "summary": "Rastreador de localización GPS e aplicación de control parental. Rastrexa e atopa a localización da miña familia",
-      "title": "Findmykids: Parental Control",
+      "title": "Findmykids: Location tracker",
       "v": 2
     },
     "gu": {
@@ -1084,10 +1075,10 @@
       "v": 2
     },
     "is": {
-      "key": "7a53d71a047a38de56d29d30035a6358",
+      "key": "52ba2a2fcec6807fea8aae277bee3af2",
       "own_screens": false,
       "summary": "GPS staðsetningarmæling og foreldraeftirlitsforrit. Fylgstu með og finndu staðsetningu fjölskyldu minnar.",
-      "title": "Findmykids: Parental Control",
+      "title": "Findmykids: Location tracker",
       "v": 2
     },
     "it": {
@@ -1126,10 +1117,10 @@
       "v": 2
     },
     "km": {
-      "key": "248e95e7ae4367a60c5e521c1ffdd120",
+      "key": "a61a47a8f52bbc2ebb82b864fe80c6a7",
       "own_screens": false,
       "summary": "កម្មវិធីតាមដានទីតាំង GPS និងកម្មវិធីគ្រប់គ្រងដោយឪពុកម្តាយ។ តាមដាន និងស្វែងរកទីតាំងគ្រួសាររបស់ខ្ញុំ",
-      "title": "Findmykids: Parental Control",
+      "title": "Findmykids: Location tracker",
       "v": 2
     },
     "kn": {
@@ -1147,17 +1138,17 @@
       "v": 2
     },
     "ky": {
-      "key": "2844563f489b90d80b3169a4bf15a63c",
+      "key": "0036ed8d056ef885c96038801b45207e",
       "own_screens": false,
       "summary": "GPS жайгашкан жерди көзөмөлдөөчү жана ата-энелик көзөмөл колдонмосу. Үй-бүлөмдүн жайгашкан жерин көзөмөлдөп, табыңыз",
-      "title": "Findmykids: Parental Control",
+      "title": "Findmykids: Location tracker",
       "v": 2
     },
     "lo": {
-      "key": "f6a7ef8811a863640277859e4263bc03",
+      "key": "3250a11833a829e2aa18772c0fa20271",
       "own_screens": false,
       "summary": "ແອັບຕິດຕາມສະຖານທີ່ GPS ແລະ ການຄວບຄຸມຂອງຜູ້ປົກຄອງ. ຕິດຕາມ ແລະ ຊອກຫາສະຖານທີ່ຂອງຄອບຄົວຂອງຂ້ອຍ",
-      "title": "Findmykids: Parental Control",
+      "title": "Findmykids: Location tracker",
       "v": 2
     },
     "lt": {
@@ -1175,10 +1166,10 @@
       "v": 2
     },
     "mk": {
-      "key": "a97a16b0d65680e7612e809e5ac2ddab",
+      "key": "948409338f37cd4355d75a2dcd229af6",
       "own_screens": false,
       "summary": "GPS апликација за следење на локација и родителска контрола. Следете ја и пронајдете ја локацијата на моето семејство",
-      "title": "Findmykids: Parental Control",
+      "title": "Findmykids: Location tracker",
       "v": 2
     },
     "ml": {
@@ -1189,10 +1180,10 @@
       "v": 2
     },
     "mn": {
-      "key": "85d3f97fb6606ad0042b8b79cd58d155",
+      "key": "876fac90790ff3358dd976d5b644ec52",
       "own_screens": false,
       "summary": "GPS байршил хянагч болон эцэг эхийн хяналтын апп. Гэр бүлийнхээ байршлыг хянах, олох",
-      "title": "Findmykids: Parental Control",
+      "title": "Findmykids: Location tracker",
       "v": 2
     },
     "mr": {
@@ -1210,17 +1201,17 @@
       "v": 2
     },
     "my": {
-      "key": "da371ff118dd36be0774ccf111eac875",
+      "key": "7cc4da10842c4b5d8a080ff6d957b562",
       "own_screens": false,
       "summary": "GPS တည်နေရာခြေရာခံခြင်းနှင့် မိဘထိန်းချုပ်မှုအက်ပ်။ ကျွန်ုပ်၏မိသားစုတည်နေရာကို ခြေရာခံပြီးရှာဖွေပါ",
-      "title": "Findmykids: Parental Control",
+      "title": "Findmykids: Location tracker",
       "v": 2
     },
     "ne": {
-      "key": "a010d5f0146d73d91f79444cc6126f20",
+      "key": "a60e4dc5d80757d996125e251f74f95a",
       "own_screens": false,
       "summary": "GPS स्थान ट्रयाकर र अभिभावकीय नियन्त्रण एप। मेरो परिवारको स्थान ट्र्याक गर्नुहोस् र फेला पार्नुहोस्",
-      "title": "Findmykids: Parental Control",
+      "title": "Findmykids: Location tracker",
       "v": 2
     },
     "nl": {
@@ -1238,10 +1229,10 @@
       "v": 2
     },
     "pa": {
-      "key": "375007909402f62e443127110f2082a6",
+      "key": "e493bad37b2097b86c3b885b3e0713a6",
       "own_screens": false,
       "summary": "GPS ਸਥਾਨ ਟਰੈਕਰ ਅਤੇ ਮਾਪਿਆਂ ਦੇ ਨਿਯੰਤਰਣ ਐਪ। ਮੇਰੇ ਪਰਿਵਾਰਕ ਸਥਾਨ ਨੂੰ ਟਰੈਕ ਕਰੋ ਅਤੇ ਲੱਭੋ",
-      "title": "Findmykids: Parental Control",
+      "title": "Findmykids: Location tracker",
       "v": 2
     },
     "pl": {
@@ -1280,10 +1271,10 @@
       "v": 2
     },
     "si": {
-      "key": "a02aef3cc1e5b6ff924751fcdd9bf499",
+      "key": "d7fb3645b507889e357f335d0a32dfdc",
       "own_screens": false,
       "summary": "ජීපීඑස් ස්ථාන ට්රැකර් සහ දෙමාපිය පාලන යෙදුම. මගේ පවුලේ ස්ථානය නිරීක්ෂණය කර සොයා ගන්න.",
-      "title": "Findmykids: Parental Control",
+      "title": "Findmykids: Location tracker",
       "v": 2
     },
     "sk": {
@@ -1350,10 +1341,10 @@
       "v": 2
     },
     "tr": {
-      "key": "c0be8c6c54c05e69de67594dbb135e1e",
+      "key": "4fe18aab0c22db4942f9b412200af7c2",
       "own_screens": true,
       "summary": "Aile bulucu telefon takip programı: aile takip gps konum ve izleme programı",
-      "title": "Findmykids aile takip programi",
+      "title": "Find my kids: Çocuk Takibi",
       "v": 2
     },
     "uk": {
@@ -1364,10 +1355,10 @@
       "v": 2
     },
     "ur": {
-      "key": "2ed47e839151db8fad83d24896524cb3",
+      "key": "6f7c1c243ad12174933da4d671f82775",
       "own_screens": false,
       "summary": "GPS لوکیشن ٹریکر اور پیرنٹل کنٹرول ایپ۔ میرے خاندانی مقام کو ٹریک کریں اور تلاش کریں۔",
-      "title": "Findmykids: Parental Control",
+      "title": "Findmykids: Location tracker",
       "v": 2
     },
     "vi": {
@@ -1399,10 +1390,10 @@
       "v": 2
     },
     "zu": {
-      "key": "9f4cdf8f1a8b8d8a11dbfb94643aa908",
+      "key": "0f272e5de76fe4e35639a5998576bdca",
       "own_screens": false,
       "summary": "Uhlelo lokusebenza lokulandelela indawo ye-GPS kanye nokulawula kwabazali. Landelela futhi uthole indawo yomndeni wami",
-      "title": "Findmykids: Parental Control",
+      "title": "Findmykids: Location tracker",
       "v": 2
     }
   }

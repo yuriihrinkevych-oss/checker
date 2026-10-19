@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-12",
+  "_scanned": "2026-10-19",
   "containsAds": true,
   "contentRating": "Yeniyetmə",
   "description": "Familo ilə ailənizin təhlükəsizliyini birinci yerə qoyun - əlaqədə qalmağın sadə və təhlükəsiz yolu.\r\n\r\nFamilo ailə üzvlərinə gün ərzində məlumatlı qalmağa və daha asan əlaqələndirməyə kömək edir. Aydın razılıq və tam şəffaflıqla, rahatlıq üçün hazırlanmışdır - ailələrin ayrı olduqda belə özlərini daha yaxın və daha çox dəstəklənmiş hiss etmələrinə kömək edir.\r\n\r\nFamilo aşağıdakı xüsusiyyətləri təklif edir:\r\n\r\n- Təsdiqlənmiş ailə üzvlərinin real vaxt yerini şəxsi ailə xəritəsində görüntüləyin\r\n- Ailə üzvləri əvvəlcədən müəyyən edilmiş yerlərlə (məsələn, ev və ya məktəb) gəldikdə və ya ayrıldıqda bildiriş alın\r\n- Təcili yer paylaşımı üçün SOS düyməsini istifadə edin\r\n- Tətbiq daxilində ailənizlə şəxsi söhbət edin - istənilən vaxt əlaqədə qalın\r\n- Cari yerinizdə tez bir qeydiyyatdan keçməklə ailə üzvlərinə razı olduğunuzu bildirin\r\n- Məkan paylaşımı həmişə qoşulur - hər bir ailə üzvü öz görünürlüyünü idarə edir\r\n- Hər bir ailə üzvü yerini kimin görə biləcəyinə qərar verir\r\n\r\n🔒 Vacib məxfilik bildirişi:\r\n\r\n- Familo yeri paylaşmadan əvvəl bütün istifadəçilərdən açıq razılıq tələb edir.\r\n- Məkan yalnız razılıq verildikdən sonra şəxsi ailə dairənizdə paylaşılır.\r\n- Bu razılıq olmadan yer məlumatları görünmür.\r\n\r\nFamilo GPS Locator ilə Başlanğıc:\r\n\r\n- Yükləyin və quraşdırın: Sadəcə tətbiqi quraşdırın və tam funksionallıq üçün məkana giriş kimi vacib icazələri təmin edin.\r\n- Şəxsi dairənizi yaradın: Təhlükəsiz bir ailə qrupu yaradın və ya qoşulun. Üzvlük yalnız dəvət etdiyiniz və qoşulmağa açıq şəkildə razılıq verənlər üçündür.\r\n- Dəvətnamələr göndərin: Ailə üzvlərini telefon nömrələrindən, unikal linkdən və ya QR kodundan istifadə edərək asanlıqla dəvət edin.\r\n- Razılıq vacibdir: Məkan paylaşımının başlaması üçün dəvət olunmuş hər bir ailə üzvü dəvəti şüurlu şəkildə qəbul etməli və cihazlarında məkan xidmətləri də daxil olmaqla bütün tələb olunan icazələri verməlidir.\r\n- Məlumatlı qalın: Bütün ailə üzvlərinin tətbiqin məqsədini, onları kimin dəvət etdiyini və yer məlumatlarının qrup daxilində necə istifadə olunacağını izah edən aydın bildirişlər almasını təmin edirik.\r\n- Həmişə nəzarətiniz: Familo yalnız hər bir ailə üzvünün yerini paylaşmaq üçün aktiv razılığı ilə fəaliyyət göstərir. Razılıq verilmədikdə, həmin üzv üçün yer paylaşımı qeyri-aktiv qalacaq.\r\n\r\nFamilo tam funksionallıq təmin etmək üçün yalnız aşağıdakı icazələrlə işləyir:\r\n\r\n- Yerləşmə girişi: real vaxt rejimində paylaşma, geo-hasarlama və SOS xəbərdarlıqları üçün\r\n- Bildirişlər: qeydiyyatlar və ya təhlükəsizlik xəbərdarlıqları barədə sizi məlumatlandırmaq üçün\r\n- Əlaqə: etibarlı ailə üzvlərini dəvət etmək üçün\r\n- Foto və Kamera: profilləri şəkillərlə fərdiləşdirmək üçün\r\n\r\nFamilo məxfiliyə, şəffaflığa və məsuliyyətli istifadəyə sadiqdir.\r\n\r\nRəylərinizi eşitmək istərdik! Fikirlərinizi support@familo.net ünvanında bizimlə paylaşın.\r\n\r\nİstifadə Şərtləri: https://terms.familo.net/en/Terms_and_Conditions_Familonet.pdf\r\nMəxfilik Siyasəti: https://terms.familo.net/privacy",
@@ -7,11 +7,11 @@
   "genre": "Həyat tərzi",
   "headerImage": "https://play-lh.googleusercontent.com/L7jnwXpKWmdmAUeU-wkOjRzhXHk9XXGnexTG25Wpsjw-WKNjT8q3FkV1wDbpAbbpKRxidzKdgXIkVCbE5Tk1Wg",
   "histogram": [
-    48351,
-    16096,
-    42556,
-    87074,
-    475662
+    47621,
+    16307,
+    42423,
+    88095,
+    483366
   ],
   "icon": "https://play-lh.googleusercontent.com/k65pzF3iC2vrf7LV96MkzDYjuyTu10Xa1m1jYEDzzpy9Z3le-IPpyXDbU2enm7ZHFPcBJSLiYdTIqEDGugf2TQ",
   "inAppProductPrice": "2,99 US$ – 89,99 US$ elementə görə",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "28 avq 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 669833,
-    "realInstalls": 24240136,
-    "reviews": 1769,
-    "score": 4.3818007
+    "ratings": 677908,
+    "realInstalls": 24377286,
+    "reviews": 1770,
+    "score": 4.39143
   },
   "price": 0,
   "screenshots": [

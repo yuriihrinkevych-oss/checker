@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-12",
+  "_scanned": "2026-10-19",
   "containsAds": true,
   "contentRating": "Paaugliams",
   "description": "Su „Familo“ pasirūpinkite savo šeimos saugumu – tai paprastas ir saugus būdas palaikyti ryšį.\r\n\r\n„Familo“ padeda šeimos nariams būti informuotiems ir lengviau koordinuoti veiksmus visą dieną. Aiškiai sutinkant ir užtikrinant visišką skaidrumą, ši programa sukurta ramybei – padeda šeimoms jaustis arčiau ir labiau palaikomoms, net ir būdamos atskirai.\r\n\r\n„Familo“ siūlo šias funkcijas:\r\n\r\n- Privačiame šeimos žemėlapyje galite matyti patvirtintų šeimos narių buvimo vietą realiuoju laiku.\r\n- Gaukite pranešimus, kai šeimos nariai atvyksta arba išvyksta iš iš anksto nustatytų vietų (pvz., namų ar mokyklos).\r\n- Naudokite SOS mygtuką, kad galėtumėte bendrinti buvimo vietą kritiniu atveju.\r\n- Privačiai bendrinkite savo šeimą programėlėje – palaikykite ryšį bet kuriuo metu.\r\n- Greitai užsiregistravę dabartinėje savo buvimo vietoje, praneškite šeimos nariams, kad jums viskas gerai.\r\n- Vietos bendrinimas visada pasirenkamas – kiekvienas šeimos narys kontroliuoja savo matomumą.\r\n- Kiekvienas šeimos narys nusprendžia, kas gali matyti jo buvimo vietą.\r\n\r\n🔒 Svarbus privatumo pranešimas:\r\n\r\n- Prieš bendrindami buvimo vietą, „Familo“ reikalauja aiškaus visų naudotojų sutikimo.\r\n- Vieta bendrinama tik jūsų privačiame šeimos rate, gavus sutikimą.\r\n- Be šio sutikimo, buvimo vietos duomenys nematomi.\r\n\r\nDarbo su „Familo“ GPS lokatoriumi pradžia:\r\n\r\n- Atsisiųskite ir nustatykite: tiesiog įdiekite programėlę ir suteikite būtiniausius leidimus, pvz., prieigą prie vietos nustatymo, kad galėtumėte naudotis visomis funkcijomis.\r\n- Sukurkite savo privatų ratą: sukurkite saugią šeimos grupę arba prisijunkite prie jos. Narystė taikoma tik tiems, kuriuos pakviečiate ir kurie aiškiai sutinka prisijungti.\r\n- Siųskite kvietimus: lengvai pakvieskite šeimos narius naudodami jų telefono numerį, unikalią nuorodą arba QR kodą.\r\n- Sutikimas yra labai svarbus: norint pradėti bendrinti vietą, kiekvienas pakviestas šeimos narys turi sąmoningai priimti kvietimą ir savo įrenginyje suteikti visus reikiamus leidimus, įskaitant vietos nustatymo paslaugas.\r\n- Būkite informuoti: užtikriname, kad visi šeimos nariai gautų aiškius pranešimus, kuriuose paaiškinama programėlės paskirtis, kas juos pakvietė ir kaip jų vietos nustatymo informacija bus naudojama grupėje.\r\n- Visada valdote: „Familo“ veikia tik gavus kiekvieno šeimos nario aktyvų sutikimą bendrinti savo vietą. Jei sutikimas nesuteikiamas, to nario vietos nustatymo bendrinimas liks neaktyvus.\r\n\r\n„Familo“ veikia tik su šiais leidimais, kad galėtų teikti visas funkcijas:\r\n\r\n- Prieiga prie vietos: bendrinimui realiuoju laiku, geofencing ir SOS įspėjimams\r\n- Pranešimai: informuoti jus apie registracijas arba saugos įspėjimus\r\n- Kontaktai: pakviesti patikimus šeimos narius\r\n- Nuotraukos ir kamera: suasmeninti profilius su nuotraukomis\r\n\r\n„Familo“ yra įsipareigojusi privatumui, skaidrumui ir atsakingam naudojimui.\r\n\r\nLaukiame jūsų atsiliepimų! Pasidalykite savo idėjomis su mumis adresu support@familo.net\r\n\r\nNaudojimo sąlygos: https://terms.familo.net/en/Terms_and_Conditions_Familonet.pdf\r\nPrivatumo politika: https://terms.familo.net/privacy",
@@ -7,11 +7,11 @@
   "genre": "Gyvenimo būdas",
   "headerImage": "https://play-lh.googleusercontent.com/L7jnwXpKWmdmAUeU-wkOjRzhXHk9XXGnexTG25Wpsjw-WKNjT8q3FkV1wDbpAbbpKRxidzKdgXIkVCbE5Tk1Wg",
   "histogram": [
-    48347,
-    16095,
-    42553,
-    87068,
-    475625
+    47626,
+    16308,
+    42427,
+    88104,
+    483414
   ],
   "icon": "https://play-lh.googleusercontent.com/k65pzF3iC2vrf7LV96MkzDYjuyTu10Xa1m1jYEDzzpy9Z3le-IPpyXDbU2enm7ZHFPcBJSLiYdTIqEDGugf2TQ",
   "inAppProductPrice": "2,99 USD–89,99 USD už elementą",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "2026-08-28",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 669781,
-    "realInstalls": 24240136,
-    "reviews": 1769,
-    "score": 4.3818007
+    "ratings": 677975,
+    "realInstalls": 24377286,
+    "reviews": 1770,
+    "score": 4.39143
   },
   "price": 0,
   "screenshots": [

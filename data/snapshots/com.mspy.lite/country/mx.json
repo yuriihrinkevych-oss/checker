@@ -1,6 +1,6 @@
 {
   "_lang": "es-419",
-  "_scanned": "2026-10-12",
+  "_scanned": "2026-10-19",
   "containsAds": false,
   "contentRating": "Apto para todo público",
   "description": "Mantén a tu familia segura con mLite  \r\nmLite es una aplicación confiable de control parental que ayuda a los padres a cuidar de sus hijos mientras mantienen una comunicación abierta y clara. Esta herramienta ofrece funciones importantes para el seguimiento en tiempo real de ubicaciones, la seguridad familiar y la protección infantil, todo hecho bajo altos estándares de privacidad y consentimiento.\r\n\r\nCaracterísticas principales de mLite:\r\n1. Localización GPS en tiempo real: Permite ver dónde está tu hijo al instante mediante un mapa. Con mLite, puedes compartir fácilmente las ubicaciones entre familiares, brindando tranquilidad sobre su bienestar.\r\n2. Alertas por geofencing: Crea zonas seguras virtuales en el mapa y recibe notificaciones cuando el niño entra o sale de estas áreas. Esto permite seguir sus movimientos sin invadir su privacidad.\r\n3. Acceso al historial de ubicaciones: Revisa dónde ha estado tu hijo durante el día para entender mejor sus rutinas diarias y asegurarte que se encuentre en lugares seguros.\r\n4. Botón de alarma para emergencias: Proporciona a tu hijo un botón que le permite enviarte una alerta rápida si hay peligro o emergencia, garantizando así una respuesta inmediata.\r\n5. Vista del listado de contactos: Supervisa quiénes están en contacto con tu hijo revisando su lista telefónica para asegurar que hable solo con personas fiables.\r\n\r\n*Nota: Algunas características pueden no funcionar en iPhones.\r\n\r\nLos servicios accesibles desde mLite se usan solamente para funciones como supervisar comunicaciones específicas, siempre informando al niño y contando con su consentimiento para asegurar un uso seguro online. No recopilamos ni compartimos datos personales sin permiso previo.\r\n\r\nGuía para instalar:\r\n1. Descarga e instala la app mLite en tu dispositivo.\r\n2. Registra una cuenta como padre o madre.\r\n3. Pon mLite también en el teléfono del niño.\r\n4. Selecciona «niño» durante la configuración inicial.\r\n5. Acepta compartir ubicaciones y contactos.\r\n\r\nLa instalación requiere estar informado junto al niño sobre este proceso; todos los datos son manejados conforme a las normas GDPR sobre privacidad.\r\n\r\nPermisos necesarios:\r\n- Cámara y fotos: Para escanear un código QR desde el móvil del niño vinculándolo así contigo.\r\n- Contactos: Para revisar listas telefónicas asegurando comunicaciones seguras.\r\n- Información localizable GPS actualizada constantemente junto alertas geolocalizadas\r\n\r\nImportante recordar qué esta diseñada exclusivamente fin control parental usando sólo previa autorización mutua involucrando tanto progenitores menores edad permitiendo conocimiento instalación además gestionamos información estrictamente cumpliendo normativas europeas RGPD respecto intimidad resguardada adecuadamente \r\n\r\nPara saber más detalles visita nuestra Política Privacidad Términos Uso\r\nPolítica Privacidad https://mliteapp.com/privacy.html \r\nInformación Legal https://mliteapp.com/terms-of-use \r\n\r\nCualquier duda comuníquese soporte técnico vía support@mliteapp.com",
@@ -8,22 +8,22 @@
   "genre": "Estilo de vida",
   "headerImage": "https://play-lh.googleusercontent.com/RD-oHqEKzOrRR5UHHg4XAwpXdIDQpSF7Z_DYPbCBC4gy0zW9BLDCGF4gz7xogjaLTt40sh6Vnxrh3jeTaGRCHg",
   "histogram": [
-    940,
+    944,
     134,
-    403,
-    1478,
-    10528
+    404,
+    1618,
+    10430
   ],
   "icon": "https://play-lh.googleusercontent.com/GQvR3jreQgq7l36dVKMMA6hSK5xK7PrwSjW5FiZHyqHlu62XWefqEKBzhDMkI_-4AB_an_ESb5QvHtrSacqw",
   "inAppProductPrice": "$18.00-$4,749.00 por elemento",
   "installs": "10,000,000+",
-  "lastUpdatedOn": "5 oct 2026",
+  "lastUpdatedOn": "14 oct 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 13530,
-    "realInstalls": 11958570,
-    "reviews": 101,
-    "score": 4.52
+    "ratings": 13578,
+    "realInstalls": 11996449,
+    "reviews": 100,
+    "score": 4.51
   },
   "price": 0,
   "screenshots": [
@@ -37,6 +37,6 @@
   ],
   "summary": "Aplicación de localización GPS en tiempo real para el control parental",
   "title": "mLite - Localizador GPS",
-  "version": "4.3.8",
+  "version": "4.3.9",
   "video": "https://play.google.com/video/lava/web/player/yt:movie:mZNpXIKVeRE?autoplay=1&embed=play"
 }

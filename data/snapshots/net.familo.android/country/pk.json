@@ -1,6 +1,6 @@
 {
   "_lang": "en",
-  "_scanned": "2026-10-12",
+  "_scanned": "2026-10-19",
   "containsAds": true,
   "contentRating": "Rated for 12+",
   "description": "Put your family’s safety first with Familo - the simple and secure way to stay connected.\r\n\r\nFamilo helps family members stay informed and coordinate more easily throughout the day. With clear consent and full transparency, it’s designed for peace of mind - helping families feel closer and more supported, even when apart.\r\n\r\nFamilo offers following features:\r\n\r\n- View approved family members’ real-time location on a private family map\r\n- Get notified when family members arrive or leave with a predefined places (like home or school)\r\n- Use the SOS button for emergency location sharing\r\n- Chat privately with your family inside the app - stay connected anytime\r\n- Let family members know you're okay with a quick check-in at your current location\r\n- Location sharing is always opt-in - each family member controls their visibility\r\n- Each family member decides who can see their location\r\n\r\n🔒 Important privacy notice: \r\n\r\n- Familo requires explicit consent from all users before sharing location.\r\n- Location is only shared within your private family circle after consent is given. \r\n- Without this consent, location data is not visible.\r\n\r\nGetting Started with Familo GPS Locator:\r\n\r\n- Download and set up: Simply install the app and provide the essential permissions, like location access, for full functionality.\r\n- Form your private circle: Establish or join a secure family group. Membership is exclusive to those you invite and who explicitly agree to join.\r\n- Send out invitations: Easily invite family members using their phone number, a unique link, or a QR code.\r\n- Consent is crucial: For location sharing to begin, every invited family member must consciously accept the invitation and grant all required permissions, including location services, on their device.\r\n- Stay informed: We ensure all family members receive clear notifications explaining the app's purpose, who invited them, and how their location information will be utilized within the group.\r\n- Your control, always: Familo functions solely with the active agreement of each family member to share their location. If consent is withheld, location sharing for that member will remain inactive.\r\n\r\nFamilo works only with the following permissions to provide full functionality:\r\n\r\n- Location access: for real-time sharing, geofencing, and SOS alerts\r\n- Notifications: to inform you about check-ins or safety alerts\r\n- Contacts: to invite trusted family members\r\n- Photos and Camera: to personalize profiles with pictures\r\n\r\nFamilo is committed to privacy, transparency, and responsible use. \r\n\r\nWe'd love your feedback! Share your ideas with us at support@familo.net \r\n\r\nTerms of Use: https://terms.familo.net/en/Terms_and_Conditions_Familonet.pdf \r\nPrivacy Policy: https://terms.familo.net/privacy",
@@ -8,11 +8,11 @@
   "genre": "Lifestyle",
   "headerImage": "https://play-lh.googleusercontent.com/L7jnwXpKWmdmAUeU-wkOjRzhXHk9XXGnexTG25Wpsjw-WKNjT8q3FkV1wDbpAbbpKRxidzKdgXIkVCbE5Tk1Wg",
   "histogram": [
-    70539,
-    27485,
-    50934,
-    49012,
-    471285
+    75323,
+    27566,
+    51444,
+    49503,
+    473681
   ],
   "icon": "https://play-lh.googleusercontent.com/k65pzF3iC2vrf7LV96MkzDYjuyTu10Xa1m1jYEDzzpy9Z3le-IPpyXDbU2enm7ZHFPcBJSLiYdTIqEDGugf2TQ",
   "inAppProductPrice": "Rs 820.00 - Rs 16,800.00 per item",
@@ -20,10 +20,10 @@
   "lastUpdatedOn": "Aug 28, 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 669833,
-    "realInstalls": 24240136,
-    "reviews": 229,
-    "score": 4.228739
+    "ratings": 677908,
+    "realInstalls": 24377286,
+    "reviews": 230,
+    "score": 4.2076025
   },
   "price": 0,
   "screenshots": [

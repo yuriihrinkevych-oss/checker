@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-12",
+  "_scanned": "2026-10-19",
   "containsAds": true,
   "contentRating": "适合所有人",
   "description": "随时掌握家人的实时位置和出行记录——无论您是想照看孩子还是照顾年迈的父母，都无比轻松便捷。\r\n\r\n实时分享您的位置，接收即时通知，无论身在何处，都能保持联系。\r\n\r\n守护挚爱的简单方法。\r\n\r\n主要功能：\r\n\r\n★ 追踪位置：查看家人当前所在位置，并通过您的设备直接监控他们的行踪。\r\n\r\n★ 发送您的位置：即时与家人分享您的当前位置，让他们随时了解您的行踪。\r\n\r\n★ 区域提醒：设置重要区域，例如家、学校或办公室。当父母或孩子到达或离开这些区域时，您将立即收到通知。\r\n\r\n★ 路线历史记录：浏览家人过往的位置和路线，并按特定日期搜索。\r\n\r\n★ 查找附近地点：发现附近的餐厅、酒店、银行等——方便您规划日常出行和外出活动。\r\n\r\n适用人群：\r\n\r\n👧 担心孩子户外安全的家长\r\n\r\n👴 照顾年迈亲属的人士\r\n\r\n🏖️ 企业主管\r\n\r\n联系我们\r\n\r\n使用 GPS 定位功能时遇到问题或有任何疑问？我们的支持团队随时为您提供帮助。\r\n\r\n联系我们：nd5star.contact@gmail.com\r\n\r\n法律声明：\r\n\r\n隐私政策：本应用的所有功能均需获得您的明确许可方可运行。所有位置追踪均需经您明确同意后方可启动。\r\n\r\n数据保护：您的位置信息经过加密保护。我们绝不会出售或与任何第三方共享您的个人位置数据。您可以完全掌控位置共享设置。\r\n\r\n正确使用：未经授权的追踪行为是被禁止的。您必须确保所有位置信息被共享的人员均已获得知情同意。",
@@ -7,11 +7,11 @@
   "genre": "地图和导航",
   "headerImage": "https://play-lh.googleusercontent.com/jpbbDdNudcHrMsxHuJqmFPX9w-Q9m2fcsHM2wENaVFkOxOSlRNdnBvf8wgXWZkZQRYGssYb5_CKMi4MFE9dS",
   "histogram": [
-    5107,
-    567,
-    1297,
-    2837,
-    10053
+    5520,
+    669,
+    1170,
+    2843,
+    13800
   ],
   "icon": "https://play-lh.googleusercontent.com/_YyxPfCCAbB-K2DRvnN4A3MFuJh-bT1BJJT8UQOmEeENV3GGVNaMGzvc4YgN606NBMKe4OUwP3MW4mnTM1Lr",
   "inAppProductPrice": null,
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "2026年8月14日",
   "metrics": {
     "minInstalls": 5000000,
-    "ratings": 19944,
-    "realInstalls": 5523296,
-    "reviews": 57,
-    "score": 3.6095238
+    "ratings": 24339,
+    "realInstalls": 6363399,
+    "reviews": 68,
+    "score": 3.77
   },
   "price": 0,
   "screenshots": [

@@ -11,3 +11,11 @@
 {"date": "2026-10-12", "app_id": "com.mspy.lite", "type": "listing_edited", "langs": ["en-AU"], "samples": [["en-AU", "mLite - GPS Phone Tracker", "mLite - Family GPS Tracker"]]}
 {"date": "2026-10-12", "app_id": "com.life360.android.safetymapd", "type": "lang_added", "langs": ["en-IN"]}
 {"date": "2026-10-12", "app_id": "org.findmykids.app", "type": "lang_added", "langs": ["en-IN"]}
+{"date": "2026-10-19", "app_id": "net.zenrindatacom.itsmodelivery", "type": "lang_removed", "langs": ["en-IN"]}
+{"date": "2026-10-19", "app_id": "com.life360.android.safetymapd", "type": "lang_added", "langs": ["en-AU"]}
+{"date": "2026-10-19", "app_id": "com.life360.android.safetymapd", "type": "lang_removed", "langs": ["en-GB", "en-IN"]}
+{"date": "2026-10-19", "app_id": "com.life360.android.safetymapd", "type": "listing_edited", "langs": ["fi", "fr", "fr-CA", "id", "it", "ko", "ms", "no", "th", "tr", "vi"], "samples": [["fi", "Life360 ja sijainnin jakaminen", "Life360 ja sijainnin jakaminen"], ["fr", "Life360 Localiser Famille Amis", "Life360 Localiser Famille Amis"], ["fr-CA", "Life360 Localiser Famille Amis", "Life360 Localiser Famille Amis"]]}
+{"date": "2026-10-19", "app_id": "org.findmykids.app", "type": "lang_removed", "langs": ["en-GB"]}
+{"date": "2026-10-19", "app_id": "org.findmykids.app", "type": "base_changed", "old": "Findmykids: Parental Control", "new": "Findmykids: Location tracker", "followed": 18}
+{"date": "2026-10-19", "app_id": "org.findmykids.app", "type": "price", "changes": [{"country": "ar", "kind": "entry", "old": 882.05, "new": 358.8, "currency": "ARS", "pct": -0.5932203389830509}]}
+{"date": "2026-10-19", "app_id": "com.isharing.isharing", "type": "listing_edited", "langs": ["cs", "el", "hu", "iw", "ja", "ko", "ro", "sk"], "samples": [["cs", "iSharing: GPS Location Tracker", "iSharing: GPS lokátor"], ["el", "iSharing: GPS Location Tracker", "iSharing: Εντοπισμός GPS"], ["hu", "iSharing: GPS Location Tracker", "iSharing: GPS nyomkövető"]]}

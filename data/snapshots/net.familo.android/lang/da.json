@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-12",
+  "_scanned": "2026-10-19",
   "containsAds": true,
   "contentRating": "For teenagere",
   "description": "Sæt din families sikkerhed først med Familo - den enkle og sikre måde at holde forbindelsen på.\r\n\r\nFamilo hjælper familiemedlemmer med at holde sig informerede og koordinere lettere i løbet af dagen. Med tydeligt samtykke og fuld gennemsigtighed er det designet til ro i sindet - hvilket hjælper familier med at føle sig tættere og mere støttede, selv når de er adskilt.\r\n\r\nFamilo tilbyder følgende funktioner:\r\n\r\n- Se godkendte familiemedlemmers realtidsplacering på et privat familiekort\r\n- Få besked, når familiemedlemmer ankommer eller forlader med foruddefinerede steder (som hjemme eller skole)\r\n- Brug SOS-knappen til deling af placering i nødstilfælde\r\n- Chat privat med din familie i appen - hold forbindelsen når som helst\r\n- Lad familiemedlemmer vide, at du er okay med en hurtig check-in på din nuværende placering\r\n- Placeringsdeling er altid tilvalg - hvert familiemedlem styrer sin synlighed\r\n- Hvert familiemedlem bestemmer, hvem der kan se deres placering\r\n\r\n🔒 Vigtig privatlivsmeddelelse:\r\n\r\n- Familo kræver udtrykkeligt samtykke fra alle brugere, før placering deles.\r\n\r\n- Placering deles kun inden for din private familiekreds, efter at samtykke er givet.\r\n\r\n- Uden dette samtykke er placeringsdata ikke synlige.\r\n\r\nKom godt i gang med Familo GPS Locator:\r\n\r\n- Download og opsæt: Installer blot appen og angiv de nødvendige tilladelser, f.eks. adgang til lokation, for at få fuld funktionalitet.\r\n\r\n- Dan din private cirkel: Opret eller bliv medlem af en sikker familiegruppe. Medlemskab er eksklusivt for dem, du inviterer, og som udtrykkeligt accepterer at deltage.\r\n\r\n- Send invitationer ud: Inviter nemt familiemedlemmer ved hjælp af deres telefonnummer, et unikt link eller en QR-kode.\r\n\r\n- Samtykke er afgørende: For at lokationsdeling kan begynde, skal hvert inviteret familiemedlem bevidst acceptere invitationen og give alle nødvendige tilladelser, inklusive lokationstjenester, på deres enhed.\r\n\r\n- Hold dig informeret: Vi sørger for, at alle familiemedlemmer modtager klare notifikationer, der forklarer appens formål, hvem der inviterede dem, og hvordan deres lokationsoplysninger vil blive brugt i gruppen.\r\n\r\n- Din kontrol, altid: Familo fungerer udelukkende med hvert familiemedlems aktive samtykke til at dele deres lokation. Hvis samtykket tilbageholdes, forbliver lokationsdeling for det pågældende medlem inaktiv.\r\n\r\nFamilo fungerer kun med følgende tilladelser for at levere fuld funktionalitet:\r\n\r\n- Adgang til placering: til deling i realtid, geofencing og SOS-advarsler\r\n- Notifikationer: til at informere dig om check-ins eller sikkerhedsadvarsler\r\n- Kontakter: til at invitere betroede familiemedlemmer\r\n- Fotos og kamera: til at personliggøre profiler med billeder\r\n\r\nFamilo er forpligtet til privatliv, gennemsigtighed og ansvarlig brug.\r\n\r\nVi vil meget gerne have din feedback! Del dine ideer med os på support@familo.net\r\n\r\nBrugsbetingelser: https://terms.familo.net/en/Terms_and_Conditions_Familonet.pdf\r\nPrivatlivspolitik: https://terms.familo.net/privacy",
@@ -7,11 +7,11 @@
   "genre": "Livsstilsapps",
   "headerImage": "https://play-lh.googleusercontent.com/L7jnwXpKWmdmAUeU-wkOjRzhXHk9XXGnexTG25Wpsjw-WKNjT8q3FkV1wDbpAbbpKRxidzKdgXIkVCbE5Tk1Wg",
   "histogram": [
-    48351,
-    16096,
-    42556,
-    87074,
-    475662
+    47621,
+    16307,
+    42423,
+    88095,
+    483366
   ],
   "icon": "https://play-lh.googleusercontent.com/k65pzF3iC2vrf7LV96MkzDYjuyTu10Xa1m1jYEDzzpy9Z3le-IPpyXDbU2enm7ZHFPcBJSLiYdTIqEDGugf2TQ",
   "inAppProductPrice": "2,99 US$-89,99 US$ pr. stk.",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "28. aug. 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 669833,
-    "realInstalls": 24240136,
-    "reviews": 1769,
-    "score": 4.3818007
+    "ratings": 677908,
+    "realInstalls": 24377286,
+    "reviews": 1770,
+    "score": 4.39143
   },
   "price": 0,
   "screenshots": [
