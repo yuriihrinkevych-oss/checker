@@ -29,6 +29,12 @@ apps:
   - id: com.isharing.isharing
     name: iSharing
     group: locators
+  - id: find.my.friends.family.phone.gps.location.device.tracker.locator
+    name: Findo
+    group: locators
+  - id: com.find.connect.family
+    name: Findo
+    group: locators
 
 # Ринки. Перший у списку = основний, з нього рахуються алерти по росту.
 # Інші потрібні, щоб бачити локалізацію та регіональні зміни.
