@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-21",
+  "_scanned": "2026-10-22",
   "containsAds": false,
   "contentRating": "USK ab 0 Jahren",
   "description": "Möchten Sie wissen, wo Ihre Freunde sind? Freunde finden und Familie mit Ihrem Echtzeit-Standort und sich bei Ihren Freunden mit unserer Findo-App anmelden - der perfekte Assistent, um überall mit Ihren Lieben in Kontakt zu bleiben.\r\nMit nur wenigen Fingertipps können Sie und Ihre Freunde die genauen GPS-Punkte der anderen in Echtzeit auf der Karte anzeigen und austauschen. Das fortschrittliche Navigations- und Ortungselement wird Ihnen zur Hilfe kommen, wenn Sie sich in einer dringenden „Freunde finden“-Situation befinden.\r\nFindo ist ein benutzerfreundlicher und personalisierter GPS-Tracer-Assistent, der Ihnen hilft, Freunde und Familie, die Ihnen am wichtigsten sind, im Auge zu behalten und Ihre Welt sicherer zu machen. Es ist auch ideal für vielbeschäftigte Eltern, die wissen wollen, wo ihre Kinder sind. Ganz gleich, ob Ihre Kinder noch zur Schule gehen oder Sie sie bereits aufs College geschickt haben, es ist immer eine Erleichterung zu wissen, dass sie sicher und gesund sind. Mit einem Live-Positionsfinder und anpassbaren Warnmeldungen können Sie jederzeit ihren Standort sehen - Sie müssen sie nicht belästigen und mit ihrem Zorn rechnen.\r\nDarüber hinaus können Sie Ihre eigene Online-Community („Kreis“) für Familienmitglieder und Freunde erstellen. Fügen Sie Ihre Liebsten zu Ihren Kreisen in unserer Standort-App hinzu! Damit behalten Sie den Überblick über Ihre soziale Gruppe - ganz einfach. Ganz gleich, ob Sie versuchen, ein Treffen zu koordinieren, ob Sie denken: „Ich wünschte, ich könnte jetzt Freunde finden“, oder ob Sie sich einfach nur vergewissern wollen, dass Ihre Familie in Sicherheit ist - mit dem Assistenten können Sie ganz einfach auf dem Laufenden bleiben, ohne herumschnüffeln zu müssen!\r\nMit unserem mobilen Assistenten, der auf Geolocation-Technologie basiert, erhalten Sie sofortige Benachrichtigungen, wenn jemand an einem bestimmten Ort eintrifft oder diesen verlässt - in der Schule, am Arbeitsplatz, zu Hause usw. Mit unserem Tracer können Sie endlich Familienorte überprüfen, ohne es zu übertreiben.\r\nAußerdem sind Ihren persönlichen Kreisen keine Grenzen gesetzt - Sie können so viele Freunde einladen, wie Sie wollen! Mit Findo haben Sie einen zuverlässigen und respektvollen Assistenten, der ein Auge auf alle hat, die Ihnen wichtig sind. Diese Standort-App ist ein unverzichtbarer Helfer für alle, die die Familienorte wissen möchten.\r\nErforderliche Berechtigungen:\r\nBenachrichtigungen: um Sie zu benachrichtigen, wenn Ihre Freunde oder Mitglieder der Familie an einem bestimmten Ort ankommen oder ihn verlassen.\r\nStandort: zur Aktivierung der Live-GPS-Freigabe.\r\nKamera und Galerie: Damit können Sie ein tolles Profilbild auswählen oder erstellen, das Sie mit Ihren Freunden teilen können.",
@@ -9,9 +9,9 @@
   "histogram": [
     1419,
     354,
-    1596,
-    3902,
-    11352
+    1597,
+    3904,
+    11357
   ],
   "icon": "https://play-lh.googleusercontent.com/gRZep1uGixu2Ijk8qxd4EGEW5x9TgZdd0-2IfNffcodB50fOe6NldEGFuns04ZMKB_fasUcSZnwi9Jfodz6C0yI",
   "inAppProductPrice": "4,99 €–39,99 € bei Abrechnung über Google Play",
@@ -19,8 +19,8 @@
   "lastUpdatedOn": "01.10.2026",
   "metrics": {
     "minInstalls": 1000000,
-    "ratings": 19158,
-    "realInstalls": 4183943,
+    "ratings": 19166,
+    "realInstalls": 4187609,
     "reviews": 11,
     "score": 4.23
   },
