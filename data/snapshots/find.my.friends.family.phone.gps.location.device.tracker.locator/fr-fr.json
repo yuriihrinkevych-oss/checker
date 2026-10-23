@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-22",
+  "_scanned": "2026-10-23",
   "containsAds": false,
   "contentRating": "PEGI 3",
   "description": "Vous voulez savoir où sont vos amis ? Fournissez à vos amis et à votre famille votre localisation en temps réel et sachez où sont vos proches grâce à notre application Findo, le traceur GPS idéal pour rester en contact avec les personnes qui vous tiennent à cœur n'importe où.\r\nEn quelques clics, vous et vos amis pouvez facilement visualiser et partager la localisation exacte de chacun sur la carte en temps réel. Son élément de traceur GPS avancé viendra à votre secours si vous vous trouvez dans une situation urgente de type « localiser mes amis ».\r\nFindo est un traceur GPS convivial et personnalisé conçu pour vous aider à garder un œil sur vos amis et votre famille et à répondre à la question « Comment trouver mon téléphone ? » Il est aussi parfait pour les parents occupés qui souhaitent savoir où se trouvent leurs enfants. Que vos enfants soient encore à l’école, ou que vous les ayez déjà envoyés à l’université, c’est toujours un soulagement de savoir qu’ils vont bien. Avec un outil de recherche de position en direct et des alertes personnalisables, vous pouvez voir leur localisation à tout moment, sans avoir besoin de les harceler et d'affronter leur mécontentement.\r\nDe plus, vous pouvez créer votre propre communauté en ligne (« cercle ») pour les membres de votre famille et vos amis. Ajoutez vos proches à vos cercles dans notre application ! Grâce à ceux-ci, vous pouvez suivre votre groupe social sans problème. Que vous essayiez d'organiser une rencontre, que vous pensiez « J'aimerais pouvoir localiser mes amis immédiatement », ou encore que vous vouliez simplement vous assurer que votre famille est en sécurité, l'aide vous permet de rester facilement au courant sans avoir à fouiner !\r\nGrâce à notre assistant mobile alimenté par la technologie de géolocalisation, vous recevrez des notifications instantanées chaque fois que quelqu'un arrive ou quitte un lieu spécifié : école, travail, maison, etc. Avec notre traceur, vous pourrez enfin connaître la position et la sécurité de votre famille et de vos amis sans les importuner.\r\nDe plus, comme vos cercles personnels n'ont pas de limites, n'hésitez pas à inviter autant d'amis que vous le souhaitez ! Avec Findo, vous disposez d'un traceur GPS à la fois fiable et respectueux pour garder un œil sur toutes les personnes qui comptent pour vous. Oubliez la question « Comment puis-je trouver mon téléphone ? », car Findo est le localisateur ultime qui peut vous aider à trouver le téléphone portable de vos proches.\r\nAutorisations requises :\r\nNotifications : pour savoir quand vos amis ou membres de votre famille arrivent ou quittent un lieu précis.\r\nLocalisation : pour activer le partage GPS en direct.\r\nAppareil photo et galerie : pour vous permettre de choisir ou de créer une superbe photo de profil qui sera partagée avec vos amis.",
@@ -7,11 +7,11 @@
   "genre": "Style de vie",
   "headerImage": "https://play-lh.googleusercontent.com/K3v6tVM_P0AQY8V-VQWY4AIHdrqaDRc-SvWPDacId7dBLuIRXqYEmW7pLTRm5OwR2xrj-DAw2F7lPgN6ZbyV",
   "histogram": [
-    1691,
-    1315,
-    2254,
-    2630,
-    11086
+    1675,
+    1303,
+    2234,
+    2793,
+    10800
   ],
   "icon": "https://play-lh.googleusercontent.com/gRZep1uGixu2Ijk8qxd4EGEW5x9TgZdd0-2IfNffcodB50fOe6NldEGFuns04ZMKB_fasUcSZnwi9Jfodz6C0yI",
   "inAppProductPrice": "4,99 € - 39,99 € si facturé via Play",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "1 oct. 2026",
   "metrics": {
     "minInstalls": 1000000,
-    "ratings": 19166,
-    "realInstalls": 4187609,
+    "ratings": 19180,
+    "realInstalls": 4191078,
     "reviews": 14,
-    "score": 4.05
+    "score": 4.04
   },
   "price": 0,
   "screenshots": [

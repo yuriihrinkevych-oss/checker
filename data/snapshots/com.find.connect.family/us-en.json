@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-22",
+  "_scanned": "2026-10-23",
   "containsAds": false,
   "contentRating": "Everyone",
   "description": "Put your family’s safety in first place with Famio.\r\n\r\nDesigned for peace of mind, Famio helps you stay digitally connected with your loved ones, no matter where they are.\r\n\r\nKeep your family close and secure, even when they’re far away. Famio helps you and your nearest and dearest stay in touch and, more importantly, safe.\r\n\r\nGet the power of Famio features at your fingertips:\r\n- Quickly connect loved ones and family.\r\n- Assign groups and stay close to your mom, dad, brothers, sisters, etc.\r\n- Be notified if their phone battery is low so you know why they’re not answering their phone.\r\n- Find phones if they are lost or stolen.\r\n\r\nDo you know where your family is right now? No? It’s time to level up your family’s security with Famio.\r\nDownload Famio now and be in-the-know 24/7!\r\nNote. This app is not intended to be installed secretly; please acquire consent before using the application.\r\n\r\nWant to make Famio even better?\r\nGet in touch with us at info@harmonybit.com to share your suggestions.",
@@ -7,11 +7,11 @@
   "genre": "Lifestyle",
   "headerImage": "https://play-lh.googleusercontent.com/XmMS2PYtAHVRziJizQFoM3GHIK6llGkvHcUxVsd66IrwcOUyr-iUeB2Fx0bvg1O1aexfn7xfPL0lOASDf3XD",
   "histogram": [
-    30752,
-    5104,
-    7345,
-    10209,
-    62998
+    30759,
+    5105,
+    7347,
+    10211,
+    63013
   ],
   "icon": "https://play-lh.googleusercontent.com/einet3uG5vAF4rZSMb0O_2vcxXqH85IuJyIh4RmfNBNBTsq0duMY9aYiUjpy7CNV3XUyB1-equ3QbmpBLZSSew",
   "inAppProductPrice": "$4.99 - $79.99 per item",
@@ -19,8 +19,8 @@
   "lastUpdatedOn": "Oct 21, 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 116423,
-    "realInstalls": 13259054,
+    "ratings": 116451,
+    "realInstalls": 13259073,
     "reviews": 1404,
     "score": 3.597861
   },
@@ -34,6 +34,6 @@
   ],
   "summary": "Famio lets you stay in touch with your family and loved ones! Keep them safe!",
   "title": "Famio: Connect With Family",
-  "version": "1.43.2",
+  "version": "1.44",
   "video": null
 }
