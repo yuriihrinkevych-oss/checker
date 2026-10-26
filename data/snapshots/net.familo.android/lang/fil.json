@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-19",
+  "_scanned": "2026-10-26",
   "containsAds": true,
   "contentRating": "Teen",
   "description": "Unahin ang kaligtasan ng iyong pamilya gamit ang Familo - ang simple at ligtas na paraan upang manatiling konektado.\r\n\r\nTinutulungan ng Familo ang mga miyembro ng pamilya na manatiling may alam at mas madaling makipag-ugnayan sa buong araw. Dahil sa malinaw na pahintulot at ganap na transparency, idinisenyo ito para sa kapayapaan ng isip - tinutulungan ang mga pamilya na maging mas malapit at mas suportado, kahit na magkalayo.\r\n\r\nNag-aalok ang Familo ng mga sumusunod na feature:\r\n\r\n- Tingnan ang real-time na lokasyon ng mga aprubadong miyembro ng pamilya sa isang pribadong mapa ng pamilya\r\n- Maabisuhan kapag dumating o umalis ang mga miyembro ng pamilya na may paunang natukoy na mga lugar (tulad ng bahay o paaralan)\r\n- Gamitin ang SOS button para sa pagbabahagi ng lokasyon para sa emergency\r\n- Makipag-chat nang pribado sa iyong pamilya sa loob ng app - manatiling konektado anumang oras\r\n- Ipaalam sa mga miyembro ng pamilya na ayos ka sa isang mabilis na pag-check-in sa iyong kasalukuyang lokasyon\r\n- Ang pagbabahagi ng lokasyon ay palaging opt-in - kinokontrol ng bawat miyembro ng pamilya ang kanilang visibility\r\n- Ang bawat miyembro ng pamilya ang magpapasya kung sino ang makakakita ng kanilang lokasyon\r\n\r\n🔒 Mahalagang paunawa sa privacy:\r\n\r\n- Kinakailangan ng Familo ang tahasang pahintulot mula sa lahat ng user bago ibahagi ang lokasyon.\r\n- Ang lokasyon ay ibinabahagi lamang sa loob ng iyong pribadong bilog ng pamilya pagkatapos maibigay ang pahintulot.\r\n- Kung walang pahintulot na ito, hindi makikita ang data ng lokasyon.\r\n\r\nPagsisimula sa Familo GPS Locator:\r\n\r\n- I-download at i-set up: I-install lang ang app at ibigay ang mahahalagang pahintulot, tulad ng access sa lokasyon, para sa buong functionality.\r\n- Bumuo ng iyong pribadong bilog: Magtatag o sumali sa isang secure na grupo ng pamilya. Ang pagiging miyembro ay eksklusibo para sa mga iniimbitahan mo at tahasang sumasang-ayon na sumali.\r\n- Magpadala ng mga imbitasyon: Madaling imbitahan ang mga miyembro ng pamilya gamit ang kanilang numero ng telepono, isang natatanging link, o isang QR code.\r\n- Mahalaga ang pahintulot: Para makapagsimula ang pagbabahagi ng lokasyon, dapat na sinasadyang tanggapin ng bawat inimbitahan na miyembro ng pamilya ang imbitasyon at ibigay ang lahat ng kinakailangang pahintulot, kabilang ang mga serbisyo sa lokasyon, sa kanilang device.\r\n- Manatiling may alam: Tinitiyak namin na ang lahat ng miyembro ng pamilya ay makakatanggap ng malinaw na mga notification na nagpapaliwanag sa layunin ng app, kung sino ang nag-imbita sa kanila, at kung paano gagamitin ang impormasyon ng kanilang lokasyon sa loob ng grupo.\r\n- Ang iyong kontrol, palagi: Ang Familo ay gumagana lamang sa aktibong kasunduan ng bawat miyembro ng pamilya na ibahagi ang kanilang lokasyon. Kung hindi bibigyan ng pahintulot, ang pagbabahagi ng lokasyon para sa miyembrong iyon ay mananatiling hindi aktibo.\r\n\r\nGumagana lamang ang Familo gamit ang mga sumusunod na pahintulot upang makapagbigay ng buong functionality:\r\n\r\n- Pag-access sa lokasyon: para sa real-time na pagbabahagi, geofencing, at mga alerto ng SOS\r\n- Mga Abiso: upang ipaalam sa iyo ang tungkol sa mga check-in o mga alerto sa kaligtasan\r\n- Mga Contact: upang mag-imbita ng mga pinagkakatiwalaang miyembro ng pamilya\r\n- Mga Larawan at Kamera: upang i-personalize ang mga profile gamit ang mga larawan\r\n\r\nNakatuon ang Familo sa privacy, transparency, at responsableng paggamit.\r\n\r\nGusto naming makuha ang iyong feedback! Ibahagi ang iyong mga ideya sa amin sa support@familo.net\r\n\r\nMga Tuntunin ng Paggamit: https://terms.familo.net/en/Terms_and_Conditions_Familonet.pdf\r\n\r\nPatakaran sa Pagkapribado: https://terms.familo.net/privacy",
@@ -7,11 +7,11 @@
   "genre": "Pamumuhay",
   "headerImage": "https://play-lh.googleusercontent.com/L7jnwXpKWmdmAUeU-wkOjRzhXHk9XXGnexTG25Wpsjw-WKNjT8q3FkV1wDbpAbbpKRxidzKdgXIkVCbE5Tk1Wg",
   "histogram": [
-    47621,
-    16307,
-    42423,
-    88095,
-    483366
+    48501,
+    15823,
+    42540,
+    89419,
+    488389
   ],
   "icon": "https://play-lh.googleusercontent.com/k65pzF3iC2vrf7LV96MkzDYjuyTu10Xa1m1jYEDzzpy9Z3le-IPpyXDbU2enm7ZHFPcBJSLiYdTIqEDGugf2TQ",
   "inAppProductPrice": "$2.99 - $89.99 bawat item",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "Ago 28, 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 677908,
-    "realInstalls": 24377286,
-    "reviews": 1770,
-    "score": 4.39143
+    "ratings": 684769,
+    "realInstalls": 24547090,
+    "reviews": 1774,
+    "score": 4.392289
   },
   "price": 0,
   "screenshots": [

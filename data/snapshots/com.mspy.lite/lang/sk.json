@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-19",
+  "_scanned": "2026-10-26",
   "containsAds": false,
   "contentRating": "Pre všetkých",
   "description": "Sledujte všechny své děti na mapě! \r\nmLite location tracker je aplikace rodičovské kontroly, která vám umožní spojit se s vašimi dětmi.\r\nMůj rodinný lokátor - aplikace GPS tracker je určena pouze pro bezpečnost rodiny a rodičovskou kontrolu.\r\n\r\nmLite - umožňuje:\r\n\r\nMůžete snadno zkontrolovat polohu GPS v reálném čase pokaždé, když nastane taková potřeba. Tento sledovač mobilních telefonů vám umožňuje lokalizovat můj telefon a bezpečnou lokalizaci rodiny. Propojte svou rodinu pro sdílení polohy. Snadné sledování polohy telefonu!\r\n\r\n1. Přijímejte upozornění, když dítě odchází nebo přichází na místo. mLite umožňuje vytvořit na mapě virtuální bezpečnostní zóny polohy (geofencing) a zobrazí vám upozornění, když do zóny vstoupí nebo ji opustí.\r\n\r\n2. Poslouchejte okolí svých dětí pomocí mikrofonu na sledovaném telefonu. Záznamník mikrofonu uloží všechny stopy do aplikace.\r\n\r\n3. Zjistěte historii polohy svého dítěte a buďte mu blíž.\r\n\r\n4. Přidejte do telefonu svého sdítěte tlačítko alarmu pro případy nouze. Jediným klepnutím na tlačítko na jejich telefonu můžete být upozorněni, že situace vyžaduje vaši okamžitou pozornost.\r\n\r\n5. Sledování seznamu kontaktů je rodičovská funkce, která byla vyvinuta s cílem pomoci rodičům vědět, s kým jejich děti komunikují, a věnovat větší pozornost těm, které osobně neznají.\r\n\r\n6. Zobrazení seznamu aplikací nainstalovaných ve sledovaném telefonu* . Zkontrolujte, jaké hry vaše děti hrají a jaké aplikace používají. Ujistěte se, že neobsahují žádný nebezpečný nebo zakázaný obsah.\r\n\r\n7.  Monitorování posla: Získejte větší jistotu díky sledování zpráv, které vaše dítě posílá v oblíbených aplikacích pro zasílání zpráv, jako je Facebook Messenger, Snapchat, Instagram, Tik Tok a WhatsApp, a zajistěte, aby jeho online interakce zůstala bezpečná.\r\n\r\n8.  Funkce fotoaparátu: Díky komplexní funkci kamery budete mít přehled o tom, co se kolem vašeho dítěte děje, a získáte tak další úroveň bezpečnosti a ochrany.\r\n\r\n\r\n* Pokud je sledovaný telefon iPhone, funkce označené * nebudou k dispozici.\r\n\r\nAplikace je přístupná pouze pro funkci sledování zpráv a neshromažďuje a neodesílá žádné informace.\r\n\r\nInstalace\r\n1) Nainstalujte do telefonu aplikaci mLite;\r\n2) zaregistrujte účet jako rodič\r\n3) stáhněte aplikaci mLite do telefonu svého dítěte.\r\n4) zvolte tlačítko \"dítě\" v levém horním rohu obrazovky\r\n5) povolte sdílení polohy a kontaktů\r\n6) propojte zařízení sdílením QR kódu nebo rodinného odkazu z rodičovského zařízení\r\n\r\nAplikace pouze pro rodičovskou kontrolu. Aplikaci není možné nainstalovat do mobilního telefonu bez vědomí dítěte, její použití je možné pouze s výslovným souhlasem dítěte. Osobní údaje jsou uchovávány v přísném souladu s legislativou a zásadami GDPR.\r\n\r\nAplikace si vyžádá následující oprávnění:\r\n- přístup k fotoaparátu a fotografiím - ke skenování QR kódu na zařízení dítěte pro propojení zařízení ;\r\n- přístup ke kontaktům - pro vyplnění telefonního seznamu.\r\n- přístup k údajům o poloze\r\n\r\n\r\nV případě dotazů nás kontaktujte prostřednictvím e-mailu support@mliteapp.com.\r\nZásady ochrany osobních údajů: https://mliteapp.com/privacy.html\r\nPrávní informace: https://mliteapp.com/eula/gpa/en/eula.html",
@@ -7,22 +7,22 @@
   "genre": "Životný štýl",
   "headerImage": "https://play-lh.googleusercontent.com/9RSMt7nY0okTnutgi3pRefaf9mWFTQjlvF5kkkm0FAy4mPG15PNDUaEv2KI5wadlz-1JbXRldll5DvtiTYlegg",
   "histogram": [
-    3039,
-    323,
-    568,
-    820,
-    8802
+    3063,
+    78,
+    573,
+    746,
+    9127
   ],
   "icon": "https://play-lh.googleusercontent.com/BZ6g1NHg5QnroHuHtUTtCiaBhf73Jy9irsPZ7JHyKOaO9O2FMj-bTiSCHxqvWAkrNgovX6MGyJHotRlMxoEmDw",
   "inAppProductPrice": "0,99 USD – 199,99 USD za položku",
   "installs": "10 000 000+",
-  "lastUpdatedOn": "14. 10. 2026",
+  "lastUpdatedOn": "21. 10. 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 13578,
-    "realInstalls": 11996449,
-    "reviews": 837,
-    "score": 3.8848486
+    "ratings": 13613,
+    "realInstalls": 12031167,
+    "reviews": 839,
+    "score": 3.9390244
   },
   "price": 0,
   "screenshots": [
@@ -36,6 +36,6 @@
   ],
   "summary": "Aplikace pro sdílení polohy GPS v reálném čase pro rodičovskou kontrolu",
   "title": "mLite - GPS Family Tracker",
-  "version": "4.3.9",
+  "version": "4.4.0",
   "video": "https://play.google.com/video/lava/web/player/yt:movie:mZNpXIKVeRE?autoplay=1&embed=play"
 }

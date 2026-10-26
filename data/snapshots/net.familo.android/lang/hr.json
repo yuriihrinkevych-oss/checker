@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-19",
+  "_scanned": "2026-10-26",
   "containsAds": true,
   "contentRating": "Adolescenti",
   "description": "Stavite sigurnost svoje obitelji na prvo mjesto uz Familo - jednostavan i siguran način da ostanete povezani.\r\n\r\nFamilo pomaže članovima obitelji da budu informirani i lakše koordiniraju tijekom dana. Uz jasan pristanak i potpunu transparentnost, dizajniran je za mir - pomažući obiteljima da se osjećaju bliže i podržanije, čak i kada su razdvojene.\r\n\r\nFamilo nudi sljedeće značajke:\r\n\r\n- Pregled lokacije odobrenih članova obitelji u stvarnom vremenu na privatnoj obiteljskoj karti\r\n- Primajte obavijesti kada članovi obitelji stignu ili odu s unaprijed definiranih mjesta (poput kuće ili škole)\r\n- Koristite SOS gumb za dijeljenje lokacije u hitnim slučajevima\r\n- Privatno razgovarajte sa svojom obitelji unutar aplikacije - ostanite povezani u bilo kojem trenutku\r\n- Obavijestite članove obitelji da ste u redu brzom provjerom na vašoj trenutnoj lokaciji\r\n- Dijeljenje lokacije uvijek je optional - svaki član obitelji kontrolira svoju vidljivost\r\n- Svaki član obitelji odlučuje tko može vidjeti njegovu lokaciju\r\n\r\n🔒 Važna obavijest o privatnosti:\r\n\r\n- Familo zahtijeva izričitu suglasnost svih korisnika prije dijeljenja lokacije.\r\n- Lokacija se dijeli samo unutar vašeg privatnog obiteljskog kruga nakon što je dano suglasnost.\r\n- Bez ove suglasnosti, podaci o lokaciji nisu vidljivi.\r\n\r\nPočetak rada s Familo GPS Locatorom:\r\n\r\n- Preuzimanje i postavljanje: Jednostavno instalirajte aplikaciju i dajte joj bitna dopuštenja, poput pristupa lokaciji, za punu funkcionalnost.\r\n- Formirajte svoj privatni krug: Uspostavite ili se pridružite sigurnoj obiteljskoj grupi. Članstvo je isključivo za one koje pozovete i koji se izričito slože s pridruživanjem.\r\n- Pošaljite pozivnice: Jednostavno pozovite članove obitelji koristeći svoj telefonski broj, jedinstvenu poveznicu ili QR kod.\r\n- Privola je ključna: Da bi dijeljenje lokacije započelo, svaki pozvani član obitelji mora svjesno prihvatiti pozivnicu i dati sva potrebna dopuštenja, uključujući usluge lokacije, na svom uređaju.\r\n- Ostanite informirani: Osiguravamo da svi članovi obitelji primaju jasne obavijesti u kojima je objašnjena svrha aplikacije, tko ih je pozvao i kako će se podaci o njihovoj lokaciji koristiti unutar grupe.\r\n- Vaša kontrola, uvijek: Familo funkcionira isključivo uz aktivni pristanak svakog člana obitelji da podijeli svoju lokaciju. Ako se privola uskrati, dijeljenje lokacije za tog člana ostat će neaktivno.\r\n\r\nFamilo radi samo sa sljedećim dopuštenjima kako bi pružio punu funkcionalnost:\r\n\r\n- Pristup lokaciji: za dijeljenje u stvarnom vremenu, geofencing i SOS upozorenja\r\n- Obavijesti: za obavještavanje o prijavama ili sigurnosnim upozorenjima\r\n- Kontakti: za pozivanje pouzdanih članova obitelji\r\n- Fotografije i kamera: za personalizaciju profila slikama\r\n\r\nFamilo je posvećen privatnosti, transparentnosti i odgovornom korištenju.\r\n\r\nVoljeli bismo čuti vaše povratne informacije! Podijelite svoje ideje s nama na support@familo.net\r\n\r\nUvjeti korištenja: https://terms.familo.net/en/Terms_and_Conditions_Familonet.pdf\r\nPravila privatnosti: https://terms.familo.net/privacy",
@@ -7,11 +7,11 @@
   "genre": "Životni stil",
   "headerImage": "https://play-lh.googleusercontent.com/L7jnwXpKWmdmAUeU-wkOjRzhXHk9XXGnexTG25Wpsjw-WKNjT8q3FkV1wDbpAbbpKRxidzKdgXIkVCbE5Tk1Wg",
   "histogram": [
-    47626,
-    16308,
-    42427,
-    88104,
-    483414
+    48501,
+    15823,
+    42540,
+    89419,
+    488389
   ],
   "icon": "https://play-lh.googleusercontent.com/k65pzF3iC2vrf7LV96MkzDYjuyTu10Xa1m1jYEDzzpy9Z3le-IPpyXDbU2enm7ZHFPcBJSLiYdTIqEDGugf2TQ",
   "inAppProductPrice": "2,99 USD – 89,99 USD po stavci",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "28. kol 2026.",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 677975,
-    "realInstalls": 24377286,
-    "reviews": 1770,
-    "score": 4.39143
+    "ratings": 684769,
+    "realInstalls": 24547090,
+    "reviews": 1774,
+    "score": 4.392289
   },
   "price": 0,
   "screenshots": [

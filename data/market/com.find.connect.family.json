@@ -1,0 +1,1373 @@
+{
+  "base": {
+    "key": "9b48782a8165f5c088f76fcd604990f5",
+    "own_screens": false,
+    "summary": "Famio lets you stay in touch with your family and loved ones! Keep them safe!",
+    "title": "Famio: Connect With Family",
+    "v": 2
+  },
+  "countries": {
+    "ae": {
+      "available": true,
+      "containsAds": false,
+      "currency": "AED",
+      "iap": "AED 18.99 - AED 299.99 per item",
+      "max_local": 299.99,
+      "max_usd": 81.69,
+      "min_local": 18.99,
+      "min_usd": 5.17
+    },
+    "ar": {
+      "available": true,
+      "containsAds": false,
+      "currency": "ARS",
+      "iap": "ARS 7,460.05 - ARS 108,656.60 per item",
+      "max_local": 108656.6,
+      "max_usd": 71.1,
+      "min_local": 7460.05,
+      "min_usd": 4.88
+    },
+    "at": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€ 5,49 - € 79,99 if billed through Play",
+      "max_local": 79.99,
+      "max_usd": 89.66,
+      "min_local": 5.49,
+      "min_usd": 6.15
+    },
+    "au": {
+      "available": true,
+      "containsAds": false,
+      "currency": "AUD",
+      "iap": "$8.49 - $109.99 per item",
+      "max_local": 109.99,
+      "max_usd": 77.3,
+      "min_local": 8.49,
+      "min_usd": 5.97
+    },
+    "bd": {
+      "available": true,
+      "containsAds": false,
+      "currency": "BDT",
+      "iap": "BDT 650.00 - BDT 6,690.00 per item",
+      "max_local": 6690.0,
+      "max_usd": 54.17,
+      "min_local": 650.0,
+      "min_usd": 5.26
+    },
+    "be": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.49 - €79.99 if billed through Play",
+      "max_local": 79.99,
+      "max_usd": 89.66,
+      "min_local": 5.49,
+      "min_usd": 6.15
+    },
+    "bg": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.62 - €81.80 if billed through Play",
+      "max_local": 81.8,
+      "max_usd": 91.69,
+      "min_local": 5.62,
+      "min_usd": 6.3
+    },
+    "br": {
+      "available": true,
+      "containsAds": false,
+      "currency": "BRL",
+      "iap": "R$23.99 - R$449.99 per item",
+      "max_local": 449.99,
+      "max_usd": 90.09,
+      "min_local": 23.99,
+      "min_usd": 4.8
+    },
+    "ca": {
+      "available": true,
+      "containsAds": false,
+      "currency": "CAD",
+      "iap": "$6.99 - $99.99 per item",
+      "max_local": 99.99,
+      "max_usd": 71.35,
+      "min_local": 6.99,
+      "min_usd": 4.99
+    },
+    "ch": {
+      "available": true,
+      "containsAds": false,
+      "currency": "CHF",
+      "iap": "CHF 4.40 - CHF 69.99 per item",
+      "max_local": 69.99,
+      "max_usd": 84.88,
+      "min_local": 4.4,
+      "min_usd": 5.34
+    },
+    "cl": {
+      "available": true,
+      "containsAds": false,
+      "currency": "CLP",
+      "iap": "CLP 5,100 - CLP 69,000 per item",
+      "max_local": 69000.0,
+      "max_usd": 69.73,
+      "min_local": 5100.0,
+      "min_usd": 5.15
+    },
+    "co": {
+      "available": true,
+      "containsAds": false,
+      "currency": "COP",
+      "iap": "COP 20,000 - COP 279,000 per item",
+      "max_local": 279000.0,
+      "max_usd": 88.0,
+      "min_local": 20000.0,
+      "min_usd": 6.31
+    },
+    "cz": {
+      "available": true,
+      "containsAds": false,
+      "currency": "CZK",
+      "iap": "139,99 CZK - 1 999,99 CZK if billed through Play",
+      "max_local": 1999.99,
+      "max_usd": 92.14,
+      "min_local": 139.99,
+      "min_usd": 6.45
+    },
+    "de": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.49 - €79.99 if billed through Play",
+      "max_local": 79.99,
+      "max_usd": 89.66,
+      "min_local": 5.49,
+      "min_usd": 6.15
+    },
+    "dk": {
+      "available": true,
+      "containsAds": false,
+      "currency": "DKK",
+      "iap": "43,00 kr. - 599,00 kr. if billed through Play",
+      "max_local": 599.0,
+      "max_usd": 89.71,
+      "min_local": 43.0,
+      "min_usd": 6.44
+    },
+    "ee": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.49 - €79.99 if billed through Play",
+      "max_local": 79.99,
+      "max_usd": 89.66,
+      "min_local": 5.49,
+      "min_usd": 6.15
+    },
+    "eg": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EGP",
+      "iap": "EGP 149.99 - EGP 1,299.99 per item",
+      "max_local": 1299.99,
+      "max_usd": 23.35,
+      "min_local": 149.99,
+      "min_usd": 2.69
+    },
+    "es": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.49 - €79.99 if billed through Play",
+      "max_local": 79.99,
+      "max_usd": 89.66,
+      "min_local": 5.49,
+      "min_usd": 6.15
+    },
+    "fi": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.49 - €79.99 if billed through Play",
+      "max_local": 79.99,
+      "max_usd": 89.66,
+      "min_local": 5.49,
+      "min_usd": 6.15
+    },
+    "fr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.49 - €79.99 if billed through Play",
+      "max_local": 79.99,
+      "max_usd": 89.66,
+      "min_local": 5.49,
+      "min_usd": 6.15
+    },
+    "gb": {
+      "available": true,
+      "containsAds": false,
+      "currency": "GBP",
+      "iap": "£4.79 - £69.99 if billed through Play",
+      "max_local": 69.99,
+      "max_usd": 93.6,
+      "min_local": 4.79,
+      "min_usd": 6.41
+    },
+    "gr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.49 - €79.99 if billed through Play",
+      "max_local": 79.99,
+      "max_usd": 89.66,
+      "min_local": 5.49,
+      "min_usd": 6.15
+    },
+    "hk": {
+      "available": true,
+      "containsAds": false,
+      "currency": "HKD",
+      "iap": "HK$39.90 - HK$599.00 per item",
+      "max_local": 599.0,
+      "max_usd": 76.38,
+      "min_local": 39.9,
+      "min_usd": 5.09
+    },
+    "hr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.99 - €79.50 if billed through Play",
+      "max_local": 79.5,
+      "max_usd": 89.11,
+      "min_local": 5.99,
+      "min_usd": 6.71
+    },
+    "hu": {
+      "available": true,
+      "containsAds": false,
+      "currency": "HUF",
+      "iap": "2 199 HUF - 29 999 HUF if billed through Play",
+      "max_local": 29999.0,
+      "max_usd": 91.74,
+      "min_local": 2199.0,
+      "min_usd": 6.72
+    },
+    "id": {
+      "available": true,
+      "containsAds": false,
+      "currency": "IDR",
+      "iap": "Rp 77.000 - Rp 1.099.000 per item",
+      "max_local": 1099000.0,
+      "max_usd": 60.75,
+      "min_local": 77000.0,
+      "min_usd": 4.26
+    },
+    "ie": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.49 - €79.99 if billed through Play",
+      "max_local": 79.99,
+      "max_usd": 89.66,
+      "min_local": 5.49,
+      "min_usd": 6.15
+    },
+    "il": {
+      "available": true,
+      "containsAds": false,
+      "currency": "ILS",
+      "iap": "₪18.90 - ₪249.90 per item",
+      "max_local": 249.9,
+      "max_usd": 80.24,
+      "min_local": 18.9,
+      "min_usd": 6.07
+    },
+    "in": {
+      "available": true,
+      "containsAds": false,
+      "currency": "INR",
+      "iap": "₹490.00 - ₹6,800.00 per item",
+      "max_local": 6800.0,
+      "max_usd": 71.46,
+      "min_local": 490.0,
+      "min_usd": 5.15
+    },
+    "it": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.49 - €79.99 if billed through Play",
+      "max_local": 79.99,
+      "max_usd": 89.66,
+      "min_local": 5.49,
+      "min_usd": 6.15
+    },
+    "jp": {
+      "available": true,
+      "containsAds": false,
+      "currency": "JPY",
+      "iap": "¥720 - ¥8,299 per item",
+      "max_local": 8299.0,
+      "max_usd": 52.9,
+      "min_local": 720.0,
+      "min_usd": 4.59
+    },
+    "ke": {
+      "available": true,
+      "containsAds": false,
+      "currency": "KES",
+      "iap": "Ksh 900.00 - Ksh 8,690.00 per item",
+      "max_local": 8690.0,
+      "max_usd": 66.91,
+      "min_local": 900.0,
+      "min_usd": 6.93
+    },
+    "kr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "KRW",
+      "iap": "₩7,500 - ₩99,000 per item",
+      "max_local": 99000.0,
+      "max_usd": 74.78,
+      "min_local": 7500.0,
+      "min_usd": 5.67
+    },
+    "kz": {
+      "available": true,
+      "containsAds": false,
+      "currency": "KZT",
+      "iap": "KZT 2,590.00 - KZT 32,990.00 per item",
+      "max_local": 32990.0,
+      "max_usd": 72.89,
+      "min_local": 2590.0,
+      "min_usd": 5.72
+    },
+    "lt": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.49 - €79.99 if billed through Play",
+      "max_local": 79.99,
+      "max_usd": 89.66,
+      "min_local": 5.49,
+      "min_usd": 6.15
+    },
+    "lv": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.49 - €79.99 if billed through Play",
+      "max_local": 79.99,
+      "max_usd": 89.66,
+      "min_local": 5.49,
+      "min_usd": 6.15
+    },
+    "ma": {
+      "available": true,
+      "containsAds": false,
+      "currency": "MAD",
+      "iap": "MAD 60.99 - MAD 699.99 per item",
+      "max_local": 699.99,
+      "max_usd": 71.32,
+      "min_local": 60.99,
+      "min_usd": 6.21
+    },
+    "mx": {
+      "available": true,
+      "containsAds": false,
+      "currency": "MXN",
+      "iap": "MX$99.00 - MX$1,599.00 per item",
+      "max_local": 1599.0,
+      "max_usd": 85.4,
+      "min_local": 99.0,
+      "min_usd": 5.29
+    },
+    "my": {
+      "available": true,
+      "containsAds": false,
+      "currency": "MYR",
+      "iap": "RM 24.99 - RM 339.99 per item",
+      "max_local": 339.99,
+      "max_usd": 83.22,
+      "min_local": 24.99,
+      "min_usd": 6.12
+    },
+    "ng": {
+      "available": true,
+      "containsAds": false,
+      "currency": "NGN",
+      "iap": "₦2,990.00 - ₦34,000.00 per item",
+      "max_local": 34000.0,
+      "max_usd": 25.48,
+      "min_local": 2990.0,
+      "min_usd": 2.24
+    },
+    "nl": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.49 - €79.99 if billed through Play",
+      "max_local": 79.99,
+      "max_usd": 89.66,
+      "min_local": 5.49,
+      "min_usd": 6.15
+    },
+    "no": {
+      "available": true,
+      "containsAds": false,
+      "currency": "NOK",
+      "iap": "69,00 kr - 829,00 kr if billed through Play",
+      "max_local": 829.0,
+      "max_usd": 88.94,
+      "min_local": 69.0,
+      "min_usd": 7.4
+    },
+    "nz": {
+      "available": true,
+      "containsAds": false,
+      "currency": "NZD",
+      "iap": "$9.49 - $129.99 per item",
+      "max_local": 129.99,
+      "max_usd": 74.07,
+      "min_local": 9.49,
+      "min_usd": 5.41
+    },
+    "pe": {
+      "available": true,
+      "containsAds": false,
+      "currency": "PEN",
+      "iap": "PEN 18.99 - PEN 289.99 per item",
+      "max_local": 289.99,
+      "max_usd": 84.26,
+      "min_local": 18.99,
+      "min_usd": 5.52
+    },
+    "ph": {
+      "available": true,
+      "containsAds": false,
+      "currency": "PHP",
+      "iap": "₱275.00 - ₱3,800.00 per item",
+      "max_local": 3800.0,
+      "max_usd": 59.67,
+      "min_local": 275.0,
+      "min_usd": 4.32
+    },
+    "pk": {
+      "available": true,
+      "containsAds": false,
+      "currency": "PKR",
+      "iap": "Rs 1,400.00 - Rs 12,700.00 per item",
+      "max_local": 12700.0,
+      "max_usd": 45.86,
+      "min_local": 1400.0,
+      "min_usd": 5.06
+    },
+    "pl": {
+      "available": true,
+      "containsAds": false,
+      "currency": "PLN",
+      "iap": "24,99 PLN - 359,99 PLN if billed through Play",
+      "max_local": 359.99,
+      "max_usd": 91.69,
+      "min_local": 24.99,
+      "min_usd": 6.36
+    },
+    "pt": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.49 - €79.99 if billed through Play",
+      "max_local": 79.99,
+      "max_usd": 89.66,
+      "min_local": 5.49,
+      "min_usd": 6.15
+    },
+    "qa": {
+      "available": true,
+      "containsAds": false,
+      "currency": "QAR",
+      "iap": "QAR 18.00 - QAR 299.00 per item",
+      "max_local": 299.0,
+      "max_usd": 82.14,
+      "min_local": 18.0,
+      "min_usd": 4.95
+    },
+    "ro": {
+      "available": true,
+      "containsAds": false,
+      "currency": "RON",
+      "iap": "26,99 RON - 379,99 RON if billed through Play",
+      "max_local": 379.99,
+      "max_usd": 79.52,
+      "min_local": 26.99,
+      "min_usd": 5.65
+    },
+    "rs": {
+      "available": true,
+      "containsAds": false,
+      "currency": "RSD",
+      "iap": "RSD 649 - RSD 8,999 per item",
+      "max_local": 8999.0,
+      "max_usd": 85.74,
+      "min_local": 649.0,
+      "min_usd": 6.18
+    },
+    "sa": {
+      "available": true,
+      "containsAds": false,
+      "currency": "SAR",
+      "iap": "SAR 21.99 - SAR 339.99 per item",
+      "max_local": 339.99,
+      "max_usd": 90.66,
+      "min_local": 21.99,
+      "min_usd": 5.86
+    },
+    "se": {
+      "available": true,
+      "containsAds": false,
+      "currency": "SEK",
+      "iap": "65,00 kr - 799,00 kr if billed through Play",
+      "max_local": 799.0,
+      "max_usd": 80.45,
+      "min_local": 65.0,
+      "min_usd": 6.55
+    },
+    "sg": {
+      "available": true,
+      "containsAds": false,
+      "currency": "SGD",
+      "iap": "$6.99 - $109.99 per item",
+      "max_local": 109.99,
+      "max_usd": 86.03,
+      "min_local": 6.99,
+      "min_usd": 5.47
+    },
+    "si": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.49 - €79.99 if billed through Play",
+      "max_local": 79.99,
+      "max_usd": 89.66,
+      "min_local": 5.49,
+      "min_usd": 6.15
+    },
+    "sk": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.49 - €79.99 if billed through Play",
+      "max_local": 79.99,
+      "max_usd": 89.66,
+      "min_local": 5.49,
+      "min_usd": 6.15
+    },
+    "th": {
+      "available": true,
+      "containsAds": false,
+      "currency": "THB",
+      "iap": "THB 200.00 - THB 1,990.00 per item",
+      "max_local": 1990.0,
+      "max_usd": 58.94,
+      "min_local": 200.0,
+      "min_usd": 5.92
+    },
+    "tr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "TRY",
+      "iap": "TRY 79.99 - TRY 649.99 per item",
+      "max_local": 649.99,
+      "max_usd": 13.05,
+      "min_local": 79.99,
+      "min_usd": 1.61
+    },
+    "tw": {
+      "available": true,
+      "containsAds": false,
+      "currency": "TWD",
+      "iap": "NT$160.00 - NT$2,290.00 per item",
+      "max_local": 2290.0,
+      "max_usd": 70.25,
+      "min_local": 160.0,
+      "min_usd": 4.91
+    },
+    "ua": {
+      "available": true,
+      "containsAds": false,
+      "currency": "UAH",
+      "iap": "219,99 UAH - 1 999,99 UAH per item",
+      "max_local": 1999.99,
+      "max_usd": 44.18,
+      "min_local": 219.99,
+      "min_usd": 4.86
+    },
+    "us": {
+      "available": true,
+      "containsAds": false,
+      "currency": "USD",
+      "iap": "$4.99 - $79.99 per item",
+      "max_local": 79.99,
+      "max_usd": 79.99,
+      "min_local": 4.99,
+      "min_usd": 4.99
+    },
+    "vn": {
+      "available": true,
+      "containsAds": false,
+      "currency": "VND",
+      "iap": "₫121,000 - ₫1,799,000 per item",
+      "max_local": 1799000.0,
+      "max_usd": 69.65,
+      "min_local": 121000.0,
+      "min_usd": 4.68
+    },
+    "za": {
+      "available": true,
+      "containsAds": false,
+      "currency": "ZAR",
+      "iap": "R 109,99 - R 1 299,99 per item",
+      "max_local": 1299.99,
+      "max_usd": 78.32,
+      "min_local": 109.99,
+      "min_usd": 6.63
+    }
+  },
+  "date": "2026-10-26",
+  "errors": [],
+  "first_seen": {
+    "countries": {
+      "ae": "baseline",
+      "ar": "baseline",
+      "at": "baseline",
+      "au": "baseline",
+      "bd": "baseline",
+      "be": "baseline",
+      "bg": "baseline",
+      "br": "baseline",
+      "ca": "baseline",
+      "ch": "baseline",
+      "cl": "baseline",
+      "co": "baseline",
+      "cz": "baseline",
+      "de": "baseline",
+      "dk": "baseline",
+      "ee": "baseline",
+      "eg": "baseline",
+      "es": "baseline",
+      "fi": "baseline",
+      "fr": "baseline",
+      "gb": "baseline",
+      "gr": "baseline",
+      "hk": "baseline",
+      "hr": "baseline",
+      "hu": "baseline",
+      "id": "baseline",
+      "ie": "baseline",
+      "il": "baseline",
+      "in": "baseline",
+      "it": "baseline",
+      "jp": "baseline",
+      "ke": "baseline",
+      "kr": "baseline",
+      "kz": "baseline",
+      "lt": "baseline",
+      "lv": "baseline",
+      "ma": "baseline",
+      "mx": "baseline",
+      "my": "baseline",
+      "ng": "baseline",
+      "nl": "baseline",
+      "no": "baseline",
+      "nz": "baseline",
+      "pe": "baseline",
+      "ph": "baseline",
+      "pk": "baseline",
+      "pl": "baseline",
+      "pt": "baseline",
+      "qa": "baseline",
+      "ro": "baseline",
+      "rs": "baseline",
+      "sa": "baseline",
+      "se": "baseline",
+      "sg": "baseline",
+      "si": "baseline",
+      "sk": "baseline",
+      "th": "baseline",
+      "tr": "baseline",
+      "tw": "baseline",
+      "ua": "baseline",
+      "us": "baseline",
+      "vn": "baseline",
+      "za": "baseline"
+    },
+    "languages": {
+      "af": "baseline",
+      "am": "baseline",
+      "ar": "baseline",
+      "az": "baseline",
+      "be": "baseline",
+      "bg": "baseline",
+      "bn": "baseline",
+      "ca": "baseline",
+      "cs": "baseline",
+      "da": "baseline",
+      "de": "baseline",
+      "el": "baseline",
+      "es": "baseline",
+      "es-419": "baseline",
+      "et": "baseline",
+      "eu": "baseline",
+      "fa": "baseline",
+      "fi": "baseline",
+      "fil": "baseline",
+      "fr": "baseline",
+      "fr-CA": "baseline",
+      "gl": "baseline",
+      "gu": "baseline",
+      "hi": "baseline",
+      "hr": "baseline",
+      "hu": "baseline",
+      "hy": "baseline",
+      "id": "baseline",
+      "is": "baseline",
+      "it": "baseline",
+      "iw": "baseline",
+      "ja": "baseline",
+      "ka": "baseline",
+      "kk": "baseline",
+      "km": "baseline",
+      "kn": "baseline",
+      "ko": "baseline",
+      "ky": "baseline",
+      "lo": "baseline",
+      "lt": "baseline",
+      "lv": "baseline",
+      "mk": "baseline",
+      "ml": "baseline",
+      "mn": "baseline",
+      "mr": "baseline",
+      "ms": "baseline",
+      "my": "baseline",
+      "ne": "baseline",
+      "nl": "baseline",
+      "no": "baseline",
+      "pa": "baseline",
+      "pl": "baseline",
+      "pt-BR": "baseline",
+      "pt-PT": "baseline",
+      "ro": "baseline",
+      "ru": "baseline",
+      "si": "baseline",
+      "sk": "baseline",
+      "sl": "baseline",
+      "sq": "baseline",
+      "sr": "baseline",
+      "sv": "baseline",
+      "sw": "baseline",
+      "ta": "baseline",
+      "te": "baseline",
+      "th": "baseline",
+      "tr": "baseline",
+      "ur": "baseline",
+      "vi": "baseline",
+      "zh-CN": "baseline",
+      "zh-HK": "baseline",
+      "zh-TW": "baseline",
+      "zu": "baseline"
+    }
+  },
+  "languages": [
+    "af",
+    "am",
+    "ar",
+    "az",
+    "be",
+    "bg",
+    "bn",
+    "ca",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "es",
+    "es-419",
+    "et",
+    "eu",
+    "fa",
+    "fi",
+    "fil",
+    "fr",
+    "fr-CA",
+    "gl",
+    "gu",
+    "hi",
+    "hr",
+    "hu",
+    "hy",
+    "id",
+    "is",
+    "it",
+    "iw",
+    "ja",
+    "ka",
+    "kk",
+    "km",
+    "kn",
+    "ko",
+    "ky",
+    "lo",
+    "lt",
+    "lv",
+    "mk",
+    "ml",
+    "mn",
+    "mr",
+    "ms",
+    "my",
+    "ne",
+    "nl",
+    "no",
+    "pa",
+    "pl",
+    "pt-BR",
+    "pt-PT",
+    "ro",
+    "ru",
+    "si",
+    "sk",
+    "sl",
+    "sq",
+    "sr",
+    "sv",
+    "sw",
+    "ta",
+    "te",
+    "th",
+    "tr",
+    "ur",
+    "vi",
+    "zh-CN",
+    "zh-TW",
+    "zh-HK",
+    "zu"
+  ],
+  "listings": {
+    "af": {
+      "key": "cc47229f0ff4f988706908b4ee66e638",
+      "own_screens": false,
+      "summary": "Met Famio kan u in kontak bly met u familie en geliefdes! Hou hulle veilig!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "am": {
+      "key": "dbfb118bf114d7d5d90e0ecaeb15e6f6",
+      "own_screens": false,
+      "summary": "Famio ከቤተሰብዎ እና ከሚወ onesቸው ሰዎች ጋር እንደተገናኙ እንዲቆዩ ያስችልዎታል! ደህንነታቸው የተጠበቀ ያድርጓቸው!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "ar": {
+      "key": "3e7242ad789edb21e54a28e031205d4f",
+      "own_screens": false,
+      "summary": "يتيح لك Famio البقاء على اتصال مع عائلتك وأحبائك! ابقهم في امان!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "az": {
+      "key": "38f1044b751adfd0ec7584bb4d1a870c",
+      "own_screens": false,
+      "summary": "Famio, ailəniz və yaxınlarınızla əlaqə saxlamağa imkan verir! Onları təhlükəsiz saxla!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "be": {
+      "key": "894db9c15250c902201129b78dabe90e",
+      "own_screens": false,
+      "summary": "Famio дазваляе падтрымліваць сувязь з сям'ёй і блізкімі людзьмі! Беражыце іх!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "bg": {
+      "key": "3e58cc089a32188d2dee400eb7aadb0a",
+      "own_screens": false,
+      "summary": "Famio ви позволява да поддържате връзка със семейството си и любимите хора! Пазете ги в безопасност!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "bn": {
+      "key": "0979ec2849bb18a628582a03331a37bb",
+      "own_screens": false,
+      "summary": "পরিবার আপনার পরিবার এবং প্রিয়জনের সাথে যোগাযোগ রাখতে দেয়! তাদের নিরাপদ রাখুন!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "ca": {
+      "key": "97ab2fc4bb16ad26253b47c0afdb3892",
+      "own_screens": false,
+      "summary": "Famio et permet mantenir-se en contacte amb la teva família i persones estimades. Guardeu-los!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "cs": {
+      "key": "698a5e8343efa73f879e09471c0689d0",
+      "own_screens": false,
+      "summary": "Famio vám umožní zůstat v kontaktu s vaší rodinou a blízkými! Udržujte je v bezpečí!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "da": {
+      "key": "7f338bb914a59cc784178a457106b67f",
+      "own_screens": false,
+      "summary": "Med Famio kan du holde kontakten med din familie og kære! Hold dem i sikkerhed!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "de": {
+      "key": "8a39ce32d795798c1265abb168056564",
+      "own_screens": false,
+      "summary": "Mit Famio bleibst du mit Familie und Freunden in Kontakt! Bleibt sicher!",
+      "title": "Famio:Verbinde mit der Familie",
+      "v": 2
+    },
+    "el": {
+      "key": "03b1a8f92a3c29c8603ac5b39f6d8028",
+      "own_screens": false,
+      "summary": "Το Famio σας επιτρέπει να είστε σε επαφή με την οικογένειά σας και τα αγαπημένα σας πρόσωπα! Κρατήστε τα ασφαλή!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "es": {
+      "key": "f7ec137d32d0e475cdb77f721fc41380",
+      "own_screens": false,
+      "summary": "Con Famio estarás en contacto con tus seres queridos. ¡Cuida de ellos!",
+      "title": "Famio: conecta con la familia",
+      "v": 2
+    },
+    "es-419": {
+      "key": "f7ec137d32d0e475cdb77f721fc41380",
+      "own_screens": false,
+      "summary": "Con Famio estarás en contacto con tus seres queridos. ¡Cuida de ellos!",
+      "title": "Famio: conecta con la familia",
+      "v": 2
+    },
+    "et": {
+      "key": "695851adb31065a2107f2cd0f4334c02",
+      "own_screens": false,
+      "summary": "Famio võimaldab teil hoida ühendust oma pere ja lähedastega! Hoidke neid turvaliselt!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "eu": {
+      "key": "8b49059f40611b2ce14c642f96322328",
+      "own_screens": false,
+      "summary": "Famiok familiarekin eta maiteekin harremanetan egoteko aukera ematen dizu! Gorde itzazu!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "fa": {
+      "key": "e1927a7e74d8cca35effe459e111dbd3",
+      "own_screens": false,
+      "summary": "Famio به شما امکان می دهد تا با خانواده و عزیزانتان در ارتباط باشید! آنها را ایمن نگه دارید!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "fi": {
+      "key": "4c2f51fb1ced9e2a2f0fcdbd4d3c209b",
+      "own_screens": false,
+      "summary": "Famio antaa sinun pitää yhteyttä perheeseesi ja rakkaitasi! Pidä heidät turvassa!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "fil": {
+      "key": "346a6ab4f6dcbf62fa67bf673430f7dd",
+      "own_screens": false,
+      "summary": "Hinahayaan ka ng Famio na manatiling nakikipag-ugnay sa iyong pamilya at mga mahal sa buhay! Panatilihin silang ligtas!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "fr": {
+      "key": "ce370b9b1fdb524bb8e002cbeeb68475",
+      "own_screens": false,
+      "summary": "Famio permet de garder contact avec ta famille et tes proches! Protège-les !",
+      "title": "Famio : tisse le lien familial",
+      "v": 2
+    },
+    "fr-CA": {
+      "key": "3baba258ec62ea0af8dc778c35dc444f",
+      "own_screens": false,
+      "summary": "Famio permet de garder contact avec ta famille et tes proches! Protège-les !",
+      "title": "Famio : tisse le lien familial",
+      "v": 2
+    },
+    "gl": {
+      "key": "f29668f11fc0dd6dbb2a0078fa40f51a",
+      "own_screens": false,
+      "summary": "Famio permítelle manter o contacto coa súa familia e seres queridos. Mantelos seguros!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "gu": {
+      "key": "009dd404c491cfc2b063f9a3fe44cabc",
+      "own_screens": false,
+      "summary": "ફેમિઓ તમને તમારા કુટુંબ અને પ્રિયજનો સાથે સંપર્કમાં રહેવા દે છે! તેમને સુરક્ષિત રાખો!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "hi": {
+      "key": "f378815f4019f6ba823d7206d6aef537",
+      "own_screens": false,
+      "summary": "फेमियो आपको अपने परिवार और प्रियजनों के संपर्क में रहने देता है! उन्हें सुरक्षित रखें!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "hr": {
+      "key": "2aa43680bc1e4240b7cb86942b5f9071",
+      "own_screens": false,
+      "summary": "Famio vam omogućuje da ostanete u kontaktu sa svojom obitelji i voljenima! Čuvajte ih!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "hu": {
+      "key": "fc4e2822230d43011ec9cf9b59aeb535",
+      "own_screens": false,
+      "summary": "A Famio lehetővé teszi a kapcsolat tartását a családjával és szeretteivel! Tartsa biztonságban!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "hy": {
+      "key": "ad3cfb62d6fd794b0d05cb94e341992e",
+      "own_screens": false,
+      "summary": "Famio- ն թույլ է տալիս կապի մեջ լինել ձեր ընտանիքի և սիրելիների հետ: Պահպանեք դրանք անվտանգ:",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "id": {
+      "key": "b2add0495c865251ebd7cf988dc5f61e",
+      "own_screens": false,
+      "summary": "Famio menghubungkan Anda dengan keluarga dan yang tercinta! Jaga keselamatan!",
+      "title": "Famio: Hubungkan Keluarga",
+      "v": 2
+    },
+    "is": {
+      "key": "28abdae44e3ebbdb547af8ca6556602a",
+      "own_screens": false,
+      "summary": "Famio gerir þér kleift að vera í sambandi við fjölskyldu þína og ástvini! Hafðu þau örugg!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "it": {
+      "key": "2a081b6a8ce98a22a2ac0ac8bb410ea3",
+      "own_screens": false,
+      "summary": "Famio ti tiene in contatto con familiari e persone care! Tienili al sicuro!",
+      "title": "Famio: connesso alla famiglia",
+      "v": 2
+    },
+    "iw": {
+      "key": "ce3364322997149b832db4bfa3f6ea95",
+      "own_screens": false,
+      "summary": "Famio מאפשר לך לשמור על קשר עם המשפחה שלך ואהובים! תשמור עליהם!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "ja": {
+      "key": "8cb9c28396295870bee55a8a3261d4eb",
+      "own_screens": false,
+      "summary": "Famioで家族や大切な人と連絡を取り合うことができます！彼らの安全を守りましょう！",
+      "title": "Famio：家族と繋がろう",
+      "v": 2
+    },
+    "ka": {
+      "key": "675029a35147b3a385ce84be05a900f8",
+      "own_screens": false,
+      "summary": "Famio საშუალებას გაძლევთ დარჩეთ დაუკავშირდით თქვენს ოჯახს და საყვარელ ადამიანებს! შეინახეთ ისინი უსაფრთხო!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "kk": {
+      "key": "05df7140f887a8fedd659d4480cea76a",
+      "own_screens": false,
+      "summary": "Famio сізге отбасыңызбен және жақындарыңызбен байланыста болуға мүмкіндік береді! Оларды қауіпсіз сақтаңыз!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "km": {
+      "key": "9af526f180931b3c92f15de0362d11ea",
+      "own_screens": false,
+      "summary": "ដាយណូអនុញ្ញាតឱ្យអ្នកទាក់ទងជាមួយគ្រួសារនិងមនុស្សជាទីស្រឡាញ់របស់អ្នក! រក្សាពួកគេឱ្យមានសុវត្ថិភាព!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "kn": {
+      "key": "6d73bb3f9e61813da2fe09890d0af929",
+      "own_screens": false,
+      "summary": "ನಿಮ್ಮ ಕುಟುಂಬ ಮತ್ತು ಪ್ರೀತಿಪಾತ್ರರ ಜೊತೆ ಸಂಪರ್ಕದಲ್ಲಿರಲು ಫ್ಯಾಮಿಯೊ ನಿಮಗೆ ಅವಕಾಶ ನೀಡುತ್ತದೆ! ಅವುಗಳನ್ನು ಸುರಕ್ಷಿತವಾಗಿರಿಸಿ!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "ko": {
+      "key": "032833882d1409a75c4b40096a1b3c91",
+      "own_screens": false,
+      "summary": "Famio로 가족 및 사랑하는 사람들과 연락을 유지할 수 있습니다!  그들을 안전하게 지키세요!",
+      "title": "Famio: 가족과 연결되세요",
+      "v": 2
+    },
+    "ky": {
+      "key": "48809689e84c1c76e236e602acbb58e9",
+      "own_screens": false,
+      "summary": "Famio сизге үй-бүлөңүз жана жакындарыңыз менен байланышта болууга мүмкүнчүлүк берет! Аларды коопсуз сакта!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "lo": {
+      "key": "3b14b991fe4a8265661b230250cfc5e6",
+      "own_screens": false,
+      "summary": "Famio ຊ່ວຍໃຫ້ທ່ານຕິດຕໍ່ພົວພັນກັບຄອບຄົວແລະຄົນທີ່ທ່ານຮັກ! ຮັກສາພວກເຂົາໃຫ້ປອດໄພ!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "lt": {
+      "key": "73dc6460b326466895a8a62ab5785a1e",
+      "own_screens": false,
+      "summary": "„Famio“ leidžia palaikyti ryšį su šeima ir artimaisiais! Saugokite juos!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "lv": {
+      "key": "83d548278a651308c928cd519a91f3a8",
+      "own_screens": false,
+      "summary": "Famio ļauj uzturēt kontaktus ar ģimeni un mīļajiem! Sargājiet viņus!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "mk": {
+      "key": "4f5fc1d7a51ca00e986315d4779582e2",
+      "own_screens": false,
+      "summary": "Фамио ви дозволува да останете во контакт со вашето семејство и најблиските! Чувајте ги безбедно!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "ml": {
+      "key": "2d02091aed2071a55176d0a69f943ed6",
+      "own_screens": false,
+      "summary": "നിങ്ങളുടെ കുടുംബവുമായും പ്രിയപ്പെട്ടവരുമായും സമ്പർക്കം പുലർത്താൻ ഫാമിയോ നിങ്ങളെ അനുവദിക്കുന്നു! അവരെ സുരക്ഷിതമായി സൂക്ഷിക്കുക!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "mn": {
+      "key": "b12f119bda76acca9ed86a8490740897",
+      "own_screens": false,
+      "summary": "Famio нь гэр бүл, хайртай хүмүүстэйгээ холбоотой байх боломжийг олгодог! Тэднийг аюулгүй байлга!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "mr": {
+      "key": "3d718f6aa5972bcc88f3c597977afe81",
+      "own_screens": false,
+      "summary": "फॅमिओ आपल्‍याला आपल्‍या कुटुंबासह आणि प्रियजनांशी संपर्कात राहू देतो! त्यांना सुरक्षित ठेवा!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "ms": {
+      "key": "b2add0495c865251ebd7cf988dc5f61e",
+      "own_screens": false,
+      "summary": "Famio menghubungkan Anda dengan keluarga dan yang tercinta! Jaga keselamatan!",
+      "title": "Famio: Hubungkan Keluarga",
+      "v": 2
+    },
+    "my": {
+      "key": "0c9dd131c45d472d16c2cb870d908159",
+      "own_screens": false,
+      "summary": "Famio ကသင့်မိသားစုနှင့်ချစ်ရသူများနှင့်အဆက်အသွယ်ပြုနိုင်စေသည်။ သူတို့ကိုလုံခြုံအောင်ထားပါ။",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "ne": {
+      "key": "46c4c724d3c8da6372dcc845c60255ad",
+      "own_screens": false,
+      "summary": "Famio ले तपाईंलाई तपाईंको परिवार र प्रियजनहरूसँग सम्पर्कमा रहन दिन्छ! तिनीहरूलाई सुरक्षित राख्नुहोस्!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "nl": {
+      "key": "3c4fab1a71c043aab9842cb2e132e9d6",
+      "own_screens": false,
+      "summary": "Met Famio blijf je in contact met je familie en geliefden! Houd ze veilig!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "no": {
+      "key": "8e566356609b91a31cc78c96a1dfae74",
+      "own_screens": false,
+      "summary": "Famio lar deg holde kontakten med familien og kjære! Hold dem trygge!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "pa": {
+      "key": "b61e3e4a6538678ed64b0aaca57ae2a0",
+      "own_screens": false,
+      "summary": "ਫੈਮਿਓ ਤੁਹਾਨੂੰ ਆਪਣੇ ਪਰਿਵਾਰ ਅਤੇ ਅਜ਼ੀਜ਼ਾਂ ਨਾਲ ਸੰਪਰਕ ਵਿੱਚ ਰਹਿਣ ਦਿੰਦਾ ਹੈ! ਉਨ੍ਹਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖੋ!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "pl": {
+      "key": "62da817f89a052091f8e9b695cf5d216",
+      "own_screens": false,
+      "summary": "Famio pozwala pozostać w kontakcie z rodziną i bliskimi! Pilnuj ich!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "pt-BR": {
+      "key": "eaeda4a4e07bd959ae203121240aa858",
+      "own_screens": false,
+      "summary": "O Famio deixa-te em contacto com a família e entes queridos! Mantém-os seguros!",
+      "title": "Famio: Conecte com a Família",
+      "v": 2
+    },
+    "pt-PT": {
+      "key": "eaeda4a4e07bd959ae203121240aa858",
+      "own_screens": false,
+      "summary": "O Famio deixa-te em contacto com a família e entes queridos! Mantém-os seguros!",
+      "title": "Famio: Conecte com a Família",
+      "v": 2
+    },
+    "ro": {
+      "key": "ba87efe75e7d1b51cd9c62c7418de86a",
+      "own_screens": false,
+      "summary": "Famio vă permite să rămâneți în legătură cu familia și cu cei dragi! Păstrați-le în siguranță!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "ru": {
+      "key": "d08cc2841c2baeaf5f9a58bd56b6ec2b",
+      "own_screens": false,
+      "summary": "Береги своих родных и близких. Оставайся с ними на связи вместе с Famio!",
+      "title": "Famio: будь на связи с семьей",
+      "v": 2
+    },
+    "si": {
+      "key": "d9cc35d8f3de0e6ff6f83a5274d43dc9",
+      "own_screens": false,
+      "summary": "ඔබගේ පවුලේ අය සහ ආදරණීයයන් සමඟ සම්බන්ධව සිටීමට ෆාමියෝ ඔබට ඉඩ දෙයි! ඒවා ආරක්ෂිතව තබන්න!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "sk": {
+      "key": "8b9cc65f38a8e295a886f22692e0484a",
+      "own_screens": false,
+      "summary": "Famio vám umožní zostať v kontakte so svojou rodinou a blízkymi! Chráňte ich!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "sl": {
+      "key": "6a0860e6b9cd472fecebf90b399a3a22",
+      "own_screens": false,
+      "summary": "Famio vam omogoča, da ostanete v stiku s svojo družino in ljubljenimi! Varujte jih!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "sq": {
+      "key": "089dba32f4b25eda9814132a1f436d91",
+      "own_screens": false,
+      "summary": "Famio ju lejon të qëndroni në kontakt me familjen dhe të dashurit tuaj! Mbajini të sigurta!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "sr": {
+      "key": "c39b681130fc7b63021e261c815b9ae6",
+      "own_screens": false,
+      "summary": "Фамио вам омогућава да будете у контакту са породицом и вољенима! Чувајте их!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "sv": {
+      "key": "cd197aacfbac02127c01a67e155a90ce",
+      "own_screens": false,
+      "summary": "Med Famio kan du hålla kontakten med din familj och nära och kära! Håll dem säkra!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "sw": {
+      "key": "15b74ada7a322f4ec70f03d1ae2688ba",
+      "own_screens": false,
+      "summary": "Famio hukuruhusu kuendelea kuwasiliana na familia yako na wapendwa! Kuweka salama!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "ta": {
+      "key": "85eefa9a50c57c1ee1f6230e20f71521",
+      "own_screens": false,
+      "summary": "உங்கள் குடும்பத்தினருடனும் அன்பானவர்களுடனும் தொடர்பில் இருக்க ஃபாமியோ உங்களை அனுமதிக்கிறது! அவற்றைப் பாதுகாப்பாக வைத்திருங்கள்!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "te": {
+      "key": "e352d4eee47e48920fcf4a961e03baa7",
+      "own_screens": false,
+      "summary": "మీ కుటుంబం మరియు ప్రియమైనవారితో సన్నిహితంగా ఉండటానికి ఫామియో మిమ్మల్ని అనుమతిస్తుంది! వాటిని సురక్షితంగా ఉంచండి!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "th": {
+      "key": "fba023803112e4f21352be14b7cb77a7",
+      "own_screens": false,
+      "summary": "Famio ให้คุณไม่ขาดการติดต่อกับครอบครัวและคนที่คุณรัก! ดูแลพวกเขาให้ปลอดภัย!",
+      "title": "Famio: เชื่อมโยงกับครอบครัว",
+      "v": 2
+    },
+    "tr": {
+      "key": "c9e8c226f90a95a62947e15169329f50",
+      "own_screens": false,
+      "summary": "Famio ile ailen ve sevdiklerinle iletişim halinde kal! Onları güvende tut!",
+      "title": "Famio: Ailenle Bağlantı Kur",
+      "v": 2
+    },
+    "ur": {
+      "key": "82582b6c4c66f101a7889b2432b293d6",
+      "own_screens": false,
+      "summary": "فیمیو آپ کو اپنے کنبے اور پیاروں سے رابطے میں رہنے دیتا ہے! انہیں محفوظ رکھیں!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    },
+    "vi": {
+      "key": "fa926ec0ccad556b6e3170c9f5f9886c",
+      "own_screens": false,
+      "summary": "Famio giúp bạn giữ liên lạc với gia đình và người thân! Hãy bảo vệ họ an toàn!",
+      "title": "Famio: Kết nối với Gia đình",
+      "v": 2
+    },
+    "zh-CN": {
+      "key": "4c56a513bd9504235edc2a4d0b85c93a",
+      "own_screens": false,
+      "summary": "Famio 让你和家人及所爱的人时刻保持联系！ 确保他们安全！",
+      "title": "Famio：与家人保持联系",
+      "v": 2
+    },
+    "zh-HK": {
+      "key": "9e9e3c05798f0b2fe3132647630e1684",
+      "own_screens": false,
+      "summary": "Famio 讓您與親人好友隨時保持聯繫！ 確保他們的安全！",
+      "title": "Famio：與家人保持聯繫",
+      "v": 2
+    },
+    "zh-TW": {
+      "key": "9e9e3c05798f0b2fe3132647630e1684",
+      "own_screens": false,
+      "summary": "Famio 讓您與親人好友隨時保持聯繫！ 確保他們的安全！",
+      "title": "Famio：與家人保持聯繫",
+      "v": 2
+    },
+    "zu": {
+      "key": "755865af013cfba360b71f03f06fa328",
+      "own_screens": false,
+      "summary": "I-Famio ikuvumela ukuthi uhlale uthintana nomndeni wakho nabathandekayo! Zigcine ziphephile!",
+      "title": "Famio: Connect With Family",
+      "v": 2
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "_lang": "es-419",
-  "_scanned": "2026-10-19",
+  "_scanned": "2026-10-26",
   "containsAds": false,
   "contentRating": "Apto para todo público",
   "description": "<b>Find my kids es un localizador GPS familiar para la seguridad de sus hijos y el control parental por medio del seguimiento de ubicación GPS.</b> Para ver la ubicación en tiempo real de su hijo, instale la app Find my kids en su teléfono y la app \"Pingo!\" en el teléfono de su hijo o conéctelo a un reloj-GPS para niños.\r\n\r\n<b>Find my kids es localizador de móviles que les permite a madres y padres ver la ubicación de un móvil y no tener que preocuparse por lo que hacen sus hijos y que no escuchen sus llamadas:</b>\r\n\r\n<b>Localizador GPS familiar</b> – con este localizador puede ver la ubicación del niño sobre el mapa y su historial de movimientos. Asegúrese de que no visite sitios peligrosos.\r\n<b>Escuche a su alrededor</b> – escuche lo que sucede cerca de su hijo para saber que está bien y en buena compañía.\r\n<b>Hágalo sonar</b> – envía una notificación al teléfono de su hijo en caso de que se haya olvidado el teléfono en la mochila, no lo encuentre o lo haya puesto el modo silencioso y no escuche la llamada.\r\n<b>Control de aplicaciones</b> – averigüe qué apps usa en el colegio, si está presente en la clase o si está usando el teléfono para juegos y aplicaciones.\r\n<b>Control de seguridad</b> – compruebe en el mapa si su hijo ha salido del colegio y ha vuelto a casa. Reciba notificaciones sobre su actividad y movimientos.\r\n<b>Control de batería</b> – recuérdele a su hijo cargar su teléfono, la app enviará una notificación si tiene poca batería.\r\n<b>Chat familiar</b> – comuníquese fácilmente con su hijo en un chat con stickers divertidos.\r\n<b>Cumplidos</b> – ¡Felicite a su hijo por sus logros y envíele muchos corazones!\r\n\r\n<b>App de control parental</b>\r\n\r\nLa app Find my kids está pensada para padres y tiene como objetivo la seguridad y el control parental. Este localizador GPS familiar no puede instalarse a escondidas, solo está disponible con el consentimiento explícito del niño. Los datos personales se almacenan de manera estricta de acuerdo con la legislación y las políticas del RGPD.\r\n\r\n<b>Si su hijo tiene un smartphone:</b>\r\n\r\nInstale la app \"Pingo!\" en el teléfono de su hijo para activar este localizador GPS familiar. El servicio utiliza el GPS del teléfono del niño en el modo ahorro, por lo que lo diferencia de sus homólogos. La app funcionará en el teléfono del niño con la localización GPS activada. En la app \"Pingo!\" su hijo podrá comunicarse con usted y, en caso de peligro, podrá presionar el botón de emergencia. Cuando el niño presione el botón SOS, recibirá de inmediato una señal de alarma en su teléfono.\r\n\r\n<b>Si su hijo tiene un reloj-GPS:</b>\r\n\r\nConéctelo con la app segura Find my kids, que cuenta con una interfaz localizada y soporte técnico. La app puede utilizarse con cualquier dispositivo: Smart Baby Watch, Smart Age Watch, Smart Pet Tracker, Smart Tracker y similares.\r\n\r\n<b>Cómo funciona la app Find my kids:</b>\r\n\r\n1) Instale la app Find my kids en su teléfono;\r\n2) Elija el dispositivo que quiere conectar, ya sea en el teléfono o en el reloj-GPS de su hijo;\r\n3) Instale la app \"Pingo!\" en el teléfono del niño o introduzca el número de la SIM del reloj-GPS.\r\n\r\nPuede utilizar todas las características del servicio de manera gratuita, durante el período de prueba después de conectar el dispositivo del niño. Al final de este período, podrá ver la ubicación online del niño. Luego necesitará una suscripción para poder utilizar todas las funciones.\r\n\r\n<b>La app Find my kids solicita los siguientes permisos:</b>\r\n\r\n- acceso a la cámara y fotos - instalar el avatar del niño;\r\n-  Funciones especiales: para limitar el tiempo en la pantalla del teléfono inteligente\r\n- acceso a contactos - cargar la agenda al reloj-GPS;\r\n- acceso al micrófono - enviar mensajes de voz en el chat.\r\n\r\nEn caso de problemas técnicos, siempre puede contactar a nuestro servicio de ayuda 24/7 por chat directo en la app o enviando un e-mail a support@findmykids.org.",
@@ -8,32 +8,33 @@
   "genre": "Maternidad y paternidad",
   "headerImage": "https://play-lh.googleusercontent.com/j4ULfbEHZk5u-WHihagFWFyZyIhDC-eGz5qXgOUXZXnOCxgofUZZvhGPsIg2pw2246MQM3FocEQQ0AmfJHdW0Fs",
   "histogram": [
-    46285,
-    15709,
-    57883,
-    151720,
-    1791755
+    45333,
+    15813,
+    57984,
+    149704,
+    1797193
   ],
   "icon": "https://play-lh.googleusercontent.com/1xxhEalJmQZPdCdHbJ2cfABAmZn5vVB5kWPro0JjVmBAUHWLWfE0eKjQH3nO9IkQJCV7q3-Yu5-jWpLt_wdY",
   "inAppProductPrice": "$ 1.000-$ 2.850.000 por elemento",
   "installs": "50,000,000+",
-  "lastUpdatedOn": "14 oct 2026",
+  "lastUpdatedOn": "22 oct 2026",
   "metrics": {
     "minInstalls": 50000000,
-    "ratings": 2063777,
-    "realInstalls": 83099990,
-    "reviews": 3119,
-    "score": 4.7574053
+    "ratings": 2066240,
+    "realInstalls": 83206150,
+    "reviews": 3121,
+    "score": 4.760592
   },
   "price": 0,
   "screenshots": [
-    "https://play-lh.googleusercontent.com/8W_5Pz_hSkN4LaCPuuXs8MLUMGstBQ1ASx7iQUCM5u6K0skFUv39EKYyh2zsXLUXT9wBs3UvhjXgdMuXim5OU6A",
-    "https://play-lh.googleusercontent.com/_YBMkcrRs-MDepk7BHVxW0DqntincQuiibmR3745d6Ct1z2SODtv98TTxq-vsdsyaGRFcrTeZt0Xp48YF1j0",
-    "https://play-lh.googleusercontent.com/9gcZs6yOhv1hWoDKTE5XILWy5tx1PYFuKaHC2xB_rRDMvtqFlCPkiNqi_CjfYq4iXH-TUvh6Hm_Cnx40blKesw",
-    "https://play-lh.googleusercontent.com/vqgLoSAZyIl58FL-LutmVD2ShIHn5G7G5-6rVdgBb1zZoOiuge25nOcg5hnTm7JekNltuKa7dP_3jbmtITPv",
-    "https://play-lh.googleusercontent.com/4b_evaNrv-sQoRoolTKJRE2GK6XukYZ5-r2HfyLWBNSSB2xSEUt0I0wVphigxRUEFqpIdhi95VHm9CrjEKsvuA",
-    "https://play-lh.googleusercontent.com/Eeu-4nV7SU4ZzUor8ebDyM2VaiVodvwA1q2yw8ktURshSOBuE2eN0js4gnLYky_sndh74bwGRrMXLB1xWmEYlQ",
-    "https://play-lh.googleusercontent.com/xw3ltHpM1eUmSnWP-PrDrxcqcETR50YjUk_jBufMJaW38Mh2k4U0sJ1ekAQ81iPOn8T9Y2v9MPTcJkEG5iUT",
+    "https://play-lh.googleusercontent.com/CbhaDxIZq6PaCzvp_nbxdp48j7IJ_jhsYmcvMAu8Ulr5bP45p6gngx_8EBYndnhCznaOloMq0wO8iJGzOevrog",
+    "https://play-lh.googleusercontent.com/RT76OtYQ0PRDrTFJT71kCLsczLNvGJZNCJAWXCmP9sETqsA0lxk4Q8xFZj0c7FXmo2fdsC5T2N2KfEU5UiJT",
+    "https://play-lh.googleusercontent.com/zNck222sdTBziANvMicozBsvxdqdAkbOzcTUqvPR5IWehUpRRZTAs4JrT80R8Z8ugYZFe3XX3G-sfRL4aqOz4mQ",
+    "https://play-lh.googleusercontent.com/bMCn1R5gCokJKPa00InjzDOKcKfVSj0J13CAv0w0A6ZdxZ3kYpQG9ta3jg_bFFL6gz-jZseo7wTOIqyeQUsM9A",
+    "https://play-lh.googleusercontent.com/n_qbEbypx4y3_ESnG8QNeaDX25o7_H_z9QD3YH1-0rhT3lKmPVaJX9SUTHCrOk2xHFqmr0bgtih4jaJAfh9Dyg",
+    "https://play-lh.googleusercontent.com/ECIMovlgExiT6wM4f947K7DkOW58YWG19DoUjbbIm5tgU3xkdBTHGPe_gZef3VOB2-_czHalyH_JfP-DJ-UAzjw",
+    "https://play-lh.googleusercontent.com/v_uMcz24wq9oexeLbisy017r2qMMGb_Iu5h7F5iWusgzUSPmSIY12_pdPvkvuCID9lIoBMpU6dBMERjaQQfGlsI",
+    "https://play-lh.googleusercontent.com/fPcwliJZHj4HRtuVokyfE7Xu7BEQyP0zds6Qf21ogaUndHXZw7lQeURuzcjGfFaWy9ZosKFzoYUx2AGlgPcd",
     "https://play-lh.googleusercontent.com/p35v4zoUaxRoMjLW2UUFxoaDF7_3iVzXcZIS-2vWvbOYohXNjFN_F8ZxU9DIMvZKygG4HxErpqR6_I61Bkk7FQ",
     "https://play-lh.googleusercontent.com/ar7MqvO9z640PqbJiMvjpx9rKcAm1xx41ODYcgBXXyU2iChmN8041Gn2o7UcogbIccmbNYgVHE1O31hpRhjPxPc",
     "https://play-lh.googleusercontent.com/3QhQmX3rMaBDvzDQ_GkP-kZhsogB8N-cX8XeDdVlh7WYaeW5mTI15g4ssh0IRzxayFPalWJirAUXNFdfXnFo-pQ",
@@ -51,6 +52,6 @@
   ],
   "summary": "GPS localizador familiar y rastreo app. Control parental y app lock",
   "title": "Find my kids: GPS Tracker",
-  "version": "2.13.1-google",
+  "version": "2.13.2-google",
   "video": null
 }

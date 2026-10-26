@@ -1,6 +1,6 @@
 {
   "_lang": "et",
-  "_scanned": "2026-10-19",
+  "_scanned": "2026-10-26",
   "containsAds": false,
   "contentRating": "PEGI 3",
   "description": "Hoolitse oma pere turvalisuse eest mLite'iga!\r\n\r\nmLite on vanemliku kontrolli rakendus, mis annab vanematele tööriistad, mida nad vajavad oma laste kaitsmiseks, hoides samal ajal suhtluse avatud ja selgena. See pakub põhifunktsioone, nagu reaalajas asukoha jälgimine ja jagamine, pere turvalisuse tööriistad ja lastekaitsemeetmed, mis kõik on loodud tipptasemel privaatsus- ja nõusolekustandarditega.\r\n\r\nmLite'i põhifunktsioonid:\r\n\r\n📍 Reaalajas GPS-asukoha jagamine: Vajadusel jälgige hõlpsalt oma lapse praegust GPS-asukohta kaardil. See funktsioon võimaldab asukohtade lihtsat jagamist pereliikmete vahel, pakkudes vanematele kindlustunnet lapse asukoha osas.\r\n\r\n🗺️ Geopiirde hoiatused: Looge kaardile virtuaalsed turvatsoonid (geopiirded) ja saate koheseid hoiatusi, kui GPS-asukoha jälgija tuvastab teie lapse nendesse piirkondadesse sisenemise või sealt väljumise. See aitab teil jälgida liikumist, austades samal ajal privaatsust, et parandada pere turvalisust.\r\n\r\n🌐 Juurdepääs asukohaajaloole: Mõistke oma lapse igapäevaseid mustreid, vaadates üle, kus ta on päeva jooksul viibinud. Tema rutiinide tundmine aitab tagada, et ta on turvalistes kohtades.\r\n\r\n🚨 Hädaabinupp: Teie laps saab teile hädaabinupu abil koheselt ohust märku anda vaid ühe puudutusega, võimaldades teil kiirelt reageerida kiireloomulistes olukordades.\r\n\r\n📱 Kontaktide nimekirja ülevaade: Kaitske oma last, kontrollides, kellega ta räägib, tagades, et suhtlus toimub ainult usaldusväärsete inimestega parema järelevalve ja pere turvalisuse tagamiseks.\r\n\r\n📩 Turvalise suhtluse jälgimine: Vanemliku kontrolli rakenduse ja lapse nõusoleku abil saate vaadata konkreetsete rakenduste kaudu vahetatud sõnumeid, et veenduda veebisuhtluse vastutustundlikus ja turvalises toimimises.\r\n\r\nGPS-asukoha jälgija mLite kasutab ligipääsetavuse teenuseid ainult turvalisuse eesmärgil, näiteks teatud rakenduste suhtluse jälgimiseks lapse täieliku teadmisega, et edendada turvalist veebikäitumist ilma isikuandmeid ilma loata kogumata.\r\n\r\nInstallimisetapid:\r\n\r\n1. Installige mLite rakendus oma seadmesse.\r\n2. Registreeruge lapsevanemana.\r\n3. Paigaldage mLite ka oma lapse seadmesse.\r\n4. Valige seadistamise ajal „laps“.\r\n5. Lubage asukohaandmete ja kontaktide jagamine.\r\n6. Ühendage seadmed QR-koodi skannimise või lapsevanema loodud lingi abil.\r\n\r\nOluline teave: mLite vanemliku kontrolli rakendus on mõeldud kasutamiseks ainult olukordades, kus mõlemad pooled on sellest teadlikud – enne installimist on vaja nii lapse kui ka lapse nõusolekut, mis järgib rangelt isikuandmete kaitse üldmääruse (GDPR) suuniseid andmetöötlustavade osas.\r\n\r\nVajalikud load:\r\n- Kaamera/fotod: seadmete ühendamiseks QR-koodi skannimise teel.\r\n- Juurdepääs kontaktidele: kontaktiloendite ülevaatamiseks ohutu suhtluse tagamiseks.\r\n- Asukohaandmete kasutamine: reaalajas asukoha jagamiseks ja muudeks funktsioonideks, sh geopiirde teavitusteks.\r\n\r\nLisateabe saamiseks külastage meie privaatsuspoliitika või kasutustingimuste lehti:\r\nPrivaatsuspoliitika - https://mliteapp.com/privacy.html\r\nJuriidiline teave - https://mliteapp.com/terms-of-use/\r\n\r\nKüsimused? Võtke meiega ühendust aadressil support@mliteapp.com",
@@ -8,22 +8,22 @@
   "genre": "Elustiil",
   "headerImage": "https://play-lh.googleusercontent.com/9RSMt7nY0okTnutgi3pRefaf9mWFTQjlvF5kkkm0FAy4mPG15PNDUaEv2KI5wadlz-1JbXRldll5DvtiTYlegg",
   "histogram": [
-    1561,
-    151,
-    444,
-    802,
-    10617
+    1644,
+    140,
+    454,
+    779,
+    10593
   ],
   "icon": "https://play-lh.googleusercontent.com/WvyD2L6UmL8R8F1vNOqLt6F0cDYZvc3LfrCA54uXMFDzgd1UG85iXLQnoNfvEJ6Y6-_opMHB6i6UKUrkgS_uMg",
   "inAppProductPrice": "1,09 € – 214,99 €, kui arveldatakse Play kaudu",
   "installs": "10 000 000+",
-  "lastUpdatedOn": "14. okt 2026",
+  "lastUpdatedOn": "21. okt 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 13578,
-    "realInstalls": 11996449,
-    "reviews": 6270,
-    "score": 4.381789
+    "ratings": 13613,
+    "realInstalls": 12031167,
+    "reviews": 6276,
+    "score": 4.3616853
   },
   "price": 0,
   "screenshots": [
@@ -37,6 +37,6 @@
   ],
   "summary": "Leidke ja kaitske oma lapsi vanemliku kontrolli rakendusega. Jagage reaalajas GPS-asukohta.",
   "title": "mLite - GPS Location Tracker",
-  "version": "4.3.9",
+  "version": "4.4.0",
   "video": "https://play.google.com/video/lava/web/player/yt:movie:mZNpXIKVeRE?autoplay=1&embed=play"
 }

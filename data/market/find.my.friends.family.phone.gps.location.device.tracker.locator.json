@@ -1,0 +1,1409 @@
+{
+  "base": {
+    "key": "4688385a226c60e569ca8c3399e32d74",
+    "own_screens": false,
+    "summary": "Caring, not overbearing! Keep tabs on your family with our location tracker app",
+    "title": "Findo: Find my Friends, Phone",
+    "v": 2
+  },
+  "countries": {
+    "ae": {
+      "available": true,
+      "containsAds": false,
+      "currency": "AED",
+      "iap": "AED 18.99 - AED 154.99 per item",
+      "max_local": 154.99,
+      "max_usd": 42.2,
+      "min_local": 18.99,
+      "min_usd": 5.17
+    },
+    "ar": {
+      "available": true,
+      "containsAds": false,
+      "currency": "ARS",
+      "iap": "ARS 7,460.05 - ARS 59,785.05 per item",
+      "max_local": 59785.05,
+      "max_usd": 39.12,
+      "min_local": 7460.05,
+      "min_usd": 4.88
+    },
+    "at": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€ 4,99 - € 39,99 if billed through Play",
+      "max_local": 39.99,
+      "max_usd": 44.83,
+      "min_local": 4.99,
+      "min_usd": 5.59
+    },
+    "au": {
+      "available": true,
+      "containsAds": false,
+      "currency": "AUD",
+      "iap": "$8.49 - $67.99 per item",
+      "max_local": 67.99,
+      "max_usd": 47.78,
+      "min_local": 8.49,
+      "min_usd": 5.97
+    },
+    "bd": {
+      "available": true,
+      "containsAds": false,
+      "currency": "BDT",
+      "iap": "BDT 650.00 - BDT 5,000.00 per item",
+      "max_local": 5000.0,
+      "max_usd": 40.48,
+      "min_local": 650.0,
+      "min_usd": 5.26
+    },
+    "be": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€4.99 - €39.99 if billed through Play",
+      "max_local": 39.99,
+      "max_usd": 44.83,
+      "min_local": 4.99,
+      "min_usd": 5.59
+    },
+    "bg": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€5.62 - €44.99 if billed through Play",
+      "max_local": 44.99,
+      "max_usd": 50.43,
+      "min_local": 5.62,
+      "min_usd": 6.3
+    },
+    "br": {
+      "available": true,
+      "containsAds": false,
+      "currency": "BRL",
+      "iap": "R$25.99 - R$204.99 per item",
+      "max_local": 204.99,
+      "max_usd": 41.04,
+      "min_local": 25.99,
+      "min_usd": 5.2
+    },
+    "ca": {
+      "available": true,
+      "containsAds": false,
+      "currency": "CAD",
+      "iap": "$6.99 - $54.99 per item",
+      "max_local": 54.99,
+      "max_usd": 39.24,
+      "min_local": 6.99,
+      "min_usd": 4.99
+    },
+    "ch": {
+      "available": true,
+      "containsAds": false,
+      "currency": "CHF",
+      "iap": "CHF 4.50 - CHF 36.00 per item",
+      "max_local": 36.0,
+      "max_usd": 43.66,
+      "min_local": 4.5,
+      "min_usd": 5.46
+    },
+    "cl": {
+      "available": true,
+      "containsAds": false,
+      "currency": "CLP",
+      "iap": "CLP 5,800 - CLP 46,600 per item",
+      "max_local": 46600.0,
+      "max_usd": 47.09,
+      "min_local": 5800.0,
+      "min_usd": 5.86
+    },
+    "co": {
+      "available": true,
+      "containsAds": false,
+      "currency": "COP",
+      "iap": "COP 19,500 - COP 156,000 per item",
+      "max_local": 156000.0,
+      "max_usd": 49.2,
+      "min_local": 19500.0,
+      "min_usd": 6.15
+    },
+    "cz": {
+      "available": true,
+      "containsAds": false,
+      "currency": "CZK",
+      "iap": "139,99 CZK - 1 199,99 CZK if billed through Play",
+      "max_local": 1199.99,
+      "max_usd": 55.28,
+      "min_local": 139.99,
+      "min_usd": 6.45
+    },
+    "de": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€4.99 - €39.99 if billed through Play",
+      "max_local": 39.99,
+      "max_usd": 44.83,
+      "min_local": 4.99,
+      "min_usd": 5.59
+    },
+    "dk": {
+      "available": true,
+      "containsAds": false,
+      "currency": "DKK",
+      "iap": "44,00 kr. - 349,00 kr. if billed through Play",
+      "max_local": 349.0,
+      "max_usd": 52.27,
+      "min_local": 44.0,
+      "min_usd": 6.59
+    },
+    "ee": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€4.99 - €39.99 if billed through Play",
+      "max_local": 39.99,
+      "max_usd": 44.83,
+      "min_local": 4.99,
+      "min_usd": 5.59
+    },
+    "eg": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EGP",
+      "iap": "EGP 279.99 - EGP 2,199.99 per item",
+      "max_local": 2199.99,
+      "max_usd": 39.51,
+      "min_local": 279.99,
+      "min_usd": 5.03
+    },
+    "es": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€4.99 - €39.99 if billed through Play",
+      "max_local": 39.99,
+      "max_usd": 44.83,
+      "min_local": 4.99,
+      "min_usd": 5.59
+    },
+    "fi": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€4.99 - €39.99 if billed through Play",
+      "max_local": 39.99,
+      "max_usd": 44.83,
+      "min_local": 4.99,
+      "min_usd": 5.59
+    },
+    "fr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€4.99 - €39.99 if billed through Play",
+      "max_local": 39.99,
+      "max_usd": 44.83,
+      "min_local": 4.99,
+      "min_usd": 5.59
+    },
+    "gb": {
+      "available": true,
+      "containsAds": false,
+      "currency": "GBP",
+      "iap": "£4.79 - £38.49 if billed through Play",
+      "max_local": 38.49,
+      "max_usd": 51.47,
+      "min_local": 4.79,
+      "min_usd": 6.41
+    },
+    "gr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€4.99 - €39.99 if billed through Play",
+      "max_local": 39.99,
+      "max_usd": 44.83,
+      "min_local": 4.99,
+      "min_usd": 5.59
+    },
+    "hk": {
+      "available": true,
+      "containsAds": false,
+      "currency": "HKD",
+      "iap": "HK$39.90 - HK$309.00 per item",
+      "max_local": 309.0,
+      "max_usd": 39.4,
+      "min_local": 39.9,
+      "min_usd": 5.09
+    },
+    "hr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€4.99 - €39.99 if billed through Play",
+      "max_local": 39.99,
+      "max_usd": 44.83,
+      "min_local": 4.99,
+      "min_usd": 5.59
+    },
+    "hu": {
+      "available": true,
+      "containsAds": false,
+      "currency": "HUF",
+      "iap": "2 390 HUF - 18 999 HUF if billed through Play",
+      "max_local": 18999.0,
+      "max_usd": 58.1,
+      "min_local": 2390.0,
+      "min_usd": 7.31
+    },
+    "id": {
+      "available": true,
+      "containsAds": false,
+      "currency": "IDR",
+      "iap": "Rp 81.000 - Rp 590.000 per item",
+      "max_local": 590000.0,
+      "max_usd": 32.61,
+      "min_local": 81000.0,
+      "min_usd": 4.48
+    },
+    "ie": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€4.99 - €39.99 if billed through Play",
+      "max_local": 39.99,
+      "max_usd": 44.83,
+      "min_local": 4.99,
+      "min_usd": 5.59
+    },
+    "il": {
+      "available": true,
+      "containsAds": false,
+      "currency": "ILS",
+      "iap": "₪18.90 - ₪149.90 per item",
+      "max_local": 149.9,
+      "max_usd": 48.13,
+      "min_local": 18.9,
+      "min_usd": 6.07
+    },
+    "in": {
+      "available": true,
+      "containsAds": false,
+      "currency": "INR",
+      "iap": "₹490.00 - ₹3,950.00 per item",
+      "max_local": 3950.0,
+      "max_usd": 41.51,
+      "min_local": 490.0,
+      "min_usd": 5.15
+    },
+    "it": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€4.99 - €39.99 if billed through Play",
+      "max_local": 39.99,
+      "max_usd": 44.83,
+      "min_local": 4.99,
+      "min_usd": 5.59
+    },
+    "jp": {
+      "available": true,
+      "containsAds": false,
+      "currency": "JPY",
+      "iap": "¥780 - ¥6,200 per item",
+      "max_local": 6200.0,
+      "max_usd": 39.52,
+      "min_local": 780.0,
+      "min_usd": 4.97
+    },
+    "ke": {
+      "available": true,
+      "containsAds": false,
+      "currency": "KES",
+      "iap": "Ksh 800.00 - Ksh 6,100.00 per item",
+      "max_local": 6100.0,
+      "max_usd": 46.97,
+      "min_local": 800.0,
+      "min_usd": 6.16
+    },
+    "kr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "KRW",
+      "iap": "₩7,500 - ₩60,000 per item",
+      "max_local": 60000.0,
+      "max_usd": 45.32,
+      "min_local": 7500.0,
+      "min_usd": 5.67
+    },
+    "kz": {
+      "available": true,
+      "containsAds": false,
+      "currency": "KZT",
+      "iap": "KZT 2,490.00 - KZT 19,990.00 per item",
+      "max_local": 19990.0,
+      "max_usd": 44.17,
+      "min_local": 2490.0,
+      "min_usd": 5.5
+    },
+    "lt": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€4.99 - €39.99 if billed through Play",
+      "max_local": 39.99,
+      "max_usd": 44.83,
+      "min_local": 4.99,
+      "min_usd": 5.59
+    },
+    "lv": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€4.99 - €39.99 if billed through Play",
+      "max_local": 39.99,
+      "max_usd": 44.83,
+      "min_local": 4.99,
+      "min_usd": 5.59
+    },
+    "ma": {
+      "available": true,
+      "containsAds": false,
+      "currency": "MAD",
+      "iap": "MAD 60.99 - MAD 489.99 per item",
+      "max_local": 489.99,
+      "max_usd": 49.92,
+      "min_local": 60.99,
+      "min_usd": 6.21
+    },
+    "mx": {
+      "available": true,
+      "containsAds": false,
+      "currency": "MXN",
+      "iap": "MX$99.00 - MX$779.00 per item",
+      "max_local": 779.0,
+      "max_usd": 41.61,
+      "min_local": 99.0,
+      "min_usd": 5.29
+    },
+    "my": {
+      "available": true,
+      "containsAds": false,
+      "currency": "MYR",
+      "iap": "RM 25.99 - RM 204.99 per item",
+      "max_local": 204.99,
+      "max_usd": 50.18,
+      "min_local": 25.99,
+      "min_usd": 6.36
+    },
+    "ng": {
+      "available": true,
+      "containsAds": false,
+      "currency": "NGN",
+      "iap": "₦6,130.00 - ₦49,500.00 per item",
+      "max_local": 49500.0,
+      "max_usd": 37.1,
+      "min_local": 6130.0,
+      "min_usd": 4.59
+    },
+    "nl": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€4.99 - €39.99 if billed through Play",
+      "max_local": 39.99,
+      "max_usd": 44.83,
+      "min_local": 4.99,
+      "min_usd": 5.59
+    },
+    "no": {
+      "available": true,
+      "containsAds": false,
+      "currency": "NOK",
+      "iap": "69,00 kr - 549,00 kr if billed through Play",
+      "max_local": 549.0,
+      "max_usd": 58.9,
+      "min_local": 69.0,
+      "min_usd": 7.4
+    },
+    "nz": {
+      "available": true,
+      "containsAds": false,
+      "currency": "NZD",
+      "iap": "$9.49 - $79.99 per item",
+      "max_local": 79.99,
+      "max_usd": 45.58,
+      "min_local": 9.49,
+      "min_usd": 5.41
+    },
+    "pe": {
+      "available": true,
+      "containsAds": false,
+      "currency": "PEN",
+      "iap": "PEN 18.99 - PEN 149.99 per item",
+      "max_local": 149.99,
+      "max_usd": 43.58,
+      "min_local": 18.99,
+      "min_usd": 5.52
+    },
+    "ph": {
+      "available": true,
+      "containsAds": false,
+      "currency": "PHP",
+      "iap": "₱285.00 - ₱2,250.00 per item",
+      "max_local": 2250.0,
+      "max_usd": 35.33,
+      "min_local": 285.0,
+      "min_usd": 4.48
+    },
+    "pk": {
+      "available": true,
+      "containsAds": false,
+      "currency": "PKR",
+      "iap": "Rs 1,400.00 - Rs 11,100.00 per item",
+      "max_local": 11100.0,
+      "max_usd": 40.08,
+      "min_local": 1400.0,
+      "min_usd": 5.06
+    },
+    "pl": {
+      "available": true,
+      "containsAds": false,
+      "currency": "PLN",
+      "iap": "24,99 PLN - 199,99 PLN if billed through Play",
+      "max_local": 199.99,
+      "max_usd": 50.94,
+      "min_local": 24.99,
+      "min_usd": 6.36
+    },
+    "pt": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€4.99 - €39.99 if billed through Play",
+      "max_local": 39.99,
+      "max_usd": 44.83,
+      "min_local": 4.99,
+      "min_usd": 5.59
+    },
+    "qa": {
+      "available": true,
+      "containsAds": false,
+      "currency": "QAR",
+      "iap": "QAR 18.00 - QAR 145.00 per item",
+      "max_local": 145.0,
+      "max_usd": 39.84,
+      "min_local": 18.0,
+      "min_usd": 4.95
+    },
+    "ro": {
+      "available": true,
+      "containsAds": false,
+      "currency": "RON",
+      "iap": "27,99 RON - 224,99 RON if billed through Play",
+      "max_local": 224.99,
+      "max_usd": 47.08,
+      "min_local": 27.99,
+      "min_usd": 5.86
+    },
+    "rs": {
+      "available": true,
+      "containsAds": false,
+      "currency": "RSD",
+      "iap": "RSD 649 - RSD 5,499 per item",
+      "max_local": 5499.0,
+      "max_usd": 52.39,
+      "min_local": 649.0,
+      "min_usd": 6.18
+    },
+    "sa": {
+      "available": true,
+      "containsAds": false,
+      "currency": "SAR",
+      "iap": "SAR 21.99 - SAR 174.99 per item",
+      "max_local": 174.99,
+      "max_usd": 46.66,
+      "min_local": 21.99,
+      "min_usd": 5.86
+    },
+    "se": {
+      "available": true,
+      "containsAds": false,
+      "currency": "SEK",
+      "iap": "69,00 kr - 549,00 kr if billed through Play",
+      "max_local": 549.0,
+      "max_usd": 55.28,
+      "min_local": 69.0,
+      "min_usd": 6.95
+    },
+    "sg": {
+      "available": true,
+      "containsAds": false,
+      "currency": "SGD",
+      "iap": "$7.48 - $58.99 per item",
+      "max_local": 58.99,
+      "max_usd": 46.14,
+      "min_local": 7.48,
+      "min_usd": 5.85
+    },
+    "si": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€4.99 - €39.99 if billed through Play",
+      "max_local": 39.99,
+      "max_usd": 44.83,
+      "min_local": 4.99,
+      "min_usd": 5.59
+    },
+    "sk": {
+      "available": true,
+      "containsAds": false,
+      "currency": "EUR",
+      "iap": "€4.99 - €39.99 if billed through Play",
+      "max_local": 39.99,
+      "max_usd": 44.83,
+      "min_local": 4.99,
+      "min_usd": 5.59
+    },
+    "th": {
+      "available": true,
+      "containsAds": false,
+      "currency": "THB",
+      "iap": "THB 200.00 - THB 1,575.00 per item",
+      "max_local": 1575.0,
+      "max_usd": 46.65,
+      "min_local": 200.0,
+      "min_usd": 5.92
+    },
+    "tr": {
+      "available": true,
+      "containsAds": false,
+      "currency": "TRY",
+      "iap": "TRY 194.99 - TRY 1,559.99 per item",
+      "max_local": 1559.99,
+      "max_usd": 31.33,
+      "min_local": 194.99,
+      "min_usd": 3.92
+    },
+    "tw": {
+      "available": true,
+      "containsAds": false,
+      "currency": "TWD",
+      "iap": "NT$170.00 - NT$1,360.00 per item",
+      "max_local": 1360.0,
+      "max_usd": 41.72,
+      "min_local": 170.0,
+      "min_usd": 5.22
+    },
+    "ua": {
+      "available": true,
+      "containsAds": false,
+      "currency": "UAH",
+      "iap": "234,99 UAH - 1 899,99 UAH per item",
+      "max_local": 1899.99,
+      "max_usd": 41.97,
+      "min_local": 234.99,
+      "min_usd": 5.19
+    },
+    "us": {
+      "available": true,
+      "containsAds": false,
+      "currency": "USD",
+      "iap": "$4.99 - $39.99 per item",
+      "max_local": 39.99,
+      "max_usd": 39.99,
+      "min_local": 4.99,
+      "min_usd": 4.99
+    },
+    "vn": {
+      "available": true,
+      "containsAds": false,
+      "currency": "VND",
+      "iap": "₫127,000 - ₫999,000 per item",
+      "max_local": 999000.0,
+      "max_usd": 38.68,
+      "min_local": 127000.0,
+      "min_usd": 4.92
+    },
+    "za": {
+      "available": true,
+      "containsAds": false,
+      "currency": "ZAR",
+      "iap": "R 109,99 - R 869,99 per item",
+      "max_local": 869.99,
+      "max_usd": 52.41,
+      "min_local": 109.99,
+      "min_usd": 6.63
+    }
+  },
+  "date": "2026-10-26",
+  "errors": [],
+  "first_seen": {
+    "countries": {
+      "ae": "baseline",
+      "ar": "baseline",
+      "at": "baseline",
+      "au": "baseline",
+      "bd": "baseline",
+      "be": "baseline",
+      "bg": "baseline",
+      "br": "baseline",
+      "ca": "baseline",
+      "ch": "baseline",
+      "cl": "baseline",
+      "co": "baseline",
+      "cz": "baseline",
+      "de": "baseline",
+      "dk": "baseline",
+      "ee": "baseline",
+      "eg": "baseline",
+      "es": "baseline",
+      "fi": "baseline",
+      "fr": "baseline",
+      "gb": "baseline",
+      "gr": "baseline",
+      "hk": "baseline",
+      "hr": "baseline",
+      "hu": "baseline",
+      "id": "baseline",
+      "ie": "baseline",
+      "il": "baseline",
+      "in": "baseline",
+      "it": "baseline",
+      "jp": "baseline",
+      "ke": "baseline",
+      "kr": "baseline",
+      "kz": "baseline",
+      "lt": "baseline",
+      "lv": "baseline",
+      "ma": "baseline",
+      "mx": "baseline",
+      "my": "baseline",
+      "ng": "baseline",
+      "nl": "baseline",
+      "no": "baseline",
+      "nz": "baseline",
+      "pe": "baseline",
+      "ph": "baseline",
+      "pk": "baseline",
+      "pl": "baseline",
+      "pt": "baseline",
+      "qa": "baseline",
+      "ro": "baseline",
+      "rs": "baseline",
+      "sa": "baseline",
+      "se": "baseline",
+      "sg": "baseline",
+      "si": "baseline",
+      "sk": "baseline",
+      "th": "baseline",
+      "tr": "baseline",
+      "tw": "baseline",
+      "ua": "baseline",
+      "us": "baseline",
+      "vn": "baseline",
+      "za": "baseline"
+    },
+    "languages": {
+      "af": "baseline",
+      "am": "baseline",
+      "ar": "baseline",
+      "az": "baseline",
+      "be": "baseline",
+      "bg": "baseline",
+      "bn": "baseline",
+      "ca": "baseline",
+      "cs": "baseline",
+      "da": "baseline",
+      "de": "baseline",
+      "el": "baseline",
+      "en-AU": "baseline",
+      "en-GB": "baseline",
+      "en-IN": "baseline",
+      "es": "baseline",
+      "es-419": "baseline",
+      "et": "baseline",
+      "eu": "baseline",
+      "fa": "baseline",
+      "fi": "baseline",
+      "fil": "baseline",
+      "fr": "baseline",
+      "fr-CA": "baseline",
+      "gl": "baseline",
+      "gu": "baseline",
+      "hi": "baseline",
+      "hr": "baseline",
+      "hu": "baseline",
+      "hy": "baseline",
+      "id": "baseline",
+      "is": "baseline",
+      "it": "baseline",
+      "iw": "baseline",
+      "ja": "baseline",
+      "ka": "baseline",
+      "kk": "baseline",
+      "km": "baseline",
+      "kn": "baseline",
+      "ko": "baseline",
+      "ky": "baseline",
+      "lo": "baseline",
+      "lt": "baseline",
+      "lv": "baseline",
+      "mk": "baseline",
+      "ml": "baseline",
+      "mn": "baseline",
+      "mr": "baseline",
+      "ms": "baseline",
+      "my": "baseline",
+      "ne": "baseline",
+      "nl": "baseline",
+      "no": "baseline",
+      "pa": "baseline",
+      "pl": "baseline",
+      "pt-BR": "baseline",
+      "pt-PT": "baseline",
+      "ro": "baseline",
+      "ru": "baseline",
+      "si": "baseline",
+      "sk": "baseline",
+      "sl": "baseline",
+      "sq": "baseline",
+      "sr": "baseline",
+      "sv": "baseline",
+      "sw": "baseline",
+      "ta": "baseline",
+      "te": "baseline",
+      "th": "baseline",
+      "tr": "baseline",
+      "uk": "baseline",
+      "ur": "baseline",
+      "vi": "baseline",
+      "zh-CN": "baseline",
+      "zh-HK": "baseline",
+      "zh-TW": "baseline",
+      "zu": "baseline"
+    }
+  },
+  "languages": [
+    "af",
+    "am",
+    "ar",
+    "az",
+    "be",
+    "bg",
+    "bn",
+    "ca",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "en-GB",
+    "en-AU",
+    "en-IN",
+    "es",
+    "es-419",
+    "et",
+    "eu",
+    "fa",
+    "fi",
+    "fil",
+    "fr",
+    "fr-CA",
+    "gl",
+    "gu",
+    "hi",
+    "hr",
+    "hu",
+    "hy",
+    "id",
+    "is",
+    "it",
+    "iw",
+    "ja",
+    "ka",
+    "kk",
+    "km",
+    "kn",
+    "ko",
+    "ky",
+    "lo",
+    "lt",
+    "lv",
+    "mk",
+    "ml",
+    "mn",
+    "mr",
+    "ms",
+    "my",
+    "ne",
+    "nl",
+    "no",
+    "pa",
+    "pl",
+    "pt-BR",
+    "pt-PT",
+    "ro",
+    "ru",
+    "si",
+    "sk",
+    "sl",
+    "sq",
+    "sr",
+    "sv",
+    "sw",
+    "ta",
+    "te",
+    "th",
+    "tr",
+    "uk",
+    "ur",
+    "vi",
+    "zh-CN",
+    "zh-TW",
+    "zh-HK",
+    "zu"
+  ],
+  "listings": {
+    "af": {
+      "key": "0ab3bb44adc8683a5ceab767017b1739",
+      "own_screens": false,
+      "summary": "Omgee, nie aanmatigend nie! Hou jou gesin dop met ons liggingspoor-app",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "am": {
+      "key": "16eec7ff6e62ebca14c8b3d2ed173fd4",
+      "own_screens": false,
+      "summary": "ተንከባካቢ ፣ ከመጠን በላይ ትዕግስት አይደለም! በእኛ የአካባቢ መከታተያ መተግበሪያ አማካኝነት በቤተሰብዎ ላይ ትሮችን ያቆዩ",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "ar": {
+      "key": "0f2f9f960f33b9db53dcfd61d38f2abb",
+      "own_screens": true,
+      "summary": "تطبيق تتبع الهاتف، لتحديد موقع هاتفي المحمول وعائلتي والعثور عليهم",
+      "title": "تتبع الموقع، هاتف مفقود :Findo",
+      "v": 2
+    },
+    "az": {
+      "key": "a32f766ac534eed39a0103ca848d5556",
+      "own_screens": false,
+      "summary": "Qayğıkeş, hədsiz deyil! Məkan izləyici tətbiqimizlə ailənizi izləyin",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "be": {
+      "key": "f761baaab8ef69327ee885a8c711a25f",
+      "own_screens": false,
+      "summary": "Клапатлівы, а не ўладны! Сачыце за сваёй сям'ёй з дапамогай нашага прыкладання для адсочвання месцазнаходжання",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "bg": {
+      "key": "9e6ff5f6c6b16059edd0e6688619692e",
+      "own_screens": false,
+      "summary": "Грижовни, а не властни! Следете семейството си с нашето приложение за проследяване на местоположението",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "bn": {
+      "key": "9c1b9da1aae653faad4fc73661a3b3c3",
+      "own_screens": false,
+      "summary": "যত্নশীল, অবাধ্য নয়! আমাদের অবস্থান ট্র্যাকার অ্যাপের মাধ্যমে আপনার পরিবারের উপর ট্যাব রাখুন",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "ca": {
+      "key": "2f38e7a0eeb9cfdcc249013ec6c4e39b",
+      "own_screens": false,
+      "summary": "Cuidant, no prepotent! Vigileu la vostra família amb la nostra aplicació de seguiment d'ubicacions",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "cs": {
+      "key": "de3e8434c38cabcfea58f6dcd8f7544b",
+      "own_screens": false,
+      "summary": "Starostlivý, ne panovačný! Mějte přehled o své rodině pomocí naší aplikace pro sledování polohy",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "da": {
+      "key": "a44203703e6e341b2a07d78d73b29fff",
+      "own_screens": false,
+      "summary": "Omsorgsfuld, ikke anmassende! Hold øje med din familie med vores app til sporing af placering",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "de": {
+      "key": "e49dfb250ea737f3f35cf2eb31552105",
+      "own_screens": true,
+      "summary": "Fürsorglich, nicht aufdringlich! Ortungs App bzw. Familienorter zur Sicherheit",
+      "title": "Findo: Finde Standort Familie",
+      "v": 2
+    },
+    "el": {
+      "key": "89bc1fcb5398379cea01ebd1de5538c3",
+      "own_screens": false,
+      "summary": "Φροντίδα, όχι αυταρχική! Παρακολουθήστε την οικογένειά σας με την εφαρμογή παρακολούθησης τοποθεσίας",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "en-AU": {
+      "key": "0a68be35474116b26a5e0d4661b807dd",
+      "own_screens": false,
+      "summary": "Caring, not overbearing! Keep tabs on your family with our location tracker app",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "en-GB": {
+      "key": "0a68be35474116b26a5e0d4661b807dd",
+      "own_screens": false,
+      "summary": "Caring, not overbearing! Keep tabs on your family with our location tracker app",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "en-IN": {
+      "key": "0a68be35474116b26a5e0d4661b807dd",
+      "own_screens": false,
+      "summary": "Caring, not overbearing! Keep tabs on your family with our location tracker app",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "es": {
+      "key": "298ad0c86c02f1f2dfa4f78bfe6a6e95",
+      "own_screens": true,
+      "summary": "¡Cuida sin controlar! Chequea a tu familia y amigos con la app de rastreo.",
+      "title": "Findo: localizador de familia",
+      "v": 2
+    },
+    "es-419": {
+      "key": "298ad0c86c02f1f2dfa4f78bfe6a6e95",
+      "own_screens": true,
+      "summary": "¡Cuida sin controlar! Chequea a tu familia y amigos con la app de rastreo.",
+      "title": "Findo: localizador de familia",
+      "v": 2
+    },
+    "et": {
+      "key": "72aefa2ff4fc9c056fdc68e7dbc42e64",
+      "own_screens": false,
+      "summary": "Hooliv, mitte üleolev! Hoidke oma perel silma peal meie asukoha jälgimise rakendusega",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "eu": {
+      "key": "cfe128b800eda38b2c3eae218a7c9495",
+      "own_screens": false,
+      "summary": "Zaindua, ez gehiegizkoa! Jarrai zure familiaren fitxak gure kokapenaren jarraipenaren aplikazioarekin",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "fa": {
+      "key": "f0fcb66e8890385cccb04db31a186a17",
+      "own_screens": false,
+      "summary": "دلسوز، نه زیاده‌روی! با برنامه ردیاب موقعیت مکانی ما از خانواده خود مطلع باشید",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "fi": {
+      "key": "0b106255711e46932cd708f08f2c501f",
+      "own_screens": false,
+      "summary": "Välittävä, ei ylimielinen! Pidä perhettäsi silmällä sijainninseurantasovelluksellamme",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "fil": {
+      "key": "55e80005f0f12e0f4c171904b26dd5bb",
+      "own_screens": false,
+      "summary": "Pag-aalaga, hindi pagmamalabis! Panatilihin ang mga tab sa iyong pamilya gamit ang aming location tracker app",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "fr": {
+      "key": "3c4a747780fc3be03c809d0c933f1b85",
+      "own_screens": true,
+      "summary": "Localisation-traceur gps pour localiser et trouver mon téléphone et ma famille",
+      "title": "Findo : localiser mes amis",
+      "v": 2
+    },
+    "fr-CA": {
+      "key": "3c4a747780fc3be03c809d0c933f1b85",
+      "own_screens": true,
+      "summary": "Localisation-traceur gps pour localiser et trouver mon téléphone et ma famille",
+      "title": "Findo : localiser mes amis",
+      "v": 2
+    },
+    "gl": {
+      "key": "3622165887e5cb714a4ce6b371a98a5f",
+      "own_screens": false,
+      "summary": "Coidado, non prepotente! Controla a túa familia coa nosa aplicación de seguimento de localización",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "gu": {
+      "key": "18456567bf6a96ed006e869635d30d6e",
+      "own_screens": false,
+      "summary": "કાળજી રાખવી, ઘમંડી નહીં! અમારી લોકેશન ટ્રેકર એપ વડે તમારા પરિવાર પર નજર રાખો",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "hi": {
+      "key": "d667f1ceb61adc949ef205f0258c16e1",
+      "own_screens": false,
+      "summary": "देखभाल करने वाला, अतिउत्साही नहीं! हमारे लोकेशन ट्रैकर ऐप से अपने परिवार पर नज़र रखें",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "hr": {
+      "key": "a8af110003d8bf94af5a104dc2490d3e",
+      "own_screens": false,
+      "summary": "Brižna, ne prepotentna! Pratite svoju obitelj pomoću naše aplikacije za praćenje lokacije",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "hu": {
+      "key": "2eef00c4685c3aa46b990b6a12de8803",
+      "own_screens": false,
+      "summary": "Gondoskodó, nem fennhéjázó! Tartsa nyomon a családját a helykövető alkalmazásunkkal",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "hy": {
+      "key": "c5138af0500acbd7f6e31c3778bdd8a4",
+      "own_screens": false,
+      "summary": "Հոգատար, ոչ թե գերակշռող: Պահպանեք ձեր ընտանիքի ներդիրները մեր տեղադրության որոնիչ հավելվածի միջոցով",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "id": {
+      "key": "65c3c30f31c549a7845a12a4b9ce6e21",
+      "own_screens": true,
+      "summary": "Pelacak Keluarga - awasi keluarga Anda dengan aplikasi pelacak lokasi kami",
+      "title": "Findo: temukan, lacak lokasi",
+      "v": 2
+    },
+    "is": {
+      "key": "407ba65019003a753bdd89644adacefa",
+      "own_screens": false,
+      "summary": "Umhyggja, ekki yfirþyrmandi! Fylgstu með fjölskyldunni þinni með staðsetningarforritinu okkar",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "it": {
+      "key": "1a0b0a91a286ab6603c9cdf91e6a46c7",
+      "own_screens": true,
+      "summary": "Trova dispositivi e monitora i tuoi cari con il nostro geolocalizzatore.",
+      "title": "Findo: trova amici e famiglia",
+      "v": 2
+    },
+    "iw": {
+      "key": "c1f799445f390f549bc7c731c2abacdb",
+      "own_screens": false,
+      "summary": "אכפת, לא מתנשא! עקוב אחר המשפחה שלך עם אפליקציית מעקב המיקום שלנו",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "ja": {
+      "key": "a4a826837dee90e670d74280d9c1b9ec",
+      "own_screens": false,
+      "summary": "高圧的ではなく思いやりを持って！位置追跡アプリで家族の様子を監視",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "ka": {
+      "key": "39ffd07ed4b5d935f80bb48bd51e3322",
+      "own_screens": false,
+      "summary": "მზრუნველი, არა ზედმეტად! თვალყური ადევნეთ თქვენს ოჯახს ჩვენი მდებარეობის ტრეკერის აპლიკაციით",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "kk": {
+      "key": "60a550edffea2dc9ee53a4257588e433",
+      "own_screens": false,
+      "summary": "Қамқорлық, асыра сілтеу емес! Орналасқан жерді бақылау қолданбасының көмегімен отбасыңызды бақылаңыз",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "km": {
+      "key": "486bd1ea79fc231b1eb4f1d9677b8177",
+      "own_screens": false,
+      "summary": "ចេះ​ខ្វល់​ខ្វាយ​មិន​ចេះ​ទ្រាំ! រក្សាផ្ទាំងនៅលើគ្រួសាររបស់អ្នកជាមួយនឹងកម្មវិធីតាមដានទីតាំងរបស់យើង។",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "kn": {
+      "key": "02cfa9f551c8c527aaf3ff9e595fea17",
+      "own_screens": false,
+      "summary": "ಕಾಳಜಿಯುಳ್ಳ, ಅತಿಯಾಗಿ ಅಲ್ಲ! ನಮ್ಮ ಸ್ಥಳ ಟ್ರ್ಯಾಕರ್ ಅಪ್ಲಿಕೇಶನ್‌ನೊಂದಿಗೆ ನಿಮ್ಮ ಕುಟುಂಬದ ಮೇಲೆ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಇರಿಸಿಕೊಳ್ಳಿ",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "ko": {
+      "key": "8621417a9b7aae916bf6cf098a827e13",
+      "own_screens": false,
+      "summary": "위압적이지 않고 배려하는 마음! 위치 추적기 앱으로 가족의 소식을 계속 확인하세요",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "ky": {
+      "key": "ceb98a21f0a336124842ab9870bf91f4",
+      "own_screens": false,
+      "summary": "Камкор, ашыкча эмес! Биздин жайгашкан жерди көзөмөлдөөчү колдонмобуз менен үй-бүлөңүзгө көз салып туруңуз",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "lo": {
+      "key": "47ce716e10abfcc3bdbef35a73c58d60",
+      "own_screens": false,
+      "summary": "ເປັນຫ່ວງເປັນໄຍ, ບໍ່ overbearing! ຮັກສາແຖບຢູ່ໃນຄອບຄົວຂອງທ່ານດ້ວຍແອັບຯຕິດຕາມສະຖານທີ່ຂອງພວກເຮົາ",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "lt": {
+      "key": "fbdabb8c44493a2ac3cd9155257c9b18",
+      "own_screens": false,
+      "summary": "Rūpestinga, o ne valdinga! Stebėkite savo šeimą naudodami mūsų vietos stebėjimo programą",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "lv": {
+      "key": "e13ff505ce343f84647f8fe6200ce3cc",
+      "own_screens": false,
+      "summary": "Rūpes, nevis valdonīgs! Sekojiet līdzi savai ģimenei, izmantojot mūsu atrašanās vietas izsekošanas lietotni",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "mk": {
+      "key": "19a27bb04a9341ad6335d3e5caf6e6b9",
+      "own_screens": false,
+      "summary": "Грижлив, а не препотентен! Внимавајте на вашето семејство со нашата апликација за следење локација",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "ml": {
+      "key": "3669e584cc715970ef83409609cf8390",
+      "own_screens": false,
+      "summary": "കരുതൽ, അമിതഭാരമല്ല! ഞങ്ങളുടെ ലൊക്കേഷൻ ട്രാക്കർ ആപ്പ് ഉപയോഗിച്ച് നിങ്ങളുടെ കുടുംബത്തിൽ ടാബുകൾ സൂക്ഷിക്കുക",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "mn": {
+      "key": "911f601a69c26ca6837d1577eb8ab0c9",
+      "own_screens": false,
+      "summary": "Халамжтай, хэтрүүлэхгүй! Манай байршил хянах програмын тусламжтайгаар гэр бүлийнхээ талаар мэдээлэл аваарай",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "mr": {
+      "key": "b25300e9d657308d829a495ca57bb38b",
+      "own_screens": false,
+      "summary": "काळजी घेणारी, अतिउत्साही नाही! आमच्या लोकेशन ट्रॅकर ॲपसह तुमच्या कुटुंबावर टॅब ठेवा",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "ms": {
+      "key": "65c3c30f31c549a7845a12a4b9ce6e21",
+      "own_screens": true,
+      "summary": "Pelacak Keluarga - awasi keluarga Anda dengan aplikasi pelacak lokasi kami",
+      "title": "Findo: temukan, lacak lokasi",
+      "v": 2
+    },
+    "my": {
+      "key": "5f094bb09a2a7e5b9186838afabe5099",
+      "own_screens": false,
+      "summary": "ဂရုစိုက်ပါ၊ သည်းမခံပါနှင့်။ ကျွန်ုပ်တို့၏တည်နေရာခြေရာခံအက်ပ်ဖြင့် သင့်မိသားစုတွင် တက်ဘ်များကို ထားရှိပါ။",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "ne": {
+      "key": "68f997f4d3450b21722c782ddfc70112",
+      "own_screens": false,
+      "summary": "हेरचाह गर्ने, दबाउने होइन! हाम्रो स्थान ट्रयाकर एपको साथ आफ्नो परिवारमा ट्याबहरू राख्नुहोस्",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "nl": {
+      "key": "1de04e71ad136611f8811fb703d47b0d",
+      "own_screens": true,
+      "summary": "Bezorgd, niet overbezorgd. Vind de locatie van familie met onze tracker-app.",
+      "title": "Findo: zoek mijn vrienden",
+      "v": 2
+    },
+    "no": {
+      "key": "f5b11006129bbac458608a592ddab4dd",
+      "own_screens": false,
+      "summary": "Omtenksom, ikke anmassende! Hold oversikt over familien din med vår posisjonssporingsapp",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "pa": {
+      "key": "9da04cb514f80e772e4bc4bd00464573",
+      "own_screens": false,
+      "summary": "ਦੇਖਭਾਲ ਕਰਨਾ, ਦਬਦਬਾ ਨਹੀਂ! ਸਾਡੇ ਟਿਕਾਣਾ ਟਰੈਕਰ ਐਪ ਨਾਲ ਆਪਣੇ ਪਰਿਵਾਰ 'ਤੇ ਨਜ਼ਰ ਰੱਖੋ",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "pl": {
+      "key": "8a0a5db3ef6305cb975ab0c743005ff4",
+      "own_screens": true,
+      "summary": "Gdzie jest moja rodzina? Znajdź mój telefon z aplikacją do śledzenia lokalizacji",
+      "title": "Findo: Lokalizator telefonu",
+      "v": 2
+    },
+    "pt-BR": {
+      "key": "cea5457a5f5ada4b548c276e8dd73096",
+      "own_screens": true,
+      "summary": "Cuide sem sufocar! Veja a localização da sua família com nosso app rastreador",
+      "title": "Findo: encontrar localizador",
+      "v": 2
+    },
+    "pt-PT": {
+      "key": "a5bce4f173b67ddcde7ad51f291a14f8",
+      "own_screens": true,
+      "summary": "Cuide sem sufocar! Veja a localização da sua família com nosso app rastreador",
+      "title": "Findo: encontrar localizador",
+      "v": 2
+    },
+    "ro": {
+      "key": "7facde80271a0b0170afebb8f48d7d5b",
+      "own_screens": false,
+      "summary": "Grijuliu, nu suprasolicitant! Urmărește familia ta cu aplicația noastră de urmărire a locației",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "ru": {
+      "key": "044dfde09798a12e30fde052c71b35a7",
+      "own_screens": true,
+      "summary": "Используйте наш трекер и отслеживайте местоположение друзей и семьи на карте",
+      "title": "Findo: семейный локатор GPS",
+      "v": 2
+    },
+    "si": {
+      "key": "20839f2cb1d4cc152c0369821cd99aec",
+      "own_screens": false,
+      "summary": "සැලකිලිමත්, අධික ලෙස නොවේ! අපගේ ස්ථාන ට්රැකර් යෙදුම සමඟින් ඔබේ පවුල මත ටැබ් තබා ගන්න",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "sk": {
+      "key": "8efd8112221314054ecc8ecc3c20b038",
+      "own_screens": false,
+      "summary": "Starostlivý, nie panovačný! Majte prehľad o svojej rodine pomocou našej aplikácie na sledovanie polohy",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "sl": {
+      "key": "3917bd66e755d1122a0bf3fe5630a89e",
+      "own_screens": false,
+      "summary": "Skrbna, ne prepotentna! Spremljajte svojo družino z našo aplikacijo za sledenje lokaciji",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "sq": {
+      "key": "344bd5cf845db56651af2c50ca16d5b1",
+      "own_screens": false,
+      "summary": "I kujdesshëm, jo ​​i mbizotërues! Mbani skeda për familjen tuaj me aplikacionin tonë të gjurmuesit të vendndodhjes",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "sr": {
+      "key": "445b8716f0379517e8d458c1444669c0",
+      "own_screens": false,
+      "summary": "Брижни, а не препотентни! Пратите своју породицу помоћу наше апликације за праћење локације",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "sv": {
+      "key": "337601c919f5f63a9885244299dd4cf6",
+      "own_screens": false,
+      "summary": "Omtänksam, inte överlägsen! Håll koll på din familj med vår platsspårningsapp",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "sw": {
+      "key": "00a790fd241965c0539c31417526bec0",
+      "own_screens": false,
+      "summary": "Kujali, sio kupindukia! Endelea kufuatilia familia yako ukitumia programu yetu ya kifuatiliaji eneo",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "ta": {
+      "key": "37c233bc49202a4574c8ad1b7f6ec48c",
+      "own_screens": false,
+      "summary": "கரிசனை, அதிகமாக இல்லை! எங்கள் இருப்பிட கண்காணிப்பு செயலி மூலம் உங்கள் குடும்பத்தில் தாவல்களை வைத்திருங்கள்",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "te": {
+      "key": "c7221dc6624a457e93f60507a2a9aa3b",
+      "own_screens": false,
+      "summary": "శ్రద్ధ, అతిగా కాదు! మా లొకేషన్ ట్రాకర్ యాప్‌తో మీ కుటుంబంపై ట్యాబ్‌లను ఉంచండి",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "th": {
+      "key": "dcdb2e79e1fa1bb8bcbcdea2f77e7318",
+      "own_screens": true,
+      "summary": "แอปติดตาม: ติดตามและแชร์ตำแหน่ง ค้นหาอุปกรณ์ของฉัน ครอบครัวและเพื่อน",
+      "title": "Findo: ค้นหาตำแหน่งของฉัน",
+      "v": 2
+    },
+    "tr": {
+      "key": "aa0b47c4a9d6ff6283facb07eb33f004",
+      "own_screens": false,
+      "summary": "Önemseyen, zorba değil! Konum izleyici uygulamamızla ailenizi takip edin",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "uk": {
+      "key": "24d869cfeb2841292452b252ab8d49f8",
+      "own_screens": false,
+      "summary": "Турботлива, не владна! Слідкуйте за своєю родиною за допомогою нашої програми для відстеження місцезнаходження",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "ur": {
+      "key": "c6fec7b2e092c7458a04dcf571b800e4",
+      "own_screens": false,
+      "summary": "دیکھ بھال کرنے والا، دبنگ نہیں! ہماری لوکیشن ٹریکر ایپ کے ذریعے اپنے خاندان پر نظر رکھیں",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "vi": {
+      "key": "05a191b7933142d779075d8bef14de17",
+      "own_screens": false,
+      "summary": "Quan tâm, không hống hách! Theo dõi gia đình bạn bằng ứng dụng theo dõi vị trí của chúng tôi",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "zh-CN": {
+      "key": "d719c2dba75374bf4b6cbbda50e16b88",
+      "own_screens": false,
+      "summary": "贴心，不霸道！使用我们的位置跟踪器应用程序密切关注您的家人",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "zh-HK": {
+      "key": "1950e7309597da578ad863d6420453ab",
+      "own_screens": false,
+      "summary": "貼心，不霸道！使用我們的位置追蹤器應用程式密切關注您的家人",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "zh-TW": {
+      "key": "1950e7309597da578ad863d6420453ab",
+      "own_screens": false,
+      "summary": "貼心，不霸道！使用我們的位置追蹤器應用程式密切關注您的家人",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    },
+    "zu": {
+      "key": "d47407a314d35e451607545a67763ccd",
+      "own_screens": false,
+      "summary": "Ukunakekela, hhayi ukugabadela! Bheka umndeni wakho ngohlelo lwethu lokusebenza lwe-tracker yendawo",
+      "title": "Findo: Find my Friends, Phone",
+      "v": 2
+    }
+  }
+}
