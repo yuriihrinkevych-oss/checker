@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-26",
+  "_scanned": "2026-10-27",
   "containsAds": false,
   "contentRating": "PEGI 3",
   "description": "\"Grâce à Famio, fais passer la sécurité de ta famille avant tout.\r\n\r\nGarant de ta tranquillité d'esprit, Famio t'aide à rester en contact virtuel avec les êtres qui te sont chers, où qu'ils se trouvent.\r\n\r\nReste proche de ta famille et protège-la, même lorsqu'elle est loin. Famio permet que toi et tes proches restiez en contact, et surtout, en sécurité.\r\n\r\nLes puissantes fonctionnalités de Famio sont à portée de main :\r\n- Établis rapidement le contact avec tes proches et ta famille.\r\n- Créé des groupes et reste en relation avec ta mère, ton père, tes frères, tes sœurs, etc.\r\n- Sois informé si la batterie de leur téléphone est faible afin de savoir pourquoi ils ne répondent pas.\r\n- Retrouve les téléphones perdus ou volés.\r\n\r\nSais-tu où se trouvent les membres de ta famille en ce moment ? Non ? Il est temps de renforcer la sécurité de ta famille grâce à Famio.\r\nTélécharge Famio dès maintenant et reste informé 24 heures sur 24, 7 jours sur 7 !\r\nRemarque. Cette application n'est pas conçue pour être installée à l'insu de quelqu'un. Merci de demander la permission avant d'utiliser l'application.\r\n\r\nEnvie d'améliorer Famio ?\r\nContacte-nous à l'adresse info@harmonybit.com pour nous faire part de tes suggestions.\"",
@@ -7,11 +7,11 @@
   "genre": "Style de vie",
   "headerImage": "https://play-lh.googleusercontent.com/XmMS2PYtAHVRziJizQFoM3GHIK6llGkvHcUxVsd66IrwcOUyr-iUeB2Fx0bvg1O1aexfn7xfPL0lOASDf3XD",
   "histogram": [
-    23193,
-    5731,
-    15062,
-    12796,
-    59317
+    23199,
+    5733,
+    15066,
+    12799,
+    59331
   ],
   "icon": "https://play-lh.googleusercontent.com/einet3uG5vAF4rZSMb0O_2vcxXqH85IuJyIh4RmfNBNBTsq0duMY9aYiUjpy7CNV3XUyB1-equ3QbmpBLZSSew",
   "inAppProductPrice": "5,49 € - 79,99 € si facturé via Play",
@@ -19,8 +19,8 @@
   "lastUpdatedOn": "21 oct. 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 116502,
-    "realInstalls": 13267170,
+    "ratings": 116530,
+    "realInstalls": 13270092,
     "reviews": 125,
     "score": 3.68
   },

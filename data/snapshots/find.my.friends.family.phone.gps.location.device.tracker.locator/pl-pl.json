@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-26",
+  "_scanned": "2026-10-27",
   "containsAds": false,
   "contentRating": "PEGI 3",
   "description": "Chcesz wiedzieć, gdzie są Twoi znajomi? Spraw, aby Twoi przyjaciele i rodzina włączyli śledzenie telefonu w czasie rzeczywistym. Odszukaj swoich znajomych za pomocą aplikacji Findo — idealny lokalizator telefonu — aby pozostać w kontakcie z bliskimi w dowolnym miejscu.\r\nWystarczy kilka dotknięć, aby Ty i Twoi znajomi mogli łatwo wyświetlać i udostępniać sobie nawzajem dokładne lokalizacje GPS na mapie w czasie rzeczywistym. Jego zaawansowana nawigacja i śledzenie telefonu przyjdą Ci na ratunek w pilnej sytuacji, dzięki opcji \"Znajdź moje urządzenie\".\r\nFindo to przyjazny dla użytkownika i spersonalizowany lokalizator telefonu zaprojektowany tak, aby podpowiedzieć Ci, gdzie znajdują się Twoi przyjaciele i rodzina, dzięki opcji \"Znajdź moje urządzenie\". Jest to również idealne rozwiązanie dla zapracowanych rodziców, którzy chcą sprawdzić, gdzie są ich dzieci. Niezależnie od tego, czy Twoje dzieci są jeszcze w szkole, czy już wysłałeś je na studia, zawsze jest ulgą wiedzieć, że są bezpieczne i zdrowe. Dzięki wyszukiwarce pozycji na żywo i funkcji śledzenie telefonu możesz w każdej chwili sprawdzić ich lokalizację — nie musisz ich niepokoić i narażać się na ich złość.\r\nCo więcej, możesz stworzyć własną społeczność online (\"obszar\") dla członków rodziny i przyjaciół. Dodaj bliskich do swoich obszarów w naszej aplikacji! Dzięki nim możesz śledzić swoją grupę społeczną — bez wysiłku. Niezależnie od tego, czy próbujesz skoordynować spotkanie, chcesz odnaleźć swoich przyjaciół, czy po prostu chcesz upewnić się, że Twoja rodzina jest bezpieczna, aplikacja ułatwia pozostanie w kontakcie bez konieczności szpiegowania!\r\nKorzystając z naszego mobilnego asystenta ułatwiającego śledzenie telefonu, będziesz otrzymywać natychmiastowe powiadomienia za każdym razem, gdy ktoś dotrze lub opuści określone miejsce — szkołę, pracę, dom itp. Nasz lokalizator telefonu pomoże Ci sprawdzić pozycję i bezpieczeństwo Twojej rodziny i przyjaciół bez szpiegowania.\r\nPonadto obszary osobiste są nieograniczone — możesz zaprosić tylu znajomych, ilu chcesz! Dzięki Findo masz niezawodnego i pełnego szacunku asystenta, który ma oko na wszystkich, którzy są dla Ciebie ważni. Ta aplikacja jest niezbędnym pomocnikiem dla każdego, kto chce, aby jego przyjaciele i rodzina pozostali bezpieczni. Zapomnij o przestarzałej opcji \"Znajdź moje urządzenie\" —Findo to najlepszy lokalizator telefonów, który również pomoże Ci znaleźć telefon komórkowy Twoich bliskich.\r\n\r\nWymagane uprawnienia:\r\nPowiadomienia: powiadamianie o przybyciu lub opuszczeniu określonego miejsca przez znajomych lub członków rodziny.\r\nLokalizacja: właczenie udostępniania GPS na żywo.\r\nAparat i galeria: pozwala wybrać lub zrobić świetne zdjęcie profilowe, które zostanie udostępnione znajomym.",
@@ -7,11 +7,11 @@
   "genre": "Styl życia",
   "headerImage": "https://play-lh.googleusercontent.com/-r9ClWFkwdVaC23VZRUPSH0q7kPqE8ZmZLySxQL4wXPyb8g0mgwjRI_8j9CPfTMyKHxDcsWo0SXnaaYcgDL28g",
   "histogram": [
-    3492,
+    3491,
     1309,
-    873,
+    872,
     2182,
-    11349
+    11347
   ],
   "icon": "https://play-lh.googleusercontent.com/gRZep1uGixu2Ijk8qxd4EGEW5x9TgZdd0-2IfNffcodB50fOe6NldEGFuns04ZMKB_fasUcSZnwi9Jfodz6C0yI",
   "inAppProductPrice": "24,99 zł – 199,99 zł, jeśli rozliczasz się przez Play",
@@ -19,8 +19,8 @@
   "lastUpdatedOn": "1 paź 2026",
   "metrics": {
     "minInstalls": 1000000,
-    "ratings": 19206,
-    "realInstalls": 4199141,
+    "ratings": 19204,
+    "realInstalls": 4201816,
     "reviews": 12,
     "score": 3.8636363
   },
