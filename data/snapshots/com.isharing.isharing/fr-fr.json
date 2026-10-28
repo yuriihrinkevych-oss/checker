@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-27",
+  "_scanned": "2026-10-28",
   "containsAds": true,
   "contentRating": "PEGI 3",
   "description": "<b>iSharing est une application de localisation GPS familiale qui permet de partager sa position en temps réel et de suivre la localisation de sa famille. Elle est conçue pour la sécurité des enfants et la tranquillité d'esprit des parents.</b>\r\n\r\nAvec notre <b>GPS Tracker et traceur GPS familial</b>, localisez les membres de votre famille sur une carte, recevez des alertes de localisation et retrouvez un téléphone perdu.\r\n\r\niSharing est une application de géolocalisation familiale qui permet aux parents et aux enfants de partager leur position en privé et de rester en contact.\r\n\r\nQue vous souhaitiez vérifier que votre enfant est bien arrivé à l'école, suivre la position de votre famille ou localiser un portable perdu, iSharing simplifie la localisation GPS au quotidien.\r\n\r\niSharing propose des services de partage de position depuis 2010.\r\n\r\n<b>FONCTIONNALITÉS PRINCIPALES :</b>\r\n\r\n★ <b>Traceur GPS pour enfants :</b> Consultez la position de vos enfants sur une carte. Suivez leur localisation GPS pour savoir où ils se trouvent. Lorsque vos enfants sortent ou explorent, gardez un repère sur leurs déplacements pour plus de tranquillité d'esprit.\r\n\r\n★ <b>Localisation GPS en temps réel :</b> Partagez votre position et consultez celle des membres de votre famille grâce à notre application de suivi GPS. Restez en contact au fil de la journée, même lorsque votre famille se trouve dans des lieux différents.\r\n\r\n★ <b>Alertes de localisation :</b> Recevez une notification lorsque vos enfants ou les membres de votre famille arrivent à l'école, à la maison ou au travail, ou quittent ces lieux. Évitez les SMS répétés pour demander où se trouve votre enfant et restez informé de ses arrivées et départs.\r\n\r\n★ <b>Notifications de sécurité familiale :</b> Restez informé des déplacements importants grâce aux alertes automatiques d'arrivée et de départ. Ces notifications vous aident à suivre les déplacements quotidiens de vos enfants sans consulter constamment la carte.\r\n\r\n★ <b>Historique de localisation :</b> Consultez gratuitement les positions passées et les trajets de votre famille.\r\n\r\n★ <b>Meetup - Partage temporaire de position en groupe :</b> Rejoignez un groupe via un lien ou un QR code, partagez votre position en temps réel et utilisez le chat de groupe pendant une durée définie. Le partage de position s'arrête automatiquement à la fin du Meetup.\r\n\r\n★ <b>Localiser mon téléphone :</b> Utilisez notre traceur GPS pour localiser un téléphone perdu ou volé et retrouver sa position sur une carte. Suivez sa position pour vous aider à le retrouver et simplifier vos recherches.\r\n\r\n★ <b>Alerte SOS :</b> En cas d'urgence, envoyez rapidement une alerte SOS avec votre position actuelle aux membres de votre famille.\r\n\r\n★ <b>Messages vocaux :</b> Envoyez des messages vocaux directement depuis iSharing pour communiquer facilement avec votre famille. Utilisez la messagerie vocale gratuite, comme un talkie-walkie, pour garder le contact lors des déplacements.\r\n\r\n<b>FONCTIONNALITÉS PREMIUM :</b>\r\n🔄 Historique de localisation étendu : jusqu'à 365 jours\r\n📍 Alertes de lieux illimitées\r\n📡 Street View 3D\r\n🔋 Alertes de batterie faible\r\n🚗 Alertes et rapports de conduite\r\n🆘 Enregistrement audio SOS\r\n👵 Alertes d'inactivité\r\n💻 Appareils connectés et application web\r\n🛑 Suppression des publicités\r\n\r\niSharing utilise un service de premier plan (foreground service) pour actualiser les données de localisation en arrière-plan et fournir des informations GPS précises et à jour.\r\n\r\nBesoin d'aide avec notre application de localisation GPS ? Contactez l'équipe d'assistance iSharing à contact@isharingsoft.com.\r\n\r\n* iSharing est conçu pour le partage mutuel de localisation et ne doit être utilisé qu'avec consentement.",
@@ -7,20 +7,20 @@
   "genre": "Communication",
   "headerImage": "https://play-lh.googleusercontent.com/aOyJlomq1KevZyaeufRspaJ5QT6KB8uDejAZMtcAZV5tAhNWqxS5bqAZL7mH7PhY35MxaPkXyIiiGvagoUoR9g",
   "histogram": [
-    9257,
-    6612,
-    20498,
-    45031,
-    168355
+    9261,
+    6615,
+    20507,
+    45051,
+    168429
   ],
   "icon": "https://play-lh.googleusercontent.com/g_FlgIrM9oMubvKbMvgcFubkkLKBXA6kw6-x3pH-rTXzivtFjdy7Y4bTxDxVp32hXsGXGgE_kJUXJql2VJfG",
   "inAppProductPrice": "2,76 € - 144,99 € si facturé via Play",
   "installs": "10 000 000+",
-  "lastUpdatedOn": "23 oct. 2026",
+  "lastUpdatedOn": "26 oct. 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 249888,
-    "realInstalls": 33130752,
+    "ratings": 249998,
+    "realInstalls": 33131191,
     "reviews": 475,
     "score": 4.427056
   },
