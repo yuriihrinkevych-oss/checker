@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-28",
+  "_scanned": "2026-10-29",
   "containsAds": false,
   "contentRating": "Everyone",
   "description": "<b>Keep Your Family Safe with mLite!</b>\r\n\r\nmLite is a GPS location tracker and parental control app designed to help parents stay connected with their children. With live location sharing, a family GPS locator, safety alerts, and location history, mLite makes family tracking simple and transparent.\r\n\r\n<b>Key Features of mLite</b>\r\n\r\n📍 <b>Live GPS Phone Tracker</b>\r\n\r\nUse mLite as a GPS phone tracker to view your child's or friend's current location on a map. Get location updates and stay connected with your family through secure location sharing.\r\n\r\n👪 <b>Family GPS Locator</b>\r\n\r\nOur family locator helps parents find kids and check their location when needed. Share locations between connected devices and stay informed about your loved ones' whereabouts.\r\n\r\n🧒 <b>Child Location Tracker</b>\r\n\r\nThe child location tracker provides GPS tracking tools to help parents follow their children's movements. Use location tracking to stay informed throughout the day.\r\n\r\n🔔 <b>Geofencing & Location Alerts</b>\r\n\r\nCreate safety zones around important places such as home, work, or school. Receive notifications when people from your circle enter or leave these areas.\r\n\r\n📝 <b>Location History</b>\r\n\r\nReview previously recorded locations and routes to better understand your family's daily activities. Location history helps people stay informed about familiar places and routines.\r\n\r\n🆘 <b>Emergency SOS Button</b>\r\n\r\nYour friend or family member can send an emergency alert with their current location when they need assistance, helping you respond quickly.\r\n\r\n🔎 <b>Contact List Review</b>\r\n\r\nWith the necessary permissions and consent, parents can review contacts on their child's device to support safer communication.\r\n\r\n📩 <b>Safe Communication Monitoring</b>\r\n\r\nWith appropriate authorization and the child's knowledge and consent, mLite supports monitoring of certain communications to promote safer online interactions.\r\n\r\nNote: Some features may be limited or unavailable on iPhone.\r\n\r\n<b>Privacy, Consent & Family Safety</b>\r\n\r\nmLite is designed for lawful parental control and family safety purposes. Location tracking and monitoring features require the knowledge and consent of the users involved.\r\n\r\nThe app is not intended for secret or unauthorized tracking. Personal data is handled according to our Privacy Policy, applicable data protection laws, and GDPR requirements where applicable.\r\n\r\n<b>Accessibility Services</b>\r\n\r\nmLite uses Accessibility Services only for disclosed parental control and child safety functions, including monitoring certain app communications with the required consent.\r\n\r\nThese services are not used to record phone calls, change device settings without authorization, or bypass Android privacy protections.\r\n\r\n<b>How to Get Started</b>\r\n\r\n1. Install mLite on your device and create an account.\r\n2. Install mLite on your linked device.\r\n3. Grant the necessary location and contact permissions.\r\n4. Connect both devices using a QR code or link.\r\n\r\n<b>Required Permissions</b>\r\n\r\n- Camera & Photos: To scan QR codes and connect devices.\r\n- Contacts: To support contact review and family safety features.\r\n- Location: To enable GPS tracking, live location sharing, location history, and geofencing alerts.\r\n\r\nmLite helps families stay connected with GPS location tracking tools designed around transparency, consent, and child safety.\r\n\r\nPrivacy Policy: https://mliteapp.com/privacy.html\r\nTerms of Use: https://mliteapp.com/terms-of-use/\r\nSupport: support@mliteapp.com",
@@ -7,11 +7,11 @@
   "genre": "Lifestyle",
   "headerImage": "https://play-lh.googleusercontent.com/9RSMt7nY0okTnutgi3pRefaf9mWFTQjlvF5kkkm0FAy4mPG15PNDUaEv2KI5wadlz-1JbXRldll5DvtiTYlegg",
   "histogram": [
-    3138,
+    3098,
     78,
-    572,
-    659,
-    9163
+    564,
+    651,
+    9226
   ],
   "icon": "https://play-lh.googleusercontent.com/WvyD2L6UmL8R8F1vNOqLt6F0cDYZvc3LfrCA54uXMFDzgd1UG85iXLQnoNfvEJ6Y6-_opMHB6i6UKUrkgS_uMg",
   "inAppProductPrice": "$0.99 - $199.99 per item",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "Oct 21, 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 13628,
-    "realInstalls": 12036405,
+    "ratings": 13643,
+    "realInstalls": 12036430,
     "reviews": 840,
-    "score": 3.9272728
+    "score": 3.9401197
   },
   "price": 0,
   "screenshots": [

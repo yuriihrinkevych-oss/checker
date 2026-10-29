@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-28",
+  "_scanned": "2026-10-29",
   "containsAds": true,
   "contentRating": "Classificação Livre",
   "description": "<b>O iSharing é um aplicativo de localização e rastreador GPS para compartilhar localização em tempo real, receber alertas de chegada e saída e ajudar a encontrar um celular perdido.</b>\r\n\r\nVeja a localização em um mapa privado, consulte rotas anteriores ou use o Meetup para compartilhar localização temporariamente em grupo. O iSharing oferece serviços de compartilhamento de localização desde 2010.\r\n\r\n<b>PRINCIPAIS RECURSOS:</b>\r\n\r\n★ <b>Rastreador GPS em Tempo Real:</b> Veja a localização atual no mapa com atualizações de GPS. Acompanhe a localização da família de forma privada durante as atividades do dia a dia.\r\n\r\n★ <b>Alertas de Localização:</b> Receba notificações quando a família chegar ou sair de lugares importantes, como casa, escola ou trabalho.\r\n\r\n★ <b>Histórico de Localização:</b> Consulte locais anteriores e rotas diárias no mapa.\r\n\r\n★ <b>Meetup - Localização Temporária em Grupo:</b> Compartilhe localização em tempo real por um período definido, sem criar conexões permanentes. Entre por link ou código QR e use o chat em grupo. O compartilhamento de localização termina automaticamente quando o Meetup acaba.\r\n\r\n★ <b>Encontrar Celular Perdido:</b> Use o rastreador GPS para ajudar a localizar um celular perdido ou roubado e ver sua localização no mapa.\r\n\r\n★ <b>Alerta SOS:</b> Envie um alerta de emergência com sua localização atual para a família com um toque.\r\n\r\n★ <b>Walkie-Talkie:</b> Envie mensagens de voz diretamente pelo iSharing para uma comunicação prática.\r\n\r\n<b>RECURSOS PREMIUM:</b>\r\n\r\n🔄 <b>Histórico de Localização Estendido:</b> Consulte localizações anteriores por até 365 dias\r\n📍 <b>Alertas de Locais Ilimitados:</b> Configure alertas de chegada e saída para mais lugares\r\n📡 <b>Street View 3D:</b> Explore locais e arredores com uma visão ao nível da rua\r\n🔋 <b>Alertas de Bateria Fraca:</b> Receba uma notificação quando a bateria de um dispositivo estiver acabando\r\n🚗 <b>Relatórios de Direção:</b> Consulte trajetos, excesso de velocidade, frenagens bruscas e uso do celular ao dirigir\r\n🆘 <b>Gravação de Áudio SOS:</b> Receba uma gravação do som ambiente com os alertas SOS\r\n👵 <b>Alertas de Inatividade:</b> Receba notificações quando uma inatividade incomum for detectada\r\n💻 <b>Dispositivos Vinculados e App Web:</b> Acesse o iSharing em dispositivos compatíveis e pelo navegador\r\n🛑 <b>Remover Anúncios:</b> Use o iSharing sem anúncios\r\n\r\nOs recursos básicos do iSharing são gratuitos. Os recursos Premium exigem uma assinatura.\r\n\r\nO iSharing usa um serviço em primeiro plano para atualizar a localização continuamente em segundo plano e fornecer informações precisas e atualizadas.\r\n\r\nPrecisa de ajuda? Entre em contato com o suporte do iSharing pelo e-mail contact@isharingsoft.com.\r\n\r\n* O iSharing foi desenvolvido para o compartilhamento de localização com consentimento mútuo e deve ser usado somente com consentimento.",
@@ -7,11 +7,11 @@
   "genre": "Comunicação",
   "headerImage": "https://play-lh.googleusercontent.com/aOyJlomq1KevZyaeufRspaJ5QT6KB8uDejAZMtcAZV5tAhNWqxS5bqAZL7mH7PhY35MxaPkXyIiiGvagoUoR9g",
   "histogram": [
-    9230,
-    2429,
-    5052,
-    18127,
-    215105
+    9263,
+    2446,
+    5068,
+    18352,
+    214928
   ],
   "icon": "https://play-lh.googleusercontent.com/g_FlgIrM9oMubvKbMvgcFubkkLKBXA6kw6-x3pH-rTXzivtFjdy7Y4bTxDxVp32hXsGXGgE_kJUXJql2VJfG",
   "inAppProductPrice": "R$ 2,99 – R$ 669,99 por item",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "26 de out. de 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 249998,
+    "ratings": 250095,
     "realInstalls": 33131191,
     "reviews": 3224,
-    "score": 4.7097
+    "score": 4.7083917
   },
   "price": 0,
   "screenshots": [
@@ -51,6 +51,6 @@
   ],
   "summary": "Compartilhe localização em tempo real, receba alertas e encontre seu celular.",
   "title": "iSharing Rastreador de Celular",
-  "version": "13.0.3.8",
+  "version": "13.0.4.0",
   "video": null
 }
