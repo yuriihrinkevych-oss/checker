@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-10-30",
+  "_scanned": "2026-10-31",
   "containsAds": true,
   "contentRating": "PEGI 3",
   "description": "<b>Pozostań w kontakcie przez cały dzień bez ciągłego pytania „Gdzie jesteś?”.</b>\r\nSprawdź, czy dzieci dotarły do szkoły lub czy rodzina wróciła do domu. Od 2010 roku iSharing ułatwia udostępnianie lokalizacji.\r\n\r\n<b>BEZPŁATNE FUNKCJE PODSTAWOWE:</b>\r\n\r\n★ <b>Lokalizator GPS w czasie rzeczywistym:</b> Udostępniaj lokalizację prywatnie i sprawdzaj aktualizacje na mapie. Udostępnianie odbywa się za obopólną zgodą. Korzystaj z lokalizatora rodziny, aby sprawdzić drogę dzieci do szkoły i codzienne przejazdy. Aktualizacje GPS są dostępne na jednej mapie, więc nie musisz za każdym razem wysyłać osobnej wiadomości z pytaniem o lokalizację.\r\n\r\n★ <b>Powiadomienia o miejscach:</b> Otrzymuj alerty, gdy członkowie rodziny docierają do domu, szkoły lub pracy albo opuszczają te miejsca. Nie musisz ciągle pytać: „Gdzie jesteś?”. Ustaw powiadomienia dla stałych miejsc i otrzymuj aktualizację po wykryciu przybycia lub wyjścia. Alerty pomagają śledzić codzienne przejazdy rodziny również wtedy, gdy nie patrzysz na mapę.\r\n\r\n★ <b>Meetup - Tymczasowe udostępnianie lokalizacji:</b> Udostępniaj lokalizację na żywo w grupie przez określony czas, bez dodawania stałych połączeń. Dołącz przez link lub kod QR i korzystaj z czatu grupowego. Udostępnianie kończy się automatycznie o ustalonej porze. Meetup sprawdza się podczas wyjazdu lub wycieczki grupowej, gdy lokalizacja jest potrzebna tylko przez określony czas. Wyślij link albo kod QR, sprawdzaj grupę na mapie i uzgadniaj plany na czacie do zakończenia udostępniania.\r\n\r\n★ <b>Znajdź mój telefon:</b> Znajdź zgubiony lub skradziony telefon, korzystając z jego dostępnej lokalizacji na mapie. Sprawdź dostępną lokalizację telefonu, którego nie możesz znaleźć. Możliwość lokalizacji zależy od urządzenia, połączenia i wymaganych uprawnień. Samo wpisanie numeru telefonu nie pozwala zlokalizować urządzenia.\r\n\r\n★ <b>Alert SOS:</b> Jednym dotknięciem wyślij rodzinie powiadomienie alarmowe ze swoją aktualną lokalizacją. Powiadomienie SOS zawiera Twoją aktualną lokalizację, dzięki czemu rodzina otrzymuje więcej informacji o prośbie o pomoc. Wiadomości głosowe ułatwiają komunikację w drodze bez pisania długiego tekstu.\r\n\r\n★ <b>Walkie-Talkie:</b> Wysyłaj wiadomości głosowe bezpośrednio w iSharing, aby wygodnie komunikować się także w podróży.\r\n\r\n★ <b>Historia lokalizacji:</b> Przeglądaj wcześniejsze lokalizacje i trasy, aby sprawdzić codzienne przejazdy. Historia pozwala przejrzeć wcześniejsze lokalizacje i trasy, a nie tylko aktualną pozycję. Sprawdź codzienne przejazdy lub odtwórz miejsca, w których wcześniej znajdował się telefon.\r\n\r\n<b>FUNKCJE PREMIUM:</b>\r\n🔄 Historia lokalizacji do 365 dni\r\n📍 Nielimitowane powiadomienia o miejscach\r\n📡 Widok ulicy 3D\r\n🔋 Powiadomienia o niskim poziomie baterii\r\n🚗 Alerty i raporty jazdy: prędkość, gwałtowne hamowanie i używanie telefonu\r\n🆘 Nagrywanie dźwięku SOS\r\n👵 Powiadomienia o braku aktywności\r\n💻 Połączone urządzenia i aplikacja internetowa\r\n🛑 Usuwanie reklam\r\n\r\nPremium udostępnia historię do 365 dni oraz powiadomienia dla większej liczby miejsc. Raporty jazdy pokazują przejazdy i zarejestrowane zdarzenia. Alerty baterii i braku aktywności uzupełniają informacje widoczne na mapie.\r\n\r\nPodstawowe udostępnianie lokalizacji jest bezpłatne. Wypróbuj Premium bezpłatnie przez 7 dni. Po okresie próbnym dalsze korzystanie z funkcji Premium wymaga płatnej subskrypcji.\r\n\r\niSharing korzysta z usługi pierwszoplanowej do aktualizowania lokalizacji w tle i zapewniania bieżących informacji.\r\n\r\nPotrzebujesz pomocy? Napisz na contact@isharingsoft.com.\r\n\r\n* Aplikacja iSharing służy do wzajemnego udostępniania lokalizacji i powinna być używana wyłącznie za zgodą wszystkich uczestników.",
@@ -7,11 +7,11 @@
   "genre": "Komunikacja",
   "headerImage": "https://play-lh.googleusercontent.com/aOyJlomq1KevZyaeufRspaJ5QT6KB8uDejAZMtcAZV5tAhNWqxS5bqAZL7mH7PhY35MxaPkXyIiiGvagoUoR9g",
   "histogram": [
-    17404,
-    2447,
-    9790,
-    34809,
-    184924
+    17393,
+    2445,
+    9783,
+    37504,
+    182631
   ],
   "icon": "https://play-lh.googleusercontent.com/g_FlgIrM9oMubvKbMvgcFubkkLKBXA6kw6-x3pH-rTXzivtFjdy7Y4bTxDxVp32hXsGXGgE_kJUXJql2VJfG",
   "inAppProductPrice": "11,65 zł – 659,99 zł, jeśli rozliczasz się przez Play",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "28 paź 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 250192,
+    "ratings": 250303,
     "realInstalls": 33163260,
     "reviews": 109,
-    "score": 4.47
+    "score": 4.46
   },
   "price": 0,
   "screenshots": [
@@ -51,6 +51,6 @@
   ],
   "summary": "Udostępniaj lokalizację GPS na żywo, otrzymuj alerty i znajdź zgubiony telefon.",
   "title": "iSharing: Śledzenie telefonu",
-  "version": "13.0.4.0",
+  "version": "13.0.5.1",
   "video": null
 }
