@@ -23,9 +23,9 @@
       "currency": "ARS",
       "iap": "ARS 5,217.55 - ARS 194,335.05 per item",
       "max_local": 194335.05,
-      "max_usd": 127.16,
+      "max_usd": 126.41,
       "min_local": 5217.55,
-      "min_usd": 3.41
+      "min_usd": 3.39
     },
     "at": {
       "available": true,
@@ -33,9 +33,9 @@
       "currency": "EUR",
       "iap": "€ 2,76 - € 144,99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 162.52,
+      "max_usd": 161.81,
       "min_local": 2.76,
-      "min_usd": 3.09
+      "min_usd": 3.08
     },
     "au": {
       "available": true,
@@ -43,7 +43,7 @@
       "currency": "AUD",
       "iap": "$2.99 - $214.99 per item",
       "max_local": 214.99,
-      "max_usd": 151.09,
+      "max_usd": 151.11,
       "min_local": 2.99,
       "min_usd": 2.1
     },
@@ -53,9 +53,9 @@
       "currency": "BDT",
       "iap": "BDT 149.00 - BDT 14,000.00 per item",
       "max_local": 14000.0,
-      "max_usd": 113.36,
+      "max_usd": 112.88,
       "min_local": 149.0,
-      "min_usd": 1.21
+      "min_usd": 1.2
     },
     "be": {
       "available": true,
@@ -63,9 +63,9 @@
       "currency": "EUR",
       "iap": "€2.76 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 162.52,
+      "max_usd": 161.81,
       "min_local": 2.76,
-      "min_usd": 3.09
+      "min_usd": 3.08
     },
     "bg": {
       "available": true,
@@ -73,9 +73,9 @@
       "currency": "EUR",
       "iap": "€2.78 - €143.16 if billed through Play",
       "max_local": 143.16,
-      "max_usd": 160.47,
+      "max_usd": 159.76,
       "min_local": 2.78,
-      "min_usd": 3.12
+      "min_usd": 3.1
     },
     "br": {
       "available": true,
@@ -83,9 +83,9 @@
       "currency": "BRL",
       "iap": "R$2.99 - R$669.99 per item",
       "max_local": 669.99,
-      "max_usd": 134.13,
+      "max_usd": 123.23,
       "min_local": 2.99,
-      "min_usd": 0.6
+      "min_usd": 0.55
     },
     "ca": {
       "available": true,
@@ -93,9 +93,9 @@
       "currency": "CAD",
       "iap": "$2.99 - $169.99 per item",
       "max_local": 169.99,
-      "max_usd": 121.31,
+      "max_usd": 121.7,
       "min_local": 2.99,
-      "min_usd": 2.13
+      "min_usd": 2.14
     },
     "ch": {
       "available": true,
@@ -103,7 +103,7 @@
       "currency": "CHF",
       "iap": "CHF 2.99 - CHF 120.00 per item",
       "max_local": 120.0,
-      "max_usd": 145.53,
+      "max_usd": 145.54,
       "min_local": 2.99,
       "min_usd": 3.63
     },
@@ -113,7 +113,7 @@
       "currency": "CLP",
       "iap": "CLP 1,900 - CLP 124,000 per item",
       "max_local": 124000.0,
-      "max_usd": 125.31,
+      "max_usd": 125.15,
       "min_local": 1900.0,
       "min_usd": 1.92
     },
@@ -123,9 +123,9 @@
       "currency": "COP",
       "iap": "COP 4,900 - COP 540,000 per item",
       "max_local": 540000.0,
-      "max_usd": 170.32,
+      "max_usd": 169.16,
       "min_local": 4900.0,
-      "min_usd": 1.55
+      "min_usd": 1.53
     },
     "cz": {
       "available": true,
@@ -133,9 +133,9 @@
       "currency": "CZK",
       "iap": "71,08 CZK - 3 399,99 CZK if billed through Play",
       "max_local": 3399.99,
-      "max_usd": 156.64,
+      "max_usd": 155.79,
       "min_local": 71.08,
-      "min_usd": 3.27
+      "min_usd": 3.26
     },
     "de": {
       "available": true,
@@ -143,9 +143,9 @@
       "currency": "EUR",
       "iap": "€2.76 - €139.99 if billed through Play",
       "max_local": 139.99,
-      "max_usd": 156.92,
+      "max_usd": 156.23,
       "min_local": 2.76,
-      "min_usd": 3.09
+      "min_usd": 3.08
     },
     "dk": {
       "available": true,
@@ -153,9 +153,9 @@
       "currency": "DKK",
       "iap": "20,60 kr. - 1.099,00 kr. if billed through Play",
       "max_local": 1099.0,
-      "max_usd": 164.6,
+      "max_usd": 164.19,
       "min_local": 20.6,
-      "min_usd": 3.09
+      "min_usd": 3.08
     },
     "ee": {
       "available": true,
@@ -163,9 +163,9 @@
       "currency": "EUR",
       "iap": "€2.76 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 162.52,
+      "max_usd": 161.81,
       "min_local": 2.76,
-      "min_usd": 3.09
+      "min_usd": 3.08
     },
     "eg": {
       "available": true,
@@ -173,9 +173,9 @@
       "currency": "EGP",
       "iap": "EGP 27.09 - EGP 3,999.99 per item",
       "max_local": 3999.99,
-      "max_usd": 71.84,
+      "max_usd": 71.48,
       "min_local": 27.09,
-      "min_usd": 0.49
+      "min_usd": 0.48
     },
     "es": {
       "available": true,
@@ -183,9 +183,9 @@
       "currency": "EUR",
       "iap": "€2.76 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 162.52,
+      "max_usd": 161.81,
       "min_local": 2.76,
-      "min_usd": 3.09
+      "min_usd": 3.08
     },
     "fi": {
       "available": true,
@@ -193,9 +193,9 @@
       "currency": "EUR",
       "iap": "€2.76 - €149.99 if billed through Play",
       "max_local": 149.99,
-      "max_usd": 168.13,
+      "max_usd": 167.39,
       "min_local": 2.76,
-      "min_usd": 3.09
+      "min_usd": 3.08
     },
     "fr": {
       "available": true,
@@ -203,9 +203,9 @@
       "currency": "EUR",
       "iap": "€2.76 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 162.52,
+      "max_usd": 161.81,
       "min_local": 2.76,
-      "min_usd": 3.09
+      "min_usd": 3.08
     },
     "gb": {
       "available": true,
@@ -213,9 +213,9 @@
       "currency": "GBP",
       "iap": "£2.26 - £124.99 if billed through Play",
       "max_local": 124.99,
-      "max_usd": 167.15,
+      "max_usd": 167.34,
       "min_local": 2.26,
-      "min_usd": 3.02
+      "min_usd": 3.03
     },
     "gr": {
       "available": true,
@@ -223,9 +223,9 @@
       "currency": "EUR",
       "iap": "€2.76 - €149.99 if billed through Play",
       "max_local": 149.99,
-      "max_usd": 168.13,
+      "max_usd": 167.39,
       "min_local": 2.76,
-      "min_usd": 3.09
+      "min_usd": 3.08
     },
     "hk": {
       "available": true,
@@ -233,7 +233,7 @@
       "currency": "HKD",
       "iap": "HK$19.99 - HK$1,018.00 per item",
       "max_local": 1018.0,
-      "max_usd": 129.8,
+      "max_usd": 129.77,
       "min_local": 19.99,
       "min_usd": 2.55
     },
@@ -243,9 +243,9 @@
       "currency": "EUR",
       "iap": "€3.85 - €149.99 if billed through Play",
       "max_local": 149.99,
-      "max_usd": 168.13,
+      "max_usd": 167.39,
       "min_local": 3.85,
-      "min_usd": 4.32
+      "min_usd": 4.3
     },
     "hu": {
       "available": true,
@@ -253,9 +253,9 @@
       "currency": "HUF",
       "iap": "849 HUF - 55 999 HUF if billed through Play",
       "max_local": 55999.0,
-      "max_usd": 171.26,
+      "max_usd": 170.91,
       "min_local": 849.0,
-      "min_usd": 2.6
+      "min_usd": 2.59
     },
     "id": {
       "available": true,
@@ -263,7 +263,7 @@
       "currency": "IDR",
       "iap": "Rp 9.900 - Rp 1.990.000 per item",
       "max_local": 1990000.0,
-      "max_usd": 110.0,
+      "max_usd": 109.68,
       "min_local": 9900.0,
       "min_usd": 0.55
     },
@@ -273,9 +273,9 @@
       "currency": "EUR",
       "iap": "€2.76 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 162.52,
+      "max_usd": 161.81,
       "min_local": 2.76,
-      "min_usd": 3.09
+      "min_usd": 3.08
     },
     "il": {
       "available": true,
@@ -283,9 +283,9 @@
       "currency": "ILS",
       "iap": "₪10.00 - ₪475.00 per item",
       "max_local": 475.0,
-      "max_usd": 152.51,
+      "max_usd": 151.25,
       "min_local": 10.0,
-      "min_usd": 3.21
+      "min_usd": 3.18
     },
     "in": {
       "available": true,
@@ -293,9 +293,9 @@
       "currency": "INR",
       "iap": "₹49.00 - ₹12,600.00 per item",
       "max_local": 12600.0,
-      "max_usd": 132.41,
+      "max_usd": 132.52,
       "min_local": 49.0,
-      "min_usd": 0.51
+      "min_usd": 0.52
     },
     "it": {
       "available": true,
@@ -303,9 +303,9 @@
       "currency": "EUR",
       "iap": "€2.76 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 162.52,
+      "max_usd": 161.81,
       "min_local": 2.76,
-      "min_usd": 3.09
+      "min_usd": 3.08
     },
     "jp": {
       "available": true,
@@ -313,9 +313,9 @@
       "currency": "JPY",
       "iap": "¥299 - ¥18,800 per item",
       "max_local": 18800.0,
-      "max_usd": 119.84,
+      "max_usd": 119.34,
       "min_local": 299.0,
-      "min_usd": 1.91
+      "min_usd": 1.9
     },
     "ke": {
       "available": true,
@@ -323,7 +323,7 @@
       "currency": "KES",
       "iap": "Ksh 400.00 - Ksh 21,000.00 per item",
       "max_local": 21000.0,
-      "max_usd": 161.69,
+      "max_usd": 161.62,
       "min_local": 400.0,
       "min_usd": 3.08
     },
@@ -333,9 +333,9 @@
       "currency": "KRW",
       "iap": "₩3,900 - ₩190,000 per item",
       "max_local": 190000.0,
-      "max_usd": 143.51,
+      "max_usd": 142.56,
       "min_local": 3900.0,
-      "min_usd": 2.95
+      "min_usd": 2.93
     },
     "kz": {
       "available": true,
@@ -343,7 +343,7 @@
       "currency": "KZT",
       "iap": "KZT 300.00 - KZT 65,990.00 per item",
       "max_local": 65990.0,
-      "max_usd": 145.8,
+      "max_usd": 145.53,
       "min_local": 300.0,
       "min_usd": 0.66
     },
@@ -353,9 +353,9 @@
       "currency": "EUR",
       "iap": "€2.78 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 162.52,
+      "max_usd": 161.81,
       "min_local": 2.78,
-      "min_usd": 3.12
+      "min_usd": 3.1
     },
     "lv": {
       "available": true,
@@ -363,9 +363,9 @@
       "currency": "EUR",
       "iap": "€3.69 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 162.52,
+      "max_usd": 161.81,
       "min_local": 3.69,
-      "min_usd": 4.14
+      "min_usd": 4.12
     },
     "ma": {
       "available": true,
@@ -373,9 +373,9 @@
       "currency": "MAD",
       "iap": "MAD 29.99 - MAD 1,539.99 per item",
       "max_local": 1539.99,
-      "max_usd": 156.9,
+      "max_usd": 156.47,
       "min_local": 29.99,
-      "min_usd": 3.06
+      "min_usd": 3.05
     },
     "mx": {
       "available": true,
@@ -383,7 +383,7 @@
       "currency": "MXN",
       "iap": "MX$19.90 - MX$3,049.00 per item",
       "max_local": 3049.0,
-      "max_usd": 162.85,
+      "max_usd": 162.14,
       "min_local": 19.9,
       "min_usd": 1.06
     },
@@ -393,9 +393,9 @@
       "currency": "MYR",
       "iap": "RM 9.90 - RM 639.99 per item",
       "max_local": 639.99,
-      "max_usd": 156.66,
+      "max_usd": 157.75,
       "min_local": 9.9,
-      "min_usd": 2.42
+      "min_usd": 2.44
     },
     "ng": {
       "available": true,
@@ -403,7 +403,7 @@
       "currency": "NGN",
       "iap": "₦99.00 - ₦162,500.00 per item",
       "max_local": 162500.0,
-      "max_usd": 121.79,
+      "max_usd": 120.51,
       "min_local": 99.0,
       "min_usd": 0.07
     },
@@ -413,9 +413,9 @@
       "currency": "EUR",
       "iap": "€2.78 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 162.52,
+      "max_usd": 161.81,
       "min_local": 2.78,
-      "min_usd": 3.12
+      "min_usd": 3.1
     },
     "no": {
       "available": true,
@@ -423,9 +423,9 @@
       "currency": "NOK",
       "iap": "22,61 kr - 1 749,00 kr if billed through Play",
       "max_local": 1749.0,
-      "max_usd": 187.64,
+      "max_usd": 189.84,
       "min_local": 22.61,
-      "min_usd": 2.43
+      "min_usd": 2.45
     },
     "nz": {
       "available": true,
@@ -433,9 +433,9 @@
       "currency": "NZD",
       "iap": "$4.41 - $244.99 per item",
       "max_local": 244.99,
-      "max_usd": 139.6,
+      "max_usd": 137.82,
       "min_local": 4.41,
-      "min_usd": 2.51
+      "min_usd": 2.48
     },
     "pe": {
       "available": true,
@@ -443,9 +443,9 @@
       "currency": "PEN",
       "iap": "PEN 9.99 - PEN 529.99 per item",
       "max_local": 529.99,
-      "max_usd": 153.99,
+      "max_usd": 152.86,
       "min_local": 9.99,
-      "min_usd": 2.9
+      "min_usd": 2.88
     },
     "ph": {
       "available": true,
@@ -453,7 +453,7 @@
       "currency": "PHP",
       "iap": "₱49.00 - ₱7,200.00 per item",
       "max_local": 7200.0,
-      "max_usd": 113.06,
+      "max_usd": 113.02,
       "min_local": 49.0,
       "min_usd": 0.77
     },
@@ -463,7 +463,7 @@
       "currency": "PKR",
       "iap": "Rs 105.00 - Rs 37,200.00 per item",
       "max_local": 37200.0,
-      "max_usd": 134.33,
+      "max_usd": 134.43,
       "min_local": 105.0,
       "min_usd": 0.38
     },
@@ -473,9 +473,9 @@
       "currency": "PLN",
       "iap": "11,65 PLN - 659,99 PLN if billed through Play",
       "max_local": 659.99,
-      "max_usd": 168.09,
+      "max_usd": 167.04,
       "min_local": 11.65,
-      "min_usd": 2.97
+      "min_usd": 2.95
     },
     "pt": {
       "available": true,
@@ -483,9 +483,9 @@
       "currency": "EUR",
       "iap": "€2.78 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 162.52,
+      "max_usd": 161.81,
       "min_local": 2.78,
-      "min_usd": 3.12
+      "min_usd": 3.1
     },
     "qa": {
       "available": true,
@@ -503,7 +503,7 @@
       "currency": "RON",
       "iap": "12,33 RON - 699,99 RON if billed through Play",
       "max_local": 699.99,
-      "max_usd": 146.49,
+      "max_usd": 146.38,
       "min_local": 12.33,
       "min_usd": 2.58
     },
@@ -513,9 +513,9 @@
       "currency": "RSD",
       "iap": "RSD 400 - RSD 16,999 per item",
       "max_local": 16999.0,
-      "max_usd": 161.97,
+      "max_usd": 161.54,
       "min_local": 400.0,
-      "min_usd": 3.81
+      "min_usd": 3.8
     },
     "sa": {
       "available": true,
@@ -533,9 +533,9 @@
       "currency": "SEK",
       "iap": "24,99 kr - 1 749,00 kr if billed through Play",
       "max_local": 1749.0,
-      "max_usd": 176.11,
+      "max_usd": 178.06,
       "min_local": 24.99,
-      "min_usd": 2.52
+      "min_usd": 2.54
     },
     "sg": {
       "available": true,
@@ -543,7 +543,7 @@
       "currency": "SGD",
       "iap": "$2.99 - $189.98 per item",
       "max_local": 189.98,
-      "max_usd": 148.59,
+      "max_usd": 148.65,
       "min_local": 2.99,
       "min_usd": 2.34
     },
@@ -553,9 +553,9 @@
       "currency": "EUR",
       "iap": "€2.78 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 162.52,
+      "max_usd": 161.81,
       "min_local": 2.78,
-      "min_usd": 3.12
+      "min_usd": 3.1
     },
     "sk": {
       "available": true,
@@ -563,9 +563,9 @@
       "currency": "EUR",
       "iap": "€2.78 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 162.52,
+      "max_usd": 161.81,
       "min_local": 2.78,
-      "min_usd": 3.12
+      "min_usd": 3.1
     },
     "th": {
       "available": true,
@@ -573,7 +573,7 @@
       "currency": "THB",
       "iap": "THB 49.99 - THB 4,950.00 per item",
       "max_local": 4950.0,
-      "max_usd": 146.61,
+      "max_usd": 146.64,
       "min_local": 49.99,
       "min_usd": 1.48
     },
@@ -583,7 +583,7 @@
       "currency": "TRY",
       "iap": "TRY 7.99 - TRY 3,989.99 per item",
       "max_local": 3989.99,
-      "max_usd": 80.14,
+      "max_usd": 79.9,
       "min_local": 7.99,
       "min_usd": 0.16
     },
@@ -593,7 +593,7 @@
       "currency": "TWD",
       "iap": "NT$49.99 - NT$4,240.00 per item",
       "max_local": 4240.0,
-      "max_usd": 130.08,
+      "max_usd": 129.91,
       "min_local": 49.99,
       "min_usd": 1.53
     },
@@ -603,7 +603,7 @@
       "currency": "UAH",
       "iap": "9,99 UAH - 5 749,99 UAH per item",
       "max_local": 5749.99,
-      "max_usd": 127.0,
+      "max_usd": 126.55,
       "min_local": 9.99,
       "min_usd": 0.22
     },
@@ -623,7 +623,7 @@
       "currency": "VND",
       "iap": "₫19,900 - ₫3,050,000 per item",
       "max_local": 3050000.0,
-      "max_usd": 118.08,
+      "max_usd": 118.28,
       "min_local": 19900.0,
       "min_usd": 0.77
     },
@@ -633,12 +633,12 @@
       "currency": "ZAR",
       "iap": "R 39,46 - R 2 799,99 per item",
       "max_local": 2799.99,
-      "max_usd": 168.69,
+      "max_usd": 167.72,
       "min_local": 39.46,
-      "min_usd": 2.38
+      "min_usd": 2.36
     }
   },
-  "date": "2026-10-26",
+  "date": "2026-11-02",
   "errors": [],
   "first_seen": {
     "countries": {
@@ -881,9 +881,9 @@
       "v": 2
     },
     "ar": {
-      "key": "e739681fe72f0df21468e61f722208fe",
+      "key": "7e16a57e424659108e326401fab2a16c",
       "own_screens": true,
-      "summary": "تطبيق GPS تحديد الموقع وتتبع الجوال، يساعد الأسرة الأطفال في العثور على جهازك",
+      "summary": "شارك الموقع مباشرة، وتلقّ تنبيهات الوصول، واعثر على هاتفك المفقود.",
       "title": "آيشيرينغ:  برنامج تحديد الموقع",
       "v": 2
     },
@@ -937,9 +937,9 @@
       "v": 2
     },
     "de": {
-      "key": "5e36bda437193f81f98ae255ea0a6629",
+      "key": "df199eb347e99afeef5048915decf680",
       "own_screens": true,
-      "summary": "Wo ist mein Gerät? GPS-Tracker & Handy orten. Standort teilen zum Gerät finden!",
+      "summary": "GPS-Tracker: Standort teilen, Handy orten und Ankunftsmeldungen erhalten.",
       "title": "iSharing: GPS Standort Tracker",
       "v": 2
     },
@@ -951,37 +951,37 @@
       "v": 2
     },
     "en-AU": {
-      "key": "74f76de4a3fe1d0b10fe75f37983decd",
+      "key": "840e17d1546f00ed66156ad5e7de5f39",
       "own_screens": false,
-      "summary": "GPS Tracking App 24x7 - Share phone location to find kids and for family safety!",
+      "summary": "Share live GPS location, get arrival alerts and help find your lost phone.",
       "title": "iSharing: GPS Location Tracker",
       "v": 2
     },
     "en-GB": {
-      "key": "74f76de4a3fe1d0b10fe75f37983decd",
+      "key": "840e17d1546f00ed66156ad5e7de5f39",
       "own_screens": false,
-      "summary": "GPS Tracking App 24x7 - Share phone location to find kids and for family safety!",
+      "summary": "Share live GPS location, get arrival alerts and help find your lost phone.",
       "title": "iSharing: GPS Location Tracker",
       "v": 2
     },
     "en-IN": {
-      "key": "74f76de4a3fe1d0b10fe75f37983decd",
+      "key": "840e17d1546f00ed66156ad5e7de5f39",
       "own_screens": false,
-      "summary": "GPS Tracking App 24x7 - Share phone location to find kids and for family safety!",
+      "summary": "Share live GPS location, get arrival alerts and help find your lost phone.",
       "title": "iSharing: GPS Location Tracker",
       "v": 2
     },
     "es": {
-      "key": "b274b29d26816cdf3701ce334c5e28e1",
+      "key": "68dd666ca6f9844b428d300522d46819",
       "own_screens": true,
-      "summary": "iSharing: Compartir ubicación para localizador móvil por número, familiar",
-      "title": "Rastreo de Ubicación Móvil GPS",
+      "summary": "Comparte tu ubicación en tiempo real, recibe alertas y encuentra tu móvil.",
+      "title": "iSharing: Localizador GPS",
       "v": 2
     },
     "es-419": {
-      "key": "eb9a3a51aa7d3856c3087954bc6ac034",
+      "key": "324c1c736514319cb740bdb45e75fab8",
       "own_screens": true,
-      "summary": "Rastreo de ubicación familiar en tiempo real con Rastrear celular por el numero",
+      "summary": "Localizador familiar: comparte ubicación en tiempo real y encuentra tu celular.",
       "title": "iSharing: GPS Localizador",
       "v": 2
     },
@@ -1021,16 +1021,16 @@
       "v": 2
     },
     "fr": {
-      "key": "f6de032ded36f97f55760a607c793ec0",
+      "key": "f22fab8f7c075869dd60863cbda9ef56",
       "own_screens": true,
-      "summary": "GPS Tracker: localiser famille. Traceur GPS, géolocalisation, parental",
+      "summary": "GPS Tracker : localiser sa famille, traceur GPS et géolocalisation parentale",
       "title": "iSharing: Localiser GPS",
       "v": 2
     },
     "fr-CA": {
-      "key": "f6de032ded36f97f55760a607c793ec0",
+      "key": "f22fab8f7c075869dd60863cbda9ef56",
       "own_screens": true,
-      "summary": "GPS Tracker: localiser famille. Traceur GPS, géolocalisation, parental",
+      "summary": "GPS Tracker : localiser sa famille, traceur GPS et géolocalisation parentale",
       "title": "iSharing: Localiser GPS",
       "v": 2
     },
@@ -1077,9 +1077,9 @@
       "v": 2
     },
     "id": {
-      "key": "579942e307176a5352001f9b43d9c723",
+      "key": "de0cdb28509c4784a68087a7a5afe5f5",
       "own_screens": true,
-      "summary": "Pelacak lokasi GPS untuk lacak HP & device demi keamanan keluarga! hlr lookup",
+      "summary": "Bagikan lokasi keluarga real-time, terima notifikasi & temukan HP dengan GPS.",
       "title": "iSharing : lacak lokasi GPS",
       "v": 2
     },
@@ -1091,10 +1091,10 @@
       "v": 2
     },
     "it": {
-      "key": "815942ab7bfa8cfb58cc6f12e16738e5",
+      "key": "d02d9b16ab311d2051490b9e224b568c",
       "own_screens": true,
-      "summary": "iSharing - geolocalizzazione per Famiglia e trova il mio telefono e dispositivo.",
-      "title": "Localizzatore cellulare dov'è",
+      "summary": "Condividi la posizione in tempo reale, ricevi avvisi e ritrova il telefono.",
+      "title": "iSharing: Localizzatore GPS",
       "v": 2
     },
     "iw": {
@@ -1203,9 +1203,9 @@
       "v": 2
     },
     "ms": {
-      "key": "2cc9793afb32cab5179546daccc3699d",
+      "key": "f3661be054c587271b9275fd9588c5d2",
       "own_screens": true,
-      "summary": "GPS tracker untuk keluarga, peranti. Track Live location & tracking number.",
+      "summary": "Kongsi lokasi masa nyata, terima amaran ketibaan dan cari telefon yang hilang.",
       "title": "iSharing: GPS Location Tracker",
       "v": 2
     },
@@ -1224,9 +1224,9 @@
       "v": 2
     },
     "nl": {
-      "key": "a60a2bd06db9a4a5c1453e09fd54b366",
-      "own_screens": false,
-      "summary": "vind mijn apparaat: GPS tracker voor familie en apparaten voor veiligheid.",
+      "key": "ba8c3c4cd00561f43f34079a9041a070",
+      "own_screens": true,
+      "summary": "GPS-tracker: krijg aankomstmeldingen en vind je verloren telefoon.",
       "title": "iSharing: Locatie Delen Live",
       "v": 2
     },
@@ -1245,23 +1245,23 @@
       "v": 2
     },
     "pl": {
-      "key": "f40b9b0cc2a2fe5e09aef8cfb000af5f",
+      "key": "1cba441ec30cfc7e200075f96a7ba7e7",
       "own_screens": true,
-      "summary": "Lokalizator rodziny GPS. Aplikacja do śledzenia telefonu. Lokalizacja GPS",
+      "summary": "Udostępniaj lokalizację GPS na żywo, otrzymuj alerty i znajdź zgubiony telefon.",
       "title": "iSharing: Śledzenie telefonu",
       "v": 2
     },
     "pt-BR": {
-      "key": "09f8c967799318675daa6fb146d70033",
+      "key": "6adc2cd6cda2e5b0454da9bd3e494f52",
       "own_screens": true,
-      "summary": "GPS Rastreador de celular, e aplicativo de rastreamento localização.",
+      "summary": "Compartilhe localização em tempo real, receba alertas e encontre seu celular.",
       "title": "iSharing Rastreador de Celular",
       "v": 2
     },
     "pt-PT": {
-      "key": "790a87cdddff7380aef3e668a94b19cb",
+      "key": "c83f705488d50beec78034f78e1cc1d5",
       "own_screens": true,
-      "summary": "Rastreador GPS de telemóvel e aplicação de rastreamento por localização",
+      "summary": "Partilhe a localização em tempo real, receba alertas e encontre o telemóvel.",
       "title": "iSharing Rastreador Telemóvel",
       "v": 2
     },
@@ -1273,10 +1273,10 @@
       "v": 2
     },
     "ru": {
-      "key": "7002cb2be6a95e46942e95cf2b977a2b",
+      "key": "605ce541d2a25a3dce0650ef62129898",
       "own_screens": true,
-      "summary": "геолокация по номеру телефона и GPS трекер семейный локатор.",
-      "title": "Местоположение по номеру",
+      "summary": "Делитесь геолокацией, получайте уведомления и находите потерянный телефон.",
+      "title": "iSharing: GPS-трекер",
       "v": 2
     },
     "si": {
@@ -1315,9 +1315,9 @@
       "v": 2
     },
     "sv": {
-      "key": "9e0db94c5005edcb97b019c02b8d474d",
-      "own_screens": false,
-      "summary": "GPS Family Tracker: Hitta min telefoner, familj och enheter för säkerhet.",
+      "key": "57ad89e772072ce665fa4bcb4613c454",
+      "own_screens": true,
+      "summary": "Dela plats i realtid, få ankomstaviseringar och hitta din borttappade telefon.",
       "title": "Telefon GPS Tracker: iSharing",
       "v": 2
     },
@@ -1343,16 +1343,16 @@
       "v": 2
     },
     "th": {
-      "key": "406fce65d1f77a097940d8dc61314be4",
+      "key": "2ec565f9a67b175626b049a964c0125d",
       "own_screens": true,
-      "summary": "GPS ตัวติดตามตำแหน่งโทรศัพท์ จีพีเอส สำหรับครอบครัว",
+      "summary": "GPS ติดตามโทรศัพท์ แชร์ตำแหน่งครอบครัวแบบเรียลไทม์ รับแจ้งเตือนเมื่อถึงที่หมาย",
       "title": "ไอแชร์ริ่ง : ติดตามโทรศัพท์",
       "v": 2
     },
     "tr": {
-      "key": "c2d2abafead392e2fdcb0f317f91e215",
+      "key": "ae8e3e1733bf0d999990c5bdddc67379",
       "own_screens": true,
-      "summary": "Aile canlı Konum tracker: cihazımı bul ile konumu bulma programı",
+      "summary": "Canlı konum paylaşın, varış bildirimleri alın ve kayıp telefonunuzu bulun.",
       "title": "iSharing - GPS Konum takip",
       "v": 2
     },
@@ -1371,31 +1371,31 @@
       "v": 2
     },
     "vi": {
-      "key": "be1a0a4380114d577e233a1056649de5",
+      "key": "5e09d4fca2a0244967ab1866643b5cae",
       "own_screens": true,
-      "summary": "Định vị GPS, theo dõi số điện thoại chính xác để bảo vệ gia đình của bạn.",
+      "summary": "Chia sẻ vị trí trực tiếp, nhận thông báo đến nơi và tìm điện thoại thất lạc.",
       "title": "iSharing: app theo dõi vị trí",
       "v": 2
     },
     "zh-CN": {
-      "key": "a3ec2994054e07397bfede0929a88cd0",
+      "key": "c1f1bf27c424f49707d2e57365df6e0b",
       "own_screens": true,
-      "summary": "使用手机定位查找、查找手机位置和手机号码定位，通过手机快速定位家人 家庭和设备以确保安全 位置 共享",
-      "title": "愛分享 - GPS 定位追踪",
+      "summary": "GPS手机定位与位置共享：实时查看家人位置，接收到达和离开提醒，查看位置记录。",
+      "title": "爱分享 - GPS 定位追踪",
       "v": 2
     },
     "zh-HK": {
-      "key": "042b78bd6988dbb252fa5dd44b6f76b8",
+      "key": "fc806381eaf008a9bdc5af6941b245a2",
       "own_screens": true,
-      "summary": "使用手机定位查找、查找手机位置和手机号码定位，通过手机快速定位家人 家庭和设备以确保安全",
-      "title": "愛分享 - GPS定位 手机追踪器, 定位追踪",
+      "summary": "GPS手機定位與即時位置分享，查看家人位置、接收抵達與離開通知，並查看位置紀錄。",
+      "title": "愛分享 - GPS定位 手機追蹤器, 定位追蹤",
       "v": 2
     },
     "zh-TW": {
-      "key": "042b78bd6988dbb252fa5dd44b6f76b8",
+      "key": "fc806381eaf008a9bdc5af6941b245a2",
       "own_screens": true,
-      "summary": "使用手机定位查找、查找手机位置和手机号码定位，通过手机快速定位家人 家庭和设备以确保安全",
-      "title": "愛分享 - GPS定位 手机追踪器, 定位追踪",
+      "summary": "GPS手機定位與即時位置分享，查看家人位置、接收抵達與離開通知，並查看位置紀錄。",
+      "title": "愛分享 - GPS定位 手機追蹤器, 定位追蹤",
       "v": 2
     },
     "zu": {

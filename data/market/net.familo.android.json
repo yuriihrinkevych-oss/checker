@@ -1,9 +1,9 @@
 {
   "base": {
-    "key": "466e7e8d54c703deac65e80c9c53db8a",
+    "key": "ba10ffd056b62f4dd12be86f76c14464",
     "own_screens": false,
     "summary": "Locate your family 24/7 using a GPS locator to stay calm",
-    "title": "Familo: Find My Phone Locator",
+    "title": "Familonet: GPS Find My Phone",
     "v": 2
   },
   "countries": {
@@ -23,9 +23,9 @@
       "currency": "ARS",
       "iap": "ARS 4,470.05 - ARS 89,685.05 per item",
       "max_local": 89685.05,
-      "max_usd": 58.68,
+      "max_usd": 58.34,
       "min_local": 4470.05,
-      "min_usd": 2.92
+      "min_usd": 2.91
     },
     "at": {
       "available": true,
@@ -33,9 +33,9 @@
       "currency": "EUR",
       "iap": "€ 3,39 - € 99,99 if billed through Play",
       "max_local": 99.99,
-      "max_usd": 112.08,
+      "max_usd": 111.59,
       "min_local": 3.39,
-      "min_usd": 3.8
+      "min_usd": 3.78
     },
     "au": {
       "available": true,
@@ -43,7 +43,7 @@
       "currency": "AUD",
       "iap": "$4.99 - $149.99 per item",
       "max_local": 149.99,
-      "max_usd": 105.41,
+      "max_usd": 105.42,
       "min_local": 4.99,
       "min_usd": 3.51
     },
@@ -53,9 +53,9 @@
       "currency": "BDT",
       "iap": "BDT 390.00 - BDT 8,500.00 per item",
       "max_local": 8500.0,
-      "max_usd": 68.82,
+      "max_usd": 68.53,
       "min_local": 390.0,
-      "min_usd": 3.16
+      "min_usd": 3.14
     },
     "be": {
       "available": true,
@@ -63,9 +63,9 @@
       "currency": "EUR",
       "iap": "€3.39 - €99.99 if billed through Play",
       "max_local": 99.99,
-      "max_usd": 112.08,
+      "max_usd": 111.59,
       "min_local": 3.39,
-      "min_usd": 3.8
+      "min_usd": 3.78
     },
     "bg": {
       "available": true,
@@ -73,9 +73,9 @@
       "currency": "EUR",
       "iap": "€3.32 - €99.70 if billed through Play",
       "max_local": 99.7,
-      "max_usd": 111.76,
+      "max_usd": 111.26,
       "min_local": 3.32,
-      "min_usd": 3.72
+      "min_usd": 3.71
     },
     "br": {
       "available": true,
@@ -83,9 +83,9 @@
       "currency": "BRL",
       "iap": "R$14.99 - R$374.99 per item",
       "max_local": 374.99,
-      "max_usd": 75.07,
+      "max_usd": 68.97,
       "min_local": 14.99,
-      "min_usd": 3.0
+      "min_usd": 2.76
     },
     "ca": {
       "available": true,
@@ -93,9 +93,9 @@
       "currency": "CAD",
       "iap": "$4.09 - $124.99 per item",
       "max_local": 124.99,
-      "max_usd": 89.19,
+      "max_usd": 89.48,
       "min_local": 4.09,
-      "min_usd": 2.92
+      "min_usd": 2.93
     },
     "ch": {
       "available": true,
@@ -113,9 +113,9 @@
       "currency": "CLP",
       "iap": "CLP 3,400 - CLP 69,000 per item",
       "max_local": 69000.0,
-      "max_usd": 69.73,
+      "max_usd": 69.64,
       "min_local": 3400.0,
-      "min_usd": 3.44
+      "min_usd": 3.43
     },
     "co": {
       "available": true,
@@ -123,9 +123,9 @@
       "currency": "COP",
       "iap": "COP 11,500 - COP 318,000 per item",
       "max_local": 318000.0,
-      "max_usd": 100.3,
+      "max_usd": 99.62,
       "min_local": 11500.0,
-      "min_usd": 3.63
+      "min_usd": 3.6
     },
     "cz": {
       "available": true,
@@ -133,9 +133,9 @@
       "currency": "CZK",
       "iap": "84,99 CZK - 2 599,99 CZK if billed through Play",
       "max_local": 2599.99,
-      "max_usd": 119.78,
+      "max_usd": 119.13,
       "min_local": 84.99,
-      "min_usd": 3.92
+      "min_usd": 3.89
     },
     "de": {
       "available": true,
@@ -143,9 +143,9 @@
       "currency": "EUR",
       "iap": "€3.29 - €99.99 if billed through Play",
       "max_local": 99.99,
-      "max_usd": 112.08,
+      "max_usd": 111.59,
       "min_local": 3.29,
-      "min_usd": 3.69
+      "min_usd": 3.67
     },
     "dk": {
       "available": true,
@@ -153,9 +153,9 @@
       "currency": "DKK",
       "iap": "26,00 kr. - 789,00 kr. if billed through Play",
       "max_local": 789.0,
-      "max_usd": 118.17,
+      "max_usd": 117.87,
       "min_local": 26.0,
-      "min_usd": 3.89
+      "min_usd": 3.88
     },
     "ee": {
       "available": true,
@@ -163,9 +163,9 @@
       "currency": "EUR",
       "iap": "€3.39 - €99.99 if billed through Play",
       "max_local": 99.99,
-      "max_usd": 112.08,
+      "max_usd": 111.59,
       "min_local": 3.39,
-      "min_usd": 3.8
+      "min_usd": 3.78
     },
     "eg": {
       "available": true,
@@ -173,9 +173,9 @@
       "currency": "EGP",
       "iap": "EGP 119.99 - EGP 3,599.99 per item",
       "max_local": 3599.99,
-      "max_usd": 64.66,
+      "max_usd": 64.33,
       "min_local": 119.99,
-      "min_usd": 2.16
+      "min_usd": 2.14
     },
     "es": {
       "available": true,
@@ -183,9 +183,9 @@
       "currency": "EUR",
       "iap": "€3.39 - €99.99 if billed through Play",
       "max_local": 99.99,
-      "max_usd": 112.08,
+      "max_usd": 111.59,
       "min_local": 3.39,
-      "min_usd": 3.8
+      "min_usd": 3.78
     },
     "fi": {
       "available": true,
@@ -193,9 +193,9 @@
       "currency": "EUR",
       "iap": "€3.49 - €104.99 if billed through Play",
       "max_local": 104.99,
-      "max_usd": 117.68,
+      "max_usd": 117.17,
       "min_local": 3.49,
-      "min_usd": 3.91
+      "min_usd": 3.89
     },
     "fr": {
       "available": true,
@@ -203,9 +203,9 @@
       "currency": "EUR",
       "iap": "€3.39 - €99.99 if billed through Play",
       "max_local": 99.99,
-      "max_usd": 112.08,
+      "max_usd": 111.59,
       "min_local": 3.39,
-      "min_usd": 3.8
+      "min_usd": 3.78
     },
     "gb": {
       "available": true,
@@ -213,9 +213,9 @@
       "currency": "GBP",
       "iap": "£2.89 - £89.99 if billed through Play",
       "max_local": 89.99,
-      "max_usd": 120.34,
+      "max_usd": 120.48,
       "min_local": 2.89,
-      "min_usd": 3.86
+      "min_usd": 3.87
     },
     "gr": {
       "available": true,
@@ -223,9 +223,9 @@
       "currency": "EUR",
       "iap": "€3.49 - €104.99 if billed through Play",
       "max_local": 104.99,
-      "max_usd": 117.68,
+      "max_usd": 117.17,
       "min_local": 3.49,
-      "min_usd": 3.91
+      "min_usd": 3.89
     },
     "hk": {
       "available": true,
@@ -233,7 +233,7 @@
       "currency": "HKD",
       "iap": "HK$23.00 - HK$719.00 per item",
       "max_local": 719.0,
-      "max_usd": 91.68,
+      "max_usd": 91.66,
       "min_local": 23.0,
       "min_usd": 2.93
     },
@@ -243,9 +243,9 @@
       "currency": "EUR",
       "iap": "€3.49 - €103.39 if billed through Play",
       "max_local": 103.39,
-      "max_usd": 115.89,
+      "max_usd": 115.38,
       "min_local": 3.49,
-      "min_usd": 3.91
+      "min_usd": 3.89
     },
     "hu": {
       "available": true,
@@ -253,9 +253,9 @@
       "currency": "HUF",
       "iap": "1 390 HUF - 35 499 HUF if billed through Play",
       "max_local": 35499.0,
-      "max_usd": 108.56,
+      "max_usd": 108.34,
       "min_local": 1390.0,
-      "min_usd": 4.25
+      "min_usd": 4.24
     },
     "id": {
       "available": true,
@@ -263,9 +263,9 @@
       "currency": "IDR",
       "iap": "Rp 47.000 - Rp 1.306.411 per item",
       "max_local": 1306411.0,
-      "max_usd": 72.22,
+      "max_usd": 72.0,
       "min_local": 47000.0,
-      "min_usd": 2.6
+      "min_usd": 2.59
     },
     "ie": {
       "available": true,
@@ -273,9 +273,9 @@
       "currency": "EUR",
       "iap": "€3.39 - €104.99 if billed through Play",
       "max_local": 104.99,
-      "max_usd": 117.68,
+      "max_usd": 117.17,
       "min_local": 3.39,
-      "min_usd": 3.8
+      "min_usd": 3.78
     },
     "il": {
       "available": true,
@@ -283,9 +283,9 @@
       "currency": "ILS",
       "iap": "₪11.00 - ₪325.00 per item",
       "max_local": 325.0,
-      "max_usd": 104.35,
+      "max_usd": 103.49,
       "min_local": 11.0,
-      "min_usd": 3.53
+      "min_usd": 3.5
     },
     "in": {
       "available": true,
@@ -293,7 +293,7 @@
       "currency": "INR",
       "iap": "₹290.00 - ₹7,700.00 per item",
       "max_local": 7700.0,
-      "max_usd": 80.92,
+      "max_usd": 80.98,
       "min_local": 290.0,
       "min_usd": 3.05
     },
@@ -303,9 +303,9 @@
       "currency": "EUR",
       "iap": "€3.39 - €104.99 if billed through Play",
       "max_local": 104.99,
-      "max_usd": 117.68,
+      "max_usd": 117.17,
       "min_local": 3.39,
-      "min_usd": 3.8
+      "min_usd": 3.78
     },
     "jp": {
       "available": true,
@@ -313,9 +313,9 @@
       "currency": "JPY",
       "iap": "¥460 - ¥10,800 per item",
       "max_local": 10800.0,
-      "max_usd": 68.85,
+      "max_usd": 68.56,
       "min_local": 460.0,
-      "min_usd": 2.93
+      "min_usd": 2.92
     },
     "ke": {
       "available": true,
@@ -323,7 +323,7 @@
       "currency": "KES",
       "iap": "Ksh 500.00 - Ksh 9,600.00 per item",
       "max_local": 9600.0,
-      "max_usd": 73.92,
+      "max_usd": 73.88,
       "min_local": 500.0,
       "min_usd": 3.85
     },
@@ -333,9 +333,9 @@
       "currency": "KRW",
       "iap": "₩4,500 - ₩120,000 per item",
       "max_local": 120000.0,
-      "max_usd": 90.64,
+      "max_usd": 90.04,
       "min_local": 4500.0,
-      "min_usd": 3.4
+      "min_usd": 3.38
     },
     "kz": {
       "available": true,
@@ -343,7 +343,7 @@
       "currency": "KZT",
       "iap": "KZT 1,490.00 - KZT 35,990.00 per item",
       "max_local": 35990.0,
-      "max_usd": 79.51,
+      "max_usd": 79.37,
       "min_local": 1490.0,
       "min_usd": 3.29
     },
@@ -353,9 +353,9 @@
       "currency": "EUR",
       "iap": "€3.39 - €99.99 if billed through Play",
       "max_local": 99.99,
-      "max_usd": 112.08,
+      "max_usd": 111.59,
       "min_local": 3.39,
-      "min_usd": 3.8
+      "min_usd": 3.78
     },
     "lv": {
       "available": true,
@@ -363,9 +363,9 @@
       "currency": "EUR",
       "iap": "€3.39 - €99.99 if billed through Play",
       "max_local": 99.99,
-      "max_usd": 112.08,
+      "max_usd": 111.59,
       "min_local": 3.39,
-      "min_usd": 3.8
+      "min_usd": 3.78
     },
     "ma": {
       "available": true,
@@ -373,9 +373,9 @@
       "currency": "MAD",
       "iap": "MAD 35.99 - MAD 889.99 per item",
       "max_local": 889.99,
-      "max_usd": 90.67,
+      "max_usd": 90.42,
       "min_local": 35.99,
-      "min_usd": 3.67
+      "min_usd": 3.66
     },
     "mx": {
       "available": true,
@@ -383,9 +383,9 @@
       "currency": "MXN",
       "iap": "MX$59.00 - MX$1,799.00 per item",
       "max_local": 1799.0,
-      "max_usd": 96.08,
+      "max_usd": 95.67,
       "min_local": 59.0,
-      "min_usd": 3.15
+      "min_usd": 3.14
     },
     "my": {
       "available": true,
@@ -393,9 +393,9 @@
       "currency": "MYR",
       "iap": "RM 12.99 - RM 384.99 per item",
       "max_local": 384.99,
-      "max_usd": 94.24,
+      "max_usd": 94.89,
       "min_local": 12.99,
-      "min_usd": 3.18
+      "min_usd": 3.2
     },
     "ng": {
       "available": true,
@@ -403,9 +403,9 @@
       "currency": "NGN",
       "iap": "₦1,980.00 - ₦106,000.00 per item",
       "max_local": 106000.0,
-      "max_usd": 79.44,
+      "max_usd": 78.61,
       "min_local": 1980.0,
-      "min_usd": 1.48
+      "min_usd": 1.47
     },
     "nl": {
       "available": true,
@@ -413,9 +413,9 @@
       "currency": "EUR",
       "iap": "€3.39 - €99.99 if billed through Play",
       "max_local": 99.99,
-      "max_usd": 112.08,
+      "max_usd": 111.59,
       "min_local": 3.39,
-      "min_usd": 3.8
+      "min_usd": 3.78
     },
     "no": {
       "available": true,
@@ -423,9 +423,9 @@
       "currency": "NOK",
       "iap": "40,00 kr - 1 049,00 kr if billed through Play",
       "max_local": 1049.0,
-      "max_usd": 112.54,
+      "max_usd": 113.86,
       "min_local": 40.0,
-      "min_usd": 4.29
+      "min_usd": 4.34
     },
     "nz": {
       "available": true,
@@ -433,9 +433,9 @@
       "currency": "NZD",
       "iap": "$5.49 - $169.99 per item",
       "max_local": 169.99,
-      "max_usd": 96.86,
+      "max_usd": 95.63,
       "min_local": 5.49,
-      "min_usd": 3.13
+      "min_usd": 3.09
     },
     "pe": {
       "available": true,
@@ -443,9 +443,9 @@
       "currency": "PEN",
       "iap": "PEN 10.99 - PEN 309.99 per item",
       "max_local": 309.99,
-      "max_usd": 90.07,
+      "max_usd": 89.41,
       "min_local": 10.99,
-      "min_usd": 3.19
+      "min_usd": 3.17
     },
     "ph": {
       "available": true,
@@ -453,7 +453,7 @@
       "currency": "PHP",
       "iap": "₱169.00 - ₱4,800.00 per item",
       "max_local": 4800.0,
-      "max_usd": 75.38,
+      "max_usd": 75.35,
       "min_local": 169.0,
       "min_usd": 2.65
     },
@@ -463,7 +463,7 @@
       "currency": "PKR",
       "iap": "Rs 820.00 - Rs 16,800.00 per item",
       "max_local": 16800.0,
-      "max_usd": 60.66,
+      "max_usd": 60.71,
       "min_local": 820.0,
       "min_usd": 2.96
     },
@@ -473,9 +473,9 @@
       "currency": "PLN",
       "iap": "14,99 PLN - 444,99 PLN if billed through Play",
       "max_local": 444.99,
-      "max_usd": 113.33,
+      "max_usd": 112.62,
       "min_local": 14.99,
-      "min_usd": 3.82
+      "min_usd": 3.79
     },
     "pt": {
       "available": true,
@@ -483,9 +483,9 @@
       "currency": "EUR",
       "iap": "€3.39 - €104.99 if billed through Play",
       "max_local": 104.99,
-      "max_usd": 117.68,
+      "max_usd": 117.17,
       "min_local": 3.39,
-      "min_usd": 3.8
+      "min_usd": 3.78
     },
     "qa": {
       "available": true,
@@ -503,9 +503,9 @@
       "currency": "RON",
       "iap": "15,99 RON - 474,99 RON if billed through Play",
       "max_local": 474.99,
-      "max_usd": 99.4,
+      "max_usd": 99.33,
       "min_local": 15.99,
-      "min_usd": 3.35
+      "min_usd": 3.34
     },
     "rs": {
       "available": true,
@@ -513,9 +513,9 @@
       "currency": "RSD",
       "iap": "RSD 399 - RSD 11,999 per item",
       "max_local": 11999.0,
-      "max_usd": 114.33,
+      "max_usd": 114.03,
       "min_local": 399.0,
-      "min_usd": 3.8
+      "min_usd": 3.79
     },
     "sa": {
       "available": true,
@@ -533,9 +533,9 @@
       "currency": "SEK",
       "iap": "40,00 kr - 1 149,00 kr if billed through Play",
       "max_local": 1149.0,
-      "max_usd": 115.7,
+      "max_usd": 116.98,
       "min_local": 40.0,
-      "min_usd": 4.03
+      "min_usd": 4.07
     },
     "sg": {
       "available": true,
@@ -543,9 +543,9 @@
       "currency": "SGD",
       "iap": "$4.48 - $129.98 per item",
       "max_local": 129.98,
-      "max_usd": 101.66,
+      "max_usd": 101.7,
       "min_local": 4.48,
-      "min_usd": 3.5
+      "min_usd": 3.51
     },
     "si": {
       "available": true,
@@ -553,9 +553,9 @@
       "currency": "EUR",
       "iap": "€3.39 - €104.99 if billed through Play",
       "max_local": 104.99,
-      "max_usd": 117.68,
+      "max_usd": 117.17,
       "min_local": 3.39,
-      "min_usd": 3.8
+      "min_usd": 3.78
     },
     "sk": {
       "available": true,
@@ -563,9 +563,9 @@
       "currency": "EUR",
       "iap": "€3.39 - €99.99 if billed through Play",
       "max_local": 99.99,
-      "max_usd": 112.08,
+      "max_usd": 111.59,
       "min_local": 3.39,
-      "min_usd": 3.8
+      "min_usd": 3.78
     },
     "th": {
       "available": true,
@@ -573,7 +573,7 @@
       "currency": "THB",
       "iap": "THB 110.00 - THB 2,800.00 per item",
       "max_local": 2800.0,
-      "max_usd": 82.93,
+      "max_usd": 82.95,
       "min_local": 110.0,
       "min_usd": 3.26
     },
@@ -583,9 +583,9 @@
       "currency": "TRY",
       "iap": "TRY 88.99 - TRY 3,399.99 per item",
       "max_local": 3399.99,
-      "max_usd": 68.29,
+      "max_usd": 68.08,
       "min_local": 88.99,
-      "min_usd": 1.79
+      "min_usd": 1.78
     },
     "tw": {
       "available": true,
@@ -593,9 +593,9 @@
       "currency": "TWD",
       "iap": "NT$100.00 - NT$2,990.00 per item",
       "max_local": 2990.0,
-      "max_usd": 91.73,
+      "max_usd": 91.61,
       "min_local": 100.0,
-      "min_usd": 3.07
+      "min_usd": 3.06
     },
     "ua": {
       "available": true,
@@ -603,9 +603,9 @@
       "currency": "UAH",
       "iap": "139,00 UAH - 3 199,99 UAH per item",
       "max_local": 3199.99,
-      "max_usd": 70.68,
+      "max_usd": 70.43,
       "min_local": 139.0,
-      "min_usd": 3.07
+      "min_usd": 3.06
     },
     "us": {
       "available": true,
@@ -623,9 +623,9 @@
       "currency": "VND",
       "iap": "₫75,000 - ₫2,150,000 per item",
       "max_local": 2150000.0,
-      "max_usd": 83.24,
+      "max_usd": 83.38,
       "min_local": 75000.0,
-      "min_usd": 2.9
+      "min_usd": 2.91
     },
     "za": {
       "available": true,
@@ -633,12 +633,12 @@
       "currency": "ZAR",
       "iap": "R 64,99 - R 1 599,99 per item",
       "max_local": 1599.99,
-      "max_usd": 96.39,
+      "max_usd": 95.84,
       "min_local": 64.99,
-      "min_usd": 3.92
+      "min_usd": 3.89
     }
   },
-  "date": "2026-10-26",
+  "date": "2026-11-02",
   "errors": [],
   "first_seen": {
     "countries": {
@@ -867,542 +867,542 @@
   ],
   "listings": {
     "af": {
-      "key": "969dd7e16994cd56c1b6d729aa83e12f",
+      "key": "4a6a2b12f0b636502f3017b5c3748d2b",
       "own_screens": false,
       "summary": "Vind jou gesin 24/7 met 'n GPS-opspoorder om kalm te bly",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "am": {
-      "key": "1ca20460b600ec2cba789a88469b5572",
+      "key": "3c13a595c436eaaa11e35e100eba601b",
       "own_screens": false,
       "summary": "ለመረጋጋት የጂፒኤስ መፈለጊያ በመጠቀም ቤተሰብዎን 24/7 ያግኙ",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "ar": {
-      "key": "2ba5b1d8cb44af90b925c10a5cfee6cf",
+      "key": "1bec3a6c6bac166ec75c5863b8036def",
       "own_screens": false,
       "summary": "تحديد موقع عائلتك 24/7 باستخدام محدد المواقع GPS لتبقى مطمئنًا",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "az": {
-      "key": "93ec9c6460aceea9c652d5bffc887956",
+      "key": "3d24956b35d87b7fcb12b82a4004dd72",
       "own_screens": false,
       "summary": "Sakit qalmaq üçün GPS lokatorundan istifadə edərək 24/7 ailənizi tapın",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "be": {
-      "key": "5e2aaafa16d97b8fd43ad6d0a586961c",
+      "key": "9db87cb56687c89e9c264ebf6196cb68",
       "own_screens": false,
       "summary": "Знаходзьце сваю сям'ю 24/7 з дапамогай GPS-лакатара, каб заставацца спакойным",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "bg": {
-      "key": "d6e0d0134700cc009a153f65a33b44f5",
+      "key": "338426cd1962d9578061025b7b120faf",
       "own_screens": false,
       "summary": "Намерете семейството си 24/7 с помощта на GPS локатор, за да сте спокойни",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "bn": {
-      "key": "c95d52c091f8a76cd21eae4317728984",
+      "key": "b8814319a94728b48bc1aecb7862544d",
       "own_screens": false,
       "summary": "শান্ত থাকার জন্য একটি GPS লোকেটার ব্যবহার করে আপনার পরিবারকে 24/7 সনাক্ত করুন৷",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "ca": {
-      "key": "a63f4633db872d82e9d6d24e46c9962f",
+      "key": "cde061688c289ca511659ff8dc5d941a",
       "own_screens": false,
       "summary": "Localitzeu la vostra família les 24 hores del dia, els 7 dies del dia, utilitzant un localitzador GPS per mantenir la calma",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "cs": {
-      "key": "5b209a6d63685693539113ab80af0da0",
+      "key": "6e3e6b2b380854e94fdbdd19358afcd8",
       "own_screens": false,
       "summary": "Najděte svou rodinu 24/7 pomocí GPS lokátoru, abyste zůstali v klidu",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "da": {
-      "key": "dd49d889704f2aa85b0e41f7656a4942",
+      "key": "8f6c4a43a7389f42b379f0ebf9e8c5ff",
       "own_screens": false,
       "summary": "Find din familie 24/7 ved hjælp af en GPS-locator for at bevare roen",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "de": {
-      "key": "1b8c5d35c7943df2699dbf9575be790c",
+      "key": "397bb4e9a031f721259f27056b12334c",
       "own_screens": true,
       "summary": "GPS-Handy Ortung Tracker und Familien Ortung App – Für Kinder und Eltern",
-      "title": "Familo GPS Familienortung",
+      "title": "Familonet GPS Familienortung",
       "v": 2
     },
     "el": {
-      "key": "d955a27bca75f0332bc163d2c5b94c5e",
+      "key": "f972c119e1ebed1b75308450e3d0d04e",
       "own_screens": false,
       "summary": "Εντοπίστε την οικογένειά σας 24/7 χρησιμοποιώντας έναν εντοπιστή GPS για να παραμείνετε ήρεμοι",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "en-AU": {
-      "key": "2138adf9788aaafb8ee26d2708390d93",
+      "key": "4bc1f0b7ca69f3fa30e102d82b6bd060",
       "own_screens": false,
       "summary": "Locate your family 24/7 with a GPS tracker for peace of mind.",
-      "title": "Familo: Find My Phone Tracker",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "en-GB": {
-      "key": "2138adf9788aaafb8ee26d2708390d93",
+      "key": "4bc1f0b7ca69f3fa30e102d82b6bd060",
       "own_screens": false,
       "summary": "Locate your family 24/7 with a GPS tracker for peace of mind.",
-      "title": "Familo: Find My Phone Tracker",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "en-IN": {
-      "key": "2138adf9788aaafb8ee26d2708390d93",
+      "key": "4bc1f0b7ca69f3fa30e102d82b6bd060",
       "own_screens": false,
       "summary": "Locate your family 24/7 with a GPS tracker for peace of mind.",
-      "title": "Familo: Find My Phone Tracker",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "es": {
-      "key": "9d8f8139a2e32fec3bf170189ac0a17f",
+      "key": "eec7c4ed9255305512d8e8e37762ae71",
       "own_screens": true,
       "summary": "Localice a su familia 24/7 usando un localizador GPS para mantener la calma",
-      "title": "Encuentra mi teléfono - Familo",
+      "title": "Familonet: Encuentra mi móvil",
       "v": 2
     },
     "es-419": {
-      "key": "9d8f8139a2e32fec3bf170189ac0a17f",
+      "key": "eec7c4ed9255305512d8e8e37762ae71",
       "own_screens": true,
       "summary": "Localice a su familia 24/7 usando un localizador GPS para mantener la calma",
-      "title": "Encuentra mi teléfono - Familo",
+      "title": "Familonet: Encuentra mi móvil",
       "v": 2
     },
     "et": {
-      "key": "a47e19dae9670c4d4cc70cf29a76497c",
+      "key": "0bb43cfe343c5e20798d81e10ec1809f",
       "own_screens": false,
       "summary": "Leidke oma pere asukoht ööpäevaringselt, kasutades GPS-lokaatorit, et jääda rahulikuks",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "eu": {
-      "key": "9b41b39140968c44fd4067af94e590a8",
+      "key": "b0fea74f70ee206c786685a1848abf7f",
       "own_screens": false,
       "summary": "Aurkitu zure familia 24/7 GPS bilatzailea erabiliz lasai egoteko",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "fa": {
-      "key": "1c57b1ac48626100ff57d3208ef7275a",
+      "key": "d5df9800a3c8e79f97bd77253d58bbf9",
       "own_screens": false,
       "summary": "خانواده خود را 24/7 با استفاده از مکان یاب GPS تعیین کنید تا آرام بمانید",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "fi": {
-      "key": "7e3e4dfa430789fa0b36be0175b5a9ae",
+      "key": "451d65fec085ac1ced22fbec187b568c",
       "own_screens": false,
       "summary": "Paikanna perheesi 24/7 GPS-paikantimen avulla pysyäksesi rauhallisena",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "fil": {
-      "key": "ea4e33fb98053495ef94bfa04086312a",
+      "key": "4cc900255c57fcd462d96b1ed4d1486c",
       "own_screens": false,
       "summary": "Hanapin ang iyong pamilya 24/7 gamit ang isang GPS locator upang manatiling kalmado",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "fr": {
-      "key": "865b841cc2ac85084a04253c9bcfdd39",
+      "key": "afbee20d6380f3a80ebdd6f3e99e453c",
       "own_screens": true,
       "summary": "Localisez votre famille 24h/24 et 7j/7 à l'aide d'un localisateur GPS",
-      "title": "Localisateur de famille Familo",
+      "title": "Localisateur famille Familonet",
       "v": 2
     },
     "fr-CA": {
-      "key": "865b841cc2ac85084a04253c9bcfdd39",
+      "key": "afbee20d6380f3a80ebdd6f3e99e453c",
       "own_screens": true,
       "summary": "Localisez votre famille 24h/24 et 7j/7 à l'aide d'un localisateur GPS",
-      "title": "Localisateur de famille Familo",
+      "title": "Localisateur famille Familonet",
       "v": 2
     },
     "gl": {
-      "key": "1c66b52c8ffd4cae1c252b94ba2a9049",
+      "key": "30f8b45235b8c5504142c1779f588f6f",
       "own_screens": false,
       "summary": "Localiza a túa familia 24 horas ao día, 7 días ao día mediante un localizador GPS para manter a calma",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "gu": {
-      "key": "83212652ae3a6876c48a864aa51f532d",
+      "key": "aa36bc46a8d034fe5e5855d9a447b068",
       "own_screens": false,
       "summary": "શાંત રહેવા માટે GPS લોકેટરનો ઉપયોગ કરીને તમારા કુટુંબને 24/7 શોધો",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "hi": {
-      "key": "31727605e329b4f682992fe008b6ff71",
+      "key": "ecacd61c1549a06bf4aa9920b5aa6073",
       "own_screens": true,
       "summary": "सुरक्षित GPS लोकेटर के साथ अपने परिवार से जुड़े रहेंपरिवार",
-      "title": "Familo मेरा फ़ोन लोकेटर ढूंढें",
+      "title": "Familonet मेरा फ़ोन ट्रैक करें",
       "v": 2
     },
     "hr": {
-      "key": "391f469aa9f5829acd053034ce949180",
+      "key": "98e250233766d3a0412b51f5754b39c3",
       "own_screens": false,
       "summary": "Pronađite svoju obitelj 24/7 koristeći GPS lokator kako biste ostali mirni",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "hu": {
-      "key": "12f886ffcb216ce47a91f35955b5e855",
+      "key": "ee062f68c384fce00127823618ff1c8b",
       "own_screens": false,
       "summary": "Keresse meg családját a nap 24 órájában a hét minden napján egy GPS-kereső segítségével, hogy nyugodt maradjon",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "hy": {
-      "key": "d4dea3002adfdc8fa0a1c603d8ece993",
+      "key": "f27e230521041607a7898e5f6d9f1958",
       "own_screens": false,
       "summary": "Գտեք ձեր ընտանիքը 24/7՝ օգտագործելով GPS որոնիչ՝ հանգստություն պահպանելու համար",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "id": {
-      "key": "991a5315750f6d7b25de49c6e45088f5",
+      "key": "60e525975c7d8e169ea592b73acf5c43",
       "own_screens": false,
       "summary": "Temukan keluarga Anda 24/7 menggunakan pencari lokasi GPS agar tetap tenang",
       "title": "Keluarga Lokasi & Messenger",
       "v": 2
     },
     "is": {
-      "key": "585ac8096aa11e29f4b34895943446af",
+      "key": "d265d88b1446096f0821a1429a9843fc",
       "own_screens": false,
       "summary": "Finndu fjölskylduna þína allan sólarhringinn með því að nota GPS staðsetningartæki til að vera rólegur",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "it": {
-      "key": "8809d087f8ac07d3c9c0c25b581f9f52",
+      "key": "6d04d51fd6d45d370113e3351ad493e9",
       "own_screens": true,
       "summary": "Localizza la tua famiglia 24/7, utilizzando un localizzatore GPS",
-      "title": "Familo: Localizzatore del tele",
+      "title": "Familonet: Trova lo smartphone",
       "v": 2
     },
     "iw": {
-      "key": "324722e112e1f573720462e9bc8b8d9e",
+      "key": "30869158331210b35a9f7787daa1b2d3",
       "own_screens": false,
       "summary": "אתר את המשפחה שלך 24/7 באמצעות איתור GPS כדי להישאר רגוע",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "ja": {
-      "key": "c0315444841727653b252b515822ea61",
+      "key": "c8b83a637b3cbb0f96bcb3a33f0fd5d2",
       "own_screens": true,
       "summary": "GPSロケーターを使って家族を24時間年中無休で特定し、安心して過ごせます。",
-      "title": "Familo: 携帯電話を探すロケーター",
+      "title": "Familonet: 携帯電話を探すロケーター",
       "v": 2
     },
     "ka": {
-      "key": "1b9b6aab0f485093f85cae2b7475b893",
+      "key": "e8846cc61669e6ea94c3de6febd668dc",
       "own_screens": false,
       "summary": "იპოვნეთ თქვენი ოჯახი 24/7 GPS ლოკატორის გამოყენებით სიმშვიდის შესანარჩუნებლად",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "kk": {
-      "key": "9e21cb1d001c64d3e359b75abbb823a7",
+      "key": "c2d7853a61c69264f98b63babf4e5912",
       "own_screens": false,
       "summary": "Тыныштық сақтау үшін GPS локаторы арқылы отбасыңыздың орнын тәулік бойы анықтаңыз",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "km": {
-      "key": "88cac58a08b856c5b8c94e0e6e9e2a98",
+      "key": "9532ec1163208000729cfaf3fb9ec84f",
       "own_screens": false,
       "summary": "កំណត់ទីតាំងគ្រួសាររបស់អ្នក 24/7 ដោយប្រើឧបករណ៍កំណត់ទីតាំង GPS ដើម្បីរក្សាភាពស្ងប់ស្ងាត់",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "kn": {
-      "key": "014b0f66b5ebf48616f99e3d72c05c09",
+      "key": "bd0ceb21aaf503e13405fcdcafc715d1",
       "own_screens": false,
       "summary": "ಶಾಂತವಾಗಿರಲು GPS ಲೊಕೇಟರ್ ಬಳಸಿ ನಿಮ್ಮ ಕುಟುಂಬವನ್ನು 24/7 ಪತ್ತೆ ಮಾಡಿ",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "ko": {
-      "key": "18d2d34cde6c9a9b6a9d043eef28a359",
+      "key": "1374b80d95a58eaa714576be6263ff1a",
       "own_screens": true,
       "summary": "GPS 로케이터를 사용하여 24시간 내내 가족의 위치를 파악하여 안심하세요.",
-      "title": "Familo: 내 휴대폰 찾기 로케이터",
+      "title": "Familonet: 내 휴대폰 찾기 로케이터",
       "v": 2
     },
     "ky": {
-      "key": "708c4e88c69d4cd9297d8d3ee3a03866",
+      "key": "a5b513b5076cf25e37395124ed5e450b",
       "own_screens": false,
       "summary": "Тынч болуу үчүн GPS локаторун колдонуп, 24/7 үй-бүлөңүздүн жайгашкан жерин табыңыз",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "lo": {
-      "key": "e8df59ec8148f534bf4f99760145dfb1",
+      "key": "68067fcb9114f24c0af176b0a5768e53",
       "own_screens": false,
       "summary": "ຊອກ​ຫາ​ຄອບ​ຄົວ​ຂອງ​ທ່ານ 24/7 ໂດຍ​ການ​ນໍາ​ໃຊ້​ສະ​ຖານ​ທີ່ GPS ເພື່ອ​ຄວາມ​ສະ​ຫງົບ​",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "lt": {
-      "key": "7a8f0e448275abc92e8ceafdf513a84c",
+      "key": "93795e6e82fce78827544e611e8dfe98",
       "own_screens": false,
       "summary": "Raskite savo šeimą 24 valandas per parą 7 dienas per savaitę naudodami GPS ieškiklį, kad išliktumėte ramūs",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "lv": {
-      "key": "b8038f5872de511a9fcc14ff28a510bc",
+      "key": "002b416ee6f5a2619465ba5001f37940",
       "own_screens": false,
       "summary": "Atrodiet savu ģimeni visu diennakti, izmantojot GPS lokatoru, lai saglabātu mieru",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "mk": {
-      "key": "d552c5c5b825c2abad2a333324c4a3be",
+      "key": "109d7c26616266d8917bc8b38d459cec",
       "own_screens": false,
       "summary": "Лоцирајте го вашето семејство 24/7 користејќи GPS локатор за да останете смирени",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "ml": {
-      "key": "8d2dad00b527a00cfe15c97a122667da",
+      "key": "2624ffc7d9df6bb30faaa8bc4f6d6321",
       "own_screens": false,
       "summary": "ശാന്തമായിരിക്കാൻ ഒരു GPS ലൊക്കേറ്റർ ഉപയോഗിച്ച് നിങ്ങളുടെ കുടുംബത്തെ 24/7 കണ്ടെത്തുക",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "mn": {
-      "key": "71419cdedab96e6c114e8483c42af6f4",
+      "key": "b7d96697b3ac49fd8a5d8471046cc8c4",
       "own_screens": false,
       "summary": "Тайван байхын тулд GPS байршуулагч ашиглан гэр бүлийнхээ байршлыг 24/7 тогтоо",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "mr": {
-      "key": "46d0a77ab9ed7f24640618e6ae1c569c",
+      "key": "8ff86255811af781b719f2e8f941a593",
       "own_screens": false,
       "summary": "शांत राहण्यासाठी GPS लोकेटर वापरून तुमचे कुटुंब 24/7 शोधा",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "ms": {
-      "key": "1dbc16807e6563eee1dd741abfd059c8",
+      "key": "b58df1126bd8487a82d6c9a378d48d3b",
       "own_screens": false,
       "summary": "Cari lokasi keluarga anda 24/7 menggunakan pencari lokasi GPS untuk kekal tenang",
-      "title": "Pengesan Keluarga dari Familo",
+      "title": "Pengesan Famili dari Familonet",
       "v": 2
     },
     "my": {
-      "key": "be187c01ad9c2fb4975c9e595dc8b301",
+      "key": "4f6662e1bb4f9ff0d90174c1bf3dfbef",
       "own_screens": false,
       "summary": "ငြိမ်သက်နေရန် GPS တည်နေရာကို အသုံးပြု၍ သင့်မိသားစုကို 24/7 ရှာဖွေပါ။",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "ne": {
-      "key": "96a94a7101b5e38ebbda04ae69470880",
+      "key": "950375e733534089df31b58230b06a70",
       "own_screens": false,
       "summary": "शान्त रहन GPS लोकेटर प्रयोग गरेर आफ्नो परिवार 24/7 पत्ता लगाउनुहोस्",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "nl": {
-      "key": "19e78370c93ea261556431f3050df33a",
+      "key": "eb45e080b4c832497a53a91b861cfc7c",
       "own_screens": false,
       "summary": "Lokaliseer uw gezin 24/7 met een GPS-locator om kalm te blijven",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "no": {
-      "key": "621de3355834995725b637f80f123535",
+      "key": "0b2a146589cda2e65ca6da157129fcd5",
       "own_screens": false,
       "summary": "Finn familien din 24/7 ved hjelp av en GPS-lokator for å holde deg rolig",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "pa": {
-      "key": "18dcb0d00ecf76b591672410b2ad41ba",
+      "key": "ad398f1ef8f7a180f672bc7274c43f12",
       "own_screens": false,
       "summary": "ਸ਼ਾਂਤ ਰਹਿਣ ਲਈ GPS ਲੋਕੇਟਰ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ 24/7 ਲੱਭੋ",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "pl": {
-      "key": "cbf9dec95e8744b6aae37d6e9eb5ea49",
+      "key": "e19b92d2e456f5f0d8d53c55cc66f03e",
       "own_screens": false,
       "summary": "Lokalizuj swoją rodzinę 24/7 za pomocą lokalizatora GPS, aby zachować spokój",
-      "title": "Familo: Lokalizator telefonu",
+      "title": "Familonet: Lokalizator komórki",
       "v": 2
     },
     "pt-BR": {
-      "key": "3c13685c0868df3f2b19a886304e8f3a",
+      "key": "b91f05f2f419cc0d00ce2ed5f670d1ea",
       "own_screens": true,
       "summary": "Rastreie a localização da família em 360 com localizador GPS dos seus celulares.",
-      "title": "Familo: Localizador de Celular",
+      "title": "Localizador Familiar Familonet",
       "v": 2
     },
     "pt-PT": {
-      "key": "63c60a34553fd8fe22aa11b7d4f4ac74",
+      "key": "93c2da485426d348e54b870897c4ea61",
       "own_screens": true,
-      "summary": "Familo oferece uma visão 360 da sua família com o GPS dos seus celulares",
-      "title": "Localizador de Família Familo",
+      "summary": "Familonet oferece uma visão 360 da sua família com o GPS dos seus celulares",
+      "title": "Localizador Familiar Familonet",
       "v": 2
     },
     "ro": {
-      "key": "426dea7b499a4cba6f64b7ade0015c91",
+      "key": "c4b8323bde23d873950b4cb2fd85135d",
       "own_screens": false,
       "summary": "Găsiți-vă familia 24/7 folosind un localizator GPS pentru a rămâne calm",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "ru": {
-      "key": "ad11bc3c941ebf1c119c4fde128fff3f",
+      "key": "2ffdb5ba244a05e8fe67d23627bfdde6",
       "own_screens": false,
       "summary": "Определяйте местоположение своей семьи 24/7, чтобы сохранять спокойствие",
-      "title": "Familo: Найти телефон по GPS",
+      "title": "Familonet Найти телефон по GPS",
       "v": 2
     },
     "si": {
-      "key": "7fba124bd3e715ce5a689df30f6efb1f",
+      "key": "38d4a64961c5a91a52b45374fd3e849c",
       "own_screens": false,
       "summary": "සන්සුන්ව සිටීමට GPS ලොකේටරයක් ​​භාවිතයෙන් ඔබේ පවුල 24/7 සොයා ගන්න",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "sk": {
-      "key": "51e74739f7c8e682d5c896cde3dceed3",
+      "key": "dedac681cc9b6fc375757e528ddbfc3a",
       "own_screens": false,
       "summary": "Nájdite svoju rodinu 24/7 pomocou GPS lokátora, aby ste zostali pokojní",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "sl": {
-      "key": "168c89eb485ff3581557a88c919fa7da",
+      "key": "b71ccb2bb0252a9c0a9246d5c1009196",
       "own_screens": false,
       "summary": "Poiščite svojo družino 24/7 z uporabo lokatorja GPS, da boste mirni",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "sq": {
-      "key": "ad962981365390139af6644137e6d4ba",
+      "key": "3117073bb231e0b1cd50f690496b9caf",
       "own_screens": false,
       "summary": "Gjeni familjen tuaj 24/7 duke përdorur një lokalizues GPS për të qëndruar të qetë",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "sr": {
-      "key": "9c4b656d95de0c5bcb25b8786eb34035",
+      "key": "883424edc2c097c9ab5a096c33dd6393",
       "own_screens": false,
       "summary": "Пронађите своју породицу 24/7 користећи ГПС локатор да бисте остали мирни",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "sv": {
-      "key": "133c5f69e8298e70ffb8728c6588c0b1",
+      "key": "7a25a181c52eaee69fe15a010f1aa2fb",
       "own_screens": false,
       "summary": "Lokalisera din familj dygnet runt med en GPS-lokalisator för att hålla dig lugn.",
       "title": "Platser & chatt för familjer",
       "v": 2
     },
     "sw": {
-      "key": "2c53abc1d99a18e41a571afb69f7722c",
+      "key": "5c96e75dc9681a5b1bc9c38882c5ff7d",
       "own_screens": false,
       "summary": "Tafuta familia yako 24/7 ukitumia kitambulisho cha GPS ili utulie",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "ta": {
-      "key": "0499fa480f1484034231f50c1652a00d",
+      "key": "1cf993141154b2d3dc17b02299a1bdf6",
       "own_screens": false,
       "summary": "அமைதியாக இருக்க ஜிபிஎஸ் லொக்கேட்டரைப் பயன்படுத்தி 24/7 உங்கள் குடும்பத்தைக் கண்டறியவும்",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "te": {
-      "key": "c941ef150e50c983610897aeab5e4ece",
+      "key": "d50391db55869d186683b03595196bc6",
       "own_screens": false,
       "summary": "ప్రశాంతంగా ఉండటానికి GPS లొకేటర్‌ని ఉపయోగించి 24/7 మీ కుటుంబాన్ని గుర్తించండి",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "th": {
-      "key": "abe052c72cfbe505e71624909fb4a326",
+      "key": "a781f30337dd810438fac5215f198f61",
       "own_screens": true,
       "summary": "ติดตามตำแหน่งของคนในครอบครัวได้ตลอด 24 ชั่วโมง ด้วยระบบ GPS",
-      "title": "Familo: ค้นหามือถือของฉัน",
+      "title": "Familonet: ค้นหามือถือของฉัน",
       "v": 2
     },
     "tr": {
-      "key": "20385052e478ce832801bdebdc82e86b",
+      "key": "7354b3e310c3f29c50ff0903ba6ded20",
       "own_screens": true,
       "summary": "Sakince kalmak için bir GPS konum belirleyici kullanarak ailenizin yerini 7/24",
       "title": "Aile Konumu & Mesajlaşma",
       "v": 2
     },
     "uk": {
-      "key": "05fa53504b774e9e30ec3a52920bacb3",
+      "key": "5c749759ceeab03d40283a9cb5989438",
       "own_screens": false,
       "summary": "Знаходьте свою родину цілодобово без вихідних за допомогою GPS-локатора, щоб залишатися спокійним",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "ur": {
-      "key": "baa28b09bc4322a540614cbf49f965ca",
+      "key": "78fc1e5f77da77c9e72ef74f822b3c6e",
       "own_screens": false,
       "summary": "پرسکون رہنے کے لیے GPS لوکیٹر کا استعمال کرتے ہوئے 24/7 اپنے خاندان کا پتہ لگائیں۔",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     },
     "vi": {
-      "key": "dcf186addff430f0d3e3065321f455df",
+      "key": "b5d07edbcd82b6154163caf8c6d535a2",
       "own_screens": false,
       "summary": "Định vị gia đình bạn 24/7 bằng công cụ định vị GPS để giữ bình tĩnh",
       "title": "Định vị gia đình & tin nhắn",
       "v": 2
     },
     "zh-CN": {
-      "key": "7784aba67d2352494b997deeb84c3d04",
+      "key": "4c734dbb0039cd35b0f66a00882c8bf3",
       "own_screens": true,
       "summary": "全天候使用 GPS 定位器定位您的家人，让您保持冷静。",
-      "title": "Familo: 查找我的手机定位器",
+      "title": "Familonet: 查找我的手机定位器",
       "v": 2
     },
     "zh-HK": {
-      "key": "73d6468e34a447e7e7e2fb6051edc356",
+      "key": "24bd0751bdc7d46ec8baec0f653c8203",
       "own_screens": true,
       "summary": "透過 GPS 定位器 24/7 定位家人，讓你隨時安心。",
-      "title": "Familo：尋找我的手機定位器",
+      "title": "Familonet：尋找我的手機定位器",
       "v": 2
     },
     "zh-TW": {
-      "key": "73d6468e34a447e7e7e2fb6051edc356",
+      "key": "4d2affc72a7bcd6608d630d4925445c9",
       "own_screens": true,
       "summary": "透過 GPS 定位器 24/7 定位家人，讓你隨時安心。",
-      "title": "Familo：尋找我的手機定位器",
+      "title": "Familonet：尋找我的手機定位器",
       "v": 2
     },
     "zu": {
-      "key": "338231df5d9fccdc6a9ca64babeb344a",
+      "key": "7e1d16b1af210f8069a8628cb93c0ca6",
       "own_screens": false,
       "summary": "Thola umndeni wakho 24/7 usebenzisa indawo ye-GPS ukuze uhlale uzolile",
-      "title": "Familo: Find My Phone Locator",
+      "title": "Familonet: GPS Find My Phone",
       "v": 2
     }
   }

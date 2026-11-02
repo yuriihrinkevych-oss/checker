@@ -1,8 +1,8 @@
 {
   "base": {
-    "key": "3d356d29acd70ebb21d571012bdf2b18",
+    "key": "f9ba7c7e7d67499398d46cef4fbced79",
     "own_screens": false,
-    "summary": "Find & secure your kids with a parental control app. Live GPS location sharing.",
+    "summary": "GPS phone tracker for family safety. Share live location and find kids.",
     "title": "mLite - GPS Location Tracker",
     "v": 2
   },
@@ -23,9 +23,9 @@
       "currency": "ARS",
       "iap": "ARS 1,375.40 - ARS 159,785.60 per item",
       "max_local": 159785.6,
-      "max_usd": 104.55,
+      "max_usd": 103.94,
       "min_local": 1375.4,
-      "min_usd": 0.9
+      "min_usd": 0.89
     },
     "at": {
       "available": true,
@@ -33,7 +33,7 @@
       "currency": "EUR",
       "iap": "€ 1,09 - € 214,99 if billed through Play",
       "max_local": 214.99,
-      "max_usd": 240.99,
+      "max_usd": 239.92,
       "min_local": 1.09,
       "min_usd": 1.22
     },
@@ -43,7 +43,7 @@
       "currency": "AUD",
       "iap": "$1.29 - $269.99 per item",
       "max_local": 269.99,
-      "max_usd": 189.75,
+      "max_usd": 189.77,
       "min_local": 1.29,
       "min_usd": 0.91
     },
@@ -53,7 +53,7 @@
       "currency": "BDT",
       "iap": "BDT 80.00 - BDT 17,000.00 per item",
       "max_local": 17000.0,
-      "max_usd": 137.65,
+      "max_usd": 137.06,
       "min_local": 80.0,
       "min_usd": 0.65
     },
@@ -63,7 +63,7 @@
       "currency": "EUR",
       "iap": "€1.09 - €214.99 if billed through Play",
       "max_local": 214.99,
-      "max_usd": 240.99,
+      "max_usd": 239.92,
       "min_local": 1.09,
       "min_usd": 1.22
     },
@@ -73,9 +73,9 @@
       "currency": "EUR",
       "iap": "€1.07 - €214.74 if billed through Play",
       "max_local": 214.74,
-      "max_usd": 240.7,
+      "max_usd": 239.65,
       "min_local": 1.07,
-      "min_usd": 1.2
+      "min_usd": 1.19
     },
     "br": {
       "available": true,
@@ -83,9 +83,9 @@
       "currency": "BRL",
       "iap": "R$3.19 - R$999.99 per item",
       "max_local": 999.99,
-      "max_usd": 200.2,
+      "max_usd": 183.92,
       "min_local": 3.19,
-      "min_usd": 0.64
+      "min_usd": 0.59
     },
     "ca": {
       "available": true,
@@ -93,7 +93,7 @@
       "currency": "CAD",
       "iap": "$1.29 - $249.99 per item",
       "max_local": 249.99,
-      "max_usd": 178.4,
+      "max_usd": 178.97,
       "min_local": 1.29,
       "min_usd": 0.92
     },
@@ -103,7 +103,7 @@
       "currency": "CHF",
       "iap": "CHF 1.00 - CHF 190.00 per item",
       "max_local": 190.0,
-      "max_usd": 230.42,
+      "max_usd": 230.43,
       "min_local": 1.0,
       "min_usd": 1.21
     },
@@ -113,7 +113,7 @@
       "currency": "CLP",
       "iap": "CLP 640 - CLP 190,000 per item",
       "max_local": 190000.0,
-      "max_usd": 192.01,
+      "max_usd": 191.76,
       "min_local": 640.0,
       "min_usd": 0.65
     },
@@ -123,9 +123,9 @@
       "currency": "COP",
       "iap": "COP 3,000 - COP 760,000 per item",
       "max_local": 760000.0,
-      "max_usd": 239.71,
+      "max_usd": 238.08,
       "min_local": 3000.0,
-      "min_usd": 0.95
+      "min_usd": 0.94
     },
     "cz": {
       "available": true,
@@ -133,9 +133,9 @@
       "currency": "CZK",
       "iap": "28,99 CZK - 5 399,99 CZK if billed through Play",
       "max_local": 5399.99,
-      "max_usd": 248.78,
+      "max_usd": 247.43,
       "min_local": 28.99,
-      "min_usd": 1.34
+      "min_usd": 1.33
     },
     "de": {
       "available": true,
@@ -143,7 +143,7 @@
       "currency": "EUR",
       "iap": "€1.09 - €214.99 if billed through Play",
       "max_local": 214.99,
-      "max_usd": 240.99,
+      "max_usd": 239.92,
       "min_local": 1.09,
       "min_usd": 1.22
     },
@@ -153,7 +153,7 @@
       "currency": "DKK",
       "iap": "8,00 kr. - 1.649,00 kr. if billed through Play",
       "max_local": 1649.0,
-      "max_usd": 246.97,
+      "max_usd": 246.36,
       "min_local": 8.0,
       "min_usd": 1.2
     },
@@ -163,7 +163,7 @@
       "currency": "EUR",
       "iap": "€1.09 - €214.99 if billed through Play",
       "max_local": 214.99,
-      "max_usd": 240.99,
+      "max_usd": 239.92,
       "min_local": 1.09,
       "min_usd": 1.22
     },
@@ -173,7 +173,7 @@
       "currency": "EGP",
       "iap": "EGP 8.79 - EGP 5,399.99 per item",
       "max_local": 5399.99,
-      "max_usd": 96.99,
+      "max_usd": 96.5,
       "min_local": 8.79,
       "min_usd": 0.16
     },
@@ -183,7 +183,7 @@
       "currency": "EUR",
       "iap": "€1.09 - €214.99 if billed through Play",
       "max_local": 214.99,
-      "max_usd": 240.99,
+      "max_usd": 239.92,
       "min_local": 1.09,
       "min_usd": 1.22
     },
@@ -193,7 +193,7 @@
       "currency": "EUR",
       "iap": "€1.09 - €219.99 if billed through Play",
       "max_local": 219.99,
-      "max_usd": 246.59,
+      "max_usd": 245.5,
       "min_local": 1.09,
       "min_usd": 1.22
     },
@@ -203,7 +203,7 @@
       "currency": "EUR",
       "iap": "€1.09 - €214.99 if billed through Play",
       "max_local": 214.99,
-      "max_usd": 240.99,
+      "max_usd": 239.92,
       "min_local": 1.09,
       "min_usd": 1.22
     },
@@ -213,7 +213,7 @@
       "currency": "GBP",
       "iap": "£0.89 - £179.99 if billed through Play",
       "max_local": 179.99,
-      "max_usd": 240.7,
+      "max_usd": 240.98,
       "min_local": 0.89,
       "min_usd": 1.19
     },
@@ -223,7 +223,7 @@
       "currency": "EUR",
       "iap": "€1.09 - €219.99 if billed through Play",
       "max_local": 219.99,
-      "max_usd": 246.59,
+      "max_usd": 245.5,
       "min_local": 1.09,
       "min_usd": 1.22
     },
@@ -233,7 +233,7 @@
       "currency": "HKD",
       "iap": "HK$8.00 - HK$1,558.00 per item",
       "max_local": 1558.0,
-      "max_usd": 198.65,
+      "max_usd": 198.61,
       "min_local": 8.0,
       "min_usd": 1.02
     },
@@ -243,7 +243,7 @@
       "currency": "EUR",
       "iap": "€1.19 - €225.50 if billed through Play",
       "max_local": 225.5,
-      "max_usd": 252.77,
+      "max_usd": 251.65,
       "min_local": 1.19,
       "min_usd": 1.33
     },
@@ -253,7 +253,7 @@
       "currency": "HUF",
       "iap": "359 HUF - 84 499 HUF if billed through Play",
       "max_local": 84499.0,
-      "max_usd": 258.41,
+      "max_usd": 257.89,
       "min_local": 359.0,
       "min_usd": 1.1
     },
@@ -263,7 +263,7 @@
       "currency": "IDR",
       "iap": "Rp 13.000 - Rp 2.848.163 per item",
       "max_local": 2848163.0,
-      "max_usd": 157.44,
+      "max_usd": 156.97,
       "min_local": 13000.0,
       "min_usd": 0.72
     },
@@ -273,7 +273,7 @@
       "currency": "EUR",
       "iap": "€1.09 - €219.99 if billed through Play",
       "max_local": 219.99,
-      "max_usd": 246.59,
+      "max_usd": 245.5,
       "min_local": 1.09,
       "min_usd": 1.22
     },
@@ -283,9 +283,9 @@
       "currency": "ILS",
       "iap": "₪3.80 - ₪649.90 per item",
       "max_local": 649.9,
-      "max_usd": 208.66,
+      "max_usd": 206.94,
       "min_local": 3.8,
-      "min_usd": 1.22
+      "min_usd": 1.21
     },
     "in": {
       "available": true,
@@ -293,7 +293,7 @@
       "currency": "INR",
       "iap": "₹65.00 - ₹17,800.00 per item",
       "max_local": 17800.0,
-      "max_usd": 187.05,
+      "max_usd": 187.21,
       "min_local": 65.0,
       "min_usd": 0.68
     },
@@ -303,7 +303,7 @@
       "currency": "EUR",
       "iap": "€1.09 - €219.99 if billed through Play",
       "max_local": 219.99,
-      "max_usd": 246.59,
+      "max_usd": 245.5,
       "min_local": 1.09,
       "min_usd": 1.22
     },
@@ -313,7 +313,7 @@
       "currency": "JPY",
       "iap": "¥110 - ¥23,600 per item",
       "max_local": 23600.0,
-      "max_usd": 150.44,
+      "max_usd": 149.81,
       "min_local": 110.0,
       "min_usd": 0.7
     },
@@ -323,7 +323,7 @@
       "currency": "KES",
       "iap": "Ksh 200.00 - Ksh 26,000.00 per item",
       "max_local": 26000.0,
-      "max_usd": 200.19,
+      "max_usd": 200.1,
       "min_local": 200.0,
       "min_usd": 1.54
     },
@@ -333,7 +333,7 @@
       "currency": "KRW",
       "iap": "₩1,100 - ₩270,000 per item",
       "max_local": 270000.0,
-      "max_usd": 203.94,
+      "max_usd": 202.59,
       "min_local": 1100.0,
       "min_usd": 0.83
     },
@@ -343,7 +343,7 @@
       "currency": "KZT",
       "iap": "KZT 340.00 - KZT 100,990.00 per item",
       "max_local": 100990.0,
-      "max_usd": 223.12,
+      "max_usd": 222.72,
       "min_local": 340.0,
       "min_usd": 0.75
     },
@@ -353,7 +353,7 @@
       "currency": "EUR",
       "iap": "€1.09 - €214.99 if billed through Play",
       "max_local": 214.99,
-      "max_usd": 240.99,
+      "max_usd": 239.92,
       "min_local": 1.09,
       "min_usd": 1.22
     },
@@ -363,7 +363,7 @@
       "currency": "EUR",
       "iap": "€1.09 - €214.99 if billed through Play",
       "max_local": 214.99,
-      "max_usd": 240.99,
+      "max_usd": 239.92,
       "min_local": 1.09,
       "min_usd": 1.22
     },
@@ -373,9 +373,9 @@
       "currency": "MAD",
       "iap": "MAD 9.69 - MAD 1,949.99 per item",
       "max_local": 1949.99,
-      "max_usd": 198.67,
+      "max_usd": 198.12,
       "min_local": 9.69,
-      "min_usd": 0.99
+      "min_usd": 0.98
     },
     "mx": {
       "available": true,
@@ -383,7 +383,7 @@
       "currency": "MXN",
       "iap": "MX$18.00 - MX$4,749.00 per item",
       "max_local": 4749.0,
-      "max_usd": 253.64,
+      "max_usd": 252.54,
       "min_local": 18.0,
       "min_usd": 0.96
     },
@@ -393,7 +393,7 @@
       "currency": "MYR",
       "iap": "RM 3.99 - RM 889.99 per item",
       "max_local": 889.99,
-      "max_usd": 217.85,
+      "max_usd": 219.37,
       "min_local": 3.99,
       "min_usd": 0.98
     },
@@ -403,7 +403,7 @@
       "currency": "NGN",
       "iap": "₦290.00 - ₦156,000.00 per item",
       "max_local": 156000.0,
-      "max_usd": 116.92,
+      "max_usd": 115.69,
       "min_local": 290.0,
       "min_usd": 0.22
     },
@@ -413,7 +413,7 @@
       "currency": "EUR",
       "iap": "€1.09 - €214.99 if billed through Play",
       "max_local": 214.99,
-      "max_usd": 240.99,
+      "max_usd": 239.92,
       "min_local": 1.09,
       "min_usd": 1.22
     },
@@ -423,9 +423,9 @@
       "currency": "NOK",
       "iap": "10,00 kr - 2 199,00 kr if billed through Play",
       "max_local": 2199.0,
-      "max_usd": 235.92,
+      "max_usd": 238.68,
       "min_local": 10.0,
-      "min_usd": 1.07
+      "min_usd": 1.09
     },
     "nz": {
       "available": true,
@@ -433,9 +433,9 @@
       "currency": "NZD",
       "iap": "$1.39 - $334.99 per item",
       "max_local": 334.99,
-      "max_usd": 190.88,
+      "max_usd": 188.45,
       "min_local": 1.39,
-      "min_usd": 0.79
+      "min_usd": 0.78
     },
     "pe": {
       "available": true,
@@ -443,9 +443,9 @@
       "currency": "PEN",
       "iap": "PEN 3.29 - PEN 749.99 per item",
       "max_local": 749.99,
-      "max_usd": 217.92,
+      "max_usd": 216.31,
       "min_local": 3.29,
-      "min_usd": 0.96
+      "min_usd": 0.95
     },
     "ph": {
       "available": true,
@@ -453,7 +453,7 @@
       "currency": "PHP",
       "iap": "₱47.00 - ₱10,400.00 per item",
       "max_local": 10400.0,
-      "max_usd": 163.31,
+      "max_usd": 163.26,
       "min_local": 47.0,
       "min_usd": 0.74
     },
@@ -463,7 +463,7 @@
       "currency": "PKR",
       "iap": "Rs 110.00 - Rs 35,800.00 per item",
       "max_local": 35800.0,
-      "max_usd": 129.27,
+      "max_usd": 129.37,
       "min_local": 110.0,
       "min_usd": 0.4
     },
@@ -473,9 +473,9 @@
       "currency": "PLN",
       "iap": "4,79 PLN - 1.029,99 PLN if billed through Play",
       "max_local": 1029.99,
-      "max_usd": 262.33,
+      "max_usd": 260.68,
       "min_local": 4.79,
-      "min_usd": 1.22
+      "min_usd": 1.21
     },
     "pt": {
       "available": true,
@@ -483,7 +483,7 @@
       "currency": "EUR",
       "iap": "€1.09 - €219.99 if billed through Play",
       "max_local": 219.99,
-      "max_usd": 246.59,
+      "max_usd": 245.5,
       "min_local": 1.09,
       "min_usd": 1.22
     },
@@ -503,7 +503,7 @@
       "currency": "RON",
       "iap": "4,79 RON - 1.049,99 RON if billed through Play",
       "max_local": 1049.99,
-      "max_usd": 219.74,
+      "max_usd": 219.58,
       "min_local": 4.79,
       "min_usd": 1.0
     },
@@ -513,7 +513,7 @@
       "currency": "RSD",
       "iap": "RSD 99 - RSD 24,999 per item",
       "max_local": 24999.0,
-      "max_usd": 238.19,
+      "max_usd": 237.56,
       "min_local": 99.0,
       "min_usd": 0.94
     },
@@ -533,9 +533,9 @@
       "currency": "SEK",
       "iap": "11,00 kr - 2 349,00 kr if billed through Play",
       "max_local": 2349.0,
-      "max_usd": 236.53,
+      "max_usd": 239.14,
       "min_local": 11.0,
-      "min_usd": 1.11
+      "min_usd": 1.12
     },
     "sg": {
       "available": true,
@@ -543,7 +543,7 @@
       "currency": "SGD",
       "iap": "$1.48 - $289.98 per item",
       "max_local": 289.98,
-      "max_usd": 226.8,
+      "max_usd": 226.89,
       "min_local": 1.48,
       "min_usd": 1.16
     },
@@ -553,7 +553,7 @@
       "currency": "EUR",
       "iap": "€1.09 - €219.99 if billed through Play",
       "max_local": 219.99,
-      "max_usd": 246.59,
+      "max_usd": 245.5,
       "min_local": 1.09,
       "min_usd": 1.22
     },
@@ -563,7 +563,7 @@
       "currency": "EUR",
       "iap": "€1.09 - €214.99 if billed through Play",
       "max_local": 214.99,
-      "max_usd": 240.99,
+      "max_usd": 239.92,
       "min_local": 1.09,
       "min_usd": 1.22
     },
@@ -573,7 +573,7 @@
       "currency": "THB",
       "iap": "THB 35.00 - THB 7,075.00 per item",
       "max_local": 7075.0,
-      "max_usd": 209.55,
+      "max_usd": 209.6,
       "min_local": 35.0,
       "min_usd": 1.04
     },
@@ -583,7 +583,7 @@
       "currency": "TRY",
       "iap": "TRY 3.09 - TRY 5,119.99 per item",
       "max_local": 5119.99,
-      "max_usd": 102.83,
+      "max_usd": 102.52,
       "min_local": 3.09,
       "min_usd": 0.06
     },
@@ -593,7 +593,7 @@
       "currency": "TWD",
       "iap": "NT$32.00 - NT$5,930.00 per item",
       "max_local": 5930.0,
-      "max_usd": 181.92,
+      "max_usd": 181.7,
       "min_local": 32.0,
       "min_usd": 0.98
     },
@@ -603,7 +603,7 @@
       "currency": "UAH",
       "iap": "2,00 UAH - 7 199,99 UAH per item",
       "max_local": 7199.99,
-      "max_usd": 159.03,
+      "max_usd": 158.46,
       "min_local": 2.0,
       "min_usd": 0.04
     },
@@ -623,7 +623,7 @@
       "currency": "VND",
       "iap": "₫22,000 - ₫4,550,000 per item",
       "max_local": 4550000.0,
-      "max_usd": 176.15,
+      "max_usd": 176.45,
       "min_local": 22000.0,
       "min_usd": 0.85
     },
@@ -633,12 +633,12 @@
       "currency": "ZAR",
       "iap": "R 13,99 - R 3 399,99 per item",
       "max_local": 3399.99,
-      "max_usd": 204.83,
+      "max_usd": 203.66,
       "min_local": 13.99,
       "min_usd": 0.84
     }
   },
-  "date": "2026-10-26",
+  "date": "2026-11-02",
   "errors": [],
   "first_seen": {
     "countries": {
@@ -867,16 +867,16 @@
   ],
   "listings": {
     "af": {
-      "key": "9fe43141ce26af72d22b8c29dc884a1f",
+      "key": "7a0cd4a27fdd5fb51b4c8ea61999ac14",
       "own_screens": false,
-      "summary": "Vind en beveilig jou kinders met 'n ouerbeheer-app. Deel regstreekse GPS-ligging.",
+      "summary": "GPS-foonopsporer vir gesinsveiligheid. Deel regstreekse ligging en vind kinders.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "am": {
-      "key": "78530c72db8b82f3d1df5746a765e855",
+      "key": "0037a49ffb09b80b552a088dd6e80f57",
       "own_screens": false,
-      "summary": "ልጆችዎን በወላጅ ቁጥጥር መተግበሪያ ያግኙ እና ደህንነቱ የተጠበቀ ያድርጉ። የቀጥታ የጂፒኤስ አካባቢ ማጋራት።",
+      "summary": "ለቤተሰብ ደህንነት የጂፒኤስ ስልክ መከታተያ። የቀጥታ አካባቢን ያጋሩ እና ልጆችን ያግኙ።",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
@@ -888,16 +888,16 @@
       "v": 2
     },
     "az": {
-      "key": "9ed3fde3f9baa20beabd611c36dfe845",
+      "key": "b3c4728ee9c8f834b695abdefb356af4",
       "own_screens": false,
-      "summary": "Valideyn nəzarəti tətbiqi ilə uşaqlarınızı tapın və təhlükəsiz saxlayın. Canlı GPS yer paylaşımı.",
+      "summary": "Ailənin təhlükəsizliyi üçün GPS telefon izləyicisi. Canlı yeri paylaşın və uşaqları tapın.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "be": {
-      "key": "1d2b53155c8b514ccd932fe07c38b137",
+      "key": "fbf10d77247da0f5866eec5d0261a6c2",
       "own_screens": false,
-      "summary": "Знайдзіце і абараніце сваіх дзяцей з дапамогай праграмы бацькоўскага кантролю. Абмен месцазнаходжаннем GPS у рэжыме рэальнага часу.",
+      "summary": "GPS-трэкер для тэлефона для бяспекі сям'і. Падзяліцеся месцазнаходжаннем у рэжыме рэальнага часу і знайдзіце дзяцей.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
@@ -909,16 +909,16 @@
       "v": 2
     },
     "bn": {
-      "key": "31567b419b58d86fc5753de51678f515",
+      "key": "25970d958851d47fb454da42651f8e48",
       "own_screens": false,
-      "summary": "একটি প্যারেন্টাল কন্ট্রোল অ্যাপের মাধ্যমে আপনার বাচ্চাদের খুঁজুন এবং সুরক্ষিত করুন। লাইভ জিপিএস লোকেশন শেয়ারিং।",
+      "summary": "পারিবারিক সুরক্ষার জন্য জিপিএস ফোন ট্র্যাকার। লাইভ লোকেশন শেয়ার করুন এবং সন্তানদের খুঁজে বের করুন।",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "ca": {
-      "key": "983b23c77d183198371137d83bf73c4a",
+      "key": "3bbb5c68615f9e07c4ff1d3c71e13bd7",
       "own_screens": false,
-      "summary": "Troba i protegeix els teus fills amb una aplicació de control parental. Compartició de la ubicació GPS en directe.",
+      "summary": "Rastrejador GPS de telèfons per a la seguretat familiar. Comparteix la ubicació en directe i troba nens.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
@@ -944,9 +944,9 @@
       "v": 2
     },
     "el": {
-      "key": "51a2d2be4f4579bc0092e1d1b1a233ac",
+      "key": "ffba5c76091bb389f85630ce2c32c81d",
       "own_screens": false,
-      "summary": "Βρείτε και ασφαλίστε τα παιδιά σας με μια εφαρμογή γονικού ελέγχου. Κοινή χρήση τοποθεσίας GPS σε πραγματικό χρόνο.",
+      "summary": "GPS παρακολούθησης τηλεφώνου για οικογενειακή ασφάλεια. Μοιραστείτε ζωντανή τοποθεσία και βρείτε παιδιά.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
@@ -979,30 +979,30 @@
       "v": 2
     },
     "es-419": {
-      "key": "ff1e0416ba779a761af45359335504ea",
+      "key": "560a7181b4436796b4608a8165e121f6",
       "own_screens": true,
-      "summary": "Aplicación de localización GPS en tiempo real para el control parental",
-      "title": "mLite - Localizador GPS",
+      "summary": "Localizador GPS familiar con control parental y ubicación en tiempo real.",
+      "title": "mLite・Localizador GPS Familiar",
       "v": 2
     },
     "et": {
-      "key": "9aafdac69479f01fda1a0d016403074a",
+      "key": "5c511937d872c57c03e7af341efbfb11",
       "own_screens": false,
-      "summary": "Leidke ja kaitske oma lapsi vanemliku kontrolli rakendusega. Jagage reaalajas GPS-asukohta.",
+      "summary": "GPS-telefoni jälgija pere turvalisuse tagamiseks. Jaga reaalajas asukohta ja leia lapsed.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "eu": {
-      "key": "f093d654aa10452234e87bdb773ab9c5",
+      "key": "a96a65e445315d443c196044d26607ab",
       "own_screens": false,
-      "summary": "Aurkitu eta babestu zure seme-alabak gurasoen kontrol aplikazio batekin. Zuzeneko GPS kokapena partekatzea.",
+      "summary": "GPS telefonoaren jarraitzailea familiaren segurtasunerako. Partekatu kokapen zuzena eta aurkitu haurrak.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "fa": {
-      "key": "059c59037dc3c84150507df762a401ed",
+      "key": "0f15e95acfaeac28eeedf0d3bf16ba39",
       "own_screens": false,
-      "summary": "با یک برنامه کنترل والدین، فرزندان خود را پیدا و ایمن کنید. اشتراک گذاری موقعیت مکانی GPS به صورت زنده.",
+      "summary": "ردیاب تلفن GPS برای ایمنی خانواده. مکان زنده را به اشتراک بگذارید و بچه ها را پیدا کنید.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
@@ -1014,9 +1014,9 @@
       "v": 2
     },
     "fil": {
-      "key": "100e280f43955493019fba3d76572b2f",
+      "key": "1d5e6580e9eaca09a23ba6f38ab8b634",
       "own_screens": true,
-      "summary": "GPS lokasyon tracking app. Hanapin at protektahan ang iyong mga anak.",
+      "summary": "GPS family tracker para sa live location sharing at kaligtasan ng pamilya.",
       "title": "mLite - GPS Family Tracker",
       "v": 2
     },
@@ -1035,16 +1035,16 @@
       "v": 2
     },
     "gl": {
-      "key": "943d5fbe6fce20f60922202fd73f2445",
+      "key": "af7d8c1798305fcf1b097b1e413d0040",
       "own_screens": false,
-      "summary": "Atopa e protexe os teus fillos cunha aplicación de control parental. Localización GPS compartida en directo.",
+      "summary": "Rastreador de teléfono GPS para a seguridade familiar. Comparte a localización en directo e atopa nenos.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "gu": {
-      "key": "db6be7e2a56039c7a5b2c681cb67d150",
+      "key": "a2a41e0b057366b845845022c3bc46c5",
       "own_screens": false,
-      "summary": "પેરેંટલ કંટ્રોલ એપ વડે તમારા બાળકોને શોધો અને સુરક્ષિત કરો. લાઈવ GPS લોકેશન શેરિંગ.",
+      "summary": "પરિવારની સુરક્ષા માટે GPS ફોન ટ્રેકર. લાઇવ લોકેશન શેર કરો અને બાળકોને શોધો.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
@@ -1056,23 +1056,23 @@
       "v": 2
     },
     "hr": {
-      "key": "2eb1cacd374338703732097ce80ab550",
+      "key": "95213f5f710a772419f63776f47949a4",
       "own_screens": false,
-      "summary": "Pronađite i osigurajte svoju djecu pomoću aplikacije za roditeljski nadzor. Dijeljenje lokacije putem GPS-a uživo.",
+      "summary": "GPS uređaj za praćenje telefona za obiteljsku sigurnost. Podijelite lokaciju uživo i pronađite djecu.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "hu": {
-      "key": "b46accc59863974133326a8d47d0187e",
+      "key": "15f5a231b1cc2af042bd967457f2f175",
       "own_screens": false,
-      "summary": "Keresd meg és biztosítsd gyermekeidet egy szülői felügyeleti alkalmazással. Élő GPS-helyzetmegosztás.",
+      "summary": "GPS telefonkövető a család biztonságáért. Ossza meg élő helyét és találja meg gyermekeit.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "hy": {
-      "key": "8267d93bf94c2ab159d2b2281a142af8",
+      "key": "4c9db551eba257246bd336c765f0b88c",
       "own_screens": false,
-      "summary": "Գտեք և պաշտպանեք ձեր երեխաներին ծնողական վերահսկողության հավելվածով: GPS տեղադրության ուղիղ հեռարձակում:",
+      "summary": "GPS հեռախոսի հետևորդ ընտանեկան անվտանգության համար: Կիսվեք կենդանի գտնվելու վայրով և գտեք երեխաներին:",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
@@ -1084,9 +1084,9 @@
       "v": 2
     },
     "is": {
-      "key": "08967cf541347378a05aa02f04a3e0c6",
+      "key": "dba9ba358eb215b2915d6c6e7947e270",
       "own_screens": false,
-      "summary": "Finndu og tryggðu börnin þín með foreldraeftirlitsappi. Deila GPS staðsetningu í rauntíma.",
+      "summary": "GPS símamæling fyrir öryggi fjölskyldunnar. Deildu staðsetningu í beinni og finndu börn.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
@@ -1112,93 +1112,93 @@
       "v": 2
     },
     "ka": {
-      "key": "a965b37eb0db6853102cacf0714a817c",
+      "key": "ff8594adddacc9bff4c65393d0e110cc",
       "own_screens": false,
-      "summary": "იპოვეთ და დაიცავით თქვენი შვილები მშობლის კონტროლის აპლიკაციით. GPS მდებარეობის გაზიარება რეალურ დროში.",
+      "summary": "GPS ტელეფონის ტრეკერი ოჯახის უსაფრთხოებისთვის. გააზიარეთ პირდაპირი მდებარეობა და იპოვეთ ბავშვები.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "kk": {
-      "key": "158fa3c8e69ad6c6bc21c05d6e377526",
+      "key": "811b50bccbda513fb52fea3d875c8940",
       "own_screens": false,
-      "summary": "Ата-ана бақылауы қолданбасы арқылы балаларыңызды тауып, олардың қауіпсіздігін қамтамасыз етіңіз. GPS арқылы орналасқан жерді тікелей бөлісу.",
+      "summary": "Отбасы қауіпсіздігі үшін GPS телефон трекері. Тікелей орналасқан жеріңізді бөлісіңіз және балаларды табыңыз.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "km": {
-      "key": "2dfd1751f961b586d0c56c87eabdb145",
+      "key": "407a555f986baa64ce914ddf88b029ea",
       "own_screens": false,
-      "summary": "ស្វែងរក និងធានាសុវត្ថិភាពកូនៗរបស់អ្នកជាមួយកម្មវិធីគ្រប់គ្រងដោយឪពុកម្តាយ។ ការចែករំលែកទីតាំង GPS ផ្ទាល់។",
+      "summary": "កម្មវិធីតាមដានទូរស័ព្ទ GPS សម្រាប់សុវត្ថិភាពគ្រួសារ។ ចែករំលែកទីតាំងផ្ទាល់ និងស្វែងរកកូនៗ។",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "kn": {
-      "key": "cd417cc42135f5ab8bc769b6ec20466e",
+      "key": "62c6d977e22a7f3b5b30150fc4b3575a",
       "own_screens": false,
-      "summary": "ಪೋಷಕರ ನಿಯಂತ್ರಣ ಅಪ್ಲಿಕೇಶನ್‌ನೊಂದಿಗೆ ನಿಮ್ಮ ಮಕ್ಕಳನ್ನು ಹುಡುಕಿ ಮತ್ತು ಸುರಕ್ಷಿತಗೊಳಿಸಿ. ಲೈವ್ GPS ಸ್ಥಳ ಹಂಚಿಕೆ.",
+      "summary": "ಕುಟುಂಬದ ಸುರಕ್ಷತೆಗಾಗಿ ಜಿಪಿಎಸ್ ಫೋನ್ ಟ್ರ್ಯಾಕರ್. ಲೈವ್ ಸ್ಥಳವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ ಮತ್ತು ಮಕ್ಕಳನ್ನು ಹುಡುಕಿ.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "ko": {
-      "key": "6f1700b7823e69d5743da4cb04092955",
+      "key": "34eed314cde1d12698986c0d121de7bf",
       "own_screens": true,
-      "summary": "자녀 보호를 위한 실시간 GPS 기반 자녀 보호 앱. 위치 공유와 가족 위치 추적으로 언제나 안심하세요.",
+      "summary": "자녀 보호와 가족 위치 추적을 한 번에! 실시간 위치공유, 이동경로 확인, 안전 구역 알림",
       "title": "mLite - GPS 가족 위치 추적기",
       "v": 2
     },
     "ky": {
-      "key": "1cc0785bfac00e0014fee2ced6366624",
+      "key": "ec720ee6e0f2f6eb661382cd697fe8be",
       "own_screens": false,
-      "summary": "Ата-энелик көзөмөл колдонмосу менен балдарыңызды таап, коопсуздугун камсыз кылыңыз. GPS аркылуу жайгашкан жерди түз бөлүшүү.",
+      "summary": "Үй-бүлөнүн коопсуздугу үчүн GPS телефон трекери. Түз жайгашкан жерди бөлүшүп, балдарды табыңыз.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "lo": {
-      "key": "3a11a347f37d0616944661b0c50a88a7",
+      "key": "ecb35493c927694cdb94dd6e1702f58b",
       "own_screens": false,
-      "summary": "ຊອກຫາ ແລະ ຮັກສາຄວາມປອດໄພໃຫ້ລູກຂອງທ່ານດ້ວຍແອັບຄວບຄຸມໂດຍຜູ້ປົກຄອງ. ການແບ່ງປັນສະຖານທີ່ GPS ສົດ.",
+      "summary": "ເຄື່ອງຕິດຕາມໂທລະສັບ GPS ເພື່ອຄວາມປອດໄພຂອງຄອບຄົວ. ແບ່ງປັນສະຖານທີ່ສົດ ແລະ ຊອກຫາເດັກນ້ອຍ.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "lt": {
-      "key": "8af17b5f7b6854cb32204b9739e021fc",
+      "key": "13b2981551dfc7118dd7258a24696e4d",
       "own_screens": false,
-      "summary": "Raskite ir apsaugokite savo vaikus naudodami tėvų kontrolės programėlę. Bendrinkite tiesioginę GPS buvimo vietą.",
+      "summary": "GPS telefono sekiklis šeimos saugumui. Bendrinkite tiesioginę buvimo vietą ir raskite vaikus.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "lv": {
-      "key": "136e825a66cdbec92ee74f55e2637e87",
+      "key": "1809ea63cf57a80200670fb42eb5f074",
       "own_screens": false,
-      "summary": "Atrodiet un nodrošiniet savu bērnu drošību, izmantojot vecāku kontroles lietotni. Tiešraides GPS atrašanās vietas kopīgošana.",
+      "summary": "GPS tālruņa izsekotājs ģimenes drošībai. Kopīgojiet tiešraides atrašanās vietu un atrodiet bērnus.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "mk": {
-      "key": "9597365531f31fe3901cf00801776713",
+      "key": "670e34d33008b9a5a99188c33b8e9b79",
       "own_screens": false,
-      "summary": "Пронајдете ги и заштитете ги вашите деца со апликација за родителска контрола. Споделување на GPS локација во живо.",
+      "summary": "GPS тракер за телефон за безбедност на семејството. Споделете ја локацијата во живо и пронајдете деца.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "ml": {
-      "key": "b4d4eba0ff3305e5299dc115a57cbbbf",
+      "key": "cc3c84697a5abf4ec2bcab543c4cb364",
       "own_screens": false,
-      "summary": "ഒരു രക്ഷാകർതൃ നിയന്ത്രണ ആപ്പ് ഉപയോഗിച്ച് നിങ്ങളുടെ കുട്ടികളെ കണ്ടെത്തി സുരക്ഷിതമാക്കുക. തത്സമയ GPS ലൊക്കേഷൻ പങ്കിടൽ.",
+      "summary": "കുടുംബ സുരക്ഷയ്ക്കായി ജിപിഎസ് ഫോൺ ട്രാക്കർ. തത്സമയ ലൊക്കേഷൻ പങ്കിടുക, കുട്ടികളെ കണ്ടെത്തുക.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "mn": {
-      "key": "17094c131df8856af6a54587d9999e01",
+      "key": "a1d33865574929e085a54823763304d3",
       "own_screens": false,
-      "summary": "Эцэг эхийн хяналтын аппликейшн ашиглан хүүхдүүдээ олж, аюулгүй байлгаарай. GPS байршлыг шууд хуваалцаарай.",
+      "summary": "Гэр бүлийн аюулгүй байдалд зориулсан GPS утасны хянагч. Байршлыг хуваалцаж, хүүхдүүдийг олоорой.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "mr": {
-      "key": "d2776b9a1458a0b14b3beaadb67b53c9",
+      "key": "2d53010392e11881ab2658ad7ad79d83",
       "own_screens": false,
-      "summary": "पालक नियंत्रण अॅप वापरून तुमच्या मुलांना शोधा आणि सुरक्षित करा. लाइव्ह GPS लोकेशन शेअरिंग.",
+      "summary": "कुटुंबाच्या सुरक्षेसाठी जीपीएस फोन ट्रॅकर. थेट लोकेशन शेअर करा आणि मुलांना शोधा.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
@@ -1210,16 +1210,16 @@
       "v": 2
     },
     "my": {
-      "key": "880fddb6e85ef2199cacb70f025a5252",
+      "key": "df9f2612d8748b64e939afff9a6b899f",
       "own_screens": false,
-      "summary": "မိဘထိန်းချုပ်မှုအက်ပ်ဖြင့် သင့်ကလေးများကို ရှာဖွေပြီး လုံခြုံအောင်ထားပါ။ တိုက်ရိုက် GPS တည်နေရာမျှဝေခြင်း။",
+      "summary": "မိသားစုဘေးကင်းရေးအတွက် GPS ဖုန်းခြေရာခံကိရိယာ။ တိုက်ရိုက်တည်နေရာကိုမျှဝေပြီး ကလေးများကိုရှာဖွေပါ။",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "ne": {
-      "key": "92b7bcf48eca3dc3eb746c43677116b5",
+      "key": "843e9be6703c54e8c3a02cb2a275295f",
       "own_screens": false,
-      "summary": "अभिभावकीय नियन्त्रण एपको साथ आफ्ना बच्चाहरूलाई खोज्नुहोस् र सुरक्षित गर्नुहोस्। लाइभ GPS स्थान साझेदारी।",
+      "summary": "परिवार सुरक्षाको लागि GPS फोन ट्रयाकर। लाइभ स्थान साझा गर्नुहोस् र बच्चाहरू फेला पार्नुहोस्।",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
@@ -1238,9 +1238,9 @@
       "v": 2
     },
     "pa": {
-      "key": "8fe7b65ac869fd7379e75c658573ed1b",
+      "key": "29206b6425732d12d903713b7de17040",
       "own_screens": false,
-      "summary": "ਮਾਪਿਆਂ ਦੇ ਕੰਟਰੋਲ ਐਪ ਨਾਲ ਆਪਣੇ ਬੱਚਿਆਂ ਨੂੰ ਲੱਭੋ ਅਤੇ ਸੁਰੱਖਿਅਤ ਕਰੋ। ਲਾਈਵ GPS ਸਥਾਨ ਸਾਂਝਾਕਰਨ।",
+      "summary": "ਪਰਿਵਾਰਕ ਸੁਰੱਖਿਆ ਲਈ GPS ਫੋਨ ਟਰੈਕਰ। ਲਾਈਵ ਸਥਾਨ ਸਾਂਝਾ ਕਰੋ ਅਤੇ ਬੱਚਿਆਂ ਨੂੰ ਲੱਭੋ।",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
@@ -1280,9 +1280,9 @@
       "v": 2
     },
     "si": {
-      "key": "07edaf40a24c6dddb0fba2f66943efcc",
+      "key": "378d3038c8d61cf15deb86e563c20fdc",
       "own_screens": false,
-      "summary": "දෙමාපිය පාලන යෙදුමක් සමඟ ඔබේ දරුවන් සොයාගෙන සුරක්ෂිත කරන්න. සජීවී GPS ස්ථාන බෙදාගැනීම.",
+      "summary": "පවුලේ ආරක්ෂාව සඳහා GPS දුරකථන ට්රැකර්. සජීවී ස්ථානය බෙදාගෙන දරුවන් සොයා ගන්න.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
@@ -1294,23 +1294,23 @@
       "v": 2
     },
     "sl": {
-      "key": "f74690364f829a2a800f3fa6c4ea9b84",
+      "key": "79760bb4e30ecb37ea596628715b8f60",
       "own_screens": false,
-      "summary": "Poiščite in zaščitite svoje otroke z aplikacijo za starševski nadzor. Deljenje lokacije GPS v živo.",
+      "summary": "GPS sledilnik telefona za varnost družine. Delite lokacijo v živo in poiščite otroke.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "sq": {
-      "key": "f11f4d86eab1427947b236fe39482d37",
+      "key": "c618a50d1550fb5b3ac88719c92efd9c",
       "own_screens": false,
-      "summary": "Gjeni dhe siguroni fëmijët tuaj me një aplikacion kontrolli prindëror. Ndarja e vendndodhjes në kohë reale me GPS.",
+      "summary": "Gjurmues telefoni me GPS për sigurinë familjare. Ndani vendndodhjen live dhe gjeni fëmijë.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "sr": {
-      "key": "838ac5c7c58cb4ac08896134889ee1fe",
+      "key": "619cee0935fc0ba803c177d405d05851",
       "own_screens": false,
-      "summary": "Пронађите и обезбедите своју децу помоћу апликације за родитељски надзор. Дељење локације уживо путем ГПС-а.",
+      "summary": "ГПС праћење телефона за безбедност породице. Делите локацију уживо и пронађите децу.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
@@ -1322,23 +1322,23 @@
       "v": 2
     },
     "sw": {
-      "key": "01c11f41819a293c3e18168389ba9f67",
+      "key": "9b4674613f76cd13aed825ae8a11173b",
       "own_screens": false,
-      "summary": "Tafuta na ulinde watoto wako kwa kutumia programu ya udhibiti wa wazazi. Kushiriki eneo moja kwa moja kwa GPS.",
+      "summary": "Kifuatiliaji cha simu cha GPS kwa usalama wa familia. Shiriki eneo la moja kwa moja na utafute watoto.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "ta": {
-      "key": "b2156c792dd9a4cf383bfc02561fde78",
+      "key": "2c6a092280e1d86f41991724d714a849",
       "own_screens": false,
-      "summary": "பெற்றோர் கட்டுப்பாட்டு செயலி மூலம் உங்கள் குழந்தைகளைக் கண்டுபிடித்து பாதுகாக்கவும். நேரடி GPS இருப்பிடப் பகிர்வு.",
+      "summary": "குடும்பப் பாதுகாப்பிற்கான ஜிபிஎஸ் தொலைபேசி கண்காணிப்பான். நிகழ்நேர இருப்பிடத்தைப் பகிரவும், குழந்தைகளைக் கண்டறியவும்.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
     "te": {
-      "key": "a2779bce2489d9bca3c9a75524dad301",
+      "key": "ac11ff1f8d7edca3b6ffba6456d5aac4",
       "own_screens": false,
-      "summary": "తల్లిదండ్రుల నియంత్రణ యాప్‌తో మీ పిల్లలను కనుగొని భద్రపరచండి. ప్రత్యక్ష GPS స్థాన భాగస్వామ్యం.",
+      "summary": "కుటుంబ భద్రత కోసం జీపీఎస్ ఫోన్ ట్రాకర్. లైవ్ లొకేషన్‌ను షేర్ చేయండి మరియు పిల్లలను కనుగొనండి.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
@@ -1364,9 +1364,9 @@
       "v": 2
     },
     "ur": {
-      "key": "371af0aa3b4f98cf3392356b04c2c750",
+      "key": "35c2446a472b597cee01c426aa0ac056",
       "own_screens": false,
-      "summary": "پیرنٹل کنٹرول ایپ کے ذریعے اپنے بچوں کو ڈھونڈیں اور محفوظ کریں۔ لائیو GPS لوکیشن شیئرنگ۔",
+      "summary": "خاندانی حفاظت کے لیے GPS فون ٹریکر۔ لائیو مقام کا اشتراک کریں اور بچوں کو تلاش کریں۔",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     },
@@ -1399,9 +1399,9 @@
       "v": 2
     },
     "zu": {
-      "key": "bda279cad323ff38d48cd5b21e66e8c5",
+      "key": "894031fb6cd3e591a57878d28e5132ef",
       "own_screens": false,
-      "summary": "Thola futhi uvikele izingane zakho ngohlelo lokusebenza lokulawula lwabazali. Ukwabelana ngendawo nge-GPS bukhoma.",
+      "summary": "Isilandeleli sefoni se-GPS sokuphepha komndeni. Yabelana ngendawo ebukhoma bese uthola izingane.",
       "title": "mLite - GPS Location Tracker",
       "v": 2
     }

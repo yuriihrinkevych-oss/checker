@@ -1,6 +1,6 @@
 {
   "_lang": "ja",
-  "_scanned": "2026-10-26",
+  "_scanned": "2026-11-02",
   "containsAds": true,
   "contentRating": "3 歳以上",
   "description": "<b>iシェアリングは、家族の居場所や現在地を地図で確認できる位置情報共有アプリです。</b>\r\n世界で6600万ユーザーに利用されているiシェアリングは、子供の見守りや家族の安否確認、スマートフォンの紛失対策など、毎日のさまざまな場面で活用できます。リアルタイムで位置情報を確認できるため、外出中や離れているときも家族の状況をすぐに確認できます。\r\n\r\n\r\n\r\n<b>主な機能</b>\r\n<b>リアルタイム位置確認</b>\r\n 地図上で家族の現在地や居場所を確認できる見守り機能です。\r\n<b>場所通知</b>\r\n 指定した場所への到着や出発を自動で通知します。\r\n<b>ミートアップ - 一時的なグループ位置情報共有</b>\r\nQRコードやリンクから参加して位置情報を共有できます。時間になると自動で終了し、グループチャットも利用できます。\r\n<b>SOSアラート</b>\r\n緊急時に位置情報とSOS通知を家族へ送信できます。\r\n<b>携帯を探す</b>\r\n 紛失したスマートフォンの位置を地図で確認できます。\r\n<b>音声メッセージ</b>\r\n アプリ内で音声メッセージを送信できます。\r\n\r\n\r\n\r\n<b>プレミアム機能</b>\r\n🔄 <b>365日位置履歴</b>\r\n 過去1年間の移動履歴を確認できます。\r\n📍 <b>無制限の場所通知</b>\r\n📡 <b>3Dストリートビュー</b>\r\n 地図とストリートビューで周辺環境を確認できます。\r\n🔋 <b>バッテリー通知</b>\r\n 端末のバッテリー残量を通知します。\r\n🧓 <b>休止アラート</b>\r\n スマートフォンが長時間操作されていない場合に通知する見守り機能。家族の安全確認に役立ちます。\r\n🚗 <b>安全運転サポート</b>\r\n 運転レポート、スピード超過警報、ドライブ通知などで安全運転をサポートします。\r\n🆘 <b>SOS音声録音</b>\r\n SOS通知と同時に周囲の音声を10秒録音して送信できます。\r\n👥 <b>グループ購読共有</b>\r\n 家族でプレミアム機能を共有できます。\r\n📱 <b>デバイスリンク</b>\r\n 複数のスマートフォンやデバイスを連携できます。\r\n💻 <b>Web版</b>\r\n ブラウザから位置情報を確認できます。\r\n🛑 <b>広告削除</b>\r\n\r\n\r\n\r\n\r\n<b>重要事項</b>\r\n• 位置情報共有は利用者同士の同意のもとで使用してください\r\n • GPS使用によりバッテリー消費が増える場合があります\r\n • プライバシー保護とデータセキュリティを重視しています\r\n\r\n \r\n利用規約\r\nhttp://isharingsoft.com/terms_of_use\r\nプライバシーポリシー\r\nhttp://isharingsoft.com/privacy_policy\r\nサポート\r\ncontact@isharingsoft.com",
@@ -8,32 +8,33 @@
   "genre": "通信",
   "headerImage": "https://play-lh.googleusercontent.com/oR09dWZH9Q7AqTvcIhSk3toChUwCUbuDuowPkXGvh--VBsdkCriWTaIXd9_XilJBJxnHJkAuTBQ5Zq2r3sw7",
   "histogram": [
-    23142,
-    11387,
-    37302,
-    43847,
-    134047
+    22481,
+    11057,
+    38048,
+    44262,
+    134557
   ],
   "icon": "https://play-lh.googleusercontent.com/g_FlgIrM9oMubvKbMvgcFubkkLKBXA6kw6-x3pH-rTXzivtFjdy7Y4bTxDxVp32hXsGXGgE_kJUXJql2VJfG",
   "inAppProductPrice": "￥299～￥18,800/アイテム",
   "installs": "10,000,000+",
-  "lastUpdatedOn": "2026/10/23",
+  "lastUpdatedOn": "2026/10/28",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 249794,
-    "realInstalls": 33130752,
-    "reviews": 1578,
-    "score": 4.0179806
+    "ratings": 250475,
+    "realInstalls": 33203112,
+    "reviews": 1580,
+    "score": 4.027624
   },
   "price": 0,
   "screenshots": [
-    "https://play-lh.googleusercontent.com/z0gqKKfDkYwbtVPcxkPf2VH2p-L_W2Gyyh-OvJIiFlZ-lSFzipNZVMRx-d2E0EWDp2adf89BiluUcuhYQc9qow",
-    "https://play-lh.googleusercontent.com/NKk4MsHXimwQei-XEvbiDNyX5jAegRbeP5QiPVsPRm3Jo_ZVtvT_l2GJ-xCtuA-ImMupk64QYEeepKpINIJMgw",
-    "https://play-lh.googleusercontent.com/PV7PcIQovQKAkK69QkuV1RZcedgUdfKZhhVzCqqQN2p-uTngy1n8ZSLc5IBimvjo9SpZSY4uuzNDRS9tNCKZyUU",
-    "https://play-lh.googleusercontent.com/baaGxBpZyzEj3HRrNrVaII-FvC23ThuK9sX2T_xqiqw_C1oUOzr-IpMCjCRGCqV8bh-chXxr2YV5WRnqNvOJbw",
-    "https://play-lh.googleusercontent.com/e-3FRFWysxM640jnRj3SiKjpyoOKef9w6q3MdQ8zdmngh91UIe-IYSgnYqP7GICO7SezBYdSmQGUrTFOn338",
-    "https://play-lh.googleusercontent.com/P4z32HSc0nNSY1rQ3DRQo-dhz-75-t7s-TrB6V614bp4BD7EiqgQeKLrrIc2GFUUfPQckGa2jkI46UT6_h7XWA",
-    "https://play-lh.googleusercontent.com/RYz1Al4Chq6EsH2yokQCcSRhs2wyrrom0PCad1pSiY2RezVPlNTQoXhIIPJ31rE1XWmZrWrJaUV-qfd5-uS7MQ",
+    "https://play-lh.googleusercontent.com/a4P-figfejXNDO_HSbq5-9Fix03UIVmSxsdICOveY9eIpSpO2sKBOW7UooONUO5LX5mif8P7_p3XMZatI_B-",
+    "https://play-lh.googleusercontent.com/KKOPp7K_J5aX4S8HHA59MQGOcQFq2hawkyOi7KSErSysGMidMh8oFWnsZFZ3mxpqLdnZNwLViUpMvKnBBA1aOA",
+    "https://play-lh.googleusercontent.com/WKvg0UXD2RL5G9IxGxS8GqAGLU8Cpkxa02S6nk2p2UwXLB83xOBsqJaqmcdSvFrfHyR7kghtEmF0K_HO4H8h",
+    "https://play-lh.googleusercontent.com/WcgR3U4ZXSspkUvMv-yIwv_gGUKdrFnw8kNILGOygQjUpxBakKbM1hBq_o8rFa2ru0-fAikn9TShQgIA13RDtw",
+    "https://play-lh.googleusercontent.com/iwW_g2QkP-BBk0nFElcK0GsaCmtKtZ-9e6h_tkcZjnHWLniy-IIRqdhiiAjhgIpAY-W9S1nFW-o07a805xWv",
+    "https://play-lh.googleusercontent.com/CkjrIy9hGh0HZEwxTaDjJe1ir-5624n014wTGUjGhY8aKwRwHG5nwdOj8q6RNBYFYhiTiTaNMNEl4BO4DmwJ",
+    "https://play-lh.googleusercontent.com/9T8wvA_9wSyvuEOKSzwGflvcJbKnXuTVsQuARmcyPHEzWrtbytXku_k-u6xwOp1xsyLJXIjE4U9Df6Swa4MQR_4",
+    "https://play-lh.googleusercontent.com/yro4tC2l95WuSd92GDT-XRV8WurvoQ7ZwJeaGFg42saaOYSJFC-3ccrBYZR34-XXrtnO_pKa9W2d-8EpPVoB",
     "https://play-lh.googleusercontent.com/RdsvlFsc6DRACkbF4Az_FKkGnT7vZb-J8oODBmq7TtZnoweBZOuDYK0E5HnbpXo6ZaqlQMIgoyJNRV7BTsOk3A",
     "https://play-lh.googleusercontent.com/O05xxbti5lmty_HFaX0xBztturyNxKqt_GHiLKcTWaBcfw6tbhKG9g5IjtP7vghih9JigY927VV6JEWMy8HZ7A",
     "https://play-lh.googleusercontent.com/F4Yi2xKC_jTlTyfzW72-wWN9x1k5-V3LZLIvdNb3XyT7R5Gng43HZ4ZnUoWMcSMwS0IgpH5a7SNZvCn7XznnMg",
@@ -51,6 +52,6 @@
   ],
   "summary": "家族の居場所や位置情報を地図で確認。現在地チェックと携帯探しで安心",
   "title": "iシェアリング - 位置情報共有 GPS 見守りアプリ",
-  "version": "13.0.2.2",
+  "version": "13.0.5.1",
   "video": null
 }
