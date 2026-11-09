@@ -23,9 +23,9 @@
       "currency": "ARS",
       "iap": "ARS 5,217.55 - ARS 194,335.05 per item",
       "max_local": 194335.05,
-      "max_usd": 126.41,
+      "max_usd": 125.75,
       "min_local": 5217.55,
-      "min_usd": 3.39
+      "min_usd": 3.38
     },
     "at": {
       "available": true,
@@ -33,7 +33,7 @@
       "currency": "EUR",
       "iap": "€ 2,76 - € 144,99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 161.81,
+      "max_usd": 161.65,
       "min_local": 2.76,
       "min_usd": 3.08
     },
@@ -43,9 +43,9 @@
       "currency": "AUD",
       "iap": "$2.99 - $214.99 per item",
       "max_local": 214.99,
-      "max_usd": 151.11,
+      "max_usd": 147.68,
       "min_local": 2.99,
-      "min_usd": 2.1
+      "min_usd": 2.05
     },
     "bd": {
       "available": true,
@@ -53,7 +53,7 @@
       "currency": "BDT",
       "iap": "BDT 149.00 - BDT 14,000.00 per item",
       "max_local": 14000.0,
-      "max_usd": 112.88,
+      "max_usd": 112.62,
       "min_local": 149.0,
       "min_usd": 1.2
     },
@@ -63,7 +63,7 @@
       "currency": "EUR",
       "iap": "€2.76 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 161.81,
+      "max_usd": 161.65,
       "min_local": 2.76,
       "min_usd": 3.08
     },
@@ -73,7 +73,7 @@
       "currency": "EUR",
       "iap": "€2.78 - €143.16 if billed through Play",
       "max_local": 143.16,
-      "max_usd": 159.76,
+      "max_usd": 159.61,
       "min_local": 2.78,
       "min_usd": 3.1
     },
@@ -83,9 +83,9 @@
       "currency": "BRL",
       "iap": "R$2.99 - R$669.99 per item",
       "max_local": 669.99,
-      "max_usd": 123.23,
+      "max_usd": 121.71,
       "min_local": 2.99,
-      "min_usd": 0.55
+      "min_usd": 0.54
     },
     "ca": {
       "available": true,
@@ -93,9 +93,9 @@
       "currency": "CAD",
       "iap": "$2.99 - $169.99 per item",
       "max_local": 169.99,
-      "max_usd": 121.7,
+      "max_usd": 120.43,
       "min_local": 2.99,
-      "min_usd": 2.14
+      "min_usd": 2.12
     },
     "ch": {
       "available": true,
@@ -103,9 +103,9 @@
       "currency": "CHF",
       "iap": "CHF 2.99 - CHF 120.00 per item",
       "max_local": 120.0,
-      "max_usd": 145.54,
+      "max_usd": 146.4,
       "min_local": 2.99,
-      "min_usd": 3.63
+      "min_usd": 3.65
     },
     "cl": {
       "available": true,
@@ -113,9 +113,9 @@
       "currency": "CLP",
       "iap": "CLP 1,900 - CLP 124,000 per item",
       "max_local": 124000.0,
-      "max_usd": 125.15,
+      "max_usd": 126.87,
       "min_local": 1900.0,
-      "min_usd": 1.92
+      "min_usd": 1.94
     },
     "co": {
       "available": true,
@@ -123,9 +123,9 @@
       "currency": "COP",
       "iap": "COP 4,900 - COP 540,000 per item",
       "max_local": 540000.0,
-      "max_usd": 169.16,
+      "max_usd": 166.48,
       "min_local": 4900.0,
-      "min_usd": 1.53
+      "min_usd": 1.51
     },
     "cz": {
       "available": true,
@@ -133,7 +133,7 @@
       "currency": "CZK",
       "iap": "71,08 CZK - 3 399,99 CZK if billed through Play",
       "max_local": 3399.99,
-      "max_usd": 155.79,
+      "max_usd": 155.72,
       "min_local": 71.08,
       "min_usd": 3.26
     },
@@ -143,7 +143,7 @@
       "currency": "EUR",
       "iap": "€2.76 - €139.99 if billed through Play",
       "max_local": 139.99,
-      "max_usd": 156.23,
+      "max_usd": 156.08,
       "min_local": 2.76,
       "min_usd": 3.08
     },
@@ -153,7 +153,7 @@
       "currency": "DKK",
       "iap": "20,60 kr. - 1.099,00 kr. if billed through Play",
       "max_local": 1099.0,
-      "max_usd": 164.19,
+      "max_usd": 164.06,
       "min_local": 20.6,
       "min_usd": 3.08
     },
@@ -163,7 +163,7 @@
       "currency": "EUR",
       "iap": "€2.76 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 161.81,
+      "max_usd": 161.65,
       "min_local": 2.76,
       "min_usd": 3.08
     },
@@ -173,9 +173,9 @@
       "currency": "EGP",
       "iap": "EGP 27.09 - EGP 3,999.99 per item",
       "max_local": 3999.99,
-      "max_usd": 71.48,
+      "max_usd": 74.03,
       "min_local": 27.09,
-      "min_usd": 0.48
+      "min_usd": 0.5
     },
     "es": {
       "available": true,
@@ -183,7 +183,7 @@
       "currency": "EUR",
       "iap": "€2.76 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 161.81,
+      "max_usd": 161.65,
       "min_local": 2.76,
       "min_usd": 3.08
     },
@@ -193,7 +193,7 @@
       "currency": "EUR",
       "iap": "€2.76 - €149.99 if billed through Play",
       "max_local": 149.99,
-      "max_usd": 167.39,
+      "max_usd": 167.23,
       "min_local": 2.76,
       "min_usd": 3.08
     },
@@ -203,7 +203,7 @@
       "currency": "EUR",
       "iap": "€2.76 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 161.81,
+      "max_usd": 161.65,
       "min_local": 2.76,
       "min_usd": 3.08
     },
@@ -213,9 +213,9 @@
       "currency": "GBP",
       "iap": "£2.26 - £124.99 if billed through Play",
       "max_local": 124.99,
-      "max_usd": 167.34,
+      "max_usd": 167.02,
       "min_local": 2.26,
-      "min_usd": 3.03
+      "min_usd": 3.02
     },
     "gr": {
       "available": true,
@@ -223,7 +223,7 @@
       "currency": "EUR",
       "iap": "€2.76 - €149.99 if billed through Play",
       "max_local": 149.99,
-      "max_usd": 167.39,
+      "max_usd": 167.23,
       "min_local": 2.76,
       "min_usd": 3.08
     },
@@ -233,7 +233,7 @@
       "currency": "HKD",
       "iap": "HK$19.99 - HK$1,018.00 per item",
       "max_local": 1018.0,
-      "max_usd": 129.77,
+      "max_usd": 129.85,
       "min_local": 19.99,
       "min_usd": 2.55
     },
@@ -243,9 +243,9 @@
       "currency": "EUR",
       "iap": "€3.85 - €149.99 if billed through Play",
       "max_local": 149.99,
-      "max_usd": 167.39,
+      "max_usd": 167.23,
       "min_local": 3.85,
-      "min_usd": 4.3
+      "min_usd": 4.29
     },
     "hu": {
       "available": true,
@@ -253,9 +253,9 @@
       "currency": "HUF",
       "iap": "849 HUF - 55 999 HUF if billed through Play",
       "max_local": 55999.0,
-      "max_usd": 170.91,
+      "max_usd": 171.86,
       "min_local": 849.0,
-      "min_usd": 2.59
+      "min_usd": 2.61
     },
     "id": {
       "available": true,
@@ -263,7 +263,7 @@
       "currency": "IDR",
       "iap": "Rp 9.900 - Rp 1.990.000 per item",
       "max_local": 1990000.0,
-      "max_usd": 109.68,
+      "max_usd": 109.93,
       "min_local": 9900.0,
       "min_usd": 0.55
     },
@@ -273,7 +273,7 @@
       "currency": "EUR",
       "iap": "€2.76 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 161.81,
+      "max_usd": 161.65,
       "min_local": 2.76,
       "min_usd": 3.08
     },
@@ -283,9 +283,9 @@
       "currency": "ILS",
       "iap": "₪10.00 - ₪475.00 per item",
       "max_local": 475.0,
-      "max_usd": 151.25,
+      "max_usd": 149.0,
       "min_local": 10.0,
-      "min_usd": 3.18
+      "min_usd": 3.14
     },
     "in": {
       "available": true,
@@ -293,7 +293,7 @@
       "currency": "INR",
       "iap": "₹49.00 - ₹12,600.00 per item",
       "max_local": 12600.0,
-      "max_usd": 132.52,
+      "max_usd": 133.97,
       "min_local": 49.0,
       "min_usd": 0.52
     },
@@ -303,7 +303,7 @@
       "currency": "EUR",
       "iap": "€2.76 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 161.81,
+      "max_usd": 161.65,
       "min_local": 2.76,
       "min_usd": 3.08
     },
@@ -313,9 +313,9 @@
       "currency": "JPY",
       "iap": "¥299 - ¥18,800 per item",
       "max_local": 18800.0,
-      "max_usd": 119.34,
+      "max_usd": 118.74,
       "min_local": 299.0,
-      "min_usd": 1.9
+      "min_usd": 1.89
     },
     "ke": {
       "available": true,
@@ -323,7 +323,7 @@
       "currency": "KES",
       "iap": "Ksh 400.00 - Ksh 21,000.00 per item",
       "max_local": 21000.0,
-      "max_usd": 161.62,
+      "max_usd": 161.61,
       "min_local": 400.0,
       "min_usd": 3.08
     },
@@ -333,9 +333,9 @@
       "currency": "KRW",
       "iap": "₩3,900 - ₩190,000 per item",
       "max_local": 190000.0,
-      "max_usd": 142.56,
+      "max_usd": 139.56,
       "min_local": 3900.0,
-      "min_usd": 2.93
+      "min_usd": 2.86
     },
     "kz": {
       "available": true,
@@ -343,9 +343,9 @@
       "currency": "KZT",
       "iap": "KZT 300.00 - KZT 65,990.00 per item",
       "max_local": 65990.0,
-      "max_usd": 145.53,
+      "max_usd": 147.34,
       "min_local": 300.0,
-      "min_usd": 0.66
+      "min_usd": 0.67
     },
     "lt": {
       "available": true,
@@ -353,7 +353,7 @@
       "currency": "EUR",
       "iap": "€2.78 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 161.81,
+      "max_usd": 161.65,
       "min_local": 2.78,
       "min_usd": 3.1
     },
@@ -363,9 +363,9 @@
       "currency": "EUR",
       "iap": "€3.69 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 161.81,
+      "max_usd": 161.65,
       "min_local": 3.69,
-      "min_usd": 4.12
+      "min_usd": 4.11
     },
     "ma": {
       "available": true,
@@ -373,9 +373,9 @@
       "currency": "MAD",
       "iap": "MAD 29.99 - MAD 1,539.99 per item",
       "max_local": 1539.99,
-      "max_usd": 156.47,
+      "max_usd": 157.78,
       "min_local": 29.99,
-      "min_usd": 3.05
+      "min_usd": 3.07
     },
     "mx": {
       "available": true,
@@ -383,9 +383,9 @@
       "currency": "MXN",
       "iap": "MX$19.90 - MX$3,049.00 per item",
       "max_local": 3049.0,
-      "max_usd": 162.14,
+      "max_usd": 163.65,
       "min_local": 19.9,
-      "min_usd": 1.06
+      "min_usd": 1.07
     },
     "my": {
       "available": true,
@@ -393,7 +393,7 @@
       "currency": "MYR",
       "iap": "RM 9.90 - RM 639.99 per item",
       "max_local": 639.99,
-      "max_usd": 157.75,
+      "max_usd": 157.68,
       "min_local": 9.9,
       "min_usd": 2.44
     },
@@ -403,7 +403,7 @@
       "currency": "NGN",
       "iap": "₦99.00 - ₦162,500.00 per item",
       "max_local": 162500.0,
-      "max_usd": 120.51,
+      "max_usd": 120.71,
       "min_local": 99.0,
       "min_usd": 0.07
     },
@@ -413,7 +413,7 @@
       "currency": "EUR",
       "iap": "€2.78 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 161.81,
+      "max_usd": 161.65,
       "min_local": 2.78,
       "min_usd": 3.1
     },
@@ -423,9 +423,9 @@
       "currency": "NOK",
       "iap": "22,61 kr - 1 749,00 kr if billed through Play",
       "max_local": 1749.0,
-      "max_usd": 189.84,
+      "max_usd": 184.97,
       "min_local": 22.61,
-      "min_usd": 2.45
+      "min_usd": 2.39
     },
     "nz": {
       "available": true,
@@ -433,9 +433,9 @@
       "currency": "NZD",
       "iap": "$4.41 - $244.99 per item",
       "max_local": 244.99,
-      "max_usd": 137.82,
+      "max_usd": 136.14,
       "min_local": 4.41,
-      "min_usd": 2.48
+      "min_usd": 2.45
     },
     "pe": {
       "available": true,
@@ -443,9 +443,9 @@
       "currency": "PEN",
       "iap": "PEN 9.99 - PEN 529.99 per item",
       "max_local": 529.99,
-      "max_usd": 152.86,
+      "max_usd": 153.85,
       "min_local": 9.99,
-      "min_usd": 2.88
+      "min_usd": 2.9
     },
     "ph": {
       "available": true,
@@ -453,9 +453,9 @@
       "currency": "PHP",
       "iap": "₱49.00 - ₱7,200.00 per item",
       "max_local": 7200.0,
-      "max_usd": 113.02,
+      "max_usd": 114.1,
       "min_local": 49.0,
-      "min_usd": 0.77
+      "min_usd": 0.78
     },
     "pk": {
       "available": true,
@@ -463,7 +463,7 @@
       "currency": "PKR",
       "iap": "Rs 105.00 - Rs 37,200.00 per item",
       "max_local": 37200.0,
-      "max_usd": 134.43,
+      "max_usd": 134.41,
       "min_local": 105.0,
       "min_usd": 0.38
     },
@@ -473,7 +473,7 @@
       "currency": "PLN",
       "iap": "11,65 PLN - 659,99 PLN if billed through Play",
       "max_local": 659.99,
-      "max_usd": 167.04,
+      "max_usd": 167.36,
       "min_local": 11.65,
       "min_usd": 2.95
     },
@@ -483,7 +483,7 @@
       "currency": "EUR",
       "iap": "€2.78 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 161.81,
+      "max_usd": 161.65,
       "min_local": 2.78,
       "min_usd": 3.1
     },
@@ -503,7 +503,7 @@
       "currency": "RON",
       "iap": "12,33 RON - 699,99 RON if billed through Play",
       "max_local": 699.99,
-      "max_usd": 146.38,
+      "max_usd": 146.27,
       "min_local": 12.33,
       "min_usd": 2.58
     },
@@ -513,7 +513,7 @@
       "currency": "RSD",
       "iap": "RSD 400 - RSD 16,999 per item",
       "max_local": 16999.0,
-      "max_usd": 161.54,
+      "max_usd": 161.46,
       "min_local": 400.0,
       "min_usd": 3.8
     },
@@ -533,9 +533,9 @@
       "currency": "SEK",
       "iap": "24,99 kr - 1 749,00 kr if billed through Play",
       "max_local": 1749.0,
-      "max_usd": 178.06,
+      "max_usd": 176.82,
       "min_local": 24.99,
-      "min_usd": 2.54
+      "min_usd": 2.53
     },
     "sg": {
       "available": true,
@@ -543,9 +543,9 @@
       "currency": "SGD",
       "iap": "$2.99 - $189.98 per item",
       "max_local": 189.98,
-      "max_usd": 148.65,
+      "max_usd": 148.09,
       "min_local": 2.99,
-      "min_usd": 2.34
+      "min_usd": 2.33
     },
     "si": {
       "available": true,
@@ -553,7 +553,7 @@
       "currency": "EUR",
       "iap": "€2.78 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 161.81,
+      "max_usd": 161.65,
       "min_local": 2.78,
       "min_usd": 3.1
     },
@@ -563,7 +563,7 @@
       "currency": "EUR",
       "iap": "€2.78 - €144.99 if billed through Play",
       "max_local": 144.99,
-      "max_usd": 161.81,
+      "max_usd": 161.65,
       "min_local": 2.78,
       "min_usd": 3.1
     },
@@ -573,9 +573,9 @@
       "currency": "THB",
       "iap": "THB 49.99 - THB 4,950.00 per item",
       "max_local": 4950.0,
-      "max_usd": 146.64,
+      "max_usd": 147.5,
       "min_local": 49.99,
-      "min_usd": 1.48
+      "min_usd": 1.49
     },
     "tr": {
       "available": true,
@@ -583,7 +583,7 @@
       "currency": "TRY",
       "iap": "TRY 7.99 - TRY 3,989.99 per item",
       "max_local": 3989.99,
-      "max_usd": 79.9,
+      "max_usd": 79.49,
       "min_local": 7.99,
       "min_usd": 0.16
     },
@@ -593,9 +593,9 @@
       "currency": "TWD",
       "iap": "NT$49.99 - NT$4,240.00 per item",
       "max_local": 4240.0,
-      "max_usd": 129.91,
+      "max_usd": 129.07,
       "min_local": 49.99,
-      "min_usd": 1.53
+      "min_usd": 1.52
     },
     "ua": {
       "available": true,
@@ -603,7 +603,7 @@
       "currency": "UAH",
       "iap": "9,99 UAH - 5 749,99 UAH per item",
       "max_local": 5749.99,
-      "max_usd": 126.55,
+      "max_usd": 126.74,
       "min_local": 9.99,
       "min_usd": 0.22
     },
@@ -623,9 +623,9 @@
       "currency": "VND",
       "iap": "₫19,900 - ₫3,050,000 per item",
       "max_local": 3050000.0,
-      "max_usd": 118.28,
+      "max_usd": 119.09,
       "min_local": 19900.0,
-      "min_usd": 0.77
+      "min_usd": 0.78
     },
     "za": {
       "available": true,
@@ -633,12 +633,12 @@
       "currency": "ZAR",
       "iap": "R 39,46 - R 2 799,99 per item",
       "max_local": 2799.99,
-      "max_usd": 167.72,
+      "max_usd": 169.34,
       "min_local": 39.46,
-      "min_usd": 2.36
+      "min_usd": 2.39
     }
   },
-  "date": "2026-11-02",
+  "date": "2026-11-09",
   "errors": [],
   "first_seen": {
     "countries": {
@@ -721,7 +721,6 @@
       "el": "baseline",
       "en-AU": "baseline",
       "en-GB": "2026-10-08",
-      "en-IN": "baseline",
       "es": "baseline",
       "es-419": "baseline",
       "et": "baseline",
@@ -801,7 +800,6 @@
     "el",
     "en-GB",
     "en-AU",
-    "en-IN",
     "es",
     "es-419",
     "et",
@@ -958,13 +956,6 @@
       "v": 2
     },
     "en-GB": {
-      "key": "840e17d1546f00ed66156ad5e7de5f39",
-      "own_screens": false,
-      "summary": "Share live GPS location, get arrival alerts and help find your lost phone.",
-      "title": "iSharing: GPS Location Tracker",
-      "v": 2
-    },
-    "en-IN": {
       "key": "840e17d1546f00ed66156ad5e7de5f39",
       "own_screens": false,
       "summary": "Share live GPS location, get arrival alerts and help find your lost phone.",

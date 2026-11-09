@@ -1,6 +1,6 @@
 {
   "_lang": "ms",
-  "_scanned": "2026-11-02",
+  "_scanned": "2026-11-09",
   "containsAds": true,
   "contentRating": "Dinilai untuk 3+",
   "description": "<b>Kekal berhubung dengan keluarga sepanjang hari tanpa perlu kerap bertanya lokasi.</b> Semak sama ada anak-anak telah tiba di sekolah atau keluarga sudah pulang ke rumah. iSharing menyediakan perkhidmatan perkongsian lokasi sejak 2010.\r\n\r\n<b>CIRI ASAS PERCUMA:</b>\r\n\r\n★ <b>Penjejak GPS dan lokasi masa nyata:</b> Kongsi lokasi secara peribadi dan semak kemas kini pada peta. Gunakan GPS tracker untuk melihat perjalanan harian keluarga atau perjalanan anak-anak ke sekolah. Maklumat lokasi dikumpulkan pada satu peta supaya anda tidak perlu menghantar mesej setiap kali ingin menyemak perjalanan.\r\n\r\n★ <b>Amaran ketibaan dan pelepasan:</b> Terima pemberitahuan apabila keluarga tiba di atau meninggalkan rumah, sekolah atau tempat kerja. Tetapkan destinasi biasa dan dapatkan kemas kini apabila ketibaan atau pelepasan dikesan, walaupun anda tidak sedang melihat peta.\r\n\r\n★ <b>Meetup - Perkongsian lokasi sementara:</b> Kongsi lokasi masa nyata dalam kumpulan untuk tempoh tertentu tanpa menambah hubungan kekal. Sertai melalui pautan atau kod QR dan gunakan sembang kumpulan untuk menyelaraskan perjalanan. Perkongsian tamat secara automatik pada masa yang ditetapkan, sesuai untuk lawatan atau aktiviti berkumpulan.\r\n\r\n★ <b>Cari telefon saya - Find My Phone:</b> Cari telefon yang hilang atau dicuri menggunakan lokasi yang tersedia pada peta. Semak kedudukan peranti semasa mencarinya. Ketersediaan lokasi bergantung pada sambungan, tetapan lokasi dan kebenaran yang diperlukan pada telefon.\r\n\r\n★ <b>Amaran SOS:</b> Hantar pemberitahuan kecemasan bersama lokasi semasa kepada keluarga dengan satu ketikan. Lokasi memberi maklumat tambahan apabila anda meminta bantuan. Gunakan amaran ini untuk memaklumkan keluarga tentang tempat amaran dihantar.\r\n\r\n★ <b>Walkie-Talkie:</b> Hantar mesej suara terus melalui iSharing untuk berkomunikasi semasa dalam perjalanan. Sampaikan kemas kini ringkas tanpa menaip mesej panjang dan teruskan komunikasi keluarga melalui suara.\r\n\r\n★ <b>Sejarah lokasi:</b> Lihat semula lokasi terdahulu dan laluan harian, bukan hanya kedudukan semasa. Semak perjalanan atau ingat semula tempat telefon dibawa. Sejarah lokasi asas tersedia secara percuma untuk menyemak semula perjalanan harian.\r\n\r\n<b>CIRI PREMIUM:</b>\r\n🔄 Sejarah lokasi sehingga 365 hari\r\n📍 Amaran tempat tanpa had\r\n📡 Paparan jalan 3D\r\n🔋 Amaran bateri lemah\r\n🚗 Amaran dan laporan pemanduan\r\n🆘 Rakaman audio SOS\r\n👵 Amaran tidak aktif\r\n💻 Peranti terpaut dan aplikasi web\r\n🛑 Buang iklan\r\n\r\nLaporan pemanduan memaparkan perjalanan dan kejadian yang direkodkan, termasuk kelajuan, brek mengejut dan penggunaan telefon semasa memandu. Amaran bateri dan tidak aktif melengkapkan maklumat pada peta. Akses juga iSharing melalui peranti yang disokong dan aplikasi web.\r\n\r\nPerkongsian lokasi asas adalah percuma. Cuba Premium percuma selama 7 hari; langganan berbayar diperlukan untuk terus menggunakan ciri Premium selepas tempoh percubaan.\r\n\r\niSharing menggunakan perkhidmatan latar depan untuk mengemas kini lokasi di latar belakang dan memberikan kemas kini tepat pada masanya.\r\n\r\nPerlukan bantuan? E-mel contact@isharingsoft.com.\r\n\r\n* iSharing direka untuk perkongsian lokasi bersama dan hanya boleh digunakan dengan persetujuan bersama.",
@@ -8,22 +8,22 @@
   "genre": "Komunikasi",
   "headerImage": "https://play-lh.googleusercontent.com/aOyJlomq1KevZyaeufRspaJ5QT6KB8uDejAZMtcAZV5tAhNWqxS5bqAZL7mH7PhY35MxaPkXyIiiGvagoUoR9g",
   "histogram": [
-    8555,
-    3002,
-    9056,
-    23216,
-    206494
+    8527,
+    2991,
+    9075,
+    22688,
+    207790
   ],
   "icon": "https://play-lh.googleusercontent.com/g_FlgIrM9oMubvKbMvgcFubkkLKBXA6kw6-x3pH-rTXzivtFjdy7Y4bTxDxVp32hXsGXGgE_kJUXJql2VJfG",
   "inAppProductPrice": "RM 9.90 - RM 639.99 per item",
   "installs": "10,000,000+",
-  "lastUpdatedOn": "28 Okt 2026",
+  "lastUpdatedOn": "1 Nov 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 250475,
-    "realInstalls": 33203112,
-    "reviews": 693,
-    "score": 4.66129
+    "ratings": 251174,
+    "realInstalls": 33264767,
+    "reviews": 695,
+    "score": 4.6646585
   },
   "price": 0,
   "screenshots": [
@@ -52,6 +52,6 @@
   ],
   "summary": "Kongsi lokasi masa nyata, terima amaran ketibaan dan cari telefon yang hilang.",
   "title": "iSharing: GPS Location Tracker",
-  "version": "13.0.5.1",
+  "version": "13.1.0.4",
   "video": null
 }

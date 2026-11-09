@@ -1,6 +1,6 @@
 {
   "_lang": "zh-HK",
-  "_scanned": "2026-11-02",
+  "_scanned": "2026-11-09",
   "containsAds": true,
   "contentRating": "3 歲或以上",
   "description": "<b>iSharing 愛分享是一款家庭 GPS 定位追蹤 App，支援即時位置分享，協助父母隨時掌握孩子的位置，讓家庭安全更有保障。</b>\r\n\r\n使用我們的<b>家庭定位與 GPS 追蹤功能</b>，在地圖上查看家人位置、接收地點提醒，並尋找遺失的手機。\r\n\r\n愛分享讓父母與孩子私下分享位置，方便日常聯繫。無論是確認孩子是否抵達學校、查看家人位置，或尋找手機，愛分享都能讓日常定位更簡單。\r\n\r\n愛分享自 2010 年起提供位置分享服務。\r\n\r\n<b>主要功能：</b>\r\n\r\n★ <b>兒童 GPS 定位追蹤：</b>在地圖上查看孩子的位置，透過 GPS 定位了解日常行蹤。當孩子外出或探索時，您可以隨時了解所在位置，讓日常照護更安心。\r\n\r\n★ <b>即時位置分享：</b>分享位置，並在地圖上查看家庭成員的目前位置。即使家人在不同地點，也能保持聯繫，輕鬆掌握彼此的位置。\r\n\r\n★ <b>地點提醒：</b>當孩子或家庭成員抵達或離開住家、學校及工作地點時，接收通知。不必反覆傳訊息詢問孩子在哪裡，也能及時掌握抵達與離開的情況。\r\n\r\n★ <b>家庭安全通知：</b>透過自動位置提醒，隨時掌握孩子與家庭成員的日常外出情況，讓家庭安全管理更輕鬆。\r\n\r\n★ <b>位置紀錄：</b>免費查看過去的位置與移動路線，輕鬆掌握家庭成員的歷史行程。\r\n\r\n★ <b>Meetup - 限時群組位置分享：</b>透過連結或 QR Code 加入群組，在設定的時間內分享即時位置並使用群組聊天。Meetup 結束時，位置分享會自動停止。\r\n\r\n★ <b>尋找手機：</b>使用 GPS 定位功能尋找遺失或遭竊的手機，並在地圖上查看其位置。追蹤手機的位置變化，協助縮小搜尋範圍，讓尋找裝置更方便。\r\n\r\n★ <b>SOS 緊急通知：</b>遇到緊急情況時，快速向家庭成員發送包含目前位置的 SOS 通知。\r\n\r\n★ <b>語音訊息：</b>直接透過愛分享傳送語音訊息，方便與家人聯繫。像使用對講機一樣傳送免費語音訊息，外出途中也能輕鬆保持聯繫。\r\n\r\n<b>進階功能：</b>\r\n🔄 延長位置紀錄：最長 365 天\r\n📍 無限地點提醒\r\n📡 3D 街景\r\n🔋 低電量提醒\r\n🚗 駕駛提醒 / 駕駛報告\r\n🆘 SOS 環境錄音\r\n👵 長時間未活動提醒\r\n💻 多裝置連結與網頁版\r\n🛑 移除廣告\r\n\r\n愛分享使用前景服務，在背景持續更新位置，以提供準確、即時的 GPS 位置資訊。\r\n\r\n使用定位 App 時需要協助？請透過 contact@isharingsoft.com 聯絡愛分享支援團隊。\r\n\r\n* 愛分享專為相互分享位置而設計，且僅應在取得同意的情況下使用。",
@@ -8,22 +8,22 @@
   "genre": "通訊",
   "headerImage": "https://play-lh.googleusercontent.com/a_fXjsCZqfRvOSewWvLxAEFG5tPykr6tAk8S60fb6BnwsnL1f84khKwiIv--Cy5NI1OxxQ0Q2GZlmMAEKxwuRJo",
   "histogram": [
-    17516,
-    4574,
-    15173,
-    30347,
-    182528
+    17422,
+    4578,
+    15077,
+    29149,
+    184499
   ],
   "icon": "https://play-lh.googleusercontent.com/g_FlgIrM9oMubvKbMvgcFubkkLKBXA6kw6-x3pH-rTXzivtFjdy7Y4bTxDxVp32hXsGXGgE_kJUXJql2VJfG",
   "inAppProductPrice": "每個項目 HK$19.99 - HK$1,018.00",
   "installs": "10,000,000+",
-  "lastUpdatedOn": "2026年10月28日",
+  "lastUpdatedOn": "2026年11月1日",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 250475,
-    "realInstalls": 33203112,
+    "ratings": 251174,
+    "realInstalls": 33264767,
     "reviews": 346,
-    "score": 4.420561
+    "score": 4.427907
   },
   "price": 0,
   "screenshots": [
@@ -52,6 +52,6 @@
   ],
   "summary": "GPS手機定位與即時位置分享，查看家人位置、接收抵達與離開通知，並查看位置紀錄。",
   "title": "愛分享 - GPS定位 手機追蹤器, 定位追蹤",
-  "version": "13.0.5.1",
+  "version": "13.1.0.4",
   "video": null
 }

@@ -1,6 +1,6 @@
 {
   "_lang": "es",
-  "_scanned": "2026-11-02",
+  "_scanned": "2026-11-09",
   "containsAds": false,
   "contentRating": "PEGI 3",
   "description": "¿Quieres saber dónde están tus amigos? Proporciona a tus amigos y familia tus coordenadas GPS en tiempo real y fíjate en qué andan con nuestra app Findo, el localizador perfecto para estar en contacto con tus seres queridos en todo lugar.\r\n\r\nCon solo unos pocos toques, tú y tus amigos pueden ver y compartir fácilmente las coordenadas GPS exactas del otro en el mapa en tiempo real. Su navegación avanzada y rastreo de ubicación irán al rescate si te encuentras en una necesidad urgente de \"encontrar a mis amigos\".\r\n\r\nFindo es un rastreador GPS personalizado y fácil de usar que fue diseñado para estar al tanto de tus amigos y familia y responder a la pregunta \"¿Cómo puedo encontrar mi dispositivo?\". También es perfecta para padres ocupados que quieren saber dónde están sus hijos. Ya sea que tus hijos estén en la escuela o ya hayan partido para la universidad, es siempre un alivio saber que están seguros y protegidos. Con un rastreador de posición en tiempo real y alertas personalizables puedes ver su ubicación en todo momento sin necesidad de molestarlos y recibir su irritación.\r\n\r\nY eso no es todo: también puedes crear tu comunidad en línea (\"círculo\") para tu familia y amigos. ¡Agrega tus seres queridos a tus círculos en nuestra app! Con esto, puedes saber en qué anda tu grupo social... ¡sin esfuerzo! Ya sea que quieras coordinar un encuentro cuando piensas \"Desearía que me pudiera encontrar con mis amigos ahora\", o simplemente quieres asegurarte que tu familia esté bien, ¡el ayudante te permite mantenerte informado sin ser pesado!\r\n\r\nCon nuestro rastreador móvil, recibirás notificaciones instantáneas de rastreo de ubicación siempre que alguien llegue o se vaya de un lugar específico (escuela, trabajo, hogar, etc.). Nuestro localizador te permitirá finalmente conocer la ubicación y situación de tu familia y amigos sin excederte.\r\n\r\nAdemás, tus círculos personales no tienen límites, ¡puedes invitar tantos amigos como quieras! Con Findo tienes un rastreador confiable y respetuoso para mantener un ojo en todas las personas que te importan. Este localizador es un asistente esencial para toda persona que quiera mantenerse conectada con sus amigos y familia.\r\n\r\nOlvídate de preguntar \"¿Cómo hago para encontrar mi dispositivo?\"; Findo es el localizador definitivo que te ayudará a encontrar el teléfono celular de tus seres queridos.\r\n\r\nPermisos requeridos:\r\n\r\n- Notificaciones: para notificarte cuando tus amigos o miembros de tu familia llegan o se van de un lugar específico.\r\n- Ubicación: para permitir que se compartan las coordenadas GPS en tiempo real.\r\n- Cámara y galería: para permitirte elegir o crear una foto de perfil espectacular que podrás compartir con tus amigos.",
@@ -8,11 +8,11 @@
   "genre": "Estilo de vida",
   "headerImage": "https://play-lh.googleusercontent.com/uLlPf34p0txDoquCnxqH5EZEDgzAkEIrQbDMOKlJ1LKm5Q4plAZaM2fRXulFdIzY3rgTiSnEFEsVx86HsuTyVw",
   "histogram": [
-    1708,
+    1715,
     0,
-    1708,
-    2196,
-    13665
+    1715,
+    2205,
+    13721
   ],
   "icon": "https://play-lh.googleusercontent.com/gRZep1uGixu2Ijk8qxd4EGEW5x9TgZdd0-2IfNffcodB50fOe6NldEGFuns04ZMKB_fasUcSZnwi9Jfodz6C0yI",
   "inAppProductPrice": "4,99 € - 39,99 € si se factura a través de Google Play",
@@ -20,8 +20,8 @@
   "lastUpdatedOn": "1 oct 2026",
   "metrics": {
     "minInstalls": 1000000,
-    "ratings": 19278,
-    "realInstalls": 4209048,
+    "ratings": 19357,
+    "realInstalls": 4234096,
     "reviews": 4,
     "score": 4.35443
   },

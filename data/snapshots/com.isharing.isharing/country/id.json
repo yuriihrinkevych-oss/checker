@@ -1,6 +1,6 @@
 {
   "_lang": "id",
-  "_scanned": "2026-11-02",
+  "_scanned": "2026-11-09",
   "containsAds": true,
   "contentRating": "Rating 3+",
   "description": "<b>iSharing adalah aplikasi berbagi lokasi dan pelacak GPS untuk melihat lokasi real-time di peta, menerima notifikasi kedatangan dan keberangkatan, serta membantu menemukan HP yang hilang.</b>\r\n\r\nBagikan lokasi secara pribadi, lihat riwayat perjalanan, atau gunakan Meetup untuk berbagi lokasi sementara dalam grup. iSharing telah menyediakan layanan berbagi lokasi sejak 2010.\r\n\r\n<b>FITUR UTAMA:</b>\r\n\r\n★ <b>Pelacak Lokasi GPS Real-Time:</b> Lihat lokasi terkini di peta pribadi dengan pembaruan GPS. Gunakan berbagi lokasi untuk memantau lokasi keluarga dalam aktivitas sehari-hari.\r\n\r\n★ <b>Notifikasi Lokasi:</b> Terima notifikasi saat keluarga tiba di atau meninggalkan lokasi penting seperti rumah, sekolah, atau tempat kerja.\r\n\r\n★ <b>Riwayat Lokasi:</b> Tinjau lokasi sebelumnya dan rute harian di peta.\r\n\r\n★ <b>Meetup - Berbagi Lokasi Grup Sementara:</b> Bagikan lokasi real-time untuk waktu tertentu tanpa membuat koneksi permanen. Gabung melalui tautan atau kode QR dan gunakan obrolan grup. Berbagi lokasi berakhir otomatis saat Meetup selesai.\r\n\r\n★ <b>Temukan HP yang Hilang:</b> Gunakan pelacak GPS untuk membantu menemukan HP yang hilang atau dicuri dan melihat lokasinya di peta.\r\n\r\n★ <b>Peringatan SOS:</b> Kirim peringatan darurat beserta lokasi saat ini kepada keluarga dengan satu ketukan.\r\n\r\n★ <b>Walkie-Talkie:</b> Kirim pesan suara langsung melalui iSharing untuk komunikasi yang praktis.\r\n\r\n<b>FITUR PREMIUM:</b>\r\n\r\n🔄 <b>Riwayat Lokasi Lebih Panjang:</b> Tinjau lokasi sebelumnya hingga 365 hari\r\n📍 <b>Notifikasi Lokasi Tak Terbatas:</b> Atur notifikasi kedatangan dan keberangkatan untuk lebih banyak tempat\r\n📡 <b>Street View 3D:</b> Lihat lokasi dan lingkungan sekitar dari tampilan jalan\r\n🔋 <b>Peringatan Baterai Lemah:</b> Terima notifikasi saat baterai perangkat hampir habis\r\n🚗 <b>Laporan Mengemudi:</b> Tinjau perjalanan, kecepatan berlebih, pengereman mendadak, dan penggunaan HP saat mengemudi\r\n🆘 <b>Rekaman Suara SOS:</b> Terima rekaman suara sekitar bersama peringatan SOS\r\n👵 <b>Peringatan Tidak Aktif:</b> Terima notifikasi saat terdeteksi periode tidak aktif yang tidak biasa\r\n💻 <b>Perangkat Terhubung & Aplikasi Web:</b> Akses iSharing di perangkat yang didukung dan melalui browser web\r\n🛑 <b>Hapus Iklan:</b> Gunakan iSharing tanpa iklan\r\n\r\nFitur dasar iSharing dapat digunakan secara gratis. Fitur Premium memerlukan langganan.\r\n\r\niSharing menggunakan layanan latar depan untuk terus memperbarui lokasi di latar belakang agar informasi lokasi tetap akurat dan terkini.\r\n\r\nButuh bantuan? Hubungi tim dukungan iSharing di contact@isharingsoft.com.\r\n\r\n* iSharing dirancang untuk berbagi lokasi atas persetujuan bersama dan hanya boleh digunakan dengan persetujuan.",
@@ -8,22 +8,22 @@
   "genre": "Komunikasi",
   "headerImage": "https://play-lh.googleusercontent.com/aOyJlomq1KevZyaeufRspaJ5QT6KB8uDejAZMtcAZV5tAhNWqxS5bqAZL7mH7PhY35MxaPkXyIiiGvagoUoR9g",
   "histogram": [
-    12808,
-    3905,
-    5510,
-    18335,
-    209882
+    12799,
+    3907,
+    5679,
+    17965,
+    210788
   ],
   "icon": "https://play-lh.googleusercontent.com/g_FlgIrM9oMubvKbMvgcFubkkLKBXA6kw6-x3pH-rTXzivtFjdy7Y4bTxDxVp32hXsGXGgE_kJUXJql2VJfG",
   "inAppProductPrice": "Rp 9.900 - Rp 1.990.000 per item",
   "installs": "10.000.000+",
-  "lastUpdatedOn": "28 Okt 2026",
+  "lastUpdatedOn": "1 Nov 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 250475,
-    "realInstalls": 33203112,
-    "reviews": 2875,
-    "score": 4.63113
+    "ratings": 251174,
+    "realInstalls": 33264767,
+    "reviews": 2877,
+    "score": 4.6324363
   },
   "price": 0,
   "screenshots": [
@@ -52,6 +52,6 @@
   ],
   "summary": "Bagikan lokasi keluarga real-time, terima notifikasi & temukan HP dengan GPS.",
   "title": "iSharing : lacak lokasi GPS",
-  "version": "13.0.5.1",
+  "version": "13.1.0.4",
   "video": null
 }

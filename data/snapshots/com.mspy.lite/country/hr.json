@@ -1,6 +1,6 @@
 {
   "_lang": "hr",
-  "_scanned": "2026-11-02",
+  "_scanned": "2026-11-09",
   "containsAds": false,
   "contentRating": "PEGI 3",
   "description": "<b>Zaštitite svoju obitelj uz mLite!</b>\r\n\r\nmLite je GPS praćenje lokacije i aplikacija za roditeljski nadzor osmišljena kako bi pomogla roditeljima da ostanu povezani sa svojom djecom. Uz dijeljenje lokacije uživo, obiteljski GPS lokator, sigurnosna upozorenja i povijest lokacije, mLite čini praćenje obitelji jednostavnim i transparentnim.\r\n\r\n<b>Ključne značajke mLite</b>\r\n\r\n📍 <b>GPS praćenje telefona uživo</b>\r\n\r\nKoristite mLite kao GPS praćenje telefona kako biste vidjeli trenutnu lokaciju svog djeteta ili prijatelja na karti. Primajte ažuriranja lokacije i ostanite povezani sa svojom obitelji putem sigurnog dijeljenja lokacije.\r\n\r\n👪 <b>GPS lokator za obitelj</b>\r\n\r\nNaš obiteljski lokator pomaže roditeljima da pronađu djecu i provjere njihovu lokaciju kada je to potrebno. Dijelite lokacije između povezanih uređaja i budite informirani o tome gdje se nalaze vaši voljeni.\r\n\r\n🧒 <b>Praćenje lokacije djeteta</b>\r\n\r\nPraćenje lokacije djeteta pruža GPS alate za praćenje koji pomažu roditeljima da prate kretanje svoje djece. Koristite praćenje lokacije kako biste bili informirani tijekom cijelog dana.\r\n\r\n🔔 <b>Geofencing i upozorenja o lokaciji</b>\r\n\r\nStvorite sigurnosne zone oko važnih mjesta poput doma, posla ili škole. Primajte obavijesti kada ljudi iz vašeg kruga uđu ili izađu iz tih područja.\r\n\r\n📝 <b>Povijest lokacija</b>\r\n\r\nPregledajte prethodno snimljene lokacije i rute kako biste bolje razumjeli dnevne aktivnosti svoje obitelji. Povijest lokacija pomaže ljudima da budu informirani o poznatim mjestima i rutinama.\r\n\r\n🆘 <b>Gumb za hitne slučajeve</b>\r\n\r\nVaš prijatelj ili član obitelji može poslati hitno upozorenje sa svojom trenutnom lokacijom kada mu je potrebna pomoć, pomažući vam da brzo reagirate.\r\n\r\n🔎 <b>Pregled popisa kontakata</b>\r\n\r\nUz potrebna dopuštenja i pristanak, roditelji mogu pregledati kontakte na uređaju svog djeteta kako bi podržali sigurniju komunikaciju.\r\n\r\n📩 <b>Nadzor sigurne komunikacije</b>\r\n\r\nUz odgovarajuće ovlaštenje i znanje i pristanak djeteta, mLite podržava nadzor određenih komunikacija kako bi se potaknule sigurnije online interakcije.\r\n\r\nNapomena: Neke značajke mogu biti ograničene ili nedostupne na iPhoneu.\r\n\r\n<b>Privatnost, privola i obiteljska sigurnost</b>\r\n\r\nmLite je dizajniran za zakonitu roditeljsku kontrolu i obiteljsku sigurnost. Značajke praćenja i nadzora lokacije zahtijevaju znanje i privolu uključenih korisnika.\r\n\r\nAplikacija nije namijenjena za tajno ili neovlašteno praćenje. Osobni podaci obrađuju se u skladu s našim Pravilima o privatnosti, primjenjivim zakonima o zaštiti podataka i zahtjevima GDPR-a gdje je to primjenjivo.\r\n\r\n<b>Usluge pristupačnosti</b>\r\n\r\nmLite koristi Usluge pristupačnosti samo za otkrivene funkcije roditeljske kontrole i sigurnosti djece, uključujući praćenje određene komunikacije aplikacije uz potreban pristanak.\r\n\r\nOve usluge se ne koriste za snimanje telefonskih poziva, promjenu postavki uređaja bez odobrenja ili zaobilaženje zaštita privatnosti Androida.\r\n\r\n<b>Kako započeti</b>\r\n\r\n1. Instalirajte mLite na svoj uređaj i stvorite račun.\r\n2. Instalirajte mLite na svoj povezani uređaj.\r\n3. Dodijelite potrebna dopuštenja za lokaciju i kontakte.\r\n4. Povežite oba uređaja pomoću QR koda ili poveznice.\r\n\r\n<b>Potrebna dopuštenja</b>\r\n\r\n- Kamera i fotografije: Za skeniranje QR kodova i povezivanje uređaja.\r\n- Kontakti: Za podršku funkcija pregleda kontakata i obiteljske sigurnosti.\r\n- Lokacija: Za omogućavanje GPS praćenja, dijeljenja lokacije uživo, povijesti lokacije i geofencinga.\r\n\r\nmLite pomaže obiteljima da ostanu povezane pomoću alata za GPS praćenje lokacije osmišljenih oko transparentnosti, pristanka i sigurnosti djece.\r\n\r\nPravila privatnosti: https://mliteapp.com/privacy.html\r\nUvjeti korištenja: https://mliteapp.com/terms-of-use/\r\nPodrška: support@mliteapp.com",
@@ -8,22 +8,22 @@
   "genre": "Životni stil",
   "headerImage": "https://play-lh.googleusercontent.com/9RSMt7nY0okTnutgi3pRefaf9mWFTQjlvF5kkkm0FAy4mPG15PNDUaEv2KI5wadlz-1JbXRldll5DvtiTYlegg",
   "histogram": [
-    1712,
-    142,
-    450,
-    812,
-    10550
+    1736,
+    151,
+    455,
+    824,
+    10545
   ],
   "icon": "https://play-lh.googleusercontent.com/dML3kCnGKSd4_dSIS2syxIOWf0McQJ5dGtsNWYPlIGwLA8myHJUQ2xmI8LB_iJl1H-r2S3X1eV38uze6asPQ",
   "inAppProductPrice": "1,19 € – 225,50 € ako se naplaćuje putem Playa",
   "installs": "10.000.000+",
-  "lastUpdatedOn": "21. lis 2026.",
+  "lastUpdatedOn": "2. stu 2026.",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 13668,
-    "realInstalls": 12050200,
-    "reviews": 6290,
-    "score": 4.342169
+    "ratings": 13717,
+    "realInstalls": 12076567,
+    "reviews": 6302,
+    "score": 4.3333335
   },
   "price": 0,
   "screenshots": [
@@ -37,6 +37,6 @@
   ],
   "summary": "GPS uređaj za praćenje telefona za obiteljsku sigurnost. Podijelite lokaciju uživo i pronađite djecu.",
   "title": "mLite - GPS Location Tracker",
-  "version": "4.4.0",
+  "version": "4.4.1",
   "video": "https://play.google.com/video/lava/web/player/yt:movie:mZNpXIKVeRE?autoplay=1&embed=play"
 }

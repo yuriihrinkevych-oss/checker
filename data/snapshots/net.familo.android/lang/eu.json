@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-11-02",
+  "_scanned": "2026-11-09",
   "containsAds": true,
   "contentRating": "Nerabeentzat",
   "description": "Jarri zure familiaren segurtasuna lehenesten Familonet-ekin - konektatuta egoteko modu erraz eta segurua.\r\n\r\nFamilonet-ek familiako kideei egun osoan zehar errazago informatuta eta koordinatzen laguntzen die. Baimen argi eta gardentasun osoarekin, lasaitasunerako diseinatuta dago - familiei hurbilago eta lagunduago sentitzen laguntzen die, urrun daudenean ere.\r\n\r\nFamilonet-ek honako ezaugarri hauek eskaintzen ditu:\r\n\r\n- Ikusi onartutako familiako kideen denbora errealeko kokapena familia-mapa pribatu batean\r\n- Jaso jakinarazpenak familiako kideak iristen edo joaten direnean aurrez zehaztutako lekuetan (etxea edo eskola bezala)\r\n- Erabili SOS botoia larrialdiko kokapena partekatzeko\r\n- Txateatu pribatuan zure familiarekin aplikazioaren barruan - egon konektatuta edozein unetan\r\n- Jakinarazi familiako kideei ondo zaudela zure uneko kokapenean check-in azkar batekin\r\n- Kokapena partekatzea beti aukerakoa da - familiako kide bakoitzak bere ikusgarritasuna kontrolatzen du\r\n- Familiako kide bakoitzak erabakitzen du nork ikus dezakeen bere kokapena\r\n\r\n🔒 Pribatutasun-ohar garrantzitsua:\r\n\r\n- Familonet-ek erabiltzaile guztien baimen esplizitua behar du kokapena partekatu aurretik.\r\n- Kokapena zure familia-zirkulu pribatuan bakarrik partekatzen da baimena eman ondoren.\r\n- Baimen hori gabe, kokapen-datuak ez dira ikusgai.\r\n\r\nFamilonet GPS Lokatzailearekin hasteko urratsak:\r\n\r\n- Deskargatu eta konfiguratu: Instalatu aplikazioa eta eman beharrezko baimenak, hala nola kokapenerako sarbidea, funtzionalitate osoa lortzeko.\r\n\r\n- Osatu zure zirkulu pribatua: Sortu edo sartu familia-talde seguru batean. Kidetza gonbidatzen dituzun eta berariaz sartzeko adostasuna dutenentzat da soilik.\r\n\r\n- Bidali gonbidapenak: Gonbidatu erraz familiako kideak haien telefono-zenbakia, esteka bakar bat edo QR kode bat erabiliz.\r\n\r\n- Baimena ezinbestekoa da: Kokapena partekatzen hasteko, gonbidatutako familiako kide bakoitzak kontzienteki onartu behar du gonbidapena eta beharrezko baimen guztiak eman behar ditu, kokapen-zerbitzuak barne, beren gailuan.\r\n\r\n- Egon informatuta: Ziurtatzen dugu familiako kide guztiek jakinarazpen argiak jasotzen dituztela aplikazioaren helburua, nork gonbidatu dituen eta nola erabiliko den haien kokapen-informazioa taldean azaltzen dutenak.\r\n\r\n- Zure kontrola, beti: Familonet-ek familiako kide bakoitzaren adostasun aktiboarekin soilik funtzionatzen du bere kokapena partekatzeko. Baimena ukatzen bada, kide horren kokapena partekatzea inaktibo jarraituko du.\r\n\r\nFamilonetek baimen hauekin bakarrik funtzionatzen du funtzionalitate osoa emateko:\r\n\r\n- Kokapenerako sarbidea: denbora errealean partekatzeko, geofencing egiteko eta SOS alertak egiteko\r\n- Jakinarazpenak: check-in edo segurtasun-alertei buruz jakinarazteko\r\n- Kontaktuak: konfiantzazko senideak gonbidatzeko\r\n- Argazkiak eta kamera: profilak argazkiekin pertsonalizatzeko\r\n\r\nFamilonetek pribatutasunarekin, gardentasunarekin eta erabilera arduratsuarekin konprometituta dago.\r\n\r\nZure iritzia jakin nahiko genuke! Partekatu zure ideiak gurekin support@familo.net helbidean\r\n\r\nErabilera baldintzak: https://terms.familo.net/en/Terms_and_Conditions_Familonet.pdf\r\nPribatutasun politika: https://terms.familo.net/privacy",
@@ -7,11 +7,11 @@
   "genre": "Bizimodua",
   "headerImage": "https://play-lh.googleusercontent.com/L7jnwXpKWmdmAUeU-wkOjRzhXHk9XXGnexTG25Wpsjw-WKNjT8q3FkV1wDbpAbbpKRxidzKdgXIkVCbE5Tk1Wg",
   "histogram": [
-    48425,
-    15576,
-    42458,
-    90256,
-    492796
+    47584,
+    15945,
+    41597,
+    92522,
+    495259
   ],
   "icon": "https://play-lh.googleusercontent.com/k65pzF3iC2vrf7LV96MkzDYjuyTu10Xa1m1jYEDzzpy9Z3le-IPpyXDbU2enm7ZHFPcBJSLiYdTIqEDGugf2TQ",
   "inAppProductPrice": "2,99 US$ - 89,99 US$ elementuko",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "2026(e)ko urr. 23(a)",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 689608,
-    "realInstalls": 24642642,
-    "reviews": 1775,
-    "score": 4.3970165
+    "ratings": 693004,
+    "realInstalls": 24699689,
+    "reviews": 1777,
+    "score": 4.402498
   },
   "price": 0,
   "screenshots": [

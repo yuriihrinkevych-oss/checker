@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-11-02",
+  "_scanned": "2026-11-09",
   "containsAds": false,
   "contentRating": "Lahat",
   "description": "<b>Panatilihing ligtas ang iyong pamilya gamit ang mLite!</b>\r\n\r\nAng mLite ay isang GPS location tracker at parental control app na tumutulong sa mga magulang na manatiling konektado sa kanilang mga anak. Sa live location sharing, family GPS locator, safety alerts, at location history, mas madali at malinaw ang pagsubaybay sa lokasyon ng pamilya.\r\n\r\n<b>Mga pangunahing feature ng mLite</b>\r\n\r\n📍 <b>Live GPS Phone Tracker</b>\r\n\r\nGamitin ang mLite bilang GPS phone tracker upang makita sa mapa ang kasalukuyang lokasyon ng iyong anak o kaibigan. Tumanggap ng location updates at ligtas na magbahagi ng lokasyon sa mga konektadong device.\r\n\r\n👪 <b>Family GPS Locator</b>\r\n\r\nTinutulungan ka ng family locator na hanapin ang iyong mga anak at tingnan ang kanilang lokasyon kung kinakailangan. Magbahagi ng lokasyon sa pamilya at manatiling updated kung nasaan ang iyong mga mahal sa buhay.\r\n\r\n🧒 <b>Child Location Tracker</b>\r\n\r\nGamit ang child location tracker, maaaring subaybayan ng mga magulang ang lokasyon at galaw ng kanilang mga anak sa buong araw.\r\n\r\n🔔 <b>Mga Safety Zone at Location Alerts</b>\r\n\r\nMagtakda ng mga safety zone sa bahay, trabaho, o paaralan. Makatanggap ng alerto kapag pumasok o lumabas sa mga lugar na ito ang mga miyembro ng iyong circle.\r\n\r\n📝 <b>Location History</b>\r\n\r\nTingnan ang mga naitalang lokasyon at ruta upang mas maunawaan ang pang-araw-araw na gawain at mga lugar na madalas puntahan ng iyong pamilya.\r\n\r\n🆘 <b>Emergency SOS Button</b>\r\n\r\nMaaaring magpadala ang iyong kaibigan o kapamilya ng emergency alert kasama ang kasalukuyang lokasyon kapag kailangan nila ng tulong.\r\n\r\n🔎 <b>Pagsuri ng Contact List</b>\r\n\r\nSa kinakailangang pahintulot at consent, maaaring suriin ng mga magulang ang contacts sa device ng kanilang anak upang suportahan ang mas ligtas na komunikasyon.\r\n\r\n📩 <b>Ligtas na Pagsubaybay sa Komunikasyon</b>\r\n\r\nSa naaangkop na awtorisasyon, kaalaman, at pahintulot ng bata, maaaring subaybayan ang ilang komunikasyon upang makatulong sa mas ligtas na online interactions.\r\n\r\nPaalala: Maaaring limitado o hindi available ang ilang feature sa iPhone.\r\n\r\n<b>Privacy, Pahintulot at Kaligtasan ng Pamilya</b>\r\n\r\nAng mLite ay para sa legal na parental control at family safety. Ang location tracking at monitoring ay nangangailangan ng kaalaman at pahintulot ng mga taong kasangkot.\r\n\r\nHindi ito para sa lihim o hindi awtorisadong pagsubaybay. Pinangangasiwaan ang personal na data ayon sa aming Privacy Policy, mga naaangkop na batas, at GDPR kung naaangkop.\r\n\r\n<b>Accessibility Services</b>\r\n\r\nGinagamit lamang ng mLite ang Accessibility Services para sa malinaw na ipinaalam na parental control at child safety features, kabilang ang pagsubaybay sa ilang komunikasyon na may kinakailangang pahintulot.\r\n\r\nHindi ginagamit ang mga serbisyong ito upang mag-record ng tawag, baguhin ang settings nang walang pahintulot, o lampasan ang privacy protections ng Android.\r\n\r\n<b>Paano magsimula</b>\r\n\r\n1. I-install ang mLite sa iyong device at gumawa ng account.\r\n2. I-install ang mLite sa device na ikokonekta.\r\n3. Ibigay ang kinakailangang pahintulot sa lokasyon at contacts.\r\n4. Ikonekta ang mga device gamit ang QR code o link.\r\n\r\n<b>Mga kinakailangang pahintulot</b>\r\n\r\n- Camera at Photos: Para mag-scan ng QR code at magkonekta ng mga device.\r\n- Contacts: Para sa pagsusuri ng contacts at family safety features.\r\n- Location: Para sa GPS tracking, live location sharing, location history, at geofencing alerts.\r\n\r\nTinutulungan ng mLite ang mga pamilya na manatiling konektado sa pamamagitan ng GPS location tracking na may transparency, consent, at child safety.\r\n\r\nPrivacy Policy: https://mliteapp.com/privacy.html\r\nTerms of Use: https://mliteapp.com/terms-of-use/\r\nSupport: support@mliteapp.com",
@@ -7,22 +7,22 @@
   "genre": "Pamumuhay",
   "headerImage": "https://play-lh.googleusercontent.com/9RSMt7nY0okTnutgi3pRefaf9mWFTQjlvF5kkkm0FAy4mPG15PNDUaEv2KI5wadlz-1JbXRldll5DvtiTYlegg",
   "histogram": [
-    3184,
+    3280,
     78,
-    571,
-    571,
-    9247
+    656,
+    656,
+    9030
   ],
   "icon": "https://play-lh.googleusercontent.com/UzmpCKbRtygOJNmN5FLsGW8DTp8Luo7tFunFTiXtq3AE6U8MQcjjVEIRKqG9lx07W1jaMYmwXVTAzRIDMjXtq8Y",
   "inAppProductPrice": "$0.99 - $199.99 bawat item",
   "installs": "10,000,000+",
-  "lastUpdatedOn": "Okt 21, 2026",
+  "lastUpdatedOn": "Nob 2, 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 13668,
-    "realInstalls": 12050200,
-    "reviews": 842,
-    "score": 3.9221556
+    "ratings": 13717,
+    "realInstalls": 12076567,
+    "reviews": 847,
+    "score": 3.8802395
   },
   "price": 0,
   "screenshots": [
@@ -36,6 +36,6 @@
   ],
   "summary": "GPS family tracker para sa live location sharing at kaligtasan ng pamilya.",
   "title": "mLite - GPS Family Tracker",
-  "version": "4.4.0",
+  "version": "4.4.1",
   "video": "https://play.google.com/video/lava/web/player/yt:movie:mZNpXIKVeRE?autoplay=1&embed=play"
 }

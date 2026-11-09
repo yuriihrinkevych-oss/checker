@@ -36,3 +36,7 @@
 {"date": "2026-11-02", "app_id": "com.isharing.isharing", "type": "own_screens_added", "langs": ["nl", "sv"]}
 {"date": "2026-11-02", "app_id": "com.isharing.isharing", "type": "listing_edited", "langs": ["ar", "de", "en-AU", "en-GB", "en-IN", "es", "es-419", "fr", "fr-CA", "id", "it", "ms", "nl", "pl", "pt-BR", "pt-PT", "ru", "sv", "th", "tr", "vi", "zh-CN", "zh-HK", "zh-TW"], "samples": [["ar", "آيشيرينغ:  برنامج تحديد الموقع", "آيشيرينغ:  برنامج تحديد الموقع"], ["de", "iSharing: GPS Standort Tracker", "iSharing: GPS Standort Tracker"], ["en-AU", "iSharing: GPS Location Tracker", "iSharing: GPS Location Tracker"]]}
 {"date": "2026-11-02", "app_id": "find.my.friends.family.phone.gps.location.device.tracker.locator", "type": "lang_removed", "langs": ["en-GB"]}
+{"date": "2026-11-09", "app_id": "com.geozilla.family", "type": "listing_edited", "langs": ["zh-TW"], "samples": [["zh-TW", "Geozilla家庭GPS定位器。Find family", "Geozilla – 家庭 GPS 定位 App"]]}
+{"date": "2026-11-09", "app_id": "org.findmykids.app", "type": "lang_removed", "langs": ["en-GB", "en-IN"]}
+{"date": "2026-11-09", "app_id": "com.isharing.isharing", "type": "lang_removed", "langs": ["en-IN"]}
+{"date": "2026-11-09", "app_id": "find.my.friends.family.phone.gps.location.device.tracker.locator", "type": "lang_added", "langs": ["en-GB"]}

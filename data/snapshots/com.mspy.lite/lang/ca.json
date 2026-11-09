@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-11-02",
+  "_scanned": "2026-11-09",
   "containsAds": false,
   "contentRating": "Per a tots els públics",
   "description": "<b>Mantingueu la vostra família segura amb mLite!</b>\r\n\r\nmLite és una aplicació de rastreig de localització GPS i control parental dissenyada per ajudar els pares a mantenir-se connectats amb els seus fills. Amb la compartició de la ubicació en directe, un localitzador GPS familiar, alertes de seguretat i historial d'ubicacions, mLite fa que el seguiment familiar sigui senzill i transparent.\r\n\r\n<b>Característiques principals de mLite</b>\r\n\r\n📍 <b>Rastrejador de telèfons GPS en directe</b>\r\n\r\nUtilitzeu mLite com a rastrejador de telèfons GPS per veure la ubicació actual del vostre fill o amic en un mapa. Obteniu actualitzacions de la ubicació i manteniu-vos connectats amb la vostra família mitjançant la compartició segura de la ubicació.\r\n\r\n👪 <b>Localitzador GPS familiar</b>\r\n\r\nEl nostre localitzador familiar ajuda els pares a trobar els fills i a comprovar la seva ubicació quan calgui. Compartiu ubicacions entre dispositius connectats i manteniu-vos informats sobre la ubicació dels vostres éssers estimats.\r\n\r\n🧒 <b>Rastrejador de localització infantil</b>\r\n\r\nEl rastrejador de localització infantil proporciona eines de seguiment GPS per ajudar els pares a seguir els moviments dels seus fills. Utilitzeu el seguiment de la ubicació per mantenir-vos informats durant tot el dia.\r\n\r\n🔔 <b>Geofencing i alertes d'ubicació</b>\r\n\r\nCrea zones de seguretat al voltant de llocs importants com ara casa, la feina o l'escola. Rep notificacions quan persones del teu cercle entrin o surtin d'aquestes zones.\r\n\r\n📝 <b>Historial d'ubicacions</b>\r\n\r\nRevisa les ubicacions i rutes enregistrades anteriorment per entendre millor les activitats diàries de la teva família. L'historial d'ubicacions ajuda a les persones a mantenir-se informades sobre llocs i rutines familiars.\r\n\r\n🆘 <b>Botó SOS d'emergència</b>\r\n\r\nEl teu amic o familiar pot enviar una alerta d'emergència amb la seva ubicació actual quan necessiti ajuda, cosa que t'ajudarà a respondre ràpidament.\r\n\r\n🔎 <b>Revisió de la llista de contactes</b>\r\n\r\nAmb els permisos i el consentiment necessaris, els pares poden revisar els contactes del dispositiu del seu fill per facilitar una comunicació més segura.\r\n\r\n📩 <b>Monitoratge de comunicacions segures</b>\r\n\r\nAmb l'autorització adequada i el coneixement i el consentiment del nen, mLite admet el monitoratge de determinades comunicacions per promoure interaccions en línia més segures.\r\n\r\nNota: Algunes funcions poden ser limitades o no estar disponibles a l'iPhone.\r\n\r\n<b>Privacitat, consentiment i seguretat familiar</b>\r\n\r\nmLite està dissenyat per a finalitats legals de control parental i seguretat familiar. Les funcions de seguiment i monitorització de la ubicació requereixen el coneixement i el consentiment dels usuaris implicats.\r\n\r\nL'aplicació no està pensada per a un seguiment secret o no autoritzat. Les dades personals es gestionen d'acord amb la nostra Política de privacitat, les lleis de protecció de dades aplicables i els requisits del RGPD, si escau.\r\n\r\n<b>Serveis d'accessibilitat</b>\r\n\r\nmLite utilitza els Serveis d'accessibilitat només per a funcions de control parental i seguretat infantil divulgades, inclosa la supervisió de determinades comunicacions de l'aplicació amb el consentiment necessari.\r\n\r\nAquests serveis no s'utilitzen per gravar trucades telefòniques, canviar la configuració del dispositiu sense autorització ni eludir les proteccions de privacitat d'Android.\r\n\r\n<b>Com començar</b>\r\n\r\n1. Instal·leu mLite al vostre dispositiu i creeu un compte.\r\n2. Instal·leu mLite al vostre dispositiu vinculat.\r\n3. Concediu els permisos de ubicació i contacte necessaris.\r\n4. Connecteu els dos dispositius mitjançant un codi QR o un enllaç.\r\n\r\n<b>Permisos necessaris</b>\r\n\r\n- Càmera i fotos: per escanejar codis QR i connectar dispositius.\r\n- Contactes: Per donar suport a les funcions de revisió de contactes i seguretat familiar.\r\n- Ubicació: Per habilitar el seguiment GPS, la compartició d'ubicacions en directe, l'historial d'ubicacions i les alertes de geofencing.\r\n\r\nmLite ajuda les famílies a mantenir-se connectades amb eines de seguiment d'ubicació GPS dissenyades al voltant de la transparència, el consentiment i la seguretat infantil.\r\n\r\nPolítica de privadesa: https://mliteapp.com/privacy.html\r\nCondicions d'ús: https://mliteapp.com/terms-of-use/\r\nAssistència: support@mliteapp.com",
@@ -7,22 +7,22 @@
   "genre": "Estil de vida",
   "headerImage": "https://play-lh.googleusercontent.com/9RSMt7nY0okTnutgi3pRefaf9mWFTQjlvF5kkkm0FAy4mPG15PNDUaEv2KI5wadlz-1JbXRldll5DvtiTYlegg",
   "histogram": [
-    3184,
+    3281,
     78,
-    571,
-    571,
-    9247
+    656,
+    656,
+    9030
   ],
   "icon": "https://play-lh.googleusercontent.com/dML3kCnGKSd4_dSIS2syxIOWf0McQJ5dGtsNWYPlIGwLA8myHJUQ2xmI8LB_iJl1H-r2S3X1eV38uze6asPQ",
   "inAppProductPrice": "0,99 USD - 199,99 USD per cada element",
   "installs": "10.000.000+",
-  "lastUpdatedOn": "21 d’oct. 2026",
+  "lastUpdatedOn": "2 de nov. 2026",
   "metrics": {
     "minInstalls": 10000000,
-    "ratings": 13668,
-    "realInstalls": 12050200,
-    "reviews": 842,
-    "score": 3.9221556
+    "ratings": 13718,
+    "realInstalls": 12076567,
+    "reviews": 847,
+    "score": 3.8802395
   },
   "price": 0,
   "screenshots": [
@@ -36,6 +36,6 @@
   ],
   "summary": "Rastrejador GPS de telèfons per a la seguretat familiar. Comparteix la ubicació en directe i troba nens.",
   "title": "mLite - GPS Location Tracker",
-  "version": "4.4.0",
+  "version": "4.4.1",
   "video": "https://play.google.com/video/lava/web/player/yt:movie:mZNpXIKVeRE?autoplay=1&embed=play"
 }
