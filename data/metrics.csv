@@ -29,6 +29,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.find.connect.family,br,pt,13350470,10000000,3.9797752,117266,911
 2026-11-18,com.find.connect.family,br,pt,13359982,10000000,3.997753,117299,911
 2026-11-19,com.find.connect.family,br,pt,13359982,10000000,4.004474,117332,910
+2026-11-20,com.find.connect.family,br,pt,13365392,10000000,4.029148,117355,910
 2026-10-21,com.find.connect.family,de,de,13256470,10000000,3.19,116410,61
 2026-10-22,com.find.connect.family,de,de,13259054,10000000,3.19,116423,61
 2026-10-23,com.find.connect.family,de,de,13259073,10000000,3.19,116451,61
@@ -59,6 +60,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.find.connect.family,de,de,13350470,10000000,3.2,117266,62
 2026-11-18,com.find.connect.family,de,de,13359982,10000000,3.2,117299,62
 2026-11-19,com.find.connect.family,de,de,13359982,10000000,3.2,117332,62
+2026-11-20,com.find.connect.family,de,de,13365392,10000000,3.2,117355,62
 2026-10-21,com.find.connect.family,fr,fr,13256470,10000000,3.68,116410,125
 2026-10-22,com.find.connect.family,fr,fr,13259054,10000000,3.68,116423,125
 2026-10-23,com.find.connect.family,fr,fr,13259073,10000000,3.68,116451,125
@@ -89,6 +91,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.find.connect.family,fr,fr,13350470,10000000,3.6831684,117266,126
 2026-11-18,com.find.connect.family,fr,fr,13359982,10000000,3.64,117299,126
 2026-11-19,com.find.connect.family,fr,fr,13359982,10000000,3.64,117332,126
+2026-11-20,com.find.connect.family,fr,fr,13365392,10000000,3.64,117355,127
 2026-10-21,com.find.connect.family,gb,en,13256470,10000000,3.4950495,116410,128
 2026-10-22,com.find.connect.family,gb,en,13259054,10000000,3.53,116423,128
 2026-10-23,com.find.connect.family,gb,en,13259073,10000000,3.5049505,116451,128
@@ -119,6 +122,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.find.connect.family,gb,en,13350470,10000000,3.45,117266,130
 2026-11-18,com.find.connect.family,gb,en,13359982,10000000,3.45,117299,130
 2026-11-19,com.find.connect.family,gb,en,13359982,10000000,3.45,117332,130
+2026-11-20,com.find.connect.family,gb,en,13365392,10000000,3.45,117355,130
 2026-10-21,com.find.connect.family,pl,pl,13256470,10000000,4.13,116410,17
 2026-10-22,com.find.connect.family,pl,pl,13259054,10000000,4.13,116423,17
 2026-10-23,com.find.connect.family,pl,pl,13259073,10000000,4.13,116451,17
@@ -149,6 +153,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.find.connect.family,pl,pl,13350470,10000000,4.13,117266,17
 2026-11-18,com.find.connect.family,pl,pl,13359982,10000000,4.13,117299,17
 2026-11-19,com.find.connect.family,pl,pl,13359982,10000000,4.13,117332,17
+2026-11-20,com.find.connect.family,pl,pl,13365392,10000000,4.13,117355,17
 2026-10-21,com.find.connect.family,us,en,13256470,10000000,3.597861,116410,1404
 2026-10-22,com.find.connect.family,us,en,13259054,10000000,3.597861,116423,1404
 2026-10-23,com.find.connect.family,us,en,13259073,10000000,3.597861,116451,1404
@@ -179,6 +184,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.find.connect.family,us,en,13350470,10000000,3.5987194,117266,1410
 2026-11-18,com.find.connect.family,us,en,13359982,10000000,3.6002133,117299,1410
 2026-11-19,com.find.connect.family,us,en,13359982,10000000,3.5929487,117332,1411
+2026-11-20,com.find.connect.family,us,en,13365392,10000000,3.5938165,117355,1411
 2026-10-06,com.geozilla.family,br,pt,29664756,10000000,4.594989,760600,3900
 2026-10-07,com.geozilla.family,br,pt,29716930,10000000,4.591697,761023,3897
 2026-10-08,com.geozilla.family,br,pt,29727083,10000000,4.592016,761848,3899
@@ -224,6 +230,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.geozilla.family,br,pt,30029488,10000000,4.571429,776391,4041
 2026-11-18,com.geozilla.family,br,pt,30037519,10000000,4.57293,776878,4050
 2026-11-19,com.geozilla.family,br,pt,30037563,10000000,4.572601,777114,4050
+2026-11-20,com.geozilla.family,br,pt,30052733,10000000,4.574535,777397,4046
 2026-10-06,com.geozilla.family,de,de,29664756,10000000,4.2096477,760600,684
 2026-10-07,com.geozilla.family,de,de,29716930,10000000,4.202226,761023,684
 2026-10-08,com.geozilla.family,de,de,29727083,10000000,4.2077923,761824,684
@@ -269,6 +276,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.geozilla.family,de,de,30029488,10000000,4.1764708,776391,691
 2026-11-18,com.geozilla.family,de,de,30037519,10000000,4.1706424,776878,691
 2026-11-19,com.geozilla.family,de,de,30037563,10000000,4.172161,777114,692
+2026-11-20,com.geozilla.family,de,de,30052733,10000000,4.1736746,777397,692
 2026-10-06,com.geozilla.family,fr,fr,29664756,10000000,3.7609427,760600,361
 2026-10-07,com.geozilla.family,fr,fr,29716930,10000000,3.7567568,761023,361
 2026-10-08,com.geozilla.family,fr,fr,29727083,10000000,3.7542088,761848,361
@@ -314,6 +322,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.geozilla.family,fr,fr,30029488,10000000,3.705298,776391,369
 2026-11-18,com.geozilla.family,fr,fr,30037519,10000000,3.7161715,776878,369
 2026-11-19,com.geozilla.family,fr,fr,30037563,10000000,3.7161715,777114,369
+2026-11-20,com.geozilla.family,fr,fr,30052733,10000000,3.7317882,777398,369
 2026-10-06,com.geozilla.family,gb,en,29664756,10000000,4.1268115,760600,305
 2026-10-07,com.geozilla.family,gb,en,29716930,10000000,4.120438,761023,306
 2026-10-08,com.geozilla.family,gb,en,29727083,10000000,4.120438,761824,306
@@ -359,6 +368,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.geozilla.family,gb,en,30029488,10000000,4.0860214,776391,310
 2026-11-18,com.geozilla.family,gb,en,30037519,10000000,4.0860214,776878,310
 2026-11-19,com.geozilla.family,gb,en,30037563,10000000,4.0860214,777114,310
+2026-11-20,com.geozilla.family,gb,en,30052733,10000000,4.0860214,777397,310
 2026-10-06,com.geozilla.family,pl,pl,29664756,10000000,3.3564355,760600,96
 2026-10-07,com.geozilla.family,pl,pl,29716930,10000000,3.3564355,761023,96
 2026-10-08,com.geozilla.family,pl,pl,29727083,10000000,3.372549,761848,96
@@ -404,6 +414,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.geozilla.family,pl,pl,30029488,10000000,3.59,776391,111
 2026-11-18,com.geozilla.family,pl,pl,30037519,10000000,3.6039605,776848,111
 2026-11-19,com.geozilla.family,pl,pl,30037563,10000000,3.5940595,777114,111
+2026-11-20,com.geozilla.family,pl,pl,30052733,10000000,3.58,777397,111
 2026-10-06,com.geozilla.family,us,en,29664756,10000000,4.2016373,760600,3207
 2026-10-07,com.geozilla.family,us,en,29716930,10000000,4.199638,761023,3208
 2026-10-08,com.geozilla.family,us,en,29727083,10000000,4.201932,761848,3208
@@ -449,6 +460,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.geozilla.family,us,en,30029488,10000000,4.243647,776391,3236
 2026-11-18,com.geozilla.family,us,en,30037519,10000000,4.242913,776878,3237
 2026-11-19,com.geozilla.family,us,en,30037563,10000000,4.243968,777114,3237
+2026-11-20,com.geozilla.family,us,en,30052733,10000000,4.244193,777397,3237
 2026-10-09,com.gpstracker.misky.phone,br,pt,5522308,5000000,3.8773584,19634,138
 2026-10-10,com.gpstracker.misky.phone,br,pt,5522308,5000000,3.775701,19668,139
 2026-10-11,com.gpstracker.misky.phone,br,pt,5523296,5000000,3.7264152,19795,139
@@ -491,6 +503,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.gpstracker.misky.phone,br,pt,7560905,5000000,3.7706423,25943,172
 2026-11-18,com.gpstracker.misky.phone,br,pt,7584692,5000000,3.8235295,26016,172
 2026-11-19,com.gpstracker.misky.phone,br,pt,7584692,5000000,3.761468,26025,172
+2026-11-20,com.gpstracker.misky.phone,br,pt,7611218,5000000,3.8137255,26033,173
 2026-10-09,com.gpstracker.misky.phone,de,de,5522308,5000000,3.8148148,19652,1
 2026-10-10,com.gpstracker.misky.phone,de,de,5522308,5000000,3.8148148,19668,1
 2026-10-11,com.gpstracker.misky.phone,de,de,5523296,5000000,3.8148148,19795,1
@@ -533,6 +546,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.gpstracker.misky.phone,de,de,7560905,5000000,3.7777777,25943,2
 2026-11-18,com.gpstracker.misky.phone,de,de,7584692,5000000,3.7777777,26010,2
 2026-11-19,com.gpstracker.misky.phone,de,de,7584692,5000000,3.7777777,26025,2
+2026-11-20,com.gpstracker.misky.phone,de,de,7611218,5000000,3.7777777,26029,2
 2026-10-09,com.gpstracker.misky.phone,fr,fr,5522308,5000000,3.4565217,19634,8
 2026-10-10,com.gpstracker.misky.phone,fr,fr,5522308,5000000,3.4565217,19668,8
 2026-10-11,com.gpstracker.misky.phone,fr,fr,5523296,5000000,3.4468086,19813,8
@@ -575,6 +589,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.gpstracker.misky.phone,fr,fr,7560905,5000000,3.5689654,25940,10
 2026-11-18,com.gpstracker.misky.phone,fr,fr,7584692,5000000,3.5689654,26016,10
 2026-11-19,com.gpstracker.misky.phone,fr,fr,7584692,5000000,3.5689654,26025,10
+2026-11-20,com.gpstracker.misky.phone,fr,fr,7611218,5000000,3.5689654,26029,10
 2026-10-09,com.gpstracker.misky.phone,gb,en,5522308,5000000,3.5,19652,6
 2026-10-10,com.gpstracker.misky.phone,gb,en,5522308,5000000,3.5,19697,6
 2026-10-11,com.gpstracker.misky.phone,gb,en,5523296,5000000,3.5,19812,6
@@ -617,6 +632,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.gpstracker.misky.phone,gb,en,7560905,5000000,3.487805,25940,9
 2026-11-18,com.gpstracker.misky.phone,gb,en,7584692,5000000,3.487805,26010,9
 2026-11-19,com.gpstracker.misky.phone,gb,en,7584692,5000000,3.487805,26025,9
+2026-11-20,com.gpstracker.misky.phone,gb,en,7611218,5000000,3.5238094,26029,9
 2026-10-09,com.gpstracker.misky.phone,pl,pl,5522308,5000000,4.076923,19652,4
 2026-10-10,com.gpstracker.misky.phone,pl,pl,5522308,5000000,4.076923,19697,4
 2026-10-11,com.gpstracker.misky.phone,pl,pl,5523296,5000000,4.142857,19813,4
@@ -659,6 +675,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.gpstracker.misky.phone,pl,pl,7560905,5000000,3.7692308,25943,3
 2026-11-18,com.gpstracker.misky.phone,pl,pl,7584692,5000000,3.7692308,26016,3
 2026-11-19,com.gpstracker.misky.phone,pl,pl,7584692,5000000,3.7692308,26025,3
+2026-11-20,com.gpstracker.misky.phone,pl,pl,7611218,5000000,3.7692308,26033,3
 2026-10-09,com.gpstracker.misky.phone,us,en,5522308,5000000,3.7058823,19634,54
 2026-10-10,com.gpstracker.misky.phone,us,en,5522308,5000000,3.6761904,19697,55
 2026-10-11,com.gpstracker.misky.phone,us,en,5523296,5000000,3.647619,19795,57
@@ -701,6 +718,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.gpstracker.misky.phone,us,en,7560905,5000000,3.5,25940,84
 2026-11-18,com.gpstracker.misky.phone,us,en,7584692,5000000,3.5,26016,84
 2026-11-19,com.gpstracker.misky.phone,us,en,7584692,5000000,3.57,26025,84
+2026-11-20,com.gpstracker.misky.phone,us,en,7611218,5000000,3.5742574,26029,84
 2026-10-06,com.isharing.isharing,br,pt,32880091,10000000,4.72836,248113,3213
 2026-10-07,com.isharing.isharing,br,pt,32880091,10000000,4.7288017,248186,3214
 2026-10-08,com.isharing.isharing,br,pt,32942824,10000000,4.7295775,248273,3214
@@ -746,6 +764,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.isharing.isharing,br,pt,33360068,10000000,4.726018,251940,3238
 2026-11-18,com.isharing.isharing,br,pt,33371909,10000000,4.726584,252022,3239
 2026-11-19,com.isharing.isharing,br,pt,33372129,10000000,4.7277126,252110,3239
+2026-11-20,com.isharing.isharing,br,pt,33393103,10000000,4.728022,252203,3240
 2026-10-06,com.isharing.isharing,de,de,32880091,10000000,4.2626505,248113,642
 2026-10-07,com.isharing.isharing,de,de,32880091,10000000,4.2696896,248186,642
 2026-10-08,com.isharing.isharing,de,de,32942824,10000000,4.266187,248273,642
@@ -791,6 +810,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.isharing.isharing,de,de,33360068,10000000,4.2723002,251940,648
 2026-11-18,com.isharing.isharing,de,de,33371909,10000000,4.2746477,252022,648
 2026-11-19,com.isharing.isharing,de,de,33372129,10000000,4.2746477,252110,648
+2026-11-20,com.isharing.isharing,de,de,33393103,10000000,4.2763467,252203,648
 2026-10-06,com.isharing.isharing,fr,fr,32880091,10000000,4.4369974,248113,473
 2026-10-07,com.isharing.isharing,fr,fr,32880091,10000000,4.438503,248186,473
 2026-10-08,com.isharing.isharing,fr,fr,32942824,10000000,4.438503,248270,473
@@ -836,6 +856,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.isharing.isharing,fr,fr,33360068,10000000,4.440104,251940,479
 2026-11-18,com.isharing.isharing,fr,fr,33371909,10000000,4.440104,252022,480
 2026-11-19,com.isharing.isharing,fr,fr,33372129,10000000,4.446475,252110,480
+2026-11-20,com.isharing.isharing,fr,fr,33393103,10000000,4.449086,252203,480
 2026-10-06,com.isharing.isharing,gb,en,32880091,10000000,4.2686567,248113,309
 2026-10-07,com.isharing.isharing,gb,en,32880091,10000000,4.288889,248186,309
 2026-10-08,com.isharing.isharing,gb,en,32942824,10000000,4.288889,248270,309
@@ -881,6 +902,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.isharing.isharing,gb,en,33360068,10000000,4.3185186,251940,311
 2026-11-18,com.isharing.isharing,gb,en,33371909,10000000,4.3185186,252022,311
 2026-11-19,com.isharing.isharing,gb,en,33372129,10000000,4.3138685,252110,311
+2026-11-20,com.isharing.isharing,gb,en,33393103,10000000,4.3138685,252203,311
 2026-10-06,com.isharing.isharing,pl,pl,32880091,10000000,4.5643563,248113,106
 2026-10-07,com.isharing.isharing,pl,pl,32880091,10000000,4.56,248186,106
 2026-10-08,com.isharing.isharing,pl,pl,32942824,10000000,4.56,248270,107
@@ -926,6 +948,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.isharing.isharing,pl,pl,33360068,10000000,4.31,251940,111
 2026-11-18,com.isharing.isharing,pl,pl,33371909,10000000,4.31,252022,111
 2026-11-19,com.isharing.isharing,pl,pl,33372129,10000000,4.31,252110,112
+2026-11-20,com.isharing.isharing,pl,pl,33393103,10000000,4.287129,252203,112
 2026-10-06,com.isharing.isharing,us,en,32880091,10000000,4.5358047,248113,2232
 2026-10-07,com.isharing.isharing,us,en,32880091,10000000,4.5354133,248186,2231
 2026-10-08,com.isharing.isharing,us,en,32942824,10000000,4.5358047,248270,2231
@@ -971,6 +994,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.isharing.isharing,us,en,33360068,10000000,4.5338345,251940,2245
 2026-11-18,com.isharing.isharing,us,en,33371909,10000000,4.527546,252022,2245
 2026-11-19,com.isharing.isharing,us,en,33372129,10000000,4.52794,252110,2245
+2026-11-20,com.isharing.isharing,us,en,33393103,10000000,4.524563,252203,2245
 2026-10-06,com.life360.android.safetymapd,br,pt,223710409,100000000,4.786204,2438493,81875
 2026-10-07,com.life360.android.safetymapd,br,pt,224233862,100000000,4.7888675,2440563,81897
 2026-10-08,com.life360.android.safetymapd,br,pt,224325751,100000000,4.7910194,2443111,81919
@@ -1016,6 +1040,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.life360.android.safetymapd,br,pt,227905286,100000000,4.8074446,2532581,82682
 2026-11-18,com.life360.android.safetymapd,br,pt,227993808,100000000,4.808226,2534669,82696
 2026-11-19,com.life360.android.safetymapd,br,pt,227996079,100000000,4.808905,2536674,82719
+2026-11-20,com.life360.android.safetymapd,br,pt,228077217,100000000,4.809498,2538504,82736
 2026-10-06,com.life360.android.safetymapd,de,de,223710409,100000000,4.6429505,2438493,10786
 2026-10-07,com.life360.android.safetymapd,de,de,224233862,100000000,4.643139,2440563,10787
 2026-10-08,com.life360.android.safetymapd,de,de,224325751,100000000,4.641228,2443025,10790
@@ -1061,6 +1086,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.life360.android.safetymapd,de,de,227905286,100000000,4.6345587,2532581,10898
 2026-11-18,com.life360.android.safetymapd,de,de,227993808,100000000,4.6331935,2534578,10899
 2026-11-19,com.life360.android.safetymapd,de,de,227996079,100000000,4.6309123,2536674,10905
+2026-11-20,com.life360.android.safetymapd,de,de,228077217,100000000,4.6324463,2538504,10908
 2026-10-06,com.life360.android.safetymapd,fr,fr,223710409,100000000,4.6845703,2438493,7534
 2026-10-07,com.life360.android.safetymapd,fr,fr,224233862,100000000,4.6845965,2440563,7536
 2026-10-08,com.life360.android.safetymapd,fr,fr,224325751,100000000,4.6904297,2443111,7538
@@ -1106,6 +1132,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.life360.android.safetymapd,fr,fr,227905286,100000000,4.6706696,2532581,7617
 2026-11-18,com.life360.android.safetymapd,fr,fr,227993808,100000000,4.6707315,2534578,7617
 2026-11-19,com.life360.android.safetymapd,fr,fr,227996079,100000000,4.67115,2536674,7617
+2026-11-20,com.life360.android.safetymapd,fr,fr,228077217,100000000,4.6700554,2538504,7619
 2026-10-06,com.life360.android.safetymapd,gb,en,223710409,100000000,4.734661,2438493,28151
 2026-10-07,com.life360.android.safetymapd,gb,en,224233862,100000000,4.7362037,2440563,28159
 2026-10-08,com.life360.android.safetymapd,gb,en,224325751,100000000,4.7374024,2443025,28170
@@ -1151,6 +1178,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.life360.android.safetymapd,gb,en,227905286,100000000,4.7165794,2532581,28517
 2026-11-18,com.life360.android.safetymapd,gb,en,227993808,100000000,4.716428,2534669,28529
 2026-11-19,com.life360.android.safetymapd,gb,en,227996079,100000000,4.7149434,2536674,28533
+2026-11-20,com.life360.android.safetymapd,gb,en,228077217,100000000,4.7133102,2538504,28547
 2026-10-06,com.life360.android.safetymapd,pl,pl,223710409,100000000,4.5659575,2438493,1959
 2026-10-07,com.life360.android.safetymapd,pl,pl,224233862,100000000,4.5655913,2440563,1960
 2026-10-08,com.life360.android.safetymapd,pl,pl,224325751,100000000,4.5803,2443025,1960
@@ -1196,6 +1224,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.life360.android.safetymapd,pl,pl,227905286,100000000,4.6877637,2532581,1972
 2026-11-18,com.life360.android.safetymapd,pl,pl,227993808,100000000,4.6897273,2534669,1972
 2026-11-19,com.life360.android.safetymapd,pl,pl,227996079,100000000,4.6884212,2536674,1972
+2026-11-20,com.life360.android.safetymapd,pl,pl,228077217,100000000,4.6897273,2538504,1972
 2026-10-06,com.life360.android.safetymapd,us,en,223710409,100000000,4.76128,2438493,312426
 2026-10-07,com.life360.android.safetymapd,us,en,224233862,100000000,4.7620015,2440563,312476
 2026-10-08,com.life360.android.safetymapd,us,en,224325751,100000000,4.762964,2443025,312548
@@ -1241,6 +1270,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.life360.android.safetymapd,us,en,227905286,100000000,4.7649636,2532581,314786
 2026-11-18,com.life360.android.safetymapd,us,en,227993808,100000000,4.76557,2534669,314847
 2026-11-19,com.life360.android.safetymapd,us,en,227996079,100000000,4.7662807,2536674,314897
+2026-11-20,com.life360.android.safetymapd,us,en,228077217,100000000,4.7661524,2538504,314943
 2026-10-09,com.mspy.lite,br,pt,11955432,10000000,3.7636364,13507,634
 2026-10-10,com.mspy.lite,br,pt,11955432,10000000,3.7636364,13512,634
 2026-10-11,com.mspy.lite,br,pt,11958570,10000000,3.7636364,13516,634
@@ -1283,6 +1313,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.mspy.lite,br,pt,12100970,10000000,3.8108108,13754,632
 2026-11-18,com.mspy.lite,br,pt,12103023,10000000,3.8108108,13759,632
 2026-11-19,com.mspy.lite,br,pt,12103038,10000000,3.8108108,13761,632
+2026-11-20,com.mspy.lite,br,pt,12106101,10000000,3.81982,13769,632
 2026-10-09,com.mspy.lite,de,de,11955432,10000000,4.09,13507,107
 2026-10-10,com.mspy.lite,de,de,11955432,10000000,4.09,13512,107
 2026-10-11,com.mspy.lite,de,de,11958570,10000000,4.17,13516,108
@@ -1325,6 +1356,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.mspy.lite,de,de,12100970,10000000,4.47,13754,111
 2026-11-18,com.mspy.lite,de,de,12103023,10000000,4.47,13759,111
 2026-11-19,com.mspy.lite,de,de,12103038,10000000,4.47,13761,111
+2026-11-20,com.mspy.lite,de,de,12106101,10000000,4.47,13769,111
 2026-10-09,com.mspy.lite,fr,fr,11955432,10000000,4.08,13507,123
 2026-10-10,com.mspy.lite,fr,fr,11955432,10000000,4.08,13512,123
 2026-10-11,com.mspy.lite,fr,fr,11958570,10000000,4.089109,13515,123
@@ -1367,6 +1399,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.mspy.lite,fr,fr,12100970,10000000,4.35,13754,126
 2026-11-18,com.mspy.lite,fr,fr,12103023,10000000,4.35,13759,126
 2026-11-19,com.mspy.lite,fr,fr,12103038,10000000,4.35,13761,126
+2026-11-20,com.mspy.lite,fr,fr,12106101,10000000,4.35,13769,126
 2026-10-09,com.mspy.lite,gb,en,11955432,10000000,3.29,13507,81
 2026-10-10,com.mspy.lite,gb,en,11955432,10000000,3.29,13512,81
 2026-10-11,com.mspy.lite,gb,en,11958570,10000000,3.29,13516,82
@@ -1409,6 +1442,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.mspy.lite,gb,en,12100970,10000000,3.44,13754,83
 2026-11-18,com.mspy.lite,gb,en,12103023,10000000,3.44,13759,83
 2026-11-19,com.mspy.lite,gb,en,12103038,10000000,3.44,13761,84
+2026-11-20,com.mspy.lite,gb,en,12106101,10000000,3.44,13769,84
 2026-10-09,com.mspy.lite,pl,pl,11955432,10000000,3.2857144,13507,11
 2026-10-10,com.mspy.lite,pl,pl,11955432,10000000,3.2857144,13512,11
 2026-10-11,com.mspy.lite,pl,pl,11958570,10000000,3.2857144,13516,11
@@ -1451,6 +1485,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.mspy.lite,pl,pl,12100970,10000000,3.2857144,13754,11
 2026-11-18,com.mspy.lite,pl,pl,12103023,10000000,3.2857144,13759,11
 2026-11-19,com.mspy.lite,pl,pl,12103038,10000000,3.2857144,13761,11
+2026-11-20,com.mspy.lite,pl,pl,12106101,10000000,3.2857144,13769,11
 2026-10-09,com.mspy.lite,us,en,11955432,10000000,3.8695652,13507,829
 2026-10-10,com.mspy.lite,us,en,11955432,10000000,3.8447206,13512,832
 2026-10-11,com.mspy.lite,us,en,11958570,10000000,3.8333333,13516,832
@@ -1493,6 +1528,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.mspy.lite,us,en,12100970,10000000,3.835294,13754,856
 2026-11-18,com.mspy.lite,us,en,12103023,10000000,3.8214285,13759,856
 2026-11-19,com.mspy.lite,us,en,12103038,10000000,3.8214285,13761,856
+2026-11-20,com.mspy.lite,us,en,12106101,10000000,3.8214285,13769,857
 2026-10-09,com.sygic.familywhere.android,br,pt,47168596,10000000,4.5022626,1174828,3446
 2026-10-10,com.sygic.familywhere.android,br,pt,47168790,10000000,4.501699,1175432,3446
 2026-10-11,com.sygic.familywhere.android,br,pt,47168790,10000000,4.501556,1176027,3446
@@ -1535,6 +1571,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.sygic.familywhere.android,br,pt,47813422,10000000,4.504237,1212821,3451
 2026-11-18,com.sygic.familywhere.android,br,pt,47851013,10000000,4.504805,1213886,3451
 2026-11-19,com.sygic.familywhere.android,br,pt,47871349,10000000,4.504665,1214513,3451
+2026-11-20,com.sygic.familywhere.android,br,pt,47903399,10000000,4.50395,1215473,3451
 2026-10-09,com.sygic.familywhere.android,de,de,47168596,10000000,4.0858088,1174828,694
 2026-10-10,com.sygic.familywhere.android,de,de,47168790,10000000,4.0858088,1175432,694
 2026-10-11,com.sygic.familywhere.android,de,de,47168790,10000000,4.089109,1176027,694
@@ -1577,6 +1614,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.sygic.familywhere.android,de,de,47813422,10000000,4.09571,1212821,696
 2026-11-18,com.sygic.familywhere.android,de,de,47851013,10000000,4.09571,1213946,696
 2026-11-19,com.sygic.familywhere.android,de,de,47871349,10000000,4.09571,1214513,696
+2026-11-20,com.sygic.familywhere.android,de,de,47903399,10000000,4.0986843,1215470,696
 2026-10-09,com.sygic.familywhere.android,fr,fr,47168596,10000000,4.2763157,1174895,454
 2026-10-10,com.sygic.familywhere.android,fr,fr,47168790,10000000,4.2849603,1175432,454
 2026-10-11,com.sygic.familywhere.android,fr,fr,47168790,10000000,4.286842,1176027,454
@@ -1619,6 +1657,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.sygic.familywhere.android,fr,fr,47813422,10000000,4.2789474,1212821,455
 2026-11-18,com.sygic.familywhere.android,fr,fr,47851013,10000000,4.28084,1213886,455
 2026-11-19,com.sygic.familywhere.android,fr,fr,47871349,10000000,4.2796836,1214513,455
+2026-11-20,com.sygic.familywhere.android,fr,fr,47903399,10000000,4.2796836,1215473,455
 2026-10-09,com.sygic.familywhere.android,gb,en,47168596,10000000,4.4753623,1174828,829
 2026-10-10,com.sygic.familywhere.android,gb,en,47168790,10000000,4.4753623,1175432,829
 2026-10-11,com.sygic.familywhere.android,gb,en,47168790,10000000,4.4651165,1176027,829
@@ -1661,6 +1700,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.sygic.familywhere.android,gb,en,47813422,10000000,4.4318843,1212821,831
 2026-11-18,com.sygic.familywhere.android,gb,en,47851013,10000000,4.4318843,1213946,831
 2026-11-19,com.sygic.familywhere.android,gb,en,47871349,10000000,4.4318843,1214513,831
+2026-11-20,com.sygic.familywhere.android,gb,en,47903399,10000000,4.4318843,1215470,831
 2026-10-09,com.sygic.familywhere.android,pl,pl,47168596,10000000,4.41,1174828,241
 2026-10-10,com.sygic.familywhere.android,pl,pl,47168790,10000000,4.45,1175432,241
 2026-10-11,com.sygic.familywhere.android,pl,pl,47168790,10000000,4.455446,1176027,241
@@ -1703,6 +1743,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.sygic.familywhere.android,pl,pl,47813422,10000000,4.4,1212821,241
 2026-11-18,com.sygic.familywhere.android,pl,pl,47851013,10000000,4.4,1213946,241
 2026-11-19,com.sygic.familywhere.android,pl,pl,47871349,10000000,4.4,1214513,241
+2026-11-20,com.sygic.familywhere.android,pl,pl,47903399,10000000,4.4,1215479,241
 2026-10-09,com.sygic.familywhere.android,us,en,47168596,10000000,4.3698015,1174895,6479
 2026-10-10,com.sygic.familywhere.android,us,en,47168790,10000000,4.3699346,1175432,6479
 2026-10-11,com.sygic.familywhere.android,us,en,47168790,10000000,4.369245,1176027,6479
@@ -1745,6 +1786,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,com.sygic.familywhere.android,us,en,47813422,10000000,4.371054,1212821,6492
 2026-11-18,com.sygic.familywhere.android,us,en,47851013,10000000,4.36946,1213886,6493
 2026-11-19,com.sygic.familywhere.android,us,en,47871349,10000000,4.3698883,1214513,6493
+2026-11-20,com.sygic.familywhere.android,us,en,47903399,10000000,4.369019,1215470,6493
 2026-10-21,find.my.friends.family.phone.gps.location.device.tracker.locator,br,pt,4183943,1000000,4.393651,19158,230
 2026-10-22,find.my.friends.family.phone.gps.location.device.tracker.locator,br,pt,4187609,1000000,4.381877,19166,230
 2026-10-23,find.my.friends.family.phone.gps.location.device.tracker.locator,br,pt,4191078,1000000,4.39172,19180,230
@@ -1775,6 +1817,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,find.my.friends.family.phone.gps.location.device.tracker.locator,br,pt,4257561,1000000,4.4121404,19432,236
 2026-11-18,find.my.friends.family.phone.gps.location.device.tracker.locator,br,pt,4263366,1000000,4.405063,19439,236
 2026-11-19,find.my.friends.family.phone.gps.location.device.tracker.locator,br,pt,4263366,1000000,4.404389,19446,236
+2026-11-20,find.my.friends.family.phone.gps.location.device.tracker.locator,br,pt,4266060,1000000,4.4135804,19453,236
 2026-10-21,find.my.friends.family.phone.gps.location.device.tracker.locator,de,de,4183943,1000000,4.23,19158,11
 2026-10-22,find.my.friends.family.phone.gps.location.device.tracker.locator,de,de,4187609,1000000,4.23,19166,11
 2026-10-23,find.my.friends.family.phone.gps.location.device.tracker.locator,de,de,4191078,1000000,4.23,19180,11
@@ -1805,6 +1848,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,find.my.friends.family.phone.gps.location.device.tracker.locator,de,de,4257561,1000000,4.24,19432,12
 2026-11-18,find.my.friends.family.phone.gps.location.device.tracker.locator,de,de,4263366,1000000,4.24,19439,12
 2026-11-19,find.my.friends.family.phone.gps.location.device.tracker.locator,de,de,4263366,1000000,4.24,19446,12
+2026-11-20,find.my.friends.family.phone.gps.location.device.tracker.locator,de,de,4266060,1000000,4.24,19453,12
 2026-10-21,find.my.friends.family.phone.gps.location.device.tracker.locator,fr,fr,4183943,1000000,4.05,19158,14
 2026-10-22,find.my.friends.family.phone.gps.location.device.tracker.locator,fr,fr,4187609,1000000,4.05,19166,14
 2026-10-23,find.my.friends.family.phone.gps.location.device.tracker.locator,fr,fr,4191078,1000000,4.04,19180,14
@@ -1835,6 +1879,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,find.my.friends.family.phone.gps.location.device.tracker.locator,fr,fr,4257561,1000000,4.04,19432,14
 2026-11-18,find.my.friends.family.phone.gps.location.device.tracker.locator,fr,fr,4263366,1000000,4.04,19439,14
 2026-11-19,find.my.friends.family.phone.gps.location.device.tracker.locator,fr,fr,4263366,1000000,4.04,19446,14
+2026-11-20,find.my.friends.family.phone.gps.location.device.tracker.locator,fr,fr,4266060,1000000,4.04,19453,14
 2026-10-21,find.my.friends.family.phone.gps.location.device.tracker.locator,gb,en,4183943,1000000,4.257576,19158,6
 2026-10-22,find.my.friends.family.phone.gps.location.device.tracker.locator,gb,en,4187609,1000000,4.257576,19166,6
 2026-10-23,find.my.friends.family.phone.gps.location.device.tracker.locator,gb,en,4191078,1000000,4.257576,19180,6
@@ -1865,6 +1910,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,find.my.friends.family.phone.gps.location.device.tracker.locator,gb,en,4257561,1000000,4.257576,19432,6
 2026-11-18,find.my.friends.family.phone.gps.location.device.tracker.locator,gb,en,4263366,1000000,4.2686567,19439,6
 2026-11-19,find.my.friends.family.phone.gps.location.device.tracker.locator,gb,en,4263366,1000000,4.2686567,19446,6
+2026-11-20,find.my.friends.family.phone.gps.location.device.tracker.locator,gb,en,4266060,1000000,4.2686567,19453,6
 2026-10-21,find.my.friends.family.phone.gps.location.device.tracker.locator,pl,pl,4183943,1000000,3.8636363,19158,12
 2026-10-22,find.my.friends.family.phone.gps.location.device.tracker.locator,pl,pl,4187609,1000000,3.8636363,19166,12
 2026-10-23,find.my.friends.family.phone.gps.location.device.tracker.locator,pl,pl,4191078,1000000,3.8636363,19180,12
@@ -1895,6 +1941,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,find.my.friends.family.phone.gps.location.device.tracker.locator,pl,pl,4257561,1000000,3.8888888,19432,12
 2026-11-18,find.my.friends.family.phone.gps.location.device.tracker.locator,pl,pl,4263366,1000000,3.8888888,19438,12
 2026-11-19,find.my.friends.family.phone.gps.location.device.tracker.locator,pl,pl,4263366,1000000,3.8888888,19446,12
+2026-11-20,find.my.friends.family.phone.gps.location.device.tracker.locator,pl,pl,4266060,1000000,3.8888888,19453,12
 2026-10-21,find.my.friends.family.phone.gps.location.device.tracker.locator,us,en,4183943,1000000,4.094203,19158,118
 2026-10-22,find.my.friends.family.phone.gps.location.device.tracker.locator,us,en,4187609,1000000,4.1102943,19166,118
 2026-10-23,find.my.friends.family.phone.gps.location.device.tracker.locator,us,en,4191078,1000000,4.1102943,19180,118
@@ -1925,6 +1972,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,find.my.friends.family.phone.gps.location.device.tracker.locator,us,en,4257561,1000000,4.124088,19432,118
 2026-11-18,find.my.friends.family.phone.gps.location.device.tracker.locator,us,en,4263366,1000000,4.130435,19439,118
 2026-11-19,find.my.friends.family.phone.gps.location.device.tracker.locator,us,en,4263366,1000000,4.138686,19446,118
+2026-11-20,find.my.friends.family.phone.gps.location.device.tracker.locator,us,en,4266060,1000000,4.138686,19453,118
 2026-10-09,net.familo.android,br,pt,24239943,10000000,4.581826,667224,3325
 2026-10-10,net.familo.android,br,pt,24240136,10000000,4.5918274,668226,3337
 2026-10-11,net.familo.android,br,pt,24240136,10000000,4.592216,669282,3342
@@ -1967,6 +2015,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,net.familo.android,br,pt,24788172,10000000,4.5727744,698945,3577
 2026-11-18,net.familo.android,br,pt,24818606,10000000,4.585791,700047,3592
 2026-11-19,net.familo.android,br,pt,24837662,10000000,4.5801263,700707,3597
+2026-11-20,net.familo.android,br,pt,24868072,10000000,4.585119,701622,3599
 2026-10-09,net.familo.android,de,de,24239943,10000000,4.0416665,667224,3319
 2026-10-10,net.familo.android,de,de,24240136,10000000,4.0430417,668226,3320
 2026-10-11,net.familo.android,de,de,24240136,10000000,4.0430417,669282,3319
@@ -2009,6 +2058,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,net.familo.android,de,de,24788172,10000000,4.042274,698945,3321
 2026-11-18,net.familo.android,de,de,24818606,10000000,4.042274,700047,3321
 2026-11-19,net.familo.android,de,de,24837662,10000000,4.0408163,700707,3321
+2026-11-20,net.familo.android,de,de,24868072,10000000,4.0408163,701622,3321
 2026-10-09,net.familo.android,fr,fr,24239943,10000000,4.1192985,667224,284
 2026-10-10,net.familo.android,fr,fr,24240136,10000000,4.131488,668177,284
 2026-10-11,net.familo.android,fr,fr,24240136,10000000,4.134483,669282,284
@@ -2051,6 +2101,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,net.familo.android,fr,fr,24788172,10000000,4.061856,698944,290
 2026-11-18,net.familo.android,fr,fr,24818606,10000000,4.061856,700047,290
 2026-11-19,net.familo.android,fr,fr,24837662,10000000,4.0513697,700707,290
+2026-11-20,net.familo.android,fr,fr,24868072,10000000,4.057823,701622,290
 2026-10-09,net.familo.android,gb,en,24239943,10000000,4.251701,667224,225
 2026-10-10,net.familo.android,gb,en,24240136,10000000,4.251701,668177,225
 2026-10-11,net.familo.android,gb,en,24240136,10000000,4.256757,669282,225
@@ -2093,6 +2144,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,net.familo.android,gb,en,24788172,10000000,4.2416105,698944,228
 2026-11-18,net.familo.android,gb,en,24818606,10000000,4.2416105,700047,228
 2026-11-19,net.familo.android,gb,en,24837662,10000000,4.2416105,700707,227
+2026-11-20,net.familo.android,gb,en,24868072,10000000,4.2416105,701622,227
 2026-10-09,net.familo.android,pl,pl,24239943,10000000,4.392157,667224,81
 2026-10-10,net.familo.android,pl,pl,24240136,10000000,4.392157,668177,81
 2026-10-11,net.familo.android,pl,pl,24240136,10000000,4.4117646,669282,81
@@ -2135,6 +2187,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,net.familo.android,pl,pl,24788172,10000000,4.4444447,698945,81
 2026-11-18,net.familo.android,pl,pl,24818606,10000000,4.4444447,700047,81
 2026-11-19,net.familo.android,pl,pl,24837662,10000000,4.4444447,700707,82
+2026-11-20,net.familo.android,pl,pl,24868072,10000000,4.4444447,701622,82
 2026-10-09,net.familo.android,us,en,24239943,10000000,4.382424,667224,1768
 2026-10-10,net.familo.android,us,en,24240136,10000000,4.382907,668226,1768
 2026-10-11,net.familo.android,us,en,24240136,10000000,4.3825374,669282,1769
@@ -2177,6 +2230,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,net.familo.android,us,en,24788172,10000000,4.400862,698944,1775
 2026-11-18,net.familo.android,us,en,24818606,10000000,4.403929,700047,1775
 2026-11-19,net.familo.android,us,en,24837662,10000000,4.4049664,700707,1775
+2026-11-20,net.familo.android,us,en,24868072,10000000,4.40067,701626,1776
 2026-10-09,net.zenrindatacom.itsmodelivery,br,pt,416306,100000,,,
 2026-10-10,net.zenrindatacom.itsmodelivery,br,pt,416306,100000,,,
 2026-10-11,net.zenrindatacom.itsmodelivery,br,pt,416310,100000,,,
@@ -2219,6 +2273,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,net.zenrindatacom.itsmodelivery,br,pt,422764,100000,,,
 2026-11-18,net.zenrindatacom.itsmodelivery,br,pt,423126,100000,,,
 2026-11-19,net.zenrindatacom.itsmodelivery,br,pt,423126,100000,,,
+2026-11-20,net.zenrindatacom.itsmodelivery,br,pt,423128,100000,,,
 2026-10-09,net.zenrindatacom.itsmodelivery,de,de,416306,100000,,,
 2026-10-10,net.zenrindatacom.itsmodelivery,de,de,416306,100000,,,
 2026-10-11,net.zenrindatacom.itsmodelivery,de,de,416310,100000,,,
@@ -2261,6 +2316,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,net.zenrindatacom.itsmodelivery,de,de,422764,100000,,,
 2026-11-18,net.zenrindatacom.itsmodelivery,de,de,423126,100000,,,
 2026-11-19,net.zenrindatacom.itsmodelivery,de,de,423126,100000,,,
+2026-11-20,net.zenrindatacom.itsmodelivery,de,de,423128,100000,,,
 2026-10-09,net.zenrindatacom.itsmodelivery,fr,fr,416306,100000,,,
 2026-10-10,net.zenrindatacom.itsmodelivery,fr,fr,416306,100000,,,
 2026-10-11,net.zenrindatacom.itsmodelivery,fr,fr,416310,100000,,,
@@ -2303,6 +2359,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,net.zenrindatacom.itsmodelivery,fr,fr,422764,100000,,,
 2026-11-18,net.zenrindatacom.itsmodelivery,fr,fr,423126,100000,,,
 2026-11-19,net.zenrindatacom.itsmodelivery,fr,fr,423126,100000,,,
+2026-11-20,net.zenrindatacom.itsmodelivery,fr,fr,423128,100000,,,
 2026-10-09,net.zenrindatacom.itsmodelivery,gb,en,416306,100000,,,
 2026-10-10,net.zenrindatacom.itsmodelivery,gb,en,416306,100000,,,
 2026-10-11,net.zenrindatacom.itsmodelivery,gb,en,416310,100000,,,
@@ -2345,6 +2402,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,net.zenrindatacom.itsmodelivery,gb,en,422764,100000,,,
 2026-11-18,net.zenrindatacom.itsmodelivery,gb,en,423126,100000,,,
 2026-11-19,net.zenrindatacom.itsmodelivery,gb,en,423126,100000,,,
+2026-11-20,net.zenrindatacom.itsmodelivery,gb,en,423128,100000,,,
 2026-10-09,net.zenrindatacom.itsmodelivery,pl,pl,416306,100000,,,
 2026-10-10,net.zenrindatacom.itsmodelivery,pl,pl,416306,100000,,,
 2026-10-11,net.zenrindatacom.itsmodelivery,pl,pl,416310,100000,,,
@@ -2387,6 +2445,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,net.zenrindatacom.itsmodelivery,pl,pl,422764,100000,,,
 2026-11-18,net.zenrindatacom.itsmodelivery,pl,pl,423126,100000,,,
 2026-11-19,net.zenrindatacom.itsmodelivery,pl,pl,423126,100000,,,
+2026-11-20,net.zenrindatacom.itsmodelivery,pl,pl,423128,100000,,,
 2026-10-09,net.zenrindatacom.itsmodelivery,us,en,416306,100000,,,
 2026-10-10,net.zenrindatacom.itsmodelivery,us,en,416306,100000,,,
 2026-10-11,net.zenrindatacom.itsmodelivery,us,en,416310,100000,,,
@@ -2429,6 +2488,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,net.zenrindatacom.itsmodelivery,us,en,422764,100000,,,
 2026-11-18,net.zenrindatacom.itsmodelivery,us,en,423126,100000,,,
 2026-11-19,net.zenrindatacom.itsmodelivery,us,en,423126,100000,,,
+2026-11-20,net.zenrindatacom.itsmodelivery,us,en,423128,100000,,,
 2026-10-06,org.findmykids.app,br,pt,82880689,50000000,4.8076897,2058269,30189
 2026-10-07,org.findmykids.app,br,pt,82958346,50000000,4.808381,2058654,30194
 2026-10-08,org.findmykids.app,br,pt,82958346,50000000,4.8084135,2059153,30205
@@ -2474,6 +2534,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,org.findmykids.app,br,pt,83460603,50000000,4.8125324,2073508,30472
 2026-11-18,org.findmykids.app,br,pt,83469650,50000000,4.8127623,2073800,30475
 2026-11-19,org.findmykids.app,br,pt,83469840,50000000,4.81275,2074163,30479
+2026-11-20,org.findmykids.app,br,pt,83491206,50000000,4.812762,2074486,30489
 2026-10-06,org.findmykids.app,de,de,82880689,50000000,4.224599,2058269,4994
 2026-10-07,org.findmykids.app,de,de,82958346,50000000,4.225994,2058654,4994
 2026-10-08,org.findmykids.app,de,de,82958346,50000000,4.2242217,2059168,4994
@@ -2519,6 +2580,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,org.findmykids.app,de,de,83460603,50000000,4.243714,2073508,5017
 2026-11-18,org.findmykids.app,de,de,83469650,50000000,4.2481894,2073800,5018
 2026-11-19,org.findmykids.app,de,de,83469840,50000000,4.252296,2074163,5018
+2026-11-20,org.findmykids.app,de,de,83491206,50000000,4.255432,2074488,5019
 2026-10-06,org.findmykids.app,fr,fr,82880689,50000000,4.5854516,2058269,12292
 2026-10-07,org.findmykids.app,fr,fr,82958346,50000000,4.5848885,2058654,12291
 2026-10-08,org.findmykids.app,fr,fr,82958346,50000000,4.5852876,2059153,12293
@@ -2564,6 +2626,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,org.findmykids.app,fr,fr,83460603,50000000,4.580307,2073508,12367
 2026-11-18,org.findmykids.app,fr,fr,83469650,50000000,4.5806007,2073800,12369
 2026-11-19,org.findmykids.app,fr,fr,83469840,50000000,4.581431,2074163,12369
+2026-11-20,org.findmykids.app,fr,fr,83491206,50000000,4.580925,2074486,12371
 2026-10-06,org.findmykids.app,gb,en,82880689,50000000,4.6155086,2058269,10505
 2026-10-07,org.findmykids.app,gb,en,82958346,50000000,4.6159215,2058654,10513
 2026-10-08,org.findmykids.app,gb,en,82958346,50000000,4.6156464,2059168,10520
@@ -2609,6 +2672,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,org.findmykids.app,gb,en,83460603,50000000,4.6230645,2073508,10562
 2026-11-18,org.findmykids.app,gb,en,83469650,50000000,4.623351,2073800,10563
 2026-11-19,org.findmykids.app,gb,en,83469840,50000000,4.6243987,2074163,10565
+2026-11-20,org.findmykids.app,gb,en,83491206,50000000,4.6242423,2074488,10565
 2026-10-06,org.findmykids.app,pl,pl,82880689,50000000,4.7320185,2058269,18809
 2026-10-07,org.findmykids.app,pl,pl,82958346,50000000,4.732601,2058654,18811
 2026-10-08,org.findmykids.app,pl,pl,82958346,50000000,4.7325807,2059168,18814
@@ -2654,6 +2718,7 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,org.findmykids.app,pl,pl,83460603,50000000,4.729549,2073509,18906
 2026-11-18,org.findmykids.app,pl,pl,83469650,50000000,4.729683,2073800,18908
 2026-11-19,org.findmykids.app,pl,pl,83469840,50000000,4.7290144,2074163,18907
+2026-11-20,org.findmykids.app,pl,pl,83491206,50000000,4.7303576,2074488,18906
 2026-10-06,org.findmykids.app,us,en,82880689,50000000,4.633693,2058269,12985
 2026-10-07,org.findmykids.app,us,en,82958346,50000000,4.6334248,2058654,12985
 2026-10-08,org.findmykids.app,us,en,82958346,50000000,4.633679,2059168,12987
@@ -2699,3 +2764,4 @@ date,app_id,country,lang,realInstalls,minInstalls,score,ratings,reviews
 2026-11-17,org.findmykids.app,us,en,83460603,50000000,4.633716,2073508,13047
 2026-11-18,org.findmykids.app,us,en,83469650,50000000,4.633405,2073800,13049
 2026-11-19,org.findmykids.app,us,en,83469840,50000000,4.6326294,2074163,13047
+2026-11-20,org.findmykids.app,us,en,83491206,50000000,4.6322813,2074486,13052
