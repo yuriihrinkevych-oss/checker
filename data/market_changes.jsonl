@@ -48,3 +48,7 @@
 {"date": "2026-11-16", "app_id": "com.isharing.isharing", "type": "lang_added", "langs": ["en-IN"]}
 {"date": "2026-11-16", "app_id": "com.isharing.isharing", "type": "own_screens_added", "langs": ["uk"]}
 {"date": "2026-11-16", "app_id": "com.isharing.isharing", "type": "listing_edited", "langs": ["uk"], "samples": [["uk", "iSharing: GPS Location Tracker", "iSharing: GPS-локатор сім’ї"]]}
+{"date": "2026-11-23", "app_id": "com.life360.android.safetymapd", "type": "lang_added", "langs": ["en-AU"]}
+{"date": "2026-11-23", "app_id": "com.life360.android.safetymapd", "type": "listing_edited", "langs": ["en-IN", "pt-PT"], "samples": [["en-IN", "Life360: Family Safety & GPS", "Life360: Family Safety & GPS"], ["pt-PT", "Life360: Localizador Familiar", "Life360: Localize Sua Família"]]}
+{"date": "2026-11-23", "app_id": "com.life360.android.safetymapd", "type": "price", "changes": [{"country": "be", "kind": "top", "old": 599.0, "new": 269.99, "currency": "EUR", "pct": -0.5492654424040067}, {"country": "tr", "kind": "top", "old": 11649.99, "new": 12499.99, "currency": "TRY", "pct": 0.07296143601840002}]}
+{"date": "2026-11-23", "app_id": "find.my.friends.family.phone.gps.location.device.tracker.locator", "type": "lang_removed", "langs": ["en-GB"]}
