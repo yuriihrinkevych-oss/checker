@@ -1,5 +1,5 @@
 {
-  "_scanned": "2026-11-26",
+  "_scanned": "2026-11-27",
   "containsAds": false,
   "contentRating": "PEGI 3",
   "description": "Findmykids (Find my kids) est un traceur GPS et une application de contrôle parental pour les parents. Elle permet de localiser votre enfant en temps réel, d’être prévenu de son arrivée à l’école ou à la maison et de limiter son temps d’écran.\r\n\r\n<b>Comment ça marche</b>\r\n1. Installez Findmykids sur votre téléphone, créez un cercle familial et obtenez un code d’invitation.\r\n2. Installez Findmykids sur le téléphone de votre enfant et saisissez le code. Votre enfant voit l’application et accepte de partager sa position.\r\n3. Votre enfant apparaît sur votre carte. Ajoutez vos proches pour localiser toute la famille sur la carte.\r\n\r\n<b>Fonctionnalités</b>\r\n• Géolocalisation en direct et suivi GPS : où est votre enfant en ce moment, son trajet et les lieux visités aujourd’hui.\r\n• Localisation familiale : toute la famille sur une même carte, pour savoir que chacun est bien rentré.\r\n• Lieux et alertes : école, maison, club de sport… soyez prévenu quand votre enfant arrive ou repart.\r\n• Contrôle parental et temps d’écran : limite quotidienne, blocage des applis et des jeux de votre choix, verrouillage du téléphone selon un horaire (école, devoirs, coucher). Appels et messages restent disponibles pour qu’il puisse vous joindre.\r\n• Utilisation des applis : temps passé dans les applis et les jeux en classe.\r\n• Bouton SOS : en cas d’urgence, votre enfant appuie sur SOS et vous recevez une alerte avec sa position.\r\n• Sons environnants : entendez ce qui se passe autour de votre enfant quand il ne répond pas, pour vous assurer que tout va bien.\r\n• Signal fort : il sonne même en mode silencieux et aide à localiser le téléphone quand votre enfant ne le trouve plus.\r\n• Alertes de batterie : soyez prévenu quand son téléphone est presque déchargé.\r\n• Chat familial : messages vocaux et stickers.\r\n• Montres GPS : connectez une montre GPS pour enfant à la place d’un téléphone.\r\n\r\n<b>Une seule appli au lieu de plusieurs</b>\r\nFindmykids réunit un traceur GPS pour enfants, la localisation familiale et le contrôle parental. Si vous avez déjà utilisé Family Link, la configuration vous semblera familière : la même application sur les deux téléphones, et tout se gère depuis le vôtre.\r\n\r\n<b>Questions des parents</b>\r\nComment connecter le téléphone de mon enfant ?\r\nInstallez aussi Findmykids sur son téléphone et saisissez votre code d’invitation, ou connectez une montre GPS.\r\n\r\nAi-je encore besoin de Pingo ?\r\nNon. Pingo n’est plus nécessaire : installez Findmykids sur les deux téléphones.\r\n\r\nFindmykids est-il gratuit ?\r\nToutes les fonctionnalités sont gratuites pendant la période d’essai qui suit la connexion de l’appareil de votre enfant. À la fin de l’essai, la localisation en temps réel reste gratuite et le reste passe par un abonnement.\r\n\r\nMon enfant sera-t-il au courant ?\r\nOui. Findmykids est conçu pour les parents d’enfants. L’application est visible sur le téléphone de l’enfant et ne doit être utilisée que s’il est au courant et donne son consentement.\r\n\r\nÇa fonctionne avec un iPhone ?\r\nOui. Parent et enfant peuvent utiliser Android ou iPhone, dans n’importe quelle combinaison.\r\n\r\nUn deuxième parent peut-il voir mon enfant ?\r\nOui. Partagez l’accès avec l’autre parent ou une nounou depuis l’application.\r\n\r\n<b>Confidentialité</b>\r\nLes données de la famille, dont la géolocalisation, sont protégées et conservées conformément au RGPD et à la législation applicable.\r\n\r\n<b>Autorisations</b>\r\n— localisation, y compris en arrière-plan : position de l’enfant et alertes de lieux ;\r\n— microphone : messages vocaux et Sons environnants ;\r\n— appareil photo et photos : avatar ;\r\n— contacts : répertoire de la montre GPS ;\r\n— services d’accessibilité : limites de temps d’écran sur le téléphone de l’enfant ;\r\n— notifications : alertes et messages du chat.\r\n\r\nAssistance : chat dans l’application ou support@findmykids.org\r\nConditions d’utilisation : https://findmykids.org/docs/terms-of-use/android/en\r\nPolitique de confidentialité : https://findmykids.org/docs/privacy-policy/android/en",
@@ -7,11 +7,11 @@
   "genre": "Parents",
   "headerImage": "https://play-lh.googleusercontent.com/j4ULfbEHZk5u-WHihagFWFyZyIhDC-eGz5qXgOUXZXnOCxgofUZZvhGPsIg2pw2246MQM3FocEQQ0AmfJHdW0Fs",
   "histogram": [
-    74589,
-    30000,
-    95127,
-    290477,
-    1586215
+    74531,
+    30002,
+    95071,
+    290246,
+    1586878
   ],
   "icon": "https://play-lh.googleusercontent.com/1xxhEalJmQZPdCdHbJ2cfABAmZn5vVB5kWPro0JjVmBAUHWLWfE0eKjQH3nO9IkQJCV7q3-Yu5-jWpLt_wdY",
   "inAppProductPrice": "0,29 € - 719,99 € si facturé via Play",
@@ -19,10 +19,10 @@
   "lastUpdatedOn": "25 nov. 2026",
   "metrics": {
     "minInstalls": 50000000,
-    "ratings": 2076504,
-    "realInstalls": 83550019,
+    "ratings": 2076794,
+    "realInstalls": 83573592,
     "reviews": 12381,
-    "score": 4.581367
+    "score": 4.581749
   },
   "price": 0,
   "screenshots": [
